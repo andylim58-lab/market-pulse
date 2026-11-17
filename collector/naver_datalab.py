@@ -37,10 +37,10 @@ def _post(url, headers, body):
     return http("POST", url, headers={**headers, "Content-Type": "application/json"}, json=body).json()
 
 
-def _anchor_scale(results: list[dict], anchor_title: str) -> dict[str, dict[str, float]]:
+def _anchor_scale(results: list[dict], anchor_title: str, keep_anchor=False) -> dict[str, dict[str, float]]:
     """응답 results → {주제어: {period: 기준지수}}. 기준 검색어 기간평균을 100으로 환산."""
     series = {r["title"]: {d["period"]: float(d["ratio"]) for d in r["data"]} for r in results}
-    anchor = series.pop(anchor_title, None)
+    anchor = series.get(anchor_title) if keep_anchor else series.pop(anchor_title, None)
     if not anchor:
         return series
     base = sum(anchor.values()) / max(len(anchor), 1)
@@ -81,10 +81,7 @@ def collect_shopping(cfg, urls, headers):
         body = {"startDate": start, "endDate": end, "timeUnit": "month",
                 "category": [{"name": c["name"], "param": [c["code"]]} for c in chunk]}
         res = _post(urls["cats"], headers, body)
-        scaled = _anchor_scale(res["results"], anc["name"])
-        trend.update(scaled)
-    # 기준 분야 자신은 100 근처로 평탄 — 기준지수 정의상 평균 100
-    trend[anc["name"]] = None
+        trend.update(_anchor_scale(res["results"], anc["name"], keep_anchor=True))
 
     # 분야별 연령·성별 분포: 최근 3개월 vs 1년 전 같은 3개월
     recent_s = (today.replace(day=1) - timedelta(days=92)).replace(day=1)

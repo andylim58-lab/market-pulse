@@ -19,12 +19,12 @@ const pctHtml = (v) => {
   return `<span class="${cls}">${arrow} ${Math.abs(v).toFixed(1)}%</span>`;
 };
 const SIGNAL = {
-  "급상승": ["--good", "급상승"], "상승": ["--good", "상승"], "보합": ["--neutral", "보합"],
+  "급상승": ["--good", "급상승"], "상승": ["--good", "상승"], "반등": ["--warning", "반등"], "보합": ["--neutral", "보합"],
   "둔화": ["--serious", "둔화"], "하락": ["--critical", "하락"], "데이터 부족": ["--neutral", "데이터 부족"],
 };
 const badge = (s) => {
   const [v, label] = SIGNAL[s] || SIGNAL["데이터 부족"];
-  const icon = s === "급상승" ? "⬆" : s === "상승" ? "↗" : s === "하락" ? "⬇" : s === "둔화" ? "↘" : "→";
+  const icon = s === "급상승" ? "⬆" : s === "상승" || s === "반등" ? "↗" : s === "하락" ? "⬇" : s === "둔화" ? "↘" : "→";
   return `<span class="badge"><i style="background:var(${v})"></i>${icon} ${label}</span>`;
 };
 
@@ -163,7 +163,7 @@ function renderOverview() {
     return v.length ? v.reduce((a, b) => a + b, 0) / v.length : null;
   };
   $("#crossTable").innerHTML = `
-    <thead><tr><th>시장</th><th class="num">네이버 검색 전년비</th><th class="num">검색 최근 28일</th><th class="num">쇼핑 클릭 전년비</th>
+    <thead><tr><th>시장</th><th class="num">네이버 검색 전년비</th><th class="num">검색 최근 28일</th><th class="num">쇼핑 점유율 전년비</th>
       <th class="num">유튜브 인기영상 언급 (오늘)</th><th class="num">구글 급상승 매칭 (7일)</th><th>종합 신호</th></tr></thead>
     <tbody>${D.markets.map((m) => {
       const yd = m.youtube?.daily || [];
@@ -254,10 +254,10 @@ function renderShopping() {
   const pos = css("--pos"), neg = css("--neg");
   mk("shopYoy", {
     type: "bar",
-    data: { labels: cats.map((c) => c.name), datasets: [{ label: "클릭 전년비(%)", data: cats.map((c) => c.yoy),
+    data: { labels: cats.map((c) => c.name), datasets: [{ label: "점유율 전년비(%)", data: cats.map((c) => c.yoy),
       backgroundColor: cats.map((c) => (c.yoy >= 0 ? pos : neg)), borderRadius: 4, borderSkipped: false, maxBarThickness: 22 }] },
     options: { indexAxis: "y", responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => ` 전년비 ${c.parsed.x > 0 ? "+" : ""}${c.parsed.x.toFixed(1)}% · 3개월 ${cats[c.dataIndex].mom3 == null ? "–" : cats[c.dataIndex].mom3.toFixed(1) + "%"}` } } },
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => ` 점유율 ${cats[c.dataIndex].share ?? "–"}% · 전년비 ${c.parsed.x > 0 ? "+" : ""}${c.parsed.x.toFixed(1)}% · 3개월 ${cats[c.dataIndex].mom3 == null ? "–" : cats[c.dataIndex].mom3.toFixed(1) + "%"}` } } },
       scales: { x: { grid: { color: (c) => (c.tick.value === 0 ? css("--text-muted") : css("--grid")) }, border: { display: false }, ticks: { callback: (v) => v + "%" } },
         y: { grid: { display: false } } } },
   });

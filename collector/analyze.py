@@ -55,15 +55,19 @@ def signal(yoy, d28, mom3=None):
         return "하락"
     if s <= -10:
         return "둔화"
+    if s >= 10 and y < -10:
+        return "반등"  # 1년 추세는 하락인데 최근 4주만 오름
     if s >= 10 or y >= 20:
         return "상승"
     return "보합"
 
 
-def to_pairs(series: dict | None, keep_partial=True):
+def to_pairs(series: dict | None, monthly=False):
+    """월간 시리즈는 진행 중인 이번 달(일부 일자만 집계돼 값이 작음)을 제외."""
     if not series:
         return []
-    return [[p, round(v, 3)] for p, v in sorted(series.items())]
+    cur = today_kst().replace(day=1).isoformat()
+    return [[p, round(v, 3)] for p, v in sorted(series.items()) if not (monthly and p >= cur)]
 
 
 # ── 매칭 ─────────────────────────────────────────────────────
@@ -199,15 +203,24 @@ def main():
     shop_metrics = {}
     shop_out = None
     if shop:
+        # 네이버 쇼핑 전체 클릭이 늘거나 줄면 모든 분야가 함께 움직이므로,
+        # 11개 분야 합계 대비 '점유율(%)'로 바꿔 분야 간 상대적 강약을 봅니다.
+        raw = {c["name"]: shop["trend"].get(c["name"]) for c in cfg["shopping_categories"]}
+        tot = defaultdict(float)
+        for ser in raw.values():
+            for p, v in (ser or {}).items():
+                tot[p] += v
         cats = []
         for c in cfg["shopping_categories"]:
-            s = shop["trend"].get(c["name"])
-            if s is None:  # 기준 분야
-                cats.append({"name": c["name"], "code": c["code"], "anchor": True, "monthly": [], "yoy": None, "mom3": None})
+            ser = raw[c["name"]]
+            if not ser:
+                cats.append({"name": c["name"], "code": c["code"], "monthly": [], "yoy": None, "mom3": None})
                 continue
-            mm = month_metrics(s)
+            share = {p: v / tot[p] * 100 for p, v in ser.items() if tot[p]}
+            mm = month_metrics(share)
             shop_metrics[c["code"]] = mm
-            cats.append({"name": c["name"], "code": c["code"], "monthly": to_pairs(s), **mm})
+            cats.append({"name": c["name"], "code": c["code"], "monthly": to_pairs(share, True), **mm,
+                         "share": round(share.get(mm["last"], 0), 1) if mm["last"] else None})
         shop_out = {"updated": shop["updated"], "categories": cats, "demo": shop["demo"], "demo_period": shop["demo_period"]}
 
     out_markets, opps = [], []
@@ -224,7 +237,7 @@ def main():
             for p, v in ds.items():
                 tot_d[p] += v
             mm, dm = month_metrics(ms), day_metrics(ds)
-            groups.append({"name": g["name"], "keywords": g["keywords"], "monthly": to_pairs(ms), "daily": to_pairs(ds),
+            groups.append({"name": g["name"], "keywords": g["keywords"], "monthly": to_pairs(ms, True), "daily": to_pairs(ds),
                            "vol": km.get("groups", {}).get(g["name"], {}).get("vol"), **mm, **dm,
                            "signal": signal(mm["yoy"], dm["d28"], mm["mom3"])})
         mm, dm = month_metrics(tot_m), day_metrics(tot_d)
@@ -240,7 +253,7 @@ def main():
                              "growth": g, "clk": r.get("clk"), "score": round(score, 2)})
         out_markets.append({
             "id": mid, "name": m["name"], "groups": groups,
-            "total": {"monthly": to_pairs(tot_m), "daily": to_pairs(tot_d), "vol": sum(g["vol"] or 0 for g in groups) or None,
+            "total": {"monthly": to_pairs(tot_m, True), "daily": to_pairs(tot_d), "vol": sum(g["vol"] or 0 for g in groups) or None,
                       **mm, **dm, "signal": signal(mm["yoy"], dm["d28"], mm["mom3"])},
             "shopping": [{"code": c, "name": next((x["name"] for x in cfg["shopping_categories"] if x["code"] == c), c),
                           **shop_metrics.get(c, {})} for c in m.get("categories", [])],

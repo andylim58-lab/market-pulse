@@ -42,9 +42,9 @@
     <div class="card table-scroll"><table id="crossTable"></table></div>
 
     <h2>시장 간 검색 관심도 비교</h2>
-    <p class="desc">모든 시장을 같은 기준 검색어 「<span id="anchorName"></span>」로 나눈 지수입니다. 기준 검색어의 기간 평균 = 100. 범례를 누르면 시장을 켜고 끌 수 있습니다.</p>
+    <p class="desc">모든 시장을 같은 기준 검색어 「<span id="anchorName"></span>」로 나눈 지수입니다. 기준 검색어의 기간 평균 = 100. 시장 간 규모 차이가 커서 로그 눈금이 기본입니다. 범례를 누르면 시장을 켜고 끌 수 있습니다.</p>
     <div class="card">
-      <div class="toolbar"><div class="seg" id="ovScale"><button data-v="linear" class="on">일반</button><button data-v="logarithmic">로그</button></div></div>
+      <div class="toolbar"><div class="seg" id="ovScale"><button data-v="logarithmic" class="on">로그</button><button data-v="linear">일반</button></div></div>
       <div class="chart-box tall"><canvas id="ovChart"></canvas></div>
     </div>
   </section>
@@ -87,12 +87,12 @@
 
   <!-- 쇼핑 -->
   <section class="panel" id="p-shopping">
-    <h2>쇼핑 분야별 클릭 전년비</h2>
-    <p class="desc">네이버 쇼핑인사이트 · 직전 완료월 클릭량을 1년 전 같은 달과 비교. 막대에 마우스를 올리면 값이 보입니다.</p>
+    <h2>쇼핑 분야별 클릭 점유율 전년비</h2>
+    <p class="desc">네이버 쇼핑인사이트 · 11개 분야 전체 클릭 중 각 분야가 차지하는 비중(점유율)을 직전 완료월과 1년 전 같은 달로 비교합니다. 네이버 쇼핑 전체 이용량 변화의 영향을 빼고 분야끼리의 상대적 강약만 봅니다.</p>
     <div class="card"><div class="chart-box"><canvas id="shopYoy"></canvas></div></div>
 
     <h2>분야별 클릭 추이</h2>
-    <p class="desc">최대 4개 분야를 골라 비교하세요. 기준 분야(<span id="shopAnchor"></span>) 평균 = 100인 지수입니다.</p>
+    <p class="desc">최대 4개 분야를 골라 비교하세요. 값 = 11개 분야 전체 클릭 중 해당 분야 점유율(%)입니다.<span id="shopAnchor" hidden></span></p>
     <div class="card">
       <div class="toolbar" id="shopPills"></div>
       <div class="chart-box"><canvas id="shopTrend"></canvas></div>
