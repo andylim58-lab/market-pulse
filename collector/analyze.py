@@ -13,7 +13,8 @@ YT_CAT_NAMES = {"1": "영화/애니", "2": "자동차", "10": "음악", "15": "�
                 "26": "노하우/스타일", "27": "교육", "28": "과학기술", "29": "비영리/사회"}
 STOP = set("""공식 영상 뮤직비디오 official mv m/v shorts short 쇼츠 오늘 진짜 이번 그냥 우리 하는 있는 없는 이런 저런
 the and for with feat ft live full ver version teaser trailer 예고 예고편 티저 하이라이트 highlight 1화 2화 3화
-ep episode 리뷰 브이로그 vlog 무대 직캠 풀버전 최초 공개 단독 반응 #shorts""".split())
+ep episode 리뷰 브이로그 vlog 무대 직캠 풀버전 최초 공개 단독 반응 #shorts
+of you love vs to in on my is it me we your this that at by from new news 뉴스 이유 방법 만든 최후 비밀 모든 가장 처음 진짜로 근황""".split())
 TOKEN = re.compile(r"[가-힣A-Za-z][가-힣A-Za-z0-9]{1,}")
 
 
@@ -116,7 +117,7 @@ def analyze_youtube(markets):
     today_c = term_counts(latest)
     prev = [term_counts(s) for _, s in snaps[:-1]]
     rising = []
-    for term, n in today_c.items():
+    for term, n in (today_c.items() if prev else []):  # 비교할 지난 스냅샷이 없으면 표시하지 않음
         base = sum(p.get(term, 0) for p in prev) / len(prev) if prev else 0
         if n >= 3 and n - base >= 2:
             rising.append({"term": term, "today": n, "base": round(base, 1), "new": base == 0})
