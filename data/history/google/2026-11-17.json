@@ -109,9 +109,9 @@
      "source": "금강일보"
     },
     {
-     "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
-     "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
-     "source": "BNT뉴스"
+     "title": "김용빈·손빈아·천록담 등 '미스터트롯3' 전국투어 대구..신곡 '살아보니' 떼창→3시간 압도 성료",
+     "url": "https://www.starnewskorea.com/music/2026/11/10/2026111008265428947",
+     "source": "스타뉴스"
     }
    ]
   },
@@ -236,7 +236,30 @@
      "source": "매일경제"
     }
    ]
+  },
+  "가덕도신공항": {
+   "q": "가덕도신공항",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 17 Nov 2026 04:40:00 -0800",
+   "news": [
+    {
+     "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
+     "url": "https://www.yna.co.kr/view/AKR20261116121000051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
+     "source": "국제신문"
+    },
+    {
+     "title": "“공사비 증액 없인 적기개항 위태”… 국민의힘 부산시당, 정부에 ‘확약’ 압박",
+     "url": "https://sports.donga.com/region/article/all/20261116/135032409/1",
+     "source": "스포츠동아"
+    }
+   ]
   }
  },
- "updated": "2026-11-17 22:41"
+ "updated": "2026-11-17 22:44"
 }

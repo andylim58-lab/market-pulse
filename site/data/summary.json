@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-17 22:41",
+ "generated": "2026-11-17 22:44",
  "demo": false,
  "sources": {
   "naver_trend": null,
   "naver_shopping": null,
-  "naver_keywords": null,
+  "naver_keywords": "2026-11-17 22:44",
   "keywords_prev_month": false,
-  "youtube": "2026-11-17 22:41",
-  "google": "2026-11-17 22:41"
+  "youtube": "2026-11-17 22:44",
+  "google": "2026-11-17 22:44"
  },
  "anchor": "날씨",
  "markets": [
@@ -26,7 +26,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 110,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -43,7 +43,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 2290,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -61,7 +61,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 1585,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -78,7 +78,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 12840,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -89,7 +89,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 16825,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -97,7 +97,1008 @@
     "signal": "데이터 부족"
    },
    "shopping": [],
-   "related": [],
+   "related": [
+    {
+     "kw": "챗지피티",
+     "pc": 6468800,
+     "mo": 8420700,
+     "vol": 14889500,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 2670.8,
+     "growth": null
+    },
+    {
+     "kw": "GPT",
+     "pc": 351200,
+     "mo": 85600,
+     "vol": 436800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 117.0,
+     "growth": null
+    },
+    {
+     "kw": "네이버플레이스",
+     "pc": 114900,
+     "mo": 293300,
+     "vol": 408200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 351.1,
+     "growth": null
+    },
+    {
+     "kw": "브랜드커넥트",
+     "pc": 89700,
+     "mo": 123200,
+     "vol": 212900,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 61.9,
+     "growth": null
+    },
+    {
+     "kw": "AI",
+     "pc": 48200,
+     "mo": 108900,
+     "vol": 157100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 518.3,
+     "growth": null
+    },
+    {
+     "kw": "네이버검색광고",
+     "pc": 71400,
+     "mo": 53400,
+     "vol": 124800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 24.6,
+     "growth": null
+    },
+    {
+     "kw": "엑셀",
+     "pc": 30500,
+     "mo": 16400,
+     "vol": 46900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 123.6,
+     "growth": null
+    },
+    {
+     "kw": "검색광고",
+     "pc": 29900,
+     "mo": 14700,
+     "vol": 44600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 23.8,
+     "growth": null
+    },
+    {
+     "kw": "미드저니",
+     "pc": 16900,
+     "mo": 9420,
+     "vol": 26320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 31.5,
+     "growth": null
+    },
+    {
+     "kw": "유튜버",
+     "pc": 13400,
+     "mo": 12400,
+     "vol": 25800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 81.4,
+     "growth": null
+    },
+    {
+     "kw": "인플루언서",
+     "pc": 5190,
+     "mo": 19700,
+     "vol": 24890,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 90.0,
+     "growth": null
+    },
+    {
+     "kw": "블로그체험단",
+     "pc": 8540,
+     "mo": 13800,
+     "vol": 22340,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1091.3,
+     "growth": null
+    },
+    {
+     "kw": "네이버광고관리시스템",
+     "pc": 12900,
+     "mo": 8480,
+     "vol": 21380,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 7.3,
+     "growth": null
+    },
+    {
+     "kw": "AI이미지생성",
+     "pc": 3210,
+     "mo": 8430,
+     "vol": 11640,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 369.8,
+     "growth": null
+    },
+    {
+     "kw": "마케팅",
+     "pc": 5790,
+     "mo": 4910,
+     "vol": 10700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "네이버키워드광고",
+     "pc": 6810,
+     "mo": 2830,
+     "vol": 9640,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 13.0,
+     "growth": null
+    },
+    {
+     "kw": "광고",
+     "pc": 3740,
+     "mo": 5150,
+     "vol": 8890,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.8,
+     "growth": null
+    },
+    {
+     "kw": "TTS",
+     "pc": 3410,
+     "mo": 5340,
+     "vol": 8750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 96.1,
+     "growth": null
+    },
+    {
+     "kw": "AI자격증",
+     "pc": 3490,
+     "mo": 5260,
+     "vol": 8750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 136.8,
+     "growth": null
+    },
+    {
+     "kw": "네이버파워링크",
+     "pc": 4870,
+     "mo": 3810,
+     "vol": 8680,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 9.3,
+     "growth": null
+    },
+    {
+     "kw": "유통관리사",
+     "pc": 3150,
+     "mo": 5420,
+     "vol": 8570,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 65.4,
+     "growth": null
+    },
+    {
+     "kw": "웹드라마",
+     "pc": 3540,
+     "mo": 4910,
+     "vol": 8450,
+     "comp": "중간",
+     "depth": 4,
+     "clk": 3.2,
+     "growth": null
+    },
+    {
+     "kw": "생성형AI",
+     "pc": 3230,
+     "mo": 4930,
+     "vol": 8160,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 30.8,
+     "growth": null
+    },
+    {
+     "kw": "동영상",
+     "pc": 4220,
+     "mo": 3690,
+     "vol": 7910,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 51.6,
+     "growth": null
+    },
+    {
+     "kw": "CRM",
+     "pc": 4100,
+     "mo": 3620,
+     "vol": 7720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.5,
+     "growth": null
+    },
+    {
+     "kw": "숏폼",
+     "pc": 1760,
+     "mo": 4870,
+     "vol": 6630,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 29.8,
+     "growth": null
+    },
+    {
+     "kw": "메타광고",
+     "pc": 4440,
+     "mo": 1520,
+     "vol": 5960,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 43.9,
+     "growth": null
+    },
+    {
+     "kw": "검색",
+     "pc": 2020,
+     "mo": 3720,
+     "vol": 5740,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 24.2,
+     "growth": null
+    },
+    {
+     "kw": "여행유튜버",
+     "pc": 870,
+     "mo": 4540,
+     "vol": 5410,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 6.0,
+     "growth": null
+    },
+    {
+     "kw": "AI영상만들기",
+     "pc": 2090,
+     "mo": 3290,
+     "vol": 5380,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 155.7,
+     "growth": null
+    },
+    {
+     "kw": "TTS사이트",
+     "pc": 1750,
+     "mo": 3570,
+     "vol": 5320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 103.4,
+     "growth": null
+    },
+    {
+     "kw": "결혼식축가",
+     "pc": 610,
+     "mo": 4690,
+     "vol": 5300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 114.4,
+     "growth": null
+    },
+    {
+     "kw": "사회조사분석사",
+     "pc": 1920,
+     "mo": 3300,
+     "vol": 5220,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 14.9,
+     "growth": null
+    },
+    {
+     "kw": "축가",
+     "pc": 650,
+     "mo": 4500,
+     "vol": 5150,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 113.5,
+     "growth": null
+    },
+    {
+     "kw": "AI영상제작",
+     "pc": 2490,
+     "mo": 2350,
+     "vol": 4840,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 102.7,
+     "growth": null
+    },
+    {
+     "kw": "체험단사이트",
+     "pc": 2180,
+     "mo": 2560,
+     "vol": 4740,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 187.3,
+     "growth": null
+    },
+    {
+     "kw": "유튜브수익",
+     "pc": 780,
+     "mo": 3770,
+     "vol": 4550,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 5.3,
+     "growth": null
+    },
+    {
+     "kw": "숏츠",
+     "pc": 910,
+     "mo": 3530,
+     "vol": 4440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 12.5,
+     "growth": null
+    },
+    {
+     "kw": "AI영상",
+     "pc": 1660,
+     "mo": 2440,
+     "vol": 4100,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 49.8,
+     "growth": null
+    },
+    {
+     "kw": "상세페이지제작",
+     "pc": 2630,
+     "mo": 1320,
+     "vol": 3950,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 143.6,
+     "growth": null
+    },
+    {
+     "kw": "이미지생성AI",
+     "pc": 1880,
+     "mo": 1960,
+     "vol": 3840,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 99.5,
+     "growth": null
+    },
+    {
+     "kw": "릴스만들기",
+     "pc": 480,
+     "mo": 2940,
+     "vol": 3420,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 26.5,
+     "growth": null
+    },
+    {
+     "kw": "네이버체험단",
+     "pc": 920,
+     "mo": 2440,
+     "vol": 3360,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 46.1,
+     "growth": null
+    },
+    {
+     "kw": "MIDJOURNEY",
+     "pc": 2080,
+     "mo": 1240,
+     "vol": 3320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 3.9,
+     "growth": null
+    },
+    {
+     "kw": "영상AI",
+     "pc": 1360,
+     "mo": 1750,
+     "vol": 3110,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 42.8,
+     "growth": null
+    },
+    {
+     "kw": "상세페이지",
+     "pc": 2290,
+     "mo": 810,
+     "vol": 3100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 58.4,
+     "growth": null
+    },
+    {
+     "kw": "검색광고마케터1급",
+     "pc": 980,
+     "mo": 2060,
+     "vol": 3040,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 19.4,
+     "growth": null
+    },
+    {
+     "kw": "광고대행사",
+     "pc": 1710,
+     "mo": 1290,
+     "vol": 3000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 85.1,
+     "growth": null
+    },
+    {
+     "kw": "인플루언서센터",
+     "pc": 1410,
+     "mo": 1520,
+     "vol": 2930,
+     "comp": "중간",
+     "depth": 1,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "AI동영상만들기",
+     "pc": 970,
+     "mo": 1780,
+     "vol": 2750,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 85.3,
+     "growth": null
+    },
+    {
+     "kw": "페이퍼로지",
+     "pc": 2040,
+     "mo": 660,
+     "vol": 2700,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 14.6,
+     "growth": null
+    },
+    {
+     "kw": "AI목소리",
+     "pc": 830,
+     "mo": 1860,
+     "vol": 2690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 81.5,
+     "growth": null
+    },
+    {
+     "kw": "유튜브광고",
+     "pc": 720,
+     "mo": 1740,
+     "vol": 2460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 18.1,
+     "growth": null
+    },
+    {
+     "kw": "구인광고",
+     "pc": 600,
+     "mo": 1840,
+     "vol": 2440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 86.1,
+     "growth": null
+    },
+    {
+     "kw": "블로그마케팅",
+     "pc": 1410,
+     "mo": 1030,
+     "vol": 2440,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 41.1,
+     "growth": null
+    },
+    {
+     "kw": "영상제작",
+     "pc": 1290,
+     "mo": 1120,
+     "vol": 2410,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 41.6,
+     "growth": null
+    },
+    {
+     "kw": "무료AI이미지생성",
+     "pc": 1040,
+     "mo": 1350,
+     "vol": 2390,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 134.7,
+     "growth": null
+    },
+    {
+     "kw": "인스타공구",
+     "pc": 570,
+     "mo": 1810,
+     "vol": 2380,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.9,
+     "growth": null
+    },
+    {
+     "kw": "AI사진",
+     "pc": 430,
+     "mo": 1830,
+     "vol": 2260,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 30.9,
+     "growth": null
+    },
+    {
+     "kw": "텍스트음성변환",
+     "pc": 650,
+     "mo": 1540,
+     "vol": 2190,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 46.6,
+     "growth": null
+    },
+    {
+     "kw": "MCN회사",
+     "pc": 540,
+     "mo": 1640,
+     "vol": 2180,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 28.3,
+     "growth": null
+    },
+    {
+     "kw": "뉴스기사",
+     "pc": 590,
+     "mo": 1550,
+     "vol": 2140,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 2.7,
+     "growth": null
+    },
+    {
+     "kw": "인스타광고",
+     "pc": 860,
+     "mo": 1220,
+     "vol": 2080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 45.1,
+     "growth": null
+    },
+    {
+     "kw": "리뷰체험단",
+     "pc": 810,
+     "mo": 1220,
+     "vol": 2030,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 77.3,
+     "growth": null
+    },
+    {
+     "kw": "검색광고마케터",
+     "pc": 910,
+     "mo": 1110,
+     "vol": 2020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 5.5,
+     "growth": null
+    },
+    {
+     "kw": "체험단모집",
+     "pc": 860,
+     "mo": 1140,
+     "vol": 2000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 110.8,
+     "growth": null
+    },
+    {
+     "kw": "옥외광고",
+     "pc": 1060,
+     "mo": 940,
+     "vol": 2000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 26.8,
+     "growth": null
+    },
+    {
+     "kw": "동영상AI",
+     "pc": 750,
+     "mo": 1070,
+     "vol": 1820,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 26.4,
+     "growth": null
+    },
+    {
+     "kw": "협찬",
+     "pc": 470,
+     "mo": 1320,
+     "vol": 1790,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 9.7,
+     "growth": null
+    },
+    {
+     "kw": "온라인마케팅",
+     "pc": 610,
+     "mo": 1150,
+     "vol": 1760,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 18.7,
+     "growth": null
+    },
+    {
+     "kw": "인스타릴스",
+     "pc": 440,
+     "mo": 1270,
+     "vol": 1710,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 11.7,
+     "growth": null
+    },
+    {
+     "kw": "키즈유튜브",
+     "pc": 770,
+     "mo": 940,
+     "vol": 1710,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 2.7,
+     "growth": null
+    },
+    {
+     "kw": "AI이미지",
+     "pc": 730,
+     "mo": 960,
+     "vol": 1690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 18.2,
+     "growth": null
+    },
+    {
+     "kw": "홍보영상제작",
+     "pc": 550,
+     "mo": 1130,
+     "vol": 1680,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.8,
+     "growth": null
+    },
+    {
+     "kw": "체험단신청",
+     "pc": 520,
+     "mo": 1150,
+     "vol": 1670,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 113.3,
+     "growth": null
+    },
+    {
+     "kw": "블로그협찬",
+     "pc": 570,
+     "mo": 1100,
+     "vol": 1670,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 75.3,
+     "growth": null
+    },
+    {
+     "kw": "광고관리시스템",
+     "pc": 1180,
+     "mo": 490,
+     "vol": 1670,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1.7,
+     "growth": null
+    },
+    {
+     "kw": "유튜브쇼츠",
+     "pc": 430,
+     "mo": 1190,
+     "vol": 1620,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.0,
+     "growth": null
+    },
+    {
+     "kw": "키워드광고",
+     "pc": 1260,
+     "mo": 330,
+     "vol": 1590,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.3,
+     "growth": null
+    },
+    {
+     "kw": "마케팅자격증",
+     "pc": 430,
+     "mo": 1100,
+     "vol": 1530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 23.5,
+     "growth": null
+    },
+    {
+     "kw": "네이버비즈머니",
+     "pc": 870,
+     "mo": 660,
+     "vol": 1530,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 6.7,
+     "growth": null
+    },
+    {
+     "kw": "섭외",
+     "pc": 490,
+     "mo": 1000,
+     "vol": 1490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.2,
+     "growth": null
+    },
+    {
+     "kw": "AI모델",
+     "pc": 580,
+     "mo": 900,
+     "vol": 1480,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 36.2,
+     "growth": null
+    },
+    {
+     "kw": "AI그림",
+     "pc": 350,
+     "mo": 1110,
+     "vol": 1460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.0,
+     "growth": null
+    },
+    {
+     "kw": "연예인축가비용",
+     "pc": 160,
+     "mo": 1300,
+     "vol": 1460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 61.9,
+     "growth": null
+    },
+    {
+     "kw": "GA4",
+     "pc": 1040,
+     "mo": 400,
+     "vol": 1440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.3,
+     "growth": null
+    },
+    {
+     "kw": "먹방유튜버",
+     "pc": 240,
+     "mo": 1200,
+     "vol": 1440,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 3.4,
+     "growth": null
+    },
+    {
+     "kw": "이미지AI",
+     "pc": 760,
+     "mo": 670,
+     "vol": 1430,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 23.3,
+     "growth": null
+    },
+    {
+     "kw": "블로그체험단모집",
+     "pc": 550,
+     "mo": 850,
+     "vol": 1400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 75.6,
+     "growth": null
+    },
+    {
+     "kw": "네이버블로그체험단",
+     "pc": 510,
+     "mo": 790,
+     "vol": 1300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 42.3,
+     "growth": null
+    },
+    {
+     "kw": "AI광고",
+     "pc": 580,
+     "mo": 710,
+     "vol": 1290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 16.2,
+     "growth": null
+    },
+    {
+     "kw": "AI영상편집",
+     "pc": 610,
+     "mo": 670,
+     "vol": 1280,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 12.8,
+     "growth": null
+    },
+    {
+     "kw": "AI스튜디오",
+     "pc": 820,
+     "mo": 460,
+     "vol": 1280,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 5.6,
+     "growth": null
+    },
+    {
+     "kw": "온라인강의",
+     "pc": 320,
+     "mo": 960,
+     "vol": 1280,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 14.7,
+     "growth": null
+    },
+    {
+     "kw": "유튜브알고리즘",
+     "pc": 210,
+     "mo": 1050,
+     "vol": 1260,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 6.7,
+     "growth": null
+    },
+    {
+     "kw": "UXUI디자인",
+     "pc": 300,
+     "mo": 920,
+     "vol": 1220,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 6.8,
+     "growth": null
+    },
+    {
+     "kw": "종합광고대행사",
+     "pc": 380,
+     "mo": 820,
+     "vol": 1200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 23.8,
+     "growth": null
+    },
+    {
+     "kw": "유튜버순위",
+     "pc": 220,
+     "mo": 970,
+     "vol": 1190,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "페이스북광고관리자",
+     "pc": 1070,
+     "mo": 110,
+     "vol": 1180,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 0.8,
+     "growth": null
+    },
+    {
+     "kw": "올데이디스코",
+     "pc": 110,
+     "mo": 1060,
+     "vol": 1170,
+     "comp": "중간",
+     "depth": 2,
+     "clk": 0.0,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 1,
     "daily": [
@@ -116,7 +1117,7 @@
       "likes": 892,
       "comments": 998,
       "published": "2026-11-14T04:40:21Z",
-      "vph": 4908,
+      "vph": 4905,
       "rank": 21
      }
     ]
@@ -165,7 +1166,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 80960,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -183,7 +1184,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 493220,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -200,7 +1201,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 58830,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -218,7 +1219,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 760200,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -229,7 +1230,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 1393210,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -262,7 +1263,1008 @@
      "name": "식품"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "경량패딩",
+     "pc": 96100,
+     "mo": 468100,
+     "vol": 564200,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 10087.6,
+     "growth": null
+    },
+    {
+     "kw": "노스페이스패딩",
+     "pc": 33500,
+     "mo": 298400,
+     "vol": 331900,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 4531.6,
+     "growth": null
+    },
+    {
+     "kw": "유니클로세일",
+     "pc": 28500,
+     "mo": 260900,
+     "vol": 289400,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 1716.0,
+     "growth": null
+    },
+    {
+     "kw": "패딩",
+     "pc": 29600,
+     "mo": 138700,
+     "vol": 168300,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 1631.2,
+     "growth": null
+    },
+    {
+     "kw": "후리스",
+     "pc": 25000,
+     "mo": 135500,
+     "vol": 160500,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 1835.5,
+     "growth": null
+    },
+    {
+     "kw": "나이키운동화",
+     "pc": 18000,
+     "mo": 127700,
+     "vol": 145700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2900.1,
+     "growth": null
+    },
+    {
+     "kw": "로봇청소기",
+     "pc": 26500,
+     "mo": 82400,
+     "vol": 108900,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 1503.4,
+     "growth": null
+    },
+    {
+     "kw": "무선청소기",
+     "pc": 34200,
+     "mo": 73500,
+     "vol": 107700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 848.4,
+     "growth": null
+    },
+    {
+     "kw": "운동화",
+     "pc": 21400,
+     "mo": 78000,
+     "vol": 99400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 973.6,
+     "growth": null
+    },
+    {
+     "kw": "갈비탕",
+     "pc": 10200,
+     "mo": 76600,
+     "vol": 86800,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 483.2,
+     "growth": null
+    },
+    {
+     "kw": "패딩조끼",
+     "pc": 15600,
+     "mo": 69900,
+     "vol": 85500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 804.0,
+     "growth": null
+    },
+    {
+     "kw": "가방",
+     "pc": 17300,
+     "mo": 67100,
+     "vol": 84400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 675.0,
+     "growth": null
+    },
+    {
+     "kw": "청소기",
+     "pc": 18500,
+     "mo": 65800,
+     "vol": 84300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 619.2,
+     "growth": null
+    },
+    {
+     "kw": "여성경량패딩",
+     "pc": 12000,
+     "mo": 65500,
+     "vol": 77500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1657.6,
+     "growth": null
+    },
+    {
+     "kw": "롱패딩",
+     "pc": 14300,
+     "mo": 58400,
+     "vol": 72700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 518.2,
+     "growth": null
+    },
+    {
+     "kw": "안전화",
+     "pc": 20600,
+     "mo": 49200,
+     "vol": 69800,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 2085.9,
+     "growth": null
+    },
+    {
+     "kw": "동태탕",
+     "pc": 4060,
+     "mo": 59600,
+     "vol": 63660,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 266.7,
+     "growth": null
+    },
+    {
+     "kw": "박람회",
+     "pc": 22800,
+     "mo": 37700,
+     "vol": 60500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 24.5,
+     "growth": null
+    },
+    {
+     "kw": "카드지갑",
+     "pc": 12100,
+     "mo": 47700,
+     "vol": 59800,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 617.8,
+     "growth": null
+    },
+    {
+     "kw": "여성패딩",
+     "pc": 8280,
+     "mo": 49500,
+     "vol": 57780,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 800.1,
+     "growth": null
+    },
+    {
+     "kw": "서울전시회",
+     "pc": 11300,
+     "mo": 44100,
+     "vol": 55400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 153.1,
+     "growth": null
+    },
+    {
+     "kw": "남자패딩",
+     "pc": 11400,
+     "mo": 36400,
+     "vol": 47800,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 678.1,
+     "growth": null
+    },
+    {
+     "kw": "남자경량패딩",
+     "pc": 9570,
+     "mo": 32800,
+     "vol": 42370,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 700.7,
+     "growth": null
+    },
+    {
+     "kw": "식자재마트",
+     "pc": 3100,
+     "mo": 37200,
+     "vol": 40300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 308.9,
+     "growth": null
+    },
+    {
+     "kw": "전시회",
+     "pc": 12200,
+     "mo": 27300,
+     "vol": 39500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 84.4,
+     "growth": null
+    },
+    {
+     "kw": "유니클로감사제",
+     "pc": 5590,
+     "mo": 33900,
+     "vol": 39490,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "남성경량패딩",
+     "pc": 7760,
+     "mo": 29700,
+     "vol": 37460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 702.0,
+     "growth": null
+    },
+    {
+     "kw": "숏패딩",
+     "pc": 7010,
+     "mo": 30100,
+     "vol": 37110,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 317.6,
+     "growth": null
+    },
+    {
+     "kw": "닭도리탕",
+     "pc": 2410,
+     "mo": 33900,
+     "vol": 36310,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 472.4,
+     "growth": null
+    },
+    {
+     "kw": "러닝화",
+     "pc": 14000,
+     "mo": 21000,
+     "vol": 35000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 417.0,
+     "growth": null
+    },
+    {
+     "kw": "밀키트",
+     "pc": 14300,
+     "mo": 20400,
+     "vol": 34700,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 591.4,
+     "growth": null
+    },
+    {
+     "kw": "런닝화",
+     "pc": 7480,
+     "mo": 26400,
+     "vol": 33880,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 741.5,
+     "growth": null
+    },
+    {
+     "kw": "신발",
+     "pc": 7250,
+     "mo": 26400,
+     "vol": 33650,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 458.9,
+     "growth": null
+    },
+    {
+     "kw": "캠핑음식",
+     "pc": 7070,
+     "mo": 24300,
+     "vol": 31370,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 470.5,
+     "growth": null
+    },
+    {
+     "kw": "지갑",
+     "pc": 6080,
+     "mo": 25000,
+     "vol": 31080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 140.7,
+     "growth": null
+    },
+    {
+     "kw": "아이오페레티놀",
+     "pc": 4490,
+     "mo": 26200,
+     "vol": 30690,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 234.9,
+     "growth": null
+    },
+    {
+     "kw": "여자롱패딩",
+     "pc": 5350,
+     "mo": 25200,
+     "vol": 30550,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 490.5,
+     "growth": null
+    },
+    {
+     "kw": "화장지",
+     "pc": 7600,
+     "mo": 22700,
+     "vol": 30300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 39.4,
+     "growth": null
+    },
+    {
+     "kw": "가디건",
+     "pc": 7330,
+     "mo": 22900,
+     "vol": 30230,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 206.1,
+     "growth": null
+    },
+    {
+     "kw": "서울놀거리",
+     "pc": 5430,
+     "mo": 24800,
+     "vol": 30230,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 151.0,
+     "growth": null
+    },
+    {
+     "kw": "스니커즈",
+     "pc": 6920,
+     "mo": 23000,
+     "vol": 29920,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 346.8,
+     "growth": null
+    },
+    {
+     "kw": "물걸레청소기",
+     "pc": 7910,
+     "mo": 21600,
+     "vol": 29510,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 368.8,
+     "growth": null
+    },
+    {
+     "kw": "자켓",
+     "pc": 5990,
+     "mo": 23500,
+     "vol": 29490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 85.2,
+     "growth": null
+    },
+    {
+     "kw": "플리스",
+     "pc": 6660,
+     "mo": 21600,
+     "vol": 28260,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 269.9,
+     "growth": null
+    },
+    {
+     "kw": "경량패딩조끼",
+     "pc": 7050,
+     "mo": 21100,
+     "vol": 28150,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 353.9,
+     "growth": null
+    },
+    {
+     "kw": "양갈비",
+     "pc": 4530,
+     "mo": 23100,
+     "vol": 27630,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 387.8,
+     "growth": null
+    },
+    {
+     "kw": "트레킹화",
+     "pc": 7110,
+     "mo": 20000,
+     "vol": 27110,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 581.0,
+     "growth": null
+    },
+    {
+     "kw": "헤드폰",
+     "pc": 12300,
+     "mo": 14500,
+     "vol": 26800,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 114.5,
+     "growth": null
+    },
+    {
+     "kw": "니트패딩",
+     "pc": 2640,
+     "mo": 23500,
+     "vol": 26140,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 418.4,
+     "growth": null
+    },
+    {
+     "kw": "나이키신발",
+     "pc": 5060,
+     "mo": 20700,
+     "vol": 25760,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 287.6,
+     "growth": null
+    },
+    {
+     "kw": "여자경량패딩",
+     "pc": 5660,
+     "mo": 19400,
+     "vol": 25060,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 448.5,
+     "growth": null
+    },
+    {
+     "kw": "키높이운동화",
+     "pc": 4900,
+     "mo": 20000,
+     "vol": 24900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 860.6,
+     "growth": null
+    },
+    {
+     "kw": "여자패딩",
+     "pc": 5320,
+     "mo": 18700,
+     "vol": 24020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 309.7,
+     "growth": null
+    },
+    {
+     "kw": "남성패딩",
+     "pc": 5620,
+     "mo": 18000,
+     "vol": 23620,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 368.5,
+     "growth": null
+    },
+    {
+     "kw": "장어덮밥",
+     "pc": 2640,
+     "mo": 20800,
+     "vol": 23440,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 227.5,
+     "growth": null
+    },
+    {
+     "kw": "트렌치코트",
+     "pc": 4680,
+     "mo": 18600,
+     "vol": 23280,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 283.4,
+     "growth": null
+    },
+    {
+     "kw": "골프화",
+     "pc": 6490,
+     "mo": 16100,
+     "vol": 22590,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 489.6,
+     "growth": null
+    },
+    {
+     "kw": "남자패딩조끼",
+     "pc": 5080,
+     "mo": 17500,
+     "vol": 22580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 255.4,
+     "growth": null
+    },
+    {
+     "kw": "블라우스",
+     "pc": 5360,
+     "mo": 17100,
+     "vol": 22460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 472.0,
+     "growth": null
+    },
+    {
+     "kw": "발편한운동화",
+     "pc": 4730,
+     "mo": 17000,
+     "vol": 21730,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 610.5,
+     "growth": null
+    },
+    {
+     "kw": "구스다운패딩",
+     "pc": 2730,
+     "mo": 18800,
+     "vol": 21530,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 309.5,
+     "growth": null
+    },
+    {
+     "kw": "족저근막염신발",
+     "pc": 2420,
+     "mo": 18300,
+     "vol": 20720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 879.9,
+     "growth": null
+    },
+    {
+     "kw": "남자롱패딩",
+     "pc": 5310,
+     "mo": 14600,
+     "vol": 19910,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 291.3,
+     "growth": null
+    },
+    {
+     "kw": "여성숏패딩",
+     "pc": 3520,
+     "mo": 16200,
+     "vol": 19720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 210.5,
+     "growth": null
+    },
+    {
+     "kw": "경량패딩추천",
+     "pc": 4830,
+     "mo": 14600,
+     "vol": 19430,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 416.7,
+     "growth": null
+    },
+    {
+     "kw": "화장품",
+     "pc": 4360,
+     "mo": 15000,
+     "vol": 19360,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 52.5,
+     "growth": null
+    },
+    {
+     "kw": "여성운동화",
+     "pc": 3950,
+     "mo": 14300,
+     "vol": 18250,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 399.7,
+     "growth": null
+    },
+    {
+     "kw": "더비슈즈",
+     "pc": 3190,
+     "mo": 15000,
+     "vol": 18190,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 166.2,
+     "growth": null
+    },
+    {
+     "kw": "공구",
+     "pc": 4650,
+     "mo": 13100,
+     "vol": 17750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 223.1,
+     "growth": null
+    },
+    {
+     "kw": "남성골프화",
+     "pc": 4100,
+     "mo": 12700,
+     "vol": 16800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 614.1,
+     "growth": null
+    },
+    {
+     "kw": "남자운동화",
+     "pc": 5340,
+     "mo": 11100,
+     "vol": 16440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 250.8,
+     "growth": null
+    },
+    {
+     "kw": "구스다운",
+     "pc": 2650,
+     "mo": 13100,
+     "vol": 15750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 143.0,
+     "growth": null
+    },
+    {
+     "kw": "남자구두",
+     "pc": 4960,
+     "mo": 10600,
+     "vol": 15560,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 259.8,
+     "growth": null
+    },
+    {
+     "kw": "워킹화",
+     "pc": 9280,
+     "mo": 6070,
+     "vol": 15350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 170.8,
+     "growth": null
+    },
+    {
+     "kw": "생일상차림메뉴",
+     "pc": 1510,
+     "mo": 13400,
+     "vol": 14910,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 482.7,
+     "growth": null
+    },
+    {
+     "kw": "패딩코트",
+     "pc": 2240,
+     "mo": 12600,
+     "vol": 14840,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 128.2,
+     "growth": null
+    },
+    {
+     "kw": "패딩브랜드",
+     "pc": 2520,
+     "mo": 12200,
+     "vol": 14720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 150.7,
+     "growth": null
+    },
+    {
+     "kw": "목동맛집",
+     "pc": 1840,
+     "mo": 12500,
+     "vol": 14340,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 30.3,
+     "growth": null
+    },
+    {
+     "kw": "고어텍스운동화",
+     "pc": 3540,
+     "mo": 10700,
+     "vol": 14240,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 324.4,
+     "growth": null
+    },
+    {
+     "kw": "집들이음식",
+     "pc": 3380,
+     "mo": 10700,
+     "vol": 14080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 164.5,
+     "growth": null
+    },
+    {
+     "kw": "돕바",
+     "pc": 2240,
+     "mo": 11600,
+     "vol": 13840,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 73.4,
+     "growth": null
+    },
+    {
+     "kw": "알탕",
+     "pc": 1760,
+     "mo": 11600,
+     "vol": 13360,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 106.0,
+     "growth": null
+    },
+    {
+     "kw": "업소용청소기",
+     "pc": 5760,
+     "mo": 7060,
+     "vol": 12820,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 108.5,
+     "growth": null
+    },
+    {
+     "kw": "패딩추천",
+     "pc": 3030,
+     "mo": 9030,
+     "vol": 12060,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 112.5,
+     "growth": null
+    },
+    {
+     "kw": "키높이스니커즈",
+     "pc": 3660,
+     "mo": 8180,
+     "vol": 11840,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 356.9,
+     "growth": null
+    },
+    {
+     "kw": "로션",
+     "pc": 3460,
+     "mo": 8080,
+     "vol": 11540,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 48.3,
+     "growth": null
+    },
+    {
+     "kw": "경량안전화",
+     "pc": 2410,
+     "mo": 9100,
+     "vol": 11510,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 381.7,
+     "growth": null
+    },
+    {
+     "kw": "수납함",
+     "pc": 4710,
+     "mo": 6750,
+     "vol": 11460,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 115.8,
+     "growth": null
+    },
+    {
+     "kw": "아이오페레티놀세럼",
+     "pc": 1050,
+     "mo": 10400,
+     "vol": 11450,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 118.9,
+     "growth": null
+    },
+    {
+     "kw": "겨울패딩",
+     "pc": 3010,
+     "mo": 8210,
+     "vol": 11220,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 149.9,
+     "growth": null
+    },
+    {
+     "kw": "구스경량패딩",
+     "pc": 1550,
+     "mo": 9650,
+     "vol": 11200,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 191.3,
+     "growth": null
+    },
+    {
+     "kw": "오목교맛집",
+     "pc": 1580,
+     "mo": 9610,
+     "vol": 11190,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 14.5,
+     "growth": null
+    },
+    {
+     "kw": "남성스니커즈",
+     "pc": 3190,
+     "mo": 7670,
+     "vol": 10860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 209.7,
+     "growth": null
+    },
+    {
+     "kw": "방한복",
+     "pc": 2380,
+     "mo": 8460,
+     "vol": 10840,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 136.0,
+     "growth": null
+    },
+    {
+     "kw": "구스패딩",
+     "pc": 1500,
+     "mo": 9200,
+     "vol": 10700,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 114.7,
+     "growth": null
+    },
+    {
+     "kw": "남자스니커즈",
+     "pc": 4160,
+     "mo": 6290,
+     "vol": 10450,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 197.6,
+     "growth": null
+    },
+    {
+     "kw": "아키클래식운동화",
+     "pc": 1010,
+     "mo": 9200,
+     "vol": 10210,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 297.4,
+     "growth": null
+    },
+    {
+     "kw": "피코트",
+     "pc": 1670,
+     "mo": 8260,
+     "vol": 9930,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 91.9,
+     "growth": null
+    },
+    {
+     "kw": "키높이깔창",
+     "pc": 1520,
+     "mo": 8400,
+     "vol": 9920,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 416.6,
+     "growth": null
+    },
+    {
+     "kw": "캠핑요리",
+     "pc": 2850,
+     "mo": 6990,
+     "vol": 9840,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 100.7,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 16,
     "daily": [
@@ -278,10 +2280,10 @@
       "channel": "무비펭",
       "cat": "22",
       "views": 11548217,
-      "likes": 102556,
+      "likes": 102561,
       "comments": 380,
       "published": "2026-11-05T10:47:09Z",
-      "vph": 39696,
+      "vph": 39690,
       "rank": 33
      },
      {
@@ -290,10 +2292,10 @@
       "channel": "지금",
       "cat": "24",
       "views": 3263762,
-      "likes": 30794,
+      "likes": 30798,
       "comments": 744,
       "published": "2026-11-12T05:40:47Z",
-      "vph": 25494,
+      "vph": 25484,
       "rank": 43
      },
      {
@@ -302,10 +2304,10 @@
       "channel": "무비미슐랭",
       "cat": "1",
       "views": 1743279,
-      "likes": 20872,
+      "likes": 20886,
       "comments": 437,
       "published": "2026-11-14T00:00:16Z",
-      "vph": 20343,
+      "vph": 20331,
       "rank": 50
      },
      {
@@ -313,7 +2315,7 @@
       "title": "보복운전으로 인정될까? #한문철의블랙박스리뷰",
       "channel": "JTBC Life",
       "cat": "26",
-      "views": 1579995,
+      "views": 1580112,
       "likes": 14551,
       "comments": 1426,
       "published": "2026-11-04T09:00:11Z",
@@ -329,7 +2331,7 @@
       "likes": 5937,
       "comments": 1006,
       "published": "2026-11-11T11:02:17Z",
-      "vph": 10489,
+      "vph": 10486,
       "rank": 36
      },
      {
@@ -337,11 +2339,11 @@
       "title": "너무 자연스러워서 드라마에 그대로 쓸 뻔한 장면",
       "channel": "무비펭",
       "cat": "22",
-      "views": 1343114,
-      "likes": 7188,
+      "views": 1346909,
+      "likes": 7192,
       "comments": 43,
       "published": "2026-11-16T10:45:40Z",
-      "vph": 49858,
+      "vph": 49907,
       "rank": 11
      }
     ]
@@ -365,7 +2367,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 21576500,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -382,7 +2384,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 8709800,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -400,7 +2402,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 29550,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -417,7 +2419,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 37560,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -428,7 +2430,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 30353410,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -441,7 +2443,1008 @@
      "name": "디지털/가전"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "챗지피티",
+     "pc": 6468800,
+     "mo": 8420700,
+     "vol": 14889500,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 2670.8,
+     "growth": null
+    },
+    {
+     "kw": "챗GPT",
+     "pc": 2332700,
+     "mo": 1891600,
+     "vol": 4224300,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 798.1,
+     "growth": null
+    },
+    {
+     "kw": "CHATGPT",
+     "pc": 1249800,
+     "mo": 798500,
+     "vol": 2048300,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 61.4,
+     "growth": null
+    },
+    {
+     "kw": "쳇지티피",
+     "pc": 667000,
+     "mo": 988300,
+     "vol": 1655300,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 533.1,
+     "growth": null
+    },
+    {
+     "kw": "클로드",
+     "pc": 1099300,
+     "mo": 373200,
+     "vol": 1472500,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "GPT",
+     "pc": 351200,
+     "mo": 85600,
+     "vol": 436800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 117.0,
+     "growth": null
+    },
+    {
+     "kw": "AI",
+     "pc": 48200,
+     "mo": 108900,
+     "vol": 157100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 518.3,
+     "growth": null
+    },
+    {
+     "kw": "타자연습",
+     "pc": 73400,
+     "mo": 9330,
+     "vol": 82730,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 1407.6,
+     "growth": null
+    },
+    {
+     "kw": "챗지피티무료",
+     "pc": 23700,
+     "mo": 44300,
+     "vol": 68000,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 457.3,
+     "growth": null
+    },
+    {
+     "kw": "쳇",
+     "pc": 33700,
+     "mo": 31700,
+     "vol": 65400,
+     "comp": "중간",
+     "depth": 1,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "퍼플렉시티",
+     "pc": 37800,
+     "mo": 22000,
+     "vol": 59800,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 2.4,
+     "growth": null
+    },
+    {
+     "kw": "뤼튼",
+     "pc": 29200,
+     "mo": 21300,
+     "vol": 50500,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 41.3,
+     "growth": null
+    },
+    {
+     "kw": "챗GPT무료",
+     "pc": 25000,
+     "mo": 20100,
+     "vol": 45100,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 297.9,
+     "growth": null
+    },
+    {
+     "kw": "COPILOT",
+     "pc": 23700,
+     "mo": 11700,
+     "vol": 35400,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 25.1,
+     "growth": null
+    },
+    {
+     "kw": "SUNO",
+     "pc": 18300,
+     "mo": 13300,
+     "vol": 31600,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 369.4,
+     "growth": null
+    },
+    {
+     "kw": "바이브코딩",
+     "pc": 12600,
+     "mo": 17000,
+     "vol": 29600,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 136.0,
+     "growth": null
+    },
+    {
+     "kw": "GITHUB",
+     "pc": 19500,
+     "mo": 9900,
+     "vol": 29400,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 27.5,
+     "growth": null
+    },
+    {
+     "kw": "PERPLEXITY",
+     "pc": 15300,
+     "mo": 12400,
+     "vol": 27700,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "오픈AI",
+     "pc": 11400,
+     "mo": 15600,
+     "vol": 27000,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 13.3,
+     "growth": null
+    },
+    {
+     "kw": "미드저니",
+     "pc": 16900,
+     "mo": 9420,
+     "vol": 26320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 31.5,
+     "growth": null
+    },
+    {
+     "kw": "인플루언서",
+     "pc": 5190,
+     "mo": 19700,
+     "vol": 24890,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 90.0,
+     "growth": null
+    },
+    {
+     "kw": "갤럭시S24",
+     "pc": 5780,
+     "mo": 18900,
+     "vol": 24680,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 199.5,
+     "growth": null
+    },
+    {
+     "kw": "코파일럿",
+     "pc": 15300,
+     "mo": 8730,
+     "vol": 24030,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 25.3,
+     "growth": null
+    },
+    {
+     "kw": "GTP",
+     "pc": 14500,
+     "mo": 6310,
+     "vol": 20810,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 22.3,
+     "growth": null
+    },
+    {
+     "kw": "한글타자연습",
+     "pc": 18300,
+     "mo": 1310,
+     "vol": 19610,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 780.2,
+     "growth": null
+    },
+    {
+     "kw": "R",
+     "pc": 6600,
+     "mo": 12900,
+     "vol": 19500,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 52.5,
+     "growth": null
+    },
+    {
+     "kw": "AI종류",
+     "pc": 7720,
+     "mo": 9860,
+     "vol": 17580,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 80.1,
+     "growth": null
+    },
+    {
+     "kw": "CHATGPT무료",
+     "pc": 10600,
+     "mo": 6160,
+     "vol": 16760,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 259.0,
+     "growth": null
+    },
+    {
+     "kw": "OPENAI",
+     "pc": 9710,
+     "mo": 5920,
+     "vol": 15630,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 7.1,
+     "growth": null
+    },
+    {
+     "kw": "투닝",
+     "pc": 9760,
+     "mo": 5070,
+     "vol": 14830,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 11.7,
+     "growth": null
+    },
+    {
+     "kw": "챗쥐피티",
+     "pc": 6800,
+     "mo": 7950,
+     "vol": 14750,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 35.5,
+     "growth": null
+    },
+    {
+     "kw": "AICE자격증",
+     "pc": 4380,
+     "mo": 9530,
+     "vol": 13910,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 74.9,
+     "growth": null
+    },
+    {
+     "kw": "AX",
+     "pc": 6220,
+     "mo": 6670,
+     "vol": 12890,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 18.1,
+     "growth": null
+    },
+    {
+     "kw": "LLM",
+     "pc": 5390,
+     "mo": 6580,
+     "vol": 11970,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 17.8,
+     "growth": null
+    },
+    {
+     "kw": "AI이미지생성",
+     "pc": 3210,
+     "mo": 8430,
+     "vol": 11640,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 369.8,
+     "growth": null
+    },
+    {
+     "kw": "챗GPT유료",
+     "pc": 4550,
+     "mo": 6920,
+     "vol": 11470,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 91.2,
+     "growth": null
+    },
+    {
+     "kw": "인공지능",
+     "pc": 3410,
+     "mo": 6610,
+     "vol": 10020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 23.9,
+     "growth": null
+    },
+    {
+     "kw": "VR",
+     "pc": 3580,
+     "mo": 6250,
+     "vol": 9830,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 47.1,
+     "growth": null
+    },
+    {
+     "kw": "AI대화",
+     "pc": 1400,
+     "mo": 8040,
+     "vol": 9440,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 377.0,
+     "growth": null
+    },
+    {
+     "kw": "TTS",
+     "pc": 3410,
+     "mo": 5340,
+     "vol": 8750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 96.1,
+     "growth": null
+    },
+    {
+     "kw": "AI자격증",
+     "pc": 3490,
+     "mo": 5260,
+     "vol": 8750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 136.8,
+     "growth": null
+    },
+    {
+     "kw": "AI교육",
+     "pc": 4780,
+     "mo": 3740,
+     "vol": 8520,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 150.0,
+     "growth": null
+    },
+    {
+     "kw": "오토드로우",
+     "pc": 4700,
+     "mo": 3710,
+     "vol": 8410,
+     "comp": "중간",
+     "depth": 1,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "생성형AI",
+     "pc": 3230,
+     "mo": 4930,
+     "vol": 8160,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 30.8,
+     "growth": null
+    },
+    {
+     "kw": "홈페이지",
+     "pc": 4270,
+     "mo": 3850,
+     "vol": 8120,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 93.5,
+     "growth": null
+    },
+    {
+     "kw": "동화책",
+     "pc": 3550,
+     "mo": 4240,
+     "vol": 7790,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 11.5,
+     "growth": null
+    },
+    {
+     "kw": "구글제미니",
+     "pc": 3930,
+     "mo": 3400,
+     "vol": 7330,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 6.0,
+     "growth": null
+    },
+    {
+     "kw": "이미지검색",
+     "pc": 5330,
+     "mo": 1880,
+     "vol": 7210,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 4.3,
+     "growth": null
+    },
+    {
+     "kw": "교육",
+     "pc": 2800,
+     "mo": 4050,
+     "vol": 6850,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 9.6,
+     "growth": null
+    },
+    {
+     "kw": "챗지피티할인",
+     "pc": 2890,
+     "mo": 3920,
+     "vol": 6810,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 152.8,
+     "growth": null
+    },
+    {
+     "kw": "크래프톤채용",
+     "pc": 2890,
+     "mo": 3830,
+     "vol": 6720,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 22.7,
+     "growth": null
+    },
+    {
+     "kw": "GPTCHAT",
+     "pc": 4350,
+     "mo": 2260,
+     "vol": 6610,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 1.9,
+     "growth": null
+    },
+    {
+     "kw": "AI에이전트",
+     "pc": 3120,
+     "mo": 3460,
+     "vol": 6580,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 37.2,
+     "growth": null
+    },
+    {
+     "kw": "AI추천",
+     "pc": 2890,
+     "mo": 3470,
+     "vol": 6360,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 15.5,
+     "growth": null
+    },
+    {
+     "kw": "RAG",
+     "pc": 2410,
+     "mo": 3390,
+     "vol": 5800,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 6.7,
+     "growth": null
+    },
+    {
+     "kw": "검색",
+     "pc": 2020,
+     "mo": 3720,
+     "vol": 5740,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 24.2,
+     "growth": null
+    },
+    {
+     "kw": "에이전트",
+     "pc": 1940,
+     "mo": 3650,
+     "vol": 5590,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 9.0,
+     "growth": null
+    },
+    {
+     "kw": "CHATGPT유료",
+     "pc": 2410,
+     "mo": 3090,
+     "vol": 5500,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 48.7,
+     "growth": null
+    },
+    {
+     "kw": "AI영상만들기",
+     "pc": 2090,
+     "mo": 3290,
+     "vol": 5380,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 155.7,
+     "growth": null
+    },
+    {
+     "kw": "무선CCTV",
+     "pc": 1380,
+     "mo": 4000,
+     "vol": 5380,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 114.4,
+     "growth": null
+    },
+    {
+     "kw": "TTS사이트",
+     "pc": 1750,
+     "mo": 3570,
+     "vol": 5320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 103.4,
+     "growth": null
+    },
+    {
+     "kw": "CCTV추천",
+     "pc": 1120,
+     "mo": 4200,
+     "vol": 5320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 221.3,
+     "growth": null
+    },
+    {
+     "kw": "지티피",
+     "pc": 3660,
+     "mo": 1630,
+     "vol": 5290,
+     "comp": "중간",
+     "depth": 1,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "AI비서",
+     "pc": 2160,
+     "mo": 3050,
+     "vol": 5210,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 11.1,
+     "growth": null
+    },
+    {
+     "kw": "AI채팅",
+     "pc": 1030,
+     "mo": 4130,
+     "vol": 5160,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 419.3,
+     "growth": null
+    },
+    {
+     "kw": "AI프롬프트",
+     "pc": 1800,
+     "mo": 3180,
+     "vol": 4980,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 12.5,
+     "growth": null
+    },
+    {
+     "kw": "AI영상제작",
+     "pc": 2490,
+     "mo": 2350,
+     "vol": 4840,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 102.7,
+     "growth": null
+    },
+    {
+     "kw": "국비지원AI교육",
+     "pc": 1800,
+     "mo": 2800,
+     "vol": 4600,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 163.1,
+     "growth": null
+    },
+    {
+     "kw": "무료AI",
+     "pc": 1990,
+     "mo": 2490,
+     "vol": 4480,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 94.7,
+     "growth": null
+    },
+    {
+     "kw": "챗봇",
+     "pc": 1640,
+     "mo": 2600,
+     "vol": 4240,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 56.4,
+     "growth": null
+    },
+    {
+     "kw": "OCR",
+     "pc": 2290,
+     "mo": 1890,
+     "vol": 4180,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 4.3,
+     "growth": null
+    },
+    {
+     "kw": "스마트폰CCTV",
+     "pc": 600,
+     "mo": 3550,
+     "vol": 4150,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 147.2,
+     "growth": null
+    },
+    {
+     "kw": "AI영상",
+     "pc": 1660,
+     "mo": 2440,
+     "vol": 4100,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 49.8,
+     "growth": null
+    },
+    {
+     "kw": "상세페이지제작",
+     "pc": 2630,
+     "mo": 1320,
+     "vol": 3950,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 143.6,
+     "growth": null
+    },
+    {
+     "kw": "AI로봇",
+     "pc": 910,
+     "mo": 3020,
+     "vol": 3930,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 59.7,
+     "growth": null
+    },
+    {
+     "kw": "어도비파이어플라이",
+     "pc": 2510,
+     "mo": 1360,
+     "vol": 3870,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 17.6,
+     "growth": null
+    },
+    {
+     "kw": "이미지생성AI",
+     "pc": 1880,
+     "mo": 1960,
+     "vol": 3840,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 99.5,
+     "growth": null
+    },
+    {
+     "kw": "지피티챗",
+     "pc": 1650,
+     "mo": 2150,
+     "vol": 3800,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 3.7,
+     "growth": null
+    },
+    {
+     "kw": "NFT",
+     "pc": 980,
+     "mo": 2720,
+     "vol": 3700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 10.4,
+     "growth": null
+    },
+    {
+     "kw": "정보관리기술사",
+     "pc": 2170,
+     "mo": 1520,
+     "vol": 3690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 25.3,
+     "growth": null
+    },
+    {
+     "kw": "SEARCH",
+     "pc": 890,
+     "mo": 2760,
+     "vol": 3650,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "홈페이지제작업체",
+     "pc": 2040,
+     "mo": 1540,
+     "vol": 3580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 89.2,
+     "growth": null
+    },
+    {
+     "kw": "버추얼아이돌",
+     "pc": 560,
+     "mo": 2890,
+     "vol": 3450,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 9.6,
+     "growth": null
+    },
+    {
+     "kw": "생성형AI종류",
+     "pc": 1550,
+     "mo": 1850,
+     "vol": 3400,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 7.3,
+     "growth": null
+    },
+    {
+     "kw": "AI학원",
+     "pc": 1010,
+     "mo": 2320,
+     "vol": 3330,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 104.2,
+     "growth": null
+    },
+    {
+     "kw": "MIDJOURNEY",
+     "pc": 2080,
+     "mo": 1240,
+     "vol": 3320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 3.9,
+     "growth": null
+    },
+    {
+     "kw": "AI프로그램",
+     "pc": 1770,
+     "mo": 1550,
+     "vol": 3320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.0,
+     "growth": null
+    },
+    {
+     "kw": "나레이션",
+     "pc": 1100,
+     "mo": 2060,
+     "vol": 3160,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 4.2,
+     "growth": null
+    },
+    {
+     "kw": "영상AI",
+     "pc": 1360,
+     "mo": 1750,
+     "vol": 3110,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 42.8,
+     "growth": null
+    },
+    {
+     "kw": "FIREFLY",
+     "pc": 1190,
+     "mo": 1900,
+     "vol": 3090,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 18.8,
+     "growth": null
+    },
+    {
+     "kw": "쳇지피티",
+     "pc": 1280,
+     "mo": 1590,
+     "vol": 2870,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 4.2,
+     "growth": null
+    },
+    {
+     "kw": "AIDT",
+     "pc": 1530,
+     "mo": 1340,
+     "vol": 2870,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 1.7,
+     "growth": null
+    },
+    {
+     "kw": "웹사이트",
+     "pc": 820,
+     "mo": 1990,
+     "vol": 2810,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 25.5,
+     "growth": null
+    },
+    {
+     "kw": "AI강의",
+     "pc": 1260,
+     "mo": 1500,
+     "vol": 2760,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 68.0,
+     "growth": null
+    },
+    {
+     "kw": "AI동영상만들기",
+     "pc": 970,
+     "mo": 1780,
+     "vol": 2750,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 85.3,
+     "growth": null
+    },
+    {
+     "kw": "CCTV카메라",
+     "pc": 870,
+     "mo": 1880,
+     "vol": 2750,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 35.6,
+     "growth": null
+    },
+    {
+     "kw": "AI목소리",
+     "pc": 830,
+     "mo": 1860,
+     "vol": 2690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 81.5,
+     "growth": null
+    },
+    {
+     "kw": "디지털리터러시",
+     "pc": 1030,
+     "mo": 1650,
+     "vol": 2680,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 5.8,
+     "growth": null
+    },
+    {
+     "kw": "데이터구매",
+     "pc": 110,
+     "mo": 2430,
+     "vol": 2540,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 41.9,
+     "growth": null
+    },
+    {
+     "kw": "AI관련자격증",
+     "pc": 1060,
+     "mo": 1430,
+     "vol": 2490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 41.8,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 39,
     "daily": [
@@ -457,10 +3460,10 @@
       "channel": "무비펭",
       "cat": "22",
       "views": 11548217,
-      "likes": 102556,
+      "likes": 102561,
       "comments": 380,
       "published": "2026-11-05T10:47:09Z",
-      "vph": 39696,
+      "vph": 39690,
       "rank": 33
      },
      {
@@ -468,11 +3471,11 @@
       "title": "GIGABYTE GAMING PC Build! RYZEN 7 9800X3D + GIGABYTE RTX 5080🫅 #pcbuild #gaming #gigabyte",
       "channel": "PC BUILD~USA",
       "cat": "28",
-      "views": 3429422,
-      "likes": 104936,
+      "views": 3430788,
+      "likes": 104950,
       "comments": 1510,
       "published": "2026-11-07T12:00:34Z",
-      "vph": 14189,
+      "vph": 14192,
       "rank": 35
      },
      {
@@ -481,10 +3484,10 @@
       "channel": "아우리",
       "cat": "24",
       "views": 3285529,
-      "likes": 30466,
+      "likes": 30476,
       "comments": 1569,
       "published": "2026-11-11T11:00:03Z",
-      "vph": 22396,
+      "vph": 22389,
       "rank": 36
      },
      {
@@ -492,11 +3495,11 @@
       "title": "100원으로 물물교환하면 어디까지 바꿀 수 있을까?",
       "channel": "우낌표",
       "cat": "23",
-      "views": 2885040,
-      "likes": 14914,
+      "views": 2887865,
+      "likes": 14917,
       "comments": 922,
       "published": "2026-11-13T09:00:24Z",
-      "vph": 28652,
+      "vph": 28666,
       "rank": 11
      },
      {
@@ -504,11 +3507,11 @@
       "title": "[갤럭시 Z 폴드8] 작은 감탄에서 시작된 이야기 | 삼성전자",
       "channel": "삼성전자 Samsung Electronics",
       "cat": "28",
-      "views": 2816260,
-      "likes": 24027,
-      "comments": 4159,
+      "views": 2819820,
+      "likes": 24030,
+      "comments": 4160,
       "published": "2026-11-12T09:34:59Z",
-      "vph": 22690,
+      "vph": 22710,
       "rank": 27
      },
      {
@@ -520,7 +3523,7 @@
       "likes": 13065,
       "comments": 1850,
       "published": "2026-11-01T09:25:55Z",
-      "vph": 4756,
+      "vph": 4755,
       "rank": 46
      }
     ]
@@ -544,7 +3547,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 76590,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -560,7 +3563,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 138420,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -578,7 +3581,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 143050,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -596,7 +3599,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 318180,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -607,7 +3610,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 676240,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -620,7 +3623,1008 @@
      "name": "스포츠/레저"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "LPGA",
+     "pc": 31500,
+     "mo": 398800,
+     "vol": 430300,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 138.0,
+     "growth": null
+    },
+    {
+     "kw": "헬스장",
+     "pc": 18000,
+     "mo": 187800,
+     "vol": 205800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 607.5,
+     "growth": null
+    },
+    {
+     "kw": "마라톤",
+     "pc": 20800,
+     "mo": 88900,
+     "vol": 109700,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 817.7,
+     "growth": null
+    },
+    {
+     "kw": "운동화",
+     "pc": 21400,
+     "mo": 78000,
+     "vol": 99400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 973.6,
+     "growth": null
+    },
+    {
+     "kw": "일산킨텍스",
+     "pc": 18800,
+     "mo": 75300,
+     "vol": 94100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 81.1,
+     "growth": null
+    },
+    {
+     "kw": "자연휴양림",
+     "pc": 22600,
+     "mo": 55600,
+     "vol": 78200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 69.6,
+     "growth": null
+    },
+    {
+     "kw": "안전화",
+     "pc": 20600,
+     "mo": 49200,
+     "vol": 69800,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 2085.9,
+     "growth": null
+    },
+    {
+     "kw": "렉서스NX350H",
+     "pc": 9730,
+     "mo": 48700,
+     "vol": 58430,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 114.5,
+     "growth": null
+    },
+    {
+     "kw": "바디워시",
+     "pc": 15400,
+     "mo": 42100,
+     "vol": 57500,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 322.3,
+     "growth": null
+    },
+    {
+     "kw": "골프웨어",
+     "pc": 12900,
+     "mo": 44200,
+     "vol": 57100,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 2094.1,
+     "growth": null
+    },
+    {
+     "kw": "강화도맛집",
+     "pc": 7340,
+     "mo": 48700,
+     "vol": 56040,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 376.2,
+     "growth": null
+    },
+    {
+     "kw": "파크골프",
+     "pc": 9100,
+     "mo": 44300,
+     "vol": 53400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 564.7,
+     "growth": null
+    },
+    {
+     "kw": "스크린골프",
+     "pc": 3610,
+     "mo": 48500,
+     "vol": 52110,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 117.0,
+     "growth": null
+    },
+    {
+     "kw": "충주맛집",
+     "pc": 6430,
+     "mo": 44100,
+     "vol": 50530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 303.5,
+     "growth": null
+    },
+    {
+     "kw": "벤츠GLC",
+     "pc": 7340,
+     "mo": 42000,
+     "vol": 49340,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 83.8,
+     "growth": null
+    },
+    {
+     "kw": "골프",
+     "pc": 9180,
+     "mo": 37800,
+     "vol": 46980,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 116.5,
+     "growth": null
+    },
+    {
+     "kw": "크로스핏",
+     "pc": 5620,
+     "mo": 39900,
+     "vol": 45520,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 342.0,
+     "growth": null
+    },
+    {
+     "kw": "마세라티",
+     "pc": 5950,
+     "mo": 34800,
+     "vol": 40750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 86.3,
+     "growth": null
+    },
+    {
+     "kw": "캠핑",
+     "pc": 7900,
+     "mo": 32800,
+     "vol": 40700,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 187.1,
+     "growth": null
+    },
+    {
+     "kw": "캠핑테이블",
+     "pc": 14300,
+     "mo": 25900,
+     "vol": 40200,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 553.6,
+     "growth": null
+    },
+    {
+     "kw": "BMW인증중고차",
+     "pc": 10600,
+     "mo": 26400,
+     "vol": 37000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 138.7,
+     "growth": null
+    },
+    {
+     "kw": "러닝화",
+     "pc": 14000,
+     "mo": 21000,
+     "vol": 35000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 417.0,
+     "growth": null
+    },
+    {
+     "kw": "밀키트",
+     "pc": 14300,
+     "mo": 20400,
+     "vol": 34700,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 591.4,
+     "growth": null
+    },
+    {
+     "kw": "런닝화",
+     "pc": 7480,
+     "mo": 26400,
+     "vol": 33880,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 741.5,
+     "growth": null
+    },
+    {
+     "kw": "신발",
+     "pc": 7250,
+     "mo": 26400,
+     "vol": 33650,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 458.9,
+     "growth": null
+    },
+    {
+     "kw": "수영장",
+     "pc": 3640,
+     "mo": 29400,
+     "vol": 33040,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 114.3,
+     "growth": null
+    },
+    {
+     "kw": "캠핑용품",
+     "pc": 9350,
+     "mo": 22900,
+     "vol": 32250,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 598.8,
+     "growth": null
+    },
+    {
+     "kw": "캠핑음식",
+     "pc": 7070,
+     "mo": 24300,
+     "vol": 31370,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 470.5,
+     "growth": null
+    },
+    {
+     "kw": "스니커즈",
+     "pc": 6920,
+     "mo": 23000,
+     "vol": 29920,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 346.8,
+     "growth": null
+    },
+    {
+     "kw": "골프연습장",
+     "pc": 1620,
+     "mo": 28200,
+     "vol": 29820,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 148.8,
+     "growth": null
+    },
+    {
+     "kw": "나이키런닝화",
+     "pc": 5120,
+     "mo": 24600,
+     "vol": 29720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 472.6,
+     "growth": null
+    },
+    {
+     "kw": "자켓",
+     "pc": 5990,
+     "mo": 23500,
+     "vol": 29490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 85.2,
+     "growth": null
+    },
+    {
+     "kw": "파우치",
+     "pc": 8460,
+     "mo": 20600,
+     "vol": 29060,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 167.0,
+     "growth": null
+    },
+    {
+     "kw": "벤츠마이바흐",
+     "pc": 3430,
+     "mo": 25200,
+     "vol": 28630,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 298.2,
+     "growth": null
+    },
+    {
+     "kw": "애견동반식당",
+     "pc": 870,
+     "mo": 27100,
+     "vol": 27970,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 124.6,
+     "growth": null
+    },
+    {
+     "kw": "PXG골프웨어",
+     "pc": 4950,
+     "mo": 22800,
+     "vol": 27750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 577.4,
+     "growth": null
+    },
+    {
+     "kw": "트레킹화",
+     "pc": 7110,
+     "mo": 20000,
+     "vol": 27110,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 581.0,
+     "growth": null
+    },
+    {
+     "kw": "양주맛집",
+     "pc": 3410,
+     "mo": 23500,
+     "vol": 26910,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 99.7,
+     "growth": null
+    },
+    {
+     "kw": "글램핑장",
+     "pc": 4010,
+     "mo": 21600,
+     "vol": 25610,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 534.0,
+     "growth": null
+    },
+    {
+     "kw": "키높이운동화",
+     "pc": 4900,
+     "mo": 20000,
+     "vol": 24900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 860.6,
+     "growth": null
+    },
+    {
+     "kw": "렉서스RX450H",
+     "pc": 3710,
+     "mo": 21000,
+     "vol": 24710,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 67.7,
+     "growth": null
+    },
+    {
+     "kw": "렉서스RX350H",
+     "pc": 4110,
+     "mo": 19500,
+     "vol": 23610,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 56.4,
+     "growth": null
+    },
+    {
+     "kw": "골프화",
+     "pc": 6490,
+     "mo": 16100,
+     "vol": 22590,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 489.6,
+     "growth": null
+    },
+    {
+     "kw": "추석",
+     "pc": 10000,
+     "mo": 12400,
+     "vol": 22400,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 0.7,
+     "growth": null
+    },
+    {
+     "kw": "여성골프웨어",
+     "pc": 3960,
+     "mo": 18000,
+     "vol": 21960,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 925.2,
+     "growth": null
+    },
+    {
+     "kw": "운동",
+     "pc": 2360,
+     "mo": 18600,
+     "vol": 20960,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 33.6,
+     "growth": null
+    },
+    {
+     "kw": "족저근막염신발",
+     "pc": 2420,
+     "mo": 18300,
+     "vol": 20720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 879.9,
+     "growth": null
+    },
+    {
+     "kw": "나이키골프",
+     "pc": 3980,
+     "mo": 15400,
+     "vol": 19380,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 212.2,
+     "growth": null
+    },
+    {
+     "kw": "나이키골프화",
+     "pc": 4250,
+     "mo": 14900,
+     "vol": 19150,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 377.5,
+     "growth": null
+    },
+    {
+     "kw": "항정살",
+     "pc": 2700,
+     "mo": 16100,
+     "vol": 18800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.5,
+     "growth": null
+    },
+    {
+     "kw": "여성운동화",
+     "pc": 3950,
+     "mo": 14300,
+     "vol": 18250,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 399.7,
+     "growth": null
+    },
+    {
+     "kw": "드라이버",
+     "pc": 5300,
+     "mo": 11900,
+     "vol": 17200,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 56.8,
+     "growth": null
+    },
+    {
+     "kw": "남성골프화",
+     "pc": 4100,
+     "mo": 12700,
+     "vol": 16800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 614.1,
+     "growth": null
+    },
+    {
+     "kw": "골프채",
+     "pc": 5630,
+     "mo": 11100,
+     "vol": 16730,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 334.7,
+     "growth": null
+    },
+    {
+     "kw": "타이틀리스트골프웨어",
+     "pc": 4010,
+     "mo": 12600,
+     "vol": 16610,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 364.8,
+     "growth": null
+    },
+    {
+     "kw": "닭꼬치",
+     "pc": 2520,
+     "mo": 14000,
+     "vol": 16520,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 366.1,
+     "growth": null
+    },
+    {
+     "kw": "러닝",
+     "pc": 3220,
+     "mo": 12900,
+     "vol": 16120,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 68.9,
+     "growth": null
+    },
+    {
+     "kw": "아식스라이프워커",
+     "pc": 1490,
+     "mo": 14400,
+     "vol": 15890,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 733.5,
+     "growth": null
+    },
+    {
+     "kw": "오토캠핑장",
+     "pc": 3270,
+     "mo": 12500,
+     "vol": 15770,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 224.8,
+     "growth": null
+    },
+    {
+     "kw": "가브리살",
+     "pc": 1790,
+     "mo": 13900,
+     "vol": 15690,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 246.8,
+     "growth": null
+    },
+    {
+     "kw": "워크자켓",
+     "pc": 3680,
+     "mo": 11900,
+     "vol": 15580,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 157.8,
+     "growth": null
+    },
+    {
+     "kw": "골프장",
+     "pc": 3820,
+     "mo": 11600,
+     "vol": 15420,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 42.2,
+     "growth": null
+    },
+    {
+     "kw": "워킹화",
+     "pc": 9280,
+     "mo": 6070,
+     "vol": 15350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 170.8,
+     "growth": null
+    },
+    {
+     "kw": "BMWM2",
+     "pc": 2330,
+     "mo": 12400,
+     "vol": 14730,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 14.5,
+     "growth": null
+    },
+    {
+     "kw": "나이키러닝화",
+     "pc": 4280,
+     "mo": 10300,
+     "vol": 14580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 95.2,
+     "growth": null
+    },
+    {
+     "kw": "고어텍스운동화",
+     "pc": 3540,
+     "mo": 10700,
+     "vol": 14240,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 324.4,
+     "growth": null
+    },
+    {
+     "kw": "집들이음식",
+     "pc": 3380,
+     "mo": 10700,
+     "vol": 14080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 164.5,
+     "growth": null
+    },
+    {
+     "kw": "골프모자",
+     "pc": 4090,
+     "mo": 9960,
+     "vol": 14050,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 251.9,
+     "growth": null
+    },
+    {
+     "kw": "벤틀리컨티넨탈GT",
+     "pc": 2450,
+     "mo": 11600,
+     "vol": 14050,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.1,
+     "growth": null
+    },
+    {
+     "kw": "에코골프화",
+     "pc": 3490,
+     "mo": 10500,
+     "vol": 13990,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 428.5,
+     "growth": null
+    },
+    {
+     "kw": "서울근교글램핑",
+     "pc": 2920,
+     "mo": 10900,
+     "vol": 13820,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 382.1,
+     "growth": null
+    },
+    {
+     "kw": "차박매트",
+     "pc": 7630,
+     "mo": 6100,
+     "vol": 13730,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 189.8,
+     "growth": null
+    },
+    {
+     "kw": "젝시믹스골프",
+     "pc": 1690,
+     "mo": 11900,
+     "vol": 13590,
+     "comp": "중간",
+     "depth": 4,
+     "clk": 567.6,
+     "growth": null
+    },
+    {
+     "kw": "야전침대",
+     "pc": 4370,
+     "mo": 9100,
+     "vol": 13470,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 110.6,
+     "growth": null
+    },
+    {
+     "kw": "굿즈제작",
+     "pc": 5210,
+     "mo": 7760,
+     "vol": 12970,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 796.3,
+     "growth": null
+    },
+    {
+     "kw": "아웃도어브랜드",
+     "pc": 2860,
+     "mo": 9960,
+     "vol": 12820,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 166.9,
+     "growth": null
+    },
+    {
+     "kw": "족저근막염슬리퍼",
+     "pc": 2680,
+     "mo": 9580,
+     "vol": 12260,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 406.4,
+     "growth": null
+    },
+    {
+     "kw": "인도어골프연습장",
+     "pc": 800,
+     "mo": 11100,
+     "vol": 11900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 101.8,
+     "growth": null
+    },
+    {
+     "kw": "골프레슨",
+     "pc": 1000,
+     "mo": 10800,
+     "vol": 11800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 131.7,
+     "growth": null
+    },
+    {
+     "kw": "벤틀리벤테이가",
+     "pc": 1600,
+     "mo": 10100,
+     "vol": 11700,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.1,
+     "growth": null
+    },
+    {
+     "kw": "경량안전화",
+     "pc": 2410,
+     "mo": 9100,
+     "vol": 11510,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 381.7,
+     "growth": null
+    },
+    {
+     "kw": "윈드브레이커",
+     "pc": 1760,
+     "mo": 9680,
+     "vol": 11440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 33.5,
+     "growth": null
+    },
+    {
+     "kw": "볼캡",
+     "pc": 3900,
+     "mo": 7520,
+     "vol": 11420,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 62.8,
+     "growth": null
+    },
+    {
+     "kw": "트레일러닝화",
+     "pc": 2310,
+     "mo": 9060,
+     "vol": 11370,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 162.3,
+     "growth": null
+    },
+    {
+     "kw": "호카본디",
+     "pc": 1900,
+     "mo": 9360,
+     "vol": 11260,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 312.7,
+     "growth": null
+    },
+    {
+     "kw": "골프티",
+     "pc": 2540,
+     "mo": 8190,
+     "vol": 10730,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 269.6,
+     "growth": null
+    },
+    {
+     "kw": "골프용품",
+     "pc": 3260,
+     "mo": 7410,
+     "vol": 10670,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 255.9,
+     "growth": null
+    },
+    {
+     "kw": "골프스윙연습기",
+     "pc": 2960,
+     "mo": 7630,
+     "vol": 10590,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 134.0,
+     "growth": null
+    },
+    {
+     "kw": "더시에나",
+     "pc": 3350,
+     "mo": 7140,
+     "vol": 10490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 73.7,
+     "growth": null
+    },
+    {
+     "kw": "애견동반글램핑",
+     "pc": 1580,
+     "mo": 8540,
+     "vol": 10120,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 244.7,
+     "growth": null
+    },
+    {
+     "kw": "여성골프화",
+     "pc": 2710,
+     "mo": 7170,
+     "vol": 9880,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 319.9,
+     "growth": null
+    },
+    {
+     "kw": "캠핑요리",
+     "pc": 2850,
+     "mo": 6990,
+     "vol": 9840,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 100.7,
+     "growth": null
+    },
+    {
+     "kw": "남자와이드팬츠",
+     "pc": 3540,
+     "mo": 5980,
+     "vol": 9520,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 143.8,
+     "growth": null
+    },
+    {
+     "kw": "야외테이블",
+     "pc": 3270,
+     "mo": 6060,
+     "vol": 9330,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 240.0,
+     "growth": null
+    },
+    {
+     "kw": "골프바지",
+     "pc": 3080,
+     "mo": 6070,
+     "vol": 9150,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 187.1,
+     "growth": null
+    },
+    {
+     "kw": "나이키골프웨어",
+     "pc": 1450,
+     "mo": 7640,
+     "vol": 9090,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 173.8,
+     "growth": null
+    },
+    {
+     "kw": "중고자동차",
+     "pc": 2940,
+     "mo": 6000,
+     "vol": 8940,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 746.0,
+     "growth": null
+    },
+    {
+     "kw": "남자골프웨어",
+     "pc": 3930,
+     "mo": 4910,
+     "vol": 8840,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 152.1,
+     "growth": null
+    },
+    {
+     "kw": "휴양림",
+     "pc": 3540,
+     "mo": 5270,
+     "vol": 8810,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 21.5,
+     "growth": null
+    },
+    {
+     "kw": "캠핑밀키트",
+     "pc": 2460,
+     "mo": 6260,
+     "vol": 8720,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 221.6,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 7,
     "daily": [
@@ -636,10 +4640,10 @@
       "channel": "숏박스",
       "cat": "23",
       "views": 3835061,
-      "likes": 23489,
+      "likes": 23494,
       "comments": 1819,
       "published": "2026-11-13T09:00:31Z",
-      "vph": 38087,
+      "vph": 38069,
       "rank": 23
      },
      {
@@ -647,11 +4651,11 @@
       "title": "인도의 독특한 페트병 낚시",
       "channel": "하찮은 고식씨",
       "cat": "15",
-      "views": 3060997,
-      "likes": 21261,
+      "views": 3063651,
+      "likes": 21270,
       "comments": 732,
       "published": "2026-11-12T12:00:37Z",
-      "vph": 25154,
+      "vph": 25166,
       "rank": 3
      },
      {
@@ -663,7 +4667,7 @@
       "likes": 2488,
       "comments": 784,
       "published": "2026-11-15T12:05:19Z",
-      "vph": 17876,
+      "vph": 17858,
       "rank": 35
      },
      {
@@ -671,11 +4675,11 @@
       "title": "근데 좀 귀여운건 왜지..ㅋㅋㅋ #강아지캠핑 #진돗개 #jindodog",
       "channel": "짠해줄꾸 JJAN KKU",
       "cat": "15",
-      "views": 863105,
-      "likes": 7226,
+      "views": 863493,
+      "likes": 7227,
       "comments": 540,
       "published": "2026-11-13T10:21:54Z",
-      "vph": 8689,
+      "vph": 8688,
       "rank": 43
      },
      {
@@ -683,11 +4687,11 @@
       "title": "사이버트럭 긴장시키는 기아 트럭?",
       "channel": "빌리언아이디어",
       "cat": "2",
-      "views": 305529,
+      "views": 306157,
       "likes": 576,
       "comments": 112,
       "published": "2026-11-15T11:00:31Z",
-      "vph": 6027,
+      "vph": 6034,
       "rank": 27
      },
      {
@@ -699,7 +4703,7 @@
       "likes": 2633,
       "comments": 151,
       "published": "2026-11-13T09:04:56Z",
-      "vph": 2330,
+      "vph": 2329,
       "rank": 15
      }
     ]
@@ -725,7 +4729,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 357710,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -743,7 +4747,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 113800,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -760,7 +4764,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 1332980,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -778,7 +4782,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 161300,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -789,7 +4793,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 1965790,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -802,7 +4806,1008 @@
      "name": "여가/생활편의"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "대한항공",
+     "pc": 673600,
+     "mo": 800300,
+     "vol": 1473900,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 1256.1,
+     "growth": null
+    },
+    {
+     "kw": "항공권",
+     "pc": 375600,
+     "mo": 778700,
+     "vol": 1154300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 7639.5,
+     "growth": null
+    },
+    {
+     "kw": "항공권예매",
+     "pc": 169100,
+     "mo": 808800,
+     "vol": 977900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 10014.6,
+     "growth": null
+    },
+    {
+     "kw": "비행기표예약",
+     "pc": 143800,
+     "mo": 671000,
+     "vol": 814800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 7389.9,
+     "growth": null
+    },
+    {
+     "kw": "항공권예약",
+     "pc": 91600,
+     "mo": 207700,
+     "vol": 299300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3438.8,
+     "growth": null
+    },
+    {
+     "kw": "일본",
+     "pc": 30200,
+     "mo": 129900,
+     "vol": 160100,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 168.2,
+     "growth": null
+    },
+    {
+     "kw": "비행기표",
+     "pc": 38800,
+     "mo": 112500,
+     "vol": 151300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1288.8,
+     "growth": null
+    },
+    {
+     "kw": "11월축제",
+     "pc": 27600,
+     "mo": 96000,
+     "vol": 123600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 724.0,
+     "growth": null
+    },
+    {
+     "kw": "일본여행",
+     "pc": 26500,
+     "mo": 91000,
+     "vol": 117500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2754.0,
+     "growth": null
+    },
+    {
+     "kw": "비행기예매",
+     "pc": 23100,
+     "mo": 73500,
+     "vol": 96600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1386.9,
+     "growth": null
+    },
+    {
+     "kw": "강릉가볼만한곳",
+     "pc": 10800,
+     "mo": 84700,
+     "vol": 95500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1367.2,
+     "growth": null
+    },
+    {
+     "kw": "덕구온천",
+     "pc": 15400,
+     "mo": 76900,
+     "vol": 92300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1239.4,
+     "growth": null
+    },
+    {
+     "kw": "단양가볼만한곳",
+     "pc": 8440,
+     "mo": 81200,
+     "vol": 89640,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2101.7,
+     "growth": null
+    },
+    {
+     "kw": "서울가볼만한곳",
+     "pc": 10800,
+     "mo": 75700,
+     "vol": 86500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 810.9,
+     "growth": null
+    },
+    {
+     "kw": "비행기",
+     "pc": 21900,
+     "mo": 61300,
+     "vol": 83200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 761.7,
+     "growth": null
+    },
+    {
+     "kw": "속초가볼만한곳",
+     "pc": 8930,
+     "mo": 72800,
+     "vol": 81730,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1752.0,
+     "growth": null
+    },
+    {
+     "kw": "모텔",
+     "pc": 2490,
+     "mo": 74800,
+     "vol": 77290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 720.1,
+     "growth": null
+    },
+    {
+     "kw": "예약",
+     "pc": 19600,
+     "mo": 55400,
+     "vol": 75000,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 0.0,
+     "growth": null
+    },
+    {
+     "kw": "호텔",
+     "pc": 14900,
+     "mo": 50700,
+     "vol": 65600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 794.9,
+     "growth": null
+    },
+    {
+     "kw": "땡처리항공권",
+     "pc": 16300,
+     "mo": 43500,
+     "vol": 59800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 4291.5,
+     "growth": null
+    },
+    {
+     "kw": "경주숙소",
+     "pc": 13700,
+     "mo": 45800,
+     "vol": 59500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1299.5,
+     "growth": null
+    },
+    {
+     "kw": "대한민국구석구석",
+     "pc": 24200,
+     "mo": 29600,
+     "vol": 53800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 32.8,
+     "growth": null
+    },
+    {
+     "kw": "강릉호텔",
+     "pc": 9560,
+     "mo": 41300,
+     "vol": 50860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 718.6,
+     "growth": null
+    },
+    {
+     "kw": "항공",
+     "pc": 16500,
+     "mo": 33900,
+     "vol": 50400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 292.8,
+     "growth": null
+    },
+    {
+     "kw": "크루즈여행",
+     "pc": 8810,
+     "mo": 41500,
+     "vol": 50310,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2867.3,
+     "growth": null
+    },
+    {
+     "kw": "펜션",
+     "pc": 10000,
+     "mo": 36600,
+     "vol": 46600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 354.2,
+     "growth": null
+    },
+    {
+     "kw": "울산가볼만한곳",
+     "pc": 4650,
+     "mo": 41600,
+     "vol": 46250,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 466.6,
+     "growth": null
+    },
+    {
+     "kw": "속초호텔",
+     "pc": 7760,
+     "mo": 36100,
+     "vol": 43860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1099.2,
+     "growth": null
+    },
+    {
+     "kw": "호텔예약",
+     "pc": 15200,
+     "mo": 28400,
+     "vol": 43600,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1970.2,
+     "growth": null
+    },
+    {
+     "kw": "부산숙소",
+     "pc": 9810,
+     "mo": 32300,
+     "vol": 42110,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 932.3,
+     "growth": null
+    },
+    {
+     "kw": "진에어항공",
+     "pc": 8830,
+     "mo": 32600,
+     "vol": 41430,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 565.8,
+     "growth": null
+    },
+    {
+     "kw": "부여가볼만한곳",
+     "pc": 4690,
+     "mo": 36000,
+     "vol": 40690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 774.0,
+     "growth": null
+    },
+    {
+     "kw": "경기도가볼만한곳",
+     "pc": 4190,
+     "mo": 36500,
+     "vol": 40690,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 880.6,
+     "growth": null
+    },
+    {
+     "kw": "경주호텔",
+     "pc": 8150,
+     "mo": 31700,
+     "vol": 39850,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 764.3,
+     "growth": null
+    },
+    {
+     "kw": "제주가볼만한곳",
+     "pc": 4630,
+     "mo": 31900,
+     "vol": 36530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 715.7,
+     "growth": null
+    },
+    {
+     "kw": "하코다테",
+     "pc": 7500,
+     "mo": 26600,
+     "vol": 34100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 96.3,
+     "growth": null
+    },
+    {
+     "kw": "속초숙소",
+     "pc": 6800,
+     "mo": 27200,
+     "vol": 34000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 888.8,
+     "growth": null
+    },
+    {
+     "kw": "강원도가볼만한곳",
+     "pc": 3430,
+     "mo": 30100,
+     "vol": 33530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 859.4,
+     "growth": null
+    },
+    {
+     "kw": "비행기예약",
+     "pc": 12900,
+     "mo": 20300,
+     "vol": 33200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 288.2,
+     "growth": null
+    },
+    {
+     "kw": "일본크루즈여행",
+     "pc": 3410,
+     "mo": 29700,
+     "vol": 33110,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2848.7,
+     "growth": null
+    },
+    {
+     "kw": "평창가볼만한곳",
+     "pc": 3350,
+     "mo": 28600,
+     "vol": 31950,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 432.9,
+     "growth": null
+    },
+    {
+     "kw": "제주도숙소",
+     "pc": 10700,
+     "mo": 19400,
+     "vol": 30100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 567.0,
+     "growth": null
+    },
+    {
+     "kw": "가을축제",
+     "pc": 6710,
+     "mo": 23300,
+     "vol": 30010,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 372.2,
+     "growth": null
+    },
+    {
+     "kw": "패키지여행",
+     "pc": 7620,
+     "mo": 20900,
+     "vol": 28520,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 911.9,
+     "growth": null
+    },
+    {
+     "kw": "해외여행",
+     "pc": 6650,
+     "mo": 21700,
+     "vol": 28350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 476.9,
+     "growth": null
+    },
+    {
+     "kw": "일본온천여행",
+     "pc": 6560,
+     "mo": 21200,
+     "vol": 27760,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 762.4,
+     "growth": null
+    },
+    {
+     "kw": "제주도호텔",
+     "pc": 7320,
+     "mo": 19700,
+     "vol": 27020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 316.8,
+     "growth": null
+    },
+    {
+     "kw": "여수숙소",
+     "pc": 6320,
+     "mo": 20500,
+     "vol": 26820,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 724.4,
+     "growth": null
+    },
+    {
+     "kw": "항공권특가",
+     "pc": 8550,
+     "mo": 18200,
+     "vol": 26750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1232.8,
+     "growth": null
+    },
+    {
+     "kw": "모두투어패키지",
+     "pc": 4890,
+     "mo": 21700,
+     "vol": 26590,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 670.6,
+     "growth": null
+    },
+    {
+     "kw": "대전호텔",
+     "pc": 5550,
+     "mo": 20500,
+     "vol": 26050,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 322.2,
+     "growth": null
+    },
+    {
+     "kw": "제주호텔",
+     "pc": 6310,
+     "mo": 19400,
+     "vol": 25710,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 388.4,
+     "growth": null
+    },
+    {
+     "kw": "여수호텔",
+     "pc": 5220,
+     "mo": 19700,
+     "vol": 24920,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 518.2,
+     "growth": null
+    },
+    {
+     "kw": "훗카이도",
+     "pc": 4390,
+     "mo": 20200,
+     "vol": 24590,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 99.5,
+     "growth": null
+    },
+    {
+     "kw": "국내여행",
+     "pc": 8170,
+     "mo": 16300,
+     "vol": 24470,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 497.4,
+     "growth": null
+    },
+    {
+     "kw": "서울숙소",
+     "pc": 5570,
+     "mo": 18900,
+     "vol": 24470,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 655.9,
+     "growth": null
+    },
+    {
+     "kw": "제주도여행",
+     "pc": 7300,
+     "mo": 16500,
+     "vol": 23800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 585.0,
+     "growth": null
+    },
+    {
+     "kw": "숙소",
+     "pc": 5710,
+     "mo": 16600,
+     "vol": 22310,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 556.0,
+     "growth": null
+    },
+    {
+     "kw": "제주숙소",
+     "pc": 6780,
+     "mo": 15500,
+     "vol": 22280,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 531.2,
+     "growth": null
+    },
+    {
+     "kw": "부산놀거리",
+     "pc": 4010,
+     "mo": 17700,
+     "vol": 21710,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 149.0,
+     "growth": null
+    },
+    {
+     "kw": "제주도가볼만한곳",
+     "pc": 3810,
+     "mo": 17800,
+     "vol": 21610,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 349.7,
+     "growth": null
+    },
+    {
+     "kw": "저가항공",
+     "pc": 3750,
+     "mo": 17200,
+     "vol": 20950,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 390.0,
+     "growth": null
+    },
+    {
+     "kw": "제주도펜션",
+     "pc": 4960,
+     "mo": 14900,
+     "vol": 19860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 474.6,
+     "growth": null
+    },
+    {
+     "kw": "홋카이도",
+     "pc": 3480,
+     "mo": 16000,
+     "vol": 19480,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 162.8,
+     "growth": null
+    },
+    {
+     "kw": "항공권검색",
+     "pc": 9520,
+     "mo": 9570,
+     "vol": 19090,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 243.9,
+     "growth": null
+    },
+    {
+     "kw": "제주도관광",
+     "pc": 3110,
+     "mo": 15000,
+     "vol": 18110,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 523.5,
+     "growth": null
+    },
+    {
+     "kw": "항공편",
+     "pc": 6040,
+     "mo": 11200,
+     "vol": 17240,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 111.6,
+     "growth": null
+    },
+    {
+     "kw": "일본골프여행",
+     "pc": 5430,
+     "mo": 11600,
+     "vol": 17030,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 835.1,
+     "growth": null
+    },
+    {
+     "kw": "2박3일일본여행",
+     "pc": 4740,
+     "mo": 12000,
+     "vol": 16740,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 836.2,
+     "growth": null
+    },
+    {
+     "kw": "일본여행지추천",
+     "pc": 2950,
+     "mo": 12700,
+     "vol": 15650,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 196.3,
+     "growth": null
+    },
+    {
+     "kw": "광안리호텔",
+     "pc": 4140,
+     "mo": 11500,
+     "vol": 15640,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 233.1,
+     "growth": null
+    },
+    {
+     "kw": "일본여행준비물",
+     "pc": 3260,
+     "mo": 12200,
+     "vol": 15460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 60.8,
+     "growth": null
+    },
+    {
+     "kw": "해외항공권",
+     "pc": 4100,
+     "mo": 11100,
+     "vol": 15200,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 164.1,
+     "growth": null
+    },
+    {
+     "kw": "일본여행추천",
+     "pc": 3090,
+     "mo": 12000,
+     "vol": 15090,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 443.6,
+     "growth": null
+    },
+    {
+     "kw": "11월여행지추천",
+     "pc": 2180,
+     "mo": 12900,
+     "vol": 15080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 171.1,
+     "growth": null
+    },
+    {
+     "kw": "료칸",
+     "pc": 2960,
+     "mo": 12100,
+     "vol": 15060,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 63.2,
+     "growth": null
+    },
+    {
+     "kw": "일본패키지여행",
+     "pc": 2410,
+     "mo": 12600,
+     "vol": 15010,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 596.0,
+     "growth": null
+    },
+    {
+     "kw": "비행기티켓",
+     "pc": 4140,
+     "mo": 10400,
+     "vol": 14540,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 165.9,
+     "growth": null
+    },
+    {
+     "kw": "땡처리투어",
+     "pc": 4720,
+     "mo": 9780,
+     "vol": 14500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 912.7,
+     "growth": null
+    },
+    {
+     "kw": "김해공항국제선",
+     "pc": 1850,
+     "mo": 12500,
+     "vol": 14350,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 114.0,
+     "growth": null
+    },
+    {
+     "kw": "리조트",
+     "pc": 4190,
+     "mo": 9250,
+     "vol": 13440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 59.0,
+     "growth": null
+    },
+    {
+     "kw": "대한항공예약",
+     "pc": 4070,
+     "mo": 9270,
+     "vol": 13340,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 204.3,
+     "growth": null
+    },
+    {
+     "kw": "할인항공권",
+     "pc": 3470,
+     "mo": 9700,
+     "vol": 13170,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 218.8,
+     "growth": null
+    },
+    {
+     "kw": "촌캉스",
+     "pc": 2670,
+     "mo": 10500,
+     "vol": 13170,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 245.8,
+     "growth": null
+    },
+    {
+     "kw": "부산오사카배편",
+     "pc": 3390,
+     "mo": 9440,
+     "vol": 12830,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 392.0,
+     "growth": null
+    },
+    {
+     "kw": "숙박",
+     "pc": 3570,
+     "mo": 9190,
+     "vol": 12760,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 297.0,
+     "growth": null
+    },
+    {
+     "kw": "항공편조회",
+     "pc": 2970,
+     "mo": 9570,
+     "vol": 12540,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 105.5,
+     "growth": null
+    },
+    {
+     "kw": "오타루",
+     "pc": 2750,
+     "mo": 9670,
+     "vol": 12420,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 36.1,
+     "growth": null
+    },
+    {
+     "kw": "국제선항공권",
+     "pc": 3150,
+     "mo": 9140,
+     "vol": 12290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 108.4,
+     "growth": null
+    },
+    {
+     "kw": "해운대놀거리",
+     "pc": 1470,
+     "mo": 10700,
+     "vol": 12170,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 120.5,
+     "growth": null
+    },
+    {
+     "kw": "당일치기여행",
+     "pc": 1920,
+     "mo": 9950,
+     "vol": 11870,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 224.5,
+     "growth": null
+    },
+    {
+     "kw": "온천호텔",
+     "pc": 3630,
+     "mo": 8090,
+     "vol": 11720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 187.0,
+     "growth": null
+    },
+    {
+     "kw": "국내항공권예매",
+     "pc": 1960,
+     "mo": 8970,
+     "vol": 10930,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 187.7,
+     "growth": null
+    },
+    {
+     "kw": "KTX할인",
+     "pc": 1820,
+     "mo": 8930,
+     "vol": 10750,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 150.6,
+     "growth": null
+    },
+    {
+     "kw": "에어텔",
+     "pc": 3170,
+     "mo": 7460,
+     "vol": 10630,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 627.7,
+     "growth": null
+    },
+    {
+     "kw": "비행기표예매",
+     "pc": 3330,
+     "mo": 6570,
+     "vol": 9900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 99.1,
+     "growth": null
+    },
+    {
+     "kw": "항공권가격비교사이트",
+     "pc": 3300,
+     "mo": 6350,
+     "vol": 9650,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 675.7,
+     "growth": null
+    },
+    {
+     "kw": "호캉스",
+     "pc": 1980,
+     "mo": 7510,
+     "vol": 9490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 98.7,
+     "growth": null
+    },
+    {
+     "kw": "숙소예약",
+     "pc": 3430,
+     "mo": 6000,
+     "vol": 9430,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 676.9,
+     "growth": null
+    },
+    {
+     "kw": "레지던스",
+     "pc": 2610,
+     "mo": 6680,
+     "vol": 9290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 72.3,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 19,
     "daily": [
@@ -818,10 +5823,10 @@
       "channel": "토파리뷰",
       "cat": "24",
       "views": 13003266,
-      "likes": 81591,
+      "likes": 81597,
       "comments": 4048,
       "published": "2026-11-05T09:24:05Z",
-      "vph": 44486,
+      "vph": 44479,
       "rank": 34
      },
      {
@@ -829,11 +5834,11 @@
       "title": "23살이지만 우동 장인의 길을 걷는 여성 셰프",
       "channel": "공간 탐닉 Space Tamnik",
       "cat": "19",
-      "views": 3369877,
-      "likes": 39456,
-      "comments": 1979,
+      "views": 3370534,
+      "likes": 39464,
+      "comments": 1980,
       "published": "2026-11-09T10:30:39Z",
-      "vph": 17265,
+      "vph": 17264,
       "rank": 26
      },
      {
@@ -841,11 +5846,11 @@
       "title": "디테일이 남다른 일본의 맥주 따르는 법",
       "channel": "쇼츠츄러스",
       "cat": "22",
-      "views": 2547302,
-      "likes": 23879,
+      "views": 2549438,
+      "likes": 23891,
       "comments": 569,
       "published": "2026-11-15T01:00:36Z",
-      "vph": 41972,
+      "vph": 41973,
       "rank": 1
      },
      {
@@ -853,11 +5858,11 @@
       "title": "절대 만지면 안 되는 고양이의 예민한 부위",
       "channel": "그루밍데이 고양이cat vlog",
       "cat": "15",
-      "views": 1811369,
-      "likes": 16564,
+      "views": 1812550,
+      "likes": 16571,
       "comments": 241,
       "published": "2026-11-11T11:00:02Z",
-      "vph": 12347,
+      "vph": 12351,
       "rank": 33
      },
      {
@@ -866,10 +5871,10 @@
       "channel": "예뿡거",
       "cat": "22",
       "views": 1407911,
-      "likes": 22612,
-      "comments": 592,
+      "likes": 22632,
+      "comments": 594,
       "published": "2026-11-14T03:00:34Z",
-      "vph": 17026,
+      "vph": 17016,
       "rank": 8
      },
      {
@@ -877,11 +5882,11 @@
       "title": "유부남이 꿈꾸는 가족 여행..",
       "channel": "83부부",
       "cat": "22",
-      "views": 1294007,
-      "likes": 15869,
-      "comments": 800,
+      "views": 1294408,
+      "likes": 15873,
+      "comments": 801,
       "published": "2026-11-15T01:15:20Z",
-      "vph": 21408,
+      "vph": 21397,
       "rank": 37
      }
     ]
@@ -904,9 +5909,9 @@
         "source": "금강일보"
        },
        {
-        "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
-        "source": "BNT뉴스"
+        "title": "김용빈·손빈아·천록담 등 '미스터트롯3' 전국투어 대구..신곡 '살아보니' 떼창→3시간 압도 성료",
+        "url": "https://www.starnewskorea.com/music/2026/11/10/2026111008265428947",
+        "source": "스타뉴스"
        }
       ],
       "n": 1,
@@ -930,7 +5935,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 469030,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -947,7 +5952,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 133540,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -964,7 +5969,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 174070,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -981,7 +5986,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 128330,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -992,7 +5997,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 904970,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -1009,7 +6014,1008 @@
      "name": "식품"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "피부과",
+     "pc": 25400,
+     "mo": 351700,
+     "vol": 377100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 827.2,
+     "growth": null
+    },
+    {
+     "kw": "유산균",
+     "pc": 25700,
+     "mo": 80400,
+     "vol": 106100,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 1482.3,
+     "growth": null
+    },
+    {
+     "kw": "단백질쉐이크",
+     "pc": 16600,
+     "mo": 65700,
+     "vol": 82300,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 1497.9,
+     "growth": null
+    },
+    {
+     "kw": "리쥬란",
+     "pc": 13400,
+     "mo": 51400,
+     "vol": 64800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 79.4,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐",
+     "pc": 15400,
+     "mo": 40400,
+     "vol": 55800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 252.5,
+     "growth": null
+    },
+    {
+     "kw": "비오틴",
+     "pc": 8240,
+     "mo": 26600,
+     "vol": 34840,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 370.6,
+     "growth": null
+    },
+    {
+     "kw": "홍삼",
+     "pc": 7830,
+     "mo": 26700,
+     "vol": 34530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 382.3,
+     "growth": null
+    },
+    {
+     "kw": "프로바이오틱스",
+     "pc": 15900,
+     "mo": 18000,
+     "vol": 33900,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 53.0,
+     "growth": null
+    },
+    {
+     "kw": "프로틴",
+     "pc": 7080,
+     "mo": 26400,
+     "vol": 33480,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 390.2,
+     "growth": null
+    },
+    {
+     "kw": "단백질보충제",
+     "pc": 5990,
+     "mo": 21800,
+     "vol": 27790,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 586.6,
+     "growth": null
+    },
+    {
+     "kw": "프로바이오틱스유산균",
+     "pc": 4480,
+     "mo": 22800,
+     "vol": 27280,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 544.5,
+     "growth": null
+    },
+    {
+     "kw": "덴마크",
+     "pc": 6050,
+     "mo": 19300,
+     "vol": 25350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 21.5,
+     "growth": null
+    },
+    {
+     "kw": "모발콜라겐",
+     "pc": 1790,
+     "mo": 23000,
+     "vol": 24790,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 667.2,
+     "growth": null
+    },
+    {
+     "kw": "오메가3추천",
+     "pc": 6340,
+     "mo": 17100,
+     "vol": 23440,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 184.3,
+     "growth": null
+    },
+    {
+     "kw": "두드러기",
+     "pc": 1980,
+     "mo": 17400,
+     "vol": 19380,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 53.9,
+     "growth": null
+    },
+    {
+     "kw": "홍삼스틱",
+     "pc": 9790,
+     "mo": 9110,
+     "vol": 18900,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 78.9,
+     "growth": null
+    },
+    {
+     "kw": "영양제",
+     "pc": 4610,
+     "mo": 14000,
+     "vol": 18610,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 214.3,
+     "growth": null
+    },
+    {
+     "kw": "유산균추천",
+     "pc": 3220,
+     "mo": 15100,
+     "vol": 18320,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 317.4,
+     "growth": null
+    },
+    {
+     "kw": "유당불내증",
+     "pc": 2480,
+     "mo": 15300,
+     "vol": 17780,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.4,
+     "growth": null
+    },
+    {
+     "kw": "단백질",
+     "pc": 3160,
+     "mo": 14200,
+     "vol": 17360,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 88.9,
+     "growth": null
+    },
+    {
+     "kw": "저분자콜라겐",
+     "pc": 4540,
+     "mo": 11700,
+     "vol": 16240,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 197.0,
+     "growth": null
+    },
+    {
+     "kw": "리쥬란힐러",
+     "pc": 3300,
+     "mo": 10800,
+     "vol": 14100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 21.0,
+     "growth": null
+    },
+    {
+     "kw": "홍삼의효능",
+     "pc": 530,
+     "mo": 13400,
+     "vol": 13930,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 170.4,
+     "growth": null
+    },
+    {
+     "kw": "WPC",
+     "pc": 7610,
+     "mo": 5030,
+     "vol": 12640,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 73.0,
+     "growth": null
+    },
+    {
+     "kw": "산양유단백질",
+     "pc": 2600,
+     "mo": 8770,
+     "vol": 11370,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 318.3,
+     "growth": null
+    },
+    {
+     "kw": "닥터린",
+     "pc": 2630,
+     "mo": 8490,
+     "vol": 11120,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 7.2,
+     "growth": null
+    },
+    {
+     "kw": "여자친구생일선물",
+     "pc": 3890,
+     "mo": 6830,
+     "vol": 10720,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 84.0,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐효능",
+     "pc": 1420,
+     "mo": 8560,
+     "vol": 9980,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 211.1,
+     "growth": null
+    },
+    {
+     "kw": "올인원영양제",
+     "pc": 2610,
+     "mo": 6920,
+     "vol": 9530,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 354.7,
+     "growth": null
+    },
+    {
+     "kw": "홍삼액",
+     "pc": 280,
+     "mo": 9250,
+     "vol": 9530,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 121.5,
+     "growth": null
+    },
+    {
+     "kw": "엑소좀",
+     "pc": 2410,
+     "mo": 6740,
+     "vol": 9150,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 55.9,
+     "growth": null
+    },
+    {
+     "kw": "홍삼진액",
+     "pc": 860,
+     "mo": 8190,
+     "vol": 9050,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 166.8,
+     "growth": null
+    },
+    {
+     "kw": "물광주사",
+     "pc": 1320,
+     "mo": 7670,
+     "vol": 8990,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 35.1,
+     "growth": null
+    },
+    {
+     "kw": "비오틴영양제",
+     "pc": 1330,
+     "mo": 7000,
+     "vol": 8330,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 112.9,
+     "growth": null
+    },
+    {
+     "kw": "단백질파우더",
+     "pc": 1520,
+     "mo": 6640,
+     "vol": 8160,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 142.8,
+     "growth": null
+    },
+    {
+     "kw": "홍삼효능",
+     "pc": 560,
+     "mo": 7580,
+     "vol": 8140,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 22.7,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐팩",
+     "pc": 2410,
+     "mo": 5610,
+     "vol": 8020,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 150.7,
+     "growth": null
+    },
+    {
+     "kw": "프리바이오틱스",
+     "pc": 2930,
+     "mo": 5020,
+     "vol": 7950,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 121.1,
+     "growth": null
+    },
+    {
+     "kw": "초저분자어린콜라겐",
+     "pc": 410,
+     "mo": 7410,
+     "vol": 7820,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 430.8,
+     "growth": null
+    },
+    {
+     "kw": "바이오틱스",
+     "pc": 6470,
+     "mo": 660,
+     "vol": 7130,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 5.7,
+     "growth": null
+    },
+    {
+     "kw": "WPI프로틴",
+     "pc": 1310,
+     "mo": 5650,
+     "vol": 6960,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 120.5,
+     "growth": null
+    },
+    {
+     "kw": "테이크핏",
+     "pc": 1380,
+     "mo": 5420,
+     "vol": 6800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 27.6,
+     "growth": null
+    },
+    {
+     "kw": "영양제추천",
+     "pc": 1640,
+     "mo": 4900,
+     "vol": 6540,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 137.1,
+     "growth": null
+    },
+    {
+     "kw": "펩타이드",
+     "pc": 1250,
+     "mo": 5280,
+     "vol": 6530,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 58.1,
+     "growth": null
+    },
+    {
+     "kw": "건강기능식품",
+     "pc": 3480,
+     "mo": 3010,
+     "vol": 6490,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 46.4,
+     "growth": null
+    },
+    {
+     "kw": "생유산균",
+     "pc": 540,
+     "mo": 5720,
+     "vol": 6260,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 85.9,
+     "growth": null
+    },
+    {
+     "kw": "스승의날",
+     "pc": 990,
+     "mo": 5080,
+     "vol": 6070,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.2,
+     "growth": null
+    },
+    {
+     "kw": "먹는콜라겐",
+     "pc": 3460,
+     "mo": 2520,
+     "vol": 5980,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 55.2,
+     "growth": null
+    },
+    {
+     "kw": "고초균",
+     "pc": 470,
+     "mo": 5440,
+     "vol": 5910,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 43.8,
+     "growth": null
+    },
+    {
+     "kw": "정관장홍삼진고",
+     "pc": 590,
+     "mo": 5280,
+     "vol": 5870,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 126.7,
+     "growth": null
+    },
+    {
+     "kw": "장유산균",
+     "pc": 870,
+     "mo": 4990,
+     "vol": 5860,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 67.3,
+     "growth": null
+    },
+    {
+     "kw": "홍삼제품",
+     "pc": 180,
+     "mo": 5600,
+     "vol": 5780,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 63.8,
+     "growth": null
+    },
+    {
+     "kw": "어버이날",
+     "pc": 1230,
+     "mo": 4540,
+     "vol": 5770,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 0.3,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐크림",
+     "pc": 2810,
+     "mo": 2870,
+     "vol": 5680,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 61.6,
+     "growth": null
+    },
+    {
+     "kw": "부모님선물",
+     "pc": 3370,
+     "mo": 2240,
+     "vol": 5610,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 10.2,
+     "growth": null
+    },
+    {
+     "kw": "종합영양제",
+     "pc": 870,
+     "mo": 4710,
+     "vol": 5580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.0,
+     "growth": null
+    },
+    {
+     "kw": "홍삼종류",
+     "pc": 110,
+     "mo": 5350,
+     "vol": 5460,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 54.3,
+     "growth": null
+    },
+    {
+     "kw": "유산균효능",
+     "pc": 730,
+     "mo": 4590,
+     "vol": 5320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.9,
+     "growth": null
+    },
+    {
+     "kw": "프로바이오유산균",
+     "pc": 370,
+     "mo": 4290,
+     "vol": 4660,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 47.8,
+     "growth": null
+    },
+    {
+     "kw": "저분자피쉬콜라겐",
+     "pc": 1080,
+     "mo": 3550,
+     "vol": 4630,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 82.9,
+     "growth": null
+    },
+    {
+     "kw": "유청단백질",
+     "pc": 750,
+     "mo": 3770,
+     "vol": 4520,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 71.5,
+     "growth": null
+    },
+    {
+     "kw": "단백질쉐이크추천",
+     "pc": 1270,
+     "mo": 3170,
+     "vol": 4440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 34.1,
+     "growth": null
+    },
+    {
+     "kw": "30대남자선물",
+     "pc": 750,
+     "mo": 3600,
+     "vol": 4350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 19.4,
+     "growth": null
+    },
+    {
+     "kw": "프로틴쉐이크",
+     "pc": 1040,
+     "mo": 3260,
+     "vol": 4300,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 52.3,
+     "growth": null
+    },
+    {
+     "kw": "프락토올리고당",
+     "pc": 660,
+     "mo": 3580,
+     "vol": 4240,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 37.5,
+     "growth": null
+    },
+    {
+     "kw": "홍삼스틱100포",
+     "pc": 180,
+     "mo": 3890,
+     "vol": 4070,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 20.4,
+     "growth": null
+    },
+    {
+     "kw": "어린콜라겐",
+     "pc": 3130,
+     "mo": 910,
+     "vol": 4040,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 7.0,
+     "growth": null
+    },
+    {
+     "kw": "액상콜라겐",
+     "pc": 3010,
+     "mo": 1000,
+     "vol": 4010,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 22.2,
+     "growth": null
+    },
+    {
+     "kw": "테이크핏프로틴",
+     "pc": 420,
+     "mo": 3530,
+     "vol": 3950,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 60.7,
+     "growth": null
+    },
+    {
+     "kw": "고함량콜라겐",
+     "pc": 3060,
+     "mo": 860,
+     "vol": 3920,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 21.9,
+     "growth": null
+    },
+    {
+     "kw": "프로틴단백질",
+     "pc": 370,
+     "mo": 3520,
+     "vol": 3890,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 85.2,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐음식",
+     "pc": 760,
+     "mo": 2970,
+     "vol": 3730,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 43.1,
+     "growth": null
+    },
+    {
+     "kw": "유산균효과",
+     "pc": 730,
+     "mo": 2850,
+     "vol": 3580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.0,
+     "growth": null
+    },
+    {
+     "kw": "홍삼액기스",
+     "pc": 150,
+     "mo": 3390,
+     "vol": 3540,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 20.1,
+     "growth": null
+    },
+    {
+     "kw": "먹는유산균",
+     "pc": 2370,
+     "mo": 1080,
+     "vol": 3450,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 1.3,
+     "growth": null
+    },
+    {
+     "kw": "포스트바이오틱스",
+     "pc": 1160,
+     "mo": 2280,
+     "vol": 3440,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 37.7,
+     "growth": null
+    },
+    {
+     "kw": "남자유산균",
+     "pc": 3090,
+     "mo": 320,
+     "vol": 3410,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 2.5,
+     "growth": null
+    },
+    {
+     "kw": "WPI",
+     "pc": 980,
+     "mo": 2410,
+     "vol": 3390,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 18.7,
+     "growth": null
+    },
+    {
+     "kw": "홍삼선물세트",
+     "pc": 2590,
+     "mo": 790,
+     "vol": 3380,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.8,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐앰플",
+     "pc": 2510,
+     "mo": 820,
+     "vol": 3330,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 18.1,
+     "growth": null
+    },
+    {
+     "kw": "고함량유산균",
+     "pc": 3210,
+     "mo": 80,
+     "vol": 3290,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 5.9,
+     "growth": null
+    },
+    {
+     "kw": "비비랩콜라겐",
+     "pc": 370,
+     "mo": 2820,
+     "vol": 3190,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 75.4,
+     "growth": null
+    },
+    {
+     "kw": "장에좋은유산균",
+     "pc": 360,
+     "mo": 2830,
+     "vol": 3190,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 59.1,
+     "growth": null
+    },
+    {
+     "kw": "30대여자선물",
+     "pc": 550,
+     "mo": 2630,
+     "vol": 3180,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 19.3,
+     "growth": null
+    },
+    {
+     "kw": "피부영양제",
+     "pc": 940,
+     "mo": 2150,
+     "vol": 3090,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 41.2,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐추천",
+     "pc": 1610,
+     "mo": 1410,
+     "vol": 3020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 34.8,
+     "growth": null
+    },
+    {
+     "kw": "식물성콜라겐",
+     "pc": 2710,
+     "mo": 270,
+     "vol": 2980,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 7.4,
+     "growth": null
+    },
+    {
+     "kw": "프로바이오틱스유산균추천",
+     "pc": 410,
+     "mo": 2570,
+     "vol": 2980,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 23.8,
+     "growth": null
+    },
+    {
+     "kw": "프로틴추천",
+     "pc": 1250,
+     "mo": 1700,
+     "vol": 2950,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 13.6,
+     "growth": null
+    },
+    {
+     "kw": "비오틴추천",
+     "pc": 1190,
+     "mo": 1700,
+     "vol": 2890,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 26.4,
+     "growth": null
+    },
+    {
+     "kw": "단백질식단",
+     "pc": 650,
+     "mo": 2240,
+     "vol": 2890,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 35.2,
+     "growth": null
+    },
+    {
+     "kw": "무기질",
+     "pc": 530,
+     "mo": 2300,
+     "vol": 2830,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.9,
+     "growth": null
+    },
+    {
+     "kw": "시어머니생신선물",
+     "pc": 420,
+     "mo": 2410,
+     "vol": 2830,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 19.1,
+     "growth": null
+    },
+    {
+     "kw": "장건강유산균",
+     "pc": 390,
+     "mo": 2410,
+     "vol": 2800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 26.0,
+     "growth": null
+    },
+    {
+     "kw": "펩타이드효능",
+     "pc": 320,
+     "mo": 2470,
+     "vol": 2790,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 20.3,
+     "growth": null
+    },
+    {
+     "kw": "홍삼진고",
+     "pc": 410,
+     "mo": 2370,
+     "vol": 2780,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 78.6,
+     "growth": null
+    },
+    {
+     "kw": "어버이날선물",
+     "pc": 2530,
+     "mo": 230,
+     "vol": 2760,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 1.1,
+     "growth": null
+    },
+    {
+     "kw": "콜라겐젤리",
+     "pc": 970,
+     "mo": 1790,
+     "vol": 2760,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 45.4,
+     "growth": null
+    },
+    {
+     "kw": "석류콜라겐",
+     "pc": 1830,
+     "mo": 920,
+     "vol": 2750,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 19.7,
+     "growth": null
+    },
+    {
+     "kw": "홍삼농축액",
+     "pc": 150,
+     "mo": 2590,
+     "vol": 2740,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 13.8,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 1,
     "daily": [
@@ -1024,11 +7030,11 @@
       "title": "이거 알고 빵집 끊었어요! 🍪 1분 완성 다이어트 간식 레시피",
       "channel": "일등감의 쉬운 레시피",
       "cat": "26",
-      "views": 949081,
+      "views": 949308,
       "likes": 3928,
       "comments": 28,
       "published": "2026-11-13T12:30:16Z",
-      "vph": 9765,
+      "vph": 9762,
       "rank": 31
      }
     ]
@@ -1052,7 +7058,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 3610,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -1069,7 +7075,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 80420,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -1086,7 +7092,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 20610,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -1103,7 +7109,7 @@
      ],
      "monthly": [],
      "daily": [],
-     "vol": null,
+     "vol": 162280,
      "yoy": null,
      "mom3": null,
      "last": null,
@@ -1114,7 +7120,7 @@
    "total": {
     "monthly": [],
     "daily": [],
-    "vol": null,
+    "vol": 266920,
     "yoy": null,
     "mom3": null,
     "last": null,
@@ -1127,7 +7133,1008 @@
      "name": "도서"
     }
    ],
-   "related": [],
+   "related": [
+    {
+     "kw": "챗GPT",
+     "pc": 2332700,
+     "mo": 1891600,
+     "vol": 4224300,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 798.1,
+     "growth": null
+    },
+    {
+     "kw": "CHATGPT",
+     "pc": 1249800,
+     "mo": 798500,
+     "vol": 2048300,
+     "comp": "중간",
+     "depth": 6,
+     "clk": 61.4,
+     "growth": null
+    },
+    {
+     "kw": "GPT",
+     "pc": 351200,
+     "mo": 85600,
+     "vol": 436800,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 117.0,
+     "growth": null
+    },
+    {
+     "kw": "AI",
+     "pc": 48200,
+     "mo": 108900,
+     "vol": 157100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 518.3,
+     "growth": null
+    },
+    {
+     "kw": "내일배움카드",
+     "pc": 45900,
+     "mo": 85000,
+     "vol": 130900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 384.5,
+     "growth": null
+    },
+    {
+     "kw": "타자연습",
+     "pc": 73400,
+     "mo": 9330,
+     "vol": 82730,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 1407.6,
+     "growth": null
+    },
+    {
+     "kw": "챗GPT무료",
+     "pc": 25000,
+     "mo": 20100,
+     "vol": 45100,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 297.9,
+     "growth": null
+    },
+    {
+     "kw": "내일배움카드신청",
+     "pc": 12400,
+     "mo": 32000,
+     "vol": 44400,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 82.9,
+     "growth": null
+    },
+    {
+     "kw": "국민내일배움카드",
+     "pc": 11500,
+     "mo": 26400,
+     "vol": 37900,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 107.3,
+     "growth": null
+    },
+    {
+     "kw": "ITQ자격증",
+     "pc": 11400,
+     "mo": 22400,
+     "vol": 33800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 87.2,
+     "growth": null
+    },
+    {
+     "kw": "GITHUB",
+     "pc": 19500,
+     "mo": 9900,
+     "vol": 29400,
+     "comp": "중간",
+     "depth": 7,
+     "clk": 27.5,
+     "growth": null
+    },
+    {
+     "kw": "컴활2급필기",
+     "pc": 7150,
+     "mo": 21000,
+     "vol": 28150,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 68.8,
+     "growth": null
+    },
+    {
+     "kw": "오픈AI",
+     "pc": 11400,
+     "mo": 15600,
+     "vol": 27000,
+     "comp": "높음",
+     "depth": 3,
+     "clk": 13.3,
+     "growth": null
+    },
+    {
+     "kw": "미드저니",
+     "pc": 16900,
+     "mo": 9420,
+     "vol": 26320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 31.5,
+     "growth": null
+    },
+    {
+     "kw": "파이썬",
+     "pc": 16400,
+     "mo": 7700,
+     "vol": 24100,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 21.1,
+     "growth": null
+    },
+    {
+     "kw": "삼프로TV",
+     "pc": 6250,
+     "mo": 14700,
+     "vol": 20950,
+     "comp": "중간",
+     "depth": 2,
+     "clk": 14.0,
+     "growth": null
+    },
+    {
+     "kw": "자격증",
+     "pc": 6870,
+     "mo": 13200,
+     "vol": 20070,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 331.0,
+     "growth": null
+    },
+    {
+     "kw": "한글타자연습",
+     "pc": 18300,
+     "mo": 1310,
+     "vol": 19610,
+     "comp": "낮음",
+     "depth": 2,
+     "clk": 780.2,
+     "growth": null
+    },
+    {
+     "kw": "컴퓨터활용능력2급",
+     "pc": 7770,
+     "mo": 11600,
+     "vol": 19370,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 86.6,
+     "growth": null
+    },
+    {
+     "kw": "평생교육원",
+     "pc": 6930,
+     "mo": 11600,
+     "vol": 18530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 481.2,
+     "growth": null
+    },
+    {
+     "kw": "컴퓨터활용능력",
+     "pc": 8200,
+     "mo": 9660,
+     "vol": 17860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 73.2,
+     "growth": null
+    },
+    {
+     "kw": "국비지원교육",
+     "pc": 5080,
+     "mo": 12700,
+     "vol": 17780,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 218.2,
+     "growth": null
+    },
+    {
+     "kw": "스크래치",
+     "pc": 9380,
+     "mo": 8130,
+     "vol": 17510,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 48.2,
+     "growth": null
+    },
+    {
+     "kw": "영어공부혼자하기",
+     "pc": 5980,
+     "mo": 9980,
+     "vol": 15960,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 303.2,
+     "growth": null
+    },
+    {
+     "kw": "로봇",
+     "pc": 4790,
+     "mo": 10500,
+     "vol": 15290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 27.3,
+     "growth": null
+    },
+    {
+     "kw": "사이버대학교",
+     "pc": 6970,
+     "mo": 7370,
+     "vol": 14340,
+     "comp": "중간",
+     "depth": 5,
+     "clk": 152.4,
+     "growth": null
+    },
+    {
+     "kw": "STEP",
+     "pc": 6000,
+     "mo": 7210,
+     "vol": 13210,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 5.6,
+     "growth": null
+    },
+    {
+     "kw": "화상영어",
+     "pc": 4800,
+     "mo": 7960,
+     "vol": 12760,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 276.7,
+     "growth": null
+    },
+    {
+     "kw": "컴활2급",
+     "pc": 4570,
+     "mo": 7950,
+     "vol": 12520,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 53.7,
+     "growth": null
+    },
+    {
+     "kw": "AWS",
+     "pc": 6290,
+     "mo": 5170,
+     "vol": 11460,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.9,
+     "growth": null
+    },
+    {
+     "kw": "신분증",
+     "pc": 4010,
+     "mo": 7320,
+     "vol": 11330,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 16.0,
+     "growth": null
+    },
+    {
+     "kw": "안전관리자자격증",
+     "pc": 2770,
+     "mo": 8360,
+     "vol": 11130,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 335.7,
+     "growth": null
+    },
+    {
+     "kw": "취업정보사이트",
+     "pc": 3310,
+     "mo": 7350,
+     "vol": 10660,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 111.2,
+     "growth": null
+    },
+    {
+     "kw": "취업",
+     "pc": 3530,
+     "mo": 6950,
+     "vol": 10480,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 48.5,
+     "growth": null
+    },
+    {
+     "kw": "SQLD자격증",
+     "pc": 2990,
+     "mo": 7460,
+     "vol": 10450,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.6,
+     "growth": null
+    },
+    {
+     "kw": "대학원",
+     "pc": 4920,
+     "mo": 5450,
+     "vol": 10370,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 31.4,
+     "growth": null
+    },
+    {
+     "kw": "자격증조회",
+     "pc": 4510,
+     "mo": 5840,
+     "vol": 10350,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 68.4,
+     "growth": null
+    },
+    {
+     "kw": "MBA",
+     "pc": 2090,
+     "mo": 7970,
+     "vol": 10060,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 45.4,
+     "growth": null
+    },
+    {
+     "kw": "국비지원",
+     "pc": 3550,
+     "mo": 6480,
+     "vol": 10030,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 81.6,
+     "growth": null
+    },
+    {
+     "kw": "인공지능",
+     "pc": 3410,
+     "mo": 6610,
+     "vol": 10020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 23.9,
+     "growth": null
+    },
+    {
+     "kw": "PYTHON",
+     "pc": 6870,
+     "mo": 3000,
+     "vol": 9870,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.4,
+     "growth": null
+    },
+    {
+     "kw": "자격증추천",
+     "pc": 2790,
+     "mo": 6780,
+     "vol": 9570,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 131.8,
+     "growth": null
+    },
+    {
+     "kw": "미용학원",
+     "pc": 1620,
+     "mo": 7510,
+     "vol": 9130,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 150.3,
+     "growth": null
+    },
+    {
+     "kw": "AI자격증",
+     "pc": 3490,
+     "mo": 5260,
+     "vol": 8750,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 136.8,
+     "growth": null
+    },
+    {
+     "kw": "AI교육",
+     "pc": 4780,
+     "mo": 3740,
+     "vol": 8520,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 150.0,
+     "growth": null
+    },
+    {
+     "kw": "IOT",
+     "pc": 3600,
+     "mo": 4850,
+     "vol": 8450,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 16.5,
+     "growth": null
+    },
+    {
+     "kw": "생성형AI",
+     "pc": 3230,
+     "mo": 4930,
+     "vol": 8160,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 30.8,
+     "growth": null
+    },
+    {
+     "kw": "국가자격증종류",
+     "pc": 2820,
+     "mo": 5320,
+     "vol": 8140,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 58.4,
+     "growth": null
+    },
+    {
+     "kw": "내일배움카드사용법",
+     "pc": 2460,
+     "mo": 5400,
+     "vol": 7860,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 70.0,
+     "growth": null
+    },
+    {
+     "kw": "전화영어",
+     "pc": 2280,
+     "mo": 5360,
+     "vol": 7640,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 383.8,
+     "growth": null
+    },
+    {
+     "kw": "청년인턴",
+     "pc": 2920,
+     "mo": 4340,
+     "vol": 7260,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 28.1,
+     "growth": null
+    },
+    {
+     "kw": "마이크로비트",
+     "pc": 4930,
+     "mo": 2310,
+     "vol": 7240,
+     "comp": "높음",
+     "depth": 9,
+     "clk": 41.0,
+     "growth": null
+    },
+    {
+     "kw": "엑셀자격증",
+     "pc": 1890,
+     "mo": 5060,
+     "vol": 6950,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 58.4,
+     "growth": null
+    },
+    {
+     "kw": "ICT",
+     "pc": 3130,
+     "mo": 3430,
+     "vol": 6560,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 4.7,
+     "growth": null
+    },
+    {
+     "kw": "자율주행자동차",
+     "pc": 1320,
+     "mo": 4870,
+     "vol": 6190,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 28.4,
+     "growth": null
+    },
+    {
+     "kw": "디지털교과서",
+     "pc": 1860,
+     "mo": 4160,
+     "vol": 6020,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2.9,
+     "growth": null
+    },
+    {
+     "kw": "이러닝",
+     "pc": 3440,
+     "mo": 2480,
+     "vol": 5920,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 16.5,
+     "growth": null
+    },
+    {
+     "kw": "미용사자격증",
+     "pc": 1170,
+     "mo": 4710,
+     "vol": 5880,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 99.7,
+     "growth": null
+    },
+    {
+     "kw": "제과제빵",
+     "pc": 970,
+     "mo": 4830,
+     "vol": 5800,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 64.3,
+     "growth": null
+    },
+    {
+     "kw": "학습지",
+     "pc": 3060,
+     "mo": 2610,
+     "vol": 5670,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 40.0,
+     "growth": null
+    },
+    {
+     "kw": "취업사이트",
+     "pc": 2940,
+     "mo": 2590,
+     "vol": 5530,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 64.1,
+     "growth": null
+    },
+    {
+     "kw": "ITQ자격증조회",
+     "pc": 2850,
+     "mo": 2660,
+     "vol": 5510,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 12.7,
+     "growth": null
+    },
+    {
+     "kw": "안전관리자",
+     "pc": 2150,
+     "mo": 3320,
+     "vol": 5470,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 41.7,
+     "growth": null
+    },
+    {
+     "kw": "TTS사이트",
+     "pc": 1750,
+     "mo": 3570,
+     "vol": 5320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 103.4,
+     "growth": null
+    },
+    {
+     "kw": "화이트해커",
+     "pc": 810,
+     "mo": 4500,
+     "vol": 5310,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 17.0,
+     "growth": null
+    },
+    {
+     "kw": "AI영상제작",
+     "pc": 2490,
+     "mo": 2350,
+     "vol": 4840,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 102.7,
+     "growth": null
+    },
+    {
+     "kw": "수업",
+     "pc": 2180,
+     "mo": 2630,
+     "vol": 4810,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 2.6,
+     "growth": null
+    },
+    {
+     "kw": "사원증",
+     "pc": 2210,
+     "mo": 2490,
+     "vol": 4700,
+     "comp": "높음",
+     "depth": 8,
+     "clk": 101.4,
+     "growth": null
+    },
+    {
+     "kw": "BLENDER",
+     "pc": 3790,
+     "mo": 820,
+     "vol": 4610,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.3,
+     "growth": null
+    },
+    {
+     "kw": "무료AI",
+     "pc": 1990,
+     "mo": 2490,
+     "vol": 4480,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 94.7,
+     "growth": null
+    },
+    {
+     "kw": "내일배움카드신청방법",
+     "pc": 1600,
+     "mo": 2840,
+     "vol": 4440,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 12.8,
+     "growth": null
+    },
+    {
+     "kw": "네트워크",
+     "pc": 1130,
+     "mo": 3200,
+     "vol": 4330,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.5,
+     "growth": null
+    },
+    {
+     "kw": "석사",
+     "pc": 1310,
+     "mo": 3020,
+     "vol": 4330,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.3,
+     "growth": null
+    },
+    {
+     "kw": "민간자격증",
+     "pc": 1690,
+     "mo": 2600,
+     "vol": 4290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 190.8,
+     "growth": null
+    },
+    {
+     "kw": "바리스타국비지원",
+     "pc": 630,
+     "mo": 3630,
+     "vol": 4260,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 187.0,
+     "growth": null
+    },
+    {
+     "kw": "기사자격증",
+     "pc": 1480,
+     "mo": 2520,
+     "vol": 4000,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 5.1,
+     "growth": null
+    },
+    {
+     "kw": "리눅스",
+     "pc": 1570,
+     "mo": 2270,
+     "vol": 3840,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 2.9,
+     "growth": null
+    },
+    {
+     "kw": "내일배움카드사용처",
+     "pc": 1480,
+     "mo": 2330,
+     "vol": 3810,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.8,
+     "growth": null
+    },
+    {
+     "kw": "직업전문학교",
+     "pc": 920,
+     "mo": 2660,
+     "vol": 3580,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 78.4,
+     "growth": null
+    },
+    {
+     "kw": "DAP",
+     "pc": 1600,
+     "mo": 1900,
+     "vol": 3500,
+     "comp": "중간",
+     "depth": 8,
+     "clk": 7.4,
+     "growth": null
+    },
+    {
+     "kw": "재직자내일배움카드",
+     "pc": 1760,
+     "mo": 1740,
+     "vol": 3500,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 13.9,
+     "growth": null
+    },
+    {
+     "kw": "SQL자격증",
+     "pc": 950,
+     "mo": 2540,
+     "vol": 3490,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 9.1,
+     "growth": null
+    },
+    {
+     "kw": "엔트리코딩",
+     "pc": 1490,
+     "mo": 1980,
+     "vol": 3470,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 9.6,
+     "growth": null
+    },
+    {
+     "kw": "성인화상영어",
+     "pc": 1300,
+     "mo": 2120,
+     "vol": 3420,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 100.7,
+     "growth": null
+    },
+    {
+     "kw": "RPA",
+     "pc": 1910,
+     "mo": 1500,
+     "vol": 3410,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 8.7,
+     "growth": null
+    },
+    {
+     "kw": "AI학원",
+     "pc": 1010,
+     "mo": 2320,
+     "vol": 3330,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 104.2,
+     "growth": null
+    },
+    {
+     "kw": "AI프로그램",
+     "pc": 1770,
+     "mo": 1550,
+     "vol": 3320,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.0,
+     "growth": null
+    },
+    {
+     "kw": "MIDJOURNEY",
+     "pc": 2080,
+     "mo": 1240,
+     "vol": 3320,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 3.9,
+     "growth": null
+    },
+    {
+     "kw": "자격증종류",
+     "pc": 1130,
+     "mo": 2160,
+     "vol": 3290,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 30.0,
+     "growth": null
+    },
+    {
+     "kw": "국비지원카드",
+     "pc": 810,
+     "mo": 2470,
+     "vol": 3280,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 14.1,
+     "growth": null
+    },
+    {
+     "kw": "사원증제작",
+     "pc": 1840,
+     "mo": 1430,
+     "vol": 3270,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 171.2,
+     "growth": null
+    },
+    {
+     "kw": "국민배움내일카드",
+     "pc": 870,
+     "mo": 2400,
+     "vol": 3270,
+     "comp": "높음",
+     "depth": 7,
+     "clk": 30.0,
+     "growth": null
+    },
+    {
+     "kw": "국민내일배움카드사용처",
+     "pc": 1150,
+     "mo": 2110,
+     "vol": 3260,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 12.3,
+     "growth": null
+    },
+    {
+     "kw": "채용박람회",
+     "pc": 1700,
+     "mo": 1520,
+     "vol": 3220,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 20.8,
+     "growth": null
+    },
+    {
+     "kw": "타자연습사이트",
+     "pc": 2730,
+     "mo": 450,
+     "vol": 3180,
+     "comp": "중간",
+     "depth": 3,
+     "clk": 65.8,
+     "growth": null
+    },
+    {
+     "kw": "컴퓨터자격증",
+     "pc": 780,
+     "mo": 2350,
+     "vol": 3130,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 15.8,
+     "growth": null
+    },
+    {
+     "kw": "빅데이터",
+     "pc": 1120,
+     "mo": 2010,
+     "vol": 3130,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 3.7,
+     "growth": null
+    },
+    {
+     "kw": "직장인야간대학교",
+     "pc": 1020,
+     "mo": 2100,
+     "vol": 3120,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 35.2,
+     "growth": null
+    },
+    {
+     "kw": "어린이화상영어",
+     "pc": 560,
+     "mo": 2520,
+     "vol": 3080,
+     "comp": "높음",
+     "depth": 10,
+     "clk": 107.3,
+     "growth": null
+    },
+    {
+     "kw": "한국진흥교육원",
+     "pc": 1150,
+     "mo": 1900,
+     "vol": 3050,
+     "comp": "낮음",
+     "depth": 0,
+     "clk": 0.0,
+     "growth": null
+    }
+   ],
    "youtube": {
     "count": 25,
     "daily": [
@@ -1142,11 +8149,11 @@
       "title": "‘단 한 마디로‘ 끝내버리는 지수 영어 모음",
       "channel": "패션탐정냥",
       "cat": "24",
-      "views": 5104224,
-      "likes": 64010,
+      "views": 5105542,
+      "likes": 64021,
       "comments": 411,
       "published": "2026-11-10T10:00:24Z",
-      "vph": 29729,
+      "vph": 29728,
       "rank": 28
      },
      {
@@ -1155,10 +8162,10 @@
       "channel": "숏포츠",
       "cat": "17",
       "views": 2069226,
-      "likes": 14702,
+      "likes": 14708,
       "comments": 112,
       "published": "2026-11-15T12:30:31Z",
-      "vph": 42065,
+      "vph": 42023,
       "rank": 1
      },
      {
@@ -1166,11 +8173,11 @@
       "title": "타고난 천재에게도 조기 교육이 필요한 이유",
       "channel": "무비큐레이터",
       "cat": "22",
-      "views": 1222725,
-      "likes": 8304,
+      "views": 1223443,
+      "likes": 8309,
       "comments": 90,
       "published": "2026-11-15T08:15:25Z",
-      "vph": 22879,
+      "vph": 22871,
       "rank": 31
      },
      {
@@ -1178,11 +8185,11 @@
       "title": "고양이 앞에서 엉덩이를 돌린 이유",
       "channel": "댕뽀짝1호",
       "cat": "24",
-      "views": 1207317,
-      "likes": 5472,
+      "views": 1208070,
+      "likes": 5474,
       "comments": 60,
       "published": "2026-11-13T02:04:31Z",
-      "vph": 11218,
+      "vph": 11220,
       "rank": 26
      },
      {
@@ -1191,10 +8198,10 @@
       "channel": "단골극장",
       "cat": "24",
       "views": 1189456,
-      "likes": 48492,
+      "likes": 48529,
       "comments": 389,
       "published": "2026-11-14T13:45:12Z",
-      "vph": 16532,
+      "vph": 16521,
       "rank": 36
      },
      {
@@ -1203,10 +8210,10 @@
       "channel": "MBN News",
       "cat": "25",
       "views": 1117246,
-      "likes": 3155,
+      "likes": 3156,
       "comments": 2873,
       "published": "2026-11-14T11:19:09Z",
-      "vph": 15021,
+      "vph": 15011,
       "rank": 20
      }
     ]
@@ -1220,7 +8227,7 @@
  "shopping": null,
  "youtube": {
   "date": "2026-11-17",
-  "updated": "2026-11-17 22:41",
+  "updated": "2026-11-17 22:44",
   "top": [
    {
     "id": "5JkTq9rOYI8",
@@ -1228,10 +8235,10 @@
     "channel": "TOMORROW BY TOGETHER - Topic",
     "cat": "10",
     "views": 333435,
-    "likes": 19224,
+    "likes": 19234,
     "comments": 566,
     "published": "2026-11-16T09:00:40Z",
-    "vph": 11622,
+    "vph": 11602,
     "rank": 1
    },
    {
@@ -1239,11 +8246,11 @@
     "title": "인내심이 바닥나버렸습니다... ≪어벤져스: 둠스데이≫ 메인 예고편 공개 임박 & 루머 총정리",
     "channel": "무비띵크_Movie Think",
     "cat": "1",
-    "views": 304466,
-    "likes": 2657,
-    "comments": 382,
+    "views": 307794,
+    "likes": 2667,
+    "comments": 384,
     "published": "2026-11-17T06:08:14Z",
-    "vph": 40259,
+    "vph": 40434,
     "rank": 2
    },
    {
@@ -1255,7 +8262,7 @@
     "likes": 0,
     "comments": 430,
     "published": "2026-11-15T01:03:07Z",
-    "vph": 76602,
+    "vph": 76540,
     "rank": 3
    },
    {
@@ -1263,11 +8270,11 @@
     "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
     "channel": "HYBE LABELS",
     "cat": "10",
-    "views": 6661999,
-    "likes": 227447,
-    "comments": 19130,
+    "views": 6662199,
+    "likes": 227589,
+    "comments": 19146,
     "published": "2026-11-16T08:58:08Z",
-    "vph": 231874,
+    "vph": 231483,
     "rank": 4
    },
    {
@@ -1276,10 +8283,10 @@
     "channel": "랄로",
     "cat": "20",
     "views": 1252047,
-    "likes": 6545,
+    "likes": 6546,
     "comments": 757,
     "published": "2026-11-15T10:38:11Z",
-    "vph": 24519,
+    "vph": 24496,
     "rank": 5
    },
    {
@@ -1291,7 +8298,7 @@
     "likes": 7317,
     "comments": 0,
     "published": "2026-11-14T03:02:29Z",
-    "vph": 7709,
+    "vph": 7704,
     "rank": 6
    },
    {
@@ -1300,10 +8307,10 @@
     "channel": "이상호",
     "cat": "20",
     "views": 574859,
-    "likes": 2539,
+    "likes": 2540,
     "comments": 237,
     "published": "2026-11-16T12:15:26Z",
-    "vph": 22594,
+    "vph": 22550,
     "rank": 7
    },
    {
@@ -1315,7 +8322,7 @@
     "likes": 2129,
     "comments": 4,
     "published": "2026-11-15T03:02:24Z",
-    "vph": 1144,
+    "vph": 1143,
     "rank": 8
    },
    {
@@ -1323,11 +8330,11 @@
     "title": "차원 절단",
     "channel": "PAKA",
     "cat": "20",
-    "views": 541100,
-    "likes": 1644,
+    "views": 541715,
+    "likes": 1645,
     "comments": 245,
     "published": "2026-11-16T08:30:37Z",
-    "vph": 18537,
+    "vph": 18527,
     "rank": 9
    },
    {
@@ -1335,11 +8342,11 @@
     "title": "I′ve Finally Let You Go",
     "channel": "Choi Chunghyeon - Topic",
     "cat": "10",
-    "views": 216056,
-    "likes": 1127,
+    "views": 216568,
+    "likes": 1471,
     "comments": 1,
     "published": "2026-11-14T09:01:32Z",
-    "vph": 2818,
+    "vph": 2823,
     "rank": 10
    },
    {
@@ -1348,10 +8355,10 @@
     "channel": "감스트GAMST",
     "cat": "20",
     "views": 789280,
-    "likes": 3273,
+    "likes": 3275,
     "comments": 269,
     "published": "2026-11-16T11:37:05Z",
-    "vph": 30262,
+    "vph": 30204,
     "rank": 11
    },
    {
@@ -1359,11 +8366,11 @@
     "title": "Still, I Love You",
     "channel": "YOON JI HWAN - Topic",
     "cat": "10",
-    "views": 24881,
+    "views": 25032,
     "likes": 425,
     "comments": 7,
     "published": "2026-11-16T09:04:29Z",
-    "vph": 869,
+    "vph": 873,
     "rank": 12
    },
    {
@@ -1371,11 +8378,11 @@
     "title": "마지막 타입 : 비행타입 하트골드【포켓몬 모든타입 깨기】#1",
     "channel": "근가놈",
     "cat": "20",
-    "views": 134833,
-    "likes": 1942,
-    "comments": 326,
+    "views": 139111,
+    "likes": 1963,
+    "comments": 327,
     "published": "2026-11-17T10:05:21Z",
-    "vph": 37342,
+    "vph": 38006,
     "rank": 13
    },
    {
@@ -1383,11 +8390,11 @@
     "title": "ATEEZ(에이티즈) - '친구 (THANK U)' MV",
     "channel": "ATEEZ",
     "cat": "10",
-    "views": 277193,
-    "likes": 37608,
-    "comments": 3981,
+    "views": 278180,
+    "likes": 37695,
+    "comments": 3988,
     "published": "2026-11-17T03:00:03Z",
-    "vph": 25908,
+    "vph": 25881,
     "rank": 14
    },
    {
@@ -1396,10 +8403,10 @@
     "channel": "YouTube지누",
     "cat": "20",
     "views": 222940,
-    "likes": 2387,
+    "likes": 2390,
     "comments": 209,
     "published": "2026-11-17T04:57:25Z",
-    "vph": 25499,
+    "vph": 25356,
     "rank": 15
    },
    {
@@ -1411,7 +8418,7 @@
     "likes": 386,
     "comments": 8,
     "published": "2026-11-16T09:01:10Z",
-    "vph": 937,
+    "vph": 936,
     "rank": 16
    },
    {
@@ -1420,10 +8427,10 @@
     "channel": "혜안",
     "cat": "20",
     "views": 489399,
-    "likes": 10165,
+    "likes": 10182,
     "comments": 648,
     "published": "2026-11-16T10:30:17Z",
-    "vph": 17996,
+    "vph": 17963,
     "rank": 17
    },
    {
@@ -1431,11 +8438,11 @@
     "title": "ISEGYE IDOL (이세계아이돌) ‘연애세포 (恋愛細胞)’ Official Performance Video",
     "channel": "ISEGYE IDOL",
     "cat": "10",
-    "views": 95756,
-    "likes": 11163,
-    "comments": 1381,
+    "views": 97912,
+    "likes": 11195,
+    "comments": 1382,
     "published": "2026-11-17T09:00:13Z",
-    "vph": 20389,
+    "vph": 20631,
     "rank": 18
    },
    {
@@ -1443,11 +8450,11 @@
     "title": "드디어 아델 보조무기를 종결합니다!!! 27성 또 떴냐 ㅋㅋ [팡이요,  메이플스토리]",
     "channel": "팡이요",
     "cat": "20",
-    "views": 258543,
-    "likes": 920,
-    "comments": 220,
+    "views": 260928,
+    "likes": 925,
+    "comments": 222,
     "published": "2026-11-17T07:34:34Z",
-    "vph": 42219,
+    "vph": 42267,
     "rank": 19
    },
    {
@@ -1459,7 +8466,7 @@
     "likes": 903,
     "comments": 37,
     "published": "2026-11-16T09:00:07Z",
-    "vph": 1410,
+    "vph": 1408,
     "rank": 20
    },
    {
@@ -1467,11 +8474,11 @@
     "title": "롤드컵 결승전 Gen.G vs BLG 도파의 시선",
     "channel": "Official dopa",
     "cat": "20",
-    "views": 627275,
-    "likes": 2031,
+    "views": 627702,
+    "likes": 2032,
     "comments": 1384,
     "published": "2026-11-15T11:59:19Z",
-    "vph": 12618,
+    "vph": 12614,
     "rank": 21
    },
    {
@@ -1479,11 +8486,11 @@
     "title": "Sakuranbo",
     "channel": "YENA - Topic",
     "cat": "10",
-    "views": 22180,
-    "likes": 1375,
+    "views": 22229,
+    "likes": 1389,
     "comments": 114,
     "published": "2026-11-17T09:01:35Z",
-    "vph": 4746,
+    "vph": 4706,
     "rank": 22
    },
    {
@@ -1495,7 +8502,7 @@
     "likes": 597,
     "comments": 72,
     "published": "2026-11-16T09:00:26Z",
-    "vph": 9542,
+    "vph": 9526,
     "rank": 23
    },
    {
@@ -1503,11 +8510,11 @@
     "title": "If You Love",
     "channel": "KCM - Topic",
     "cat": "10",
-    "views": 44706,
+    "views": 44821,
     "likes": 273,
     "comments": 6,
     "published": "2026-11-15T09:00:24Z",
-    "vph": 848,
+    "vph": 850,
     "rank": 24
    },
    {
@@ -1519,7 +8526,7 @@
     "likes": 3999,
     "comments": 671,
     "published": "2026-11-16T08:28:01Z",
-    "vph": 11615,
+    "vph": 11596,
     "rank": 25
    },
    {
@@ -1527,11 +8534,11 @@
     "title": "래원 (Layone) '먼치킨 (Feat. 그냥노창, Jvcki Wai)' MV",
     "channel": "래원",
     "cat": "10",
-    "views": 48251,
-    "likes": 1765,
+    "views": 50092,
+    "likes": 1779,
     "comments": 287,
     "published": "2026-11-17T09:00:27Z",
-    "vph": 10283,
+    "vph": 10564,
     "rank": 26
    },
    {
@@ -1540,10 +8547,10 @@
     "channel": "ProjectMoon Official",
     "cat": "20",
     "views": 495799,
-    "likes": 9917,
-    "comments": 237,
+    "likes": 9928,
+    "comments": 239,
     "published": "2026-11-17T10:30:56Z",
-    "vph": 155696,
+    "vph": 153314,
     "rank": 27
    },
    {
@@ -1551,11 +8558,11 @@
     "title": "Face to Face",
     "channel": "Lim Ga Young - Topic",
     "cat": "10",
-    "views": 127671,
+    "views": 127808,
     "likes": 329,
     "comments": 3,
     "published": "2026-11-14T09:04:25Z",
-    "vph": 1666,
+    "vph": 1667,
     "rank": 28
    },
    {
@@ -1563,11 +8570,11 @@
     "title": "낼름이횽이야",
     "channel": "괴물쥐 유튜브",
     "cat": "20",
-    "views": 684095,
+    "views": 684502,
     "likes": 2044,
-    "comments": 612,
+    "comments": 613,
     "published": "2026-11-15T14:00:06Z",
-    "vph": 14342,
+    "vph": 14336,
     "rank": 29
    },
    {
@@ -1575,11 +8582,11 @@
     "title": "EDENMATE+",
     "channel": "YANGHONGWON - Topic",
     "cat": "10",
-    "views": 13174,
+    "views": 13674,
     "likes": 707,
     "comments": 0,
     "published": "2026-11-17T09:00:28Z",
-    "vph": 2808,
+    "vph": 2884,
     "rank": 30
    },
    {
@@ -1587,11 +8594,11 @@
     "title": "내가 이 열차에 왜 탔는지.. 기억이 나지 않는다",
     "channel": "잠뜰 TV",
     "cat": "20",
-    "views": 135752,
-    "likes": 9143,
-    "comments": 1148,
+    "views": 137299,
+    "likes": 9179,
+    "comments": 1149,
     "published": "2026-11-17T07:30:16Z",
-    "vph": 21911,
+    "vph": 21985,
     "rank": 31
    },
    {
@@ -1599,11 +8606,11 @@
     "title": "NCT WISH 엔시티 위시 '1000' Special Video",
     "channel": "NCT WISH",
     "cat": "10",
-    "views": 242936,
-    "likes": 29021,
+    "views": 243283,
+    "likes": 29027,
     "comments": 4019,
     "published": "2026-11-15T15:00:05Z",
-    "vph": 5202,
+    "vph": 5204,
     "rank": 32
    },
    {
@@ -1611,11 +8618,11 @@
     "title": "악질 저격러들 참교육 들어갑니다(4 vs 100)",
     "channel": "말왕TV",
     "cat": "20",
-    "views": 267114,
-    "likes": 1853,
+    "views": 267460,
+    "likes": 1854,
     "comments": 202,
     "published": "2026-11-16T09:27:54Z",
-    "vph": 9460,
+    "vph": 9456,
     "rank": 33
    },
    {
@@ -1623,7 +8630,7 @@
     "title": "Last Love",
     "channel": "Jae Woo AN - Topic",
     "cat": "10",
-    "views": 16538,
+    "views": 16564,
     "likes": 137,
     "comments": 4,
     "published": "2026-11-16T03:04:01Z",
@@ -1635,11 +8642,11 @@
     "title": "동물원 이름 짓기(뺏기)",
     "channel": "동수칸TV",
     "cat": "20",
-    "views": 190152,
-    "likes": 764,
+    "views": 192695,
+    "likes": 766,
     "comments": 256,
     "published": "2026-11-17T08:17:16Z",
-    "vph": 35134,
+    "vph": 35281,
     "rank": 35
    },
    {
@@ -1647,11 +8654,11 @@
     "title": "CORTIS (코르티스) MMA 2026 ‘MONEYMONEYMONEY’ + ‘REDRED’ + ‘YOUNGCREATORCREW’ Rehearsal",
     "channel": "CORTIS",
     "cat": "24",
-    "views": 1238455,
-    "likes": 96235,
-    "comments": 4202,
+    "views": 1241246,
+    "likes": 96301,
+    "comments": 4203,
     "published": "2026-11-16T04:00:42Z",
-    "vph": 36762,
+    "vph": 36791,
     "rank": 36
    },
    {
@@ -1659,11 +8666,11 @@
     "title": "파랜드의 구릉다 + 폭식왕 밖비타 [바다크루 전투력]",
     "channel": "고동이",
     "cat": "20",
-    "views": 88344,
-    "likes": 1359,
-    "comments": 211,
+    "views": 89344,
+    "likes": 1363,
+    "comments": 213,
     "published": "2026-11-17T06:00:09Z",
-    "vph": 11477,
+    "vph": 11533,
     "rank": 37
    },
    {
@@ -1671,11 +8678,11 @@
     "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
     "channel": "Crush",
     "cat": "24",
-    "views": 5265558,
-    "likes": 175185,
+    "views": 5267012,
+    "likes": 175198,
     "comments": 6674,
     "published": "2026-11-11T12:26:46Z",
-    "vph": 36251,
+    "vph": 36248,
     "rank": 38
    },
    {
@@ -1683,11 +8690,11 @@
     "title": "옵치하다 AI때문에 방송 정지당할뻔...고소 하겠습니다",
     "channel": "김재원의 즐거운 세상",
     "cat": "20",
-    "views": 224193,
-    "likes": 3749,
+    "views": 226306,
+    "likes": 3762,
     "comments": 345,
     "published": "2026-11-17T07:00:34Z",
-    "vph": 33509,
+    "vph": 33577,
     "rank": 39
    },
    {
@@ -1695,11 +8702,11 @@
     "title": "Lovesick (English Ver.)",
     "channel": "CHAERYEONG (ITZY) - Topic",
     "cat": "10",
-    "views": 158555,
-    "likes": 3262,
+    "views": 159073,
+    "likes": 3266,
     "comments": 0,
     "published": "2026-11-13T05:01:43Z",
-    "vph": 1515,
+    "vph": 1519,
     "rank": 40
    },
    {
@@ -1707,11 +8714,11 @@
     "title": "서로의 빛이 되어 함께 달려온 우리 | 2026 월드 챔피언십 결승전 비하인드",
     "channel": "젠지 이스포츠 Gen.G Esports",
     "cat": "20",
-    "views": 76842,
-    "likes": 2232,
-    "comments": 1002,
+    "views": 77087,
+    "likes": 2241,
+    "comments": 1006,
     "published": "2026-11-17T10:00:25Z",
-    "vph": 20807,
+    "vph": 20598,
     "rank": 41
    },
    {
@@ -1719,7 +8726,7 @@
     "title": "TIMELESS MOJAVE (feat. D.Ark)",
     "channel": "YongYong - Topic",
     "cat": "10",
-    "views": 38557,
+    "views": 38586,
     "likes": 552,
     "comments": 19,
     "published": "2026-11-13T09:01:24Z",
@@ -1733,9 +8740,9 @@
     "cat": "22",
     "views": 56878,
     "likes": 415,
-    "comments": 30,
+    "comments": 31,
     "published": "2026-11-17T11:39:18Z",
-    "vph": 27814,
+    "vph": 27157,
     "rank": 43
    },
    {
@@ -1743,11 +8750,11 @@
     "title": "Unbelievable",
     "channel": "H1-KEY - Topic",
     "cat": "10",
-    "views": 63326,
+    "views": 63463,
     "likes": 785,
     "comments": 56,
     "published": "2026-11-13T09:03:10Z",
-    "vph": 629,
+    "vph": 630,
     "rank": 44
    },
    {
@@ -1755,11 +8762,11 @@
     "title": "바이퍼 선수가 알려주는 소름돋는 디테일",
     "channel": "뜨뜨뜨뜨",
     "cat": "20",
-    "views": 328157,
+    "views": 328492,
     "likes": 824,
     "comments": 163,
     "published": "2026-11-16T13:00:28Z",
-    "vph": 13290,
+    "vph": 13277,
     "rank": 45
    },
    {
@@ -1767,11 +8774,11 @@
     "title": "조선힙합, 벤 - 마음의 숲 Official MV",
     "channel": "조선힙합",
     "cat": "10",
-    "views": 50228,
-    "likes": 738,
+    "views": 50377,
+    "likes": 739,
     "comments": 190,
     "published": "2026-11-16T09:00:25Z",
-    "vph": 1751,
+    "vph": 1753,
     "rank": 46
    },
    {
@@ -1780,10 +8787,10 @@
     "channel": "[ALTUBE] 김성현TV",
     "cat": "20",
     "views": 271229,
-    "likes": 1270,
+    "likes": 1273,
     "comments": 91,
     "published": "2026-11-16T09:30:11Z",
-    "vph": 9619,
+    "vph": 9602,
     "rank": 47
    },
    {
@@ -1791,11 +8798,11 @@
     "title": "A2O SOUL 'Dancing in the Dark' Performance Video",
     "channel": "A2O WORLD",
     "cat": "24",
-    "views": 429307,
-    "likes": 22468,
+    "views": 429778,
+    "likes": 22484,
     "comments": 1939,
     "published": "2026-11-16T09:06:20Z",
-    "vph": 15014,
+    "vph": 15004,
     "rank": 48
    },
    {
@@ -1803,11 +8810,11 @@
     "title": "🔥룰러에게 '그'의 모습이 보였다.. 양대인 감독 밴픽에 놀란 이유? 롤드컵 결승 젠지 vs BLG🔥 [2026 월즈 리뷰 찍어x3]",
     "channel": "[꿀템TV] 클템 유튜브",
     "cat": "20",
-    "views": 204731,
+    "views": 205105,
     "likes": 922,
     "comments": 517,
     "published": "2026-11-16T13:53:30Z",
-    "vph": 8599,
+    "vph": 8597,
     "rank": 49
    },
    {
@@ -1819,7 +8826,7 @@
     "likes": 2048,
     "comments": 4,
     "published": "2026-11-15T09:00:30Z",
-    "vph": 2666,
+    "vph": 2663,
     "rank": 50
    }
   ],
@@ -1851,11 +8858,11 @@
     "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
     "channel": "HYBE LABELS",
     "cat": "10",
-    "views": 6661999,
-    "likes": 227447,
-    "comments": 19130,
+    "views": 6662199,
+    "likes": 227589,
+    "comments": 19146,
     "published": "2026-11-16T08:58:08Z",
-    "vph": 231874,
+    "vph": 231483,
     "rank": 4
    },
    {
@@ -1863,11 +8870,11 @@
     "title": "ENHYPEN (엔하이픈) 'I Want You' Official MV",
     "channel": "HYBE LABELS",
     "cat": "10",
-    "views": 21195559,
-    "likes": 332771,
-    "comments": 25348,
+    "views": 21197926,
+    "likes": 332800,
+    "comments": 25349,
     "published": "2026-11-13T14:57:11Z",
-    "vph": 223707,
+    "vph": 223615,
     "rank": 19
    },
    {
@@ -1876,10 +8883,10 @@
     "channel": "간생간사",
     "cat": "22",
     "views": 1128776,
-    "likes": 9427,
-    "comments": 404,
+    "likes": 9493,
+    "comments": 408,
     "published": "2026-11-17T08:16:15Z",
-    "vph": 207911,
+    "vph": 206033,
     "rank": 11
    },
    {
@@ -1887,11 +8894,11 @@
     "title": "카페 진상들의 화려한 말빨",
     "channel": "케슛슛",
     "cat": "22",
-    "views": 8059525,
-    "likes": 123286,
-    "comments": 2127,
+    "views": 8067706,
+    "likes": 123362,
+    "comments": 2129,
     "published": "2026-11-15T11:00:04Z",
-    "vph": 158969,
+    "vph": 158975,
     "rank": 1
    },
    {
@@ -1900,10 +8907,10 @@
     "channel": "ProjectMoon Official",
     "cat": "20",
     "views": 495799,
-    "likes": 9917,
-    "comments": 237,
+    "likes": 9928,
+    "comments": 239,
     "published": "2026-11-17T10:30:56Z",
-    "vph": 155696,
+    "vph": 153314,
     "rank": 27
    },
    {
@@ -1911,11 +8918,11 @@
     "title": "경기시작 5초만에 상대 기선제압 하는법",
     "channel": "숏플래시",
     "cat": "22",
-    "views": 447223,
-    "likes": 9601,
-    "comments": 346,
+    "views": 447599,
+    "likes": 9726,
+    "comments": 352,
     "published": "2026-11-17T09:35:15Z",
-    "vph": 108748,
+    "vph": 107546,
     "rank": 14
    },
    {
@@ -1923,11 +8930,11 @@
     "title": "야식도착 빵터진 행복한 신혼부부ㅋㅋㅋ(#홈캠레전드ㅋㅋ)",
     "channel": "스냅봤니",
     "cat": "24",
-    "views": 2890662,
-    "likes": 8389,
+    "views": 2900120,
+    "likes": 8393,
     "comments": 344,
     "published": "2026-11-16T08:10:35Z",
-    "vph": 97910,
+    "vph": 98066,
     "rank": 2
    },
    {
@@ -1935,11 +8942,11 @@
     "title": "luxury sport bike #bike #shortvideo",
     "channel": "technologyfacts",
     "cat": "28",
-    "views": 30745040,
-    "likes": 196560,
+    "views": 30751074,
+    "likes": 196594,
     "comments": 2379,
     "published": "2026-11-04T11:31:52Z",
-    "vph": 97862,
+    "vph": 97865,
     "rank": 41
    },
    {
@@ -1947,11 +8954,11 @@
     "title": "Old school technique mechanics know this👨‍🔧👨‍🔧 #viral #automobile #mechanic #usa #trending",
     "channel": "Bjune Works ",
     "cat": "22",
-    "views": 20005391,
+    "views": 20005994,
     "likes": 114508,
     "comments": 805,
     "published": "2026-11-08T21:49:53Z",
-    "vph": 96241,
+    "vph": 96221,
     "rank": 29
    },
    {
@@ -1960,10 +8967,10 @@
     "channel": "뜬뜬 DdeunDdeun",
     "cat": "23",
     "views": 7526528,
-    "likes": 51919,
+    "likes": 51932,
     "comments": 3750,
     "published": "2026-11-14T00:00:07Z",
-    "vph": 87826,
+    "vph": 87775,
     "rank": 18
    },
    {
@@ -1972,10 +8979,10 @@
     "channel": "1분미만",
     "cat": "26",
     "views": 396336,
-    "likes": 14339,
-    "comments": 293,
+    "likes": 14421,
+    "comments": 294,
     "published": "2026-11-17T09:11:01Z",
-    "vph": 87756,
+    "vph": 86805,
     "rank": 23
    },
    {
@@ -1983,11 +8990,11 @@
     "title": "최고의 개그맨",
     "channel": "침착맨",
     "cat": "24",
-    "views": 2609789,
-    "likes": 28870,
+    "views": 2613397,
+    "likes": 28889,
     "comments": 529,
     "published": "2026-11-16T07:00:20Z",
-    "vph": 85025,
+    "vph": 85005,
     "rank": 7
    },
    {
@@ -1999,7 +9006,7 @@
     "likes": 0,
     "comments": 664,
     "published": "2026-11-11T04:10:47Z",
-    "vph": 80400,
+    "vph": 80375,
     "rank": 11
    },
    {
@@ -2008,10 +9015,10 @@
     "channel": "크보꿀잼",
     "cat": "17",
     "views": 1235592,
-    "likes": 3320,
+    "likes": 3330,
     "comments": 239,
     "published": "2026-11-16T22:00:18Z",
-    "vph": 78725,
+    "vph": 78478,
     "rank": 5
    },
    {
@@ -2023,7 +9030,7 @@
     "likes": 0,
     "comments": 430,
     "published": "2026-11-15T01:03:07Z",
-    "vph": 76602,
+    "vph": 76540,
     "rank": 3
    }
   ],
@@ -2032,7 +9039,7 @@
  },
  "google": {
   "date": "2026-11-17",
-  "updated": "2026-11-17 22:41",
+  "updated": "2026-11-17 22:44",
   "today": [
    {
     "q": "최희",
@@ -2074,9 +9081,9 @@
       "source": "금강일보"
      },
      {
-      "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
-      "source": "BNT뉴스"
+      "title": "김용빈·손빈아·천록담 등 '미스터트롯3' 전국투어 대구..신곡 '살아보니' 떼창→3시간 압도 성료",
+      "url": "https://www.starnewskorea.com/music/2026/11/10/2026111008265428947",
+      "source": "스타뉴스"
      }
     ]
    },
@@ -2178,6 +9185,29 @@
     "traffic_label": "200+",
     "pub": "Tue, 17 Nov 2026 03:00:00 -0800",
     "news": []
+   },
+   {
+    "q": "가덕도신공항",
+    "traffic": 200,
+    "traffic_label": "200+",
+    "pub": "Tue, 17 Nov 2026 04:40:00 -0800",
+    "news": [
+     {
+      "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
+      "url": "https://www.yna.co.kr/view/AKR20261116121000051",
+      "source": "연합뉴스"
+     },
+     {
+      "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
+      "source": "국제신문"
+     },
+     {
+      "title": "“공사비 증액 없인 적기개항 위태”… 국민의힘 부산시당, 정부에 ‘확약’ 압박",
+      "url": "https://sports.donga.com/region/article/all/20261116/135032409/1",
+      "source": "스포츠동아"
+     }
+    ]
    },
    {
     "q": "비니시우스 주니오르",
@@ -2311,9 +9341,9 @@
       "source": "금강일보"
      },
      {
-      "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
-      "source": "BNT뉴스"
+      "title": "김용빈·손빈아·천록담 등 '미스터트롯3' 전국투어 대구..신곡 '살아보니' 떼창→3시간 압도 성료",
+      "url": "https://www.starnewskorea.com/music/2026/11/10/2026111008265428947",
+      "source": "스타뉴스"
      }
     ],
     "n": 1,
@@ -2419,6 +9449,29 @@
     "last": "2026-11-17"
    },
    {
+    "q": "가덕도신공항",
+    "traffic": 200,
+    "news": [
+     {
+      "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
+      "url": "https://www.yna.co.kr/view/AKR20261116121000051",
+      "source": "연합뉴스"
+     },
+     {
+      "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
+      "source": "국제신문"
+     },
+     {
+      "title": "“공사비 증액 없인 적기개항 위태”… 국민의힘 부산시당, 정부에 ‘확약’ 압박",
+      "url": "https://sports.donga.com/region/article/all/20261116/135032409/1",
+      "source": "스포츠동아"
+     }
+    ],
+    "n": 1,
+    "last": "2026-11-17"
+   },
+   {
     "q": "비니시우스 주니오르",
     "traffic": 100,
     "news": [
@@ -2512,5 +9565,726 @@
    }
   ]
  },
- "opportunities": []
+ "opportunities": [
+  {
+   "kw": "클로드",
+   "market": "AI·테크",
+   "vol": 1472500,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 6.17
+  },
+  {
+   "kw": "뤼튼",
+   "market": "AI·테크",
+   "vol": 50500,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 41.3,
+   "score": 4.7
+  },
+  {
+   "kw": "유니클로감사제",
+   "market": "소비재 전반",
+   "vol": 39490,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 4.6
+  },
+  {
+   "kw": "PERPLEXITY",
+   "market": "AI·테크",
+   "vol": 27700,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 4.44
+  },
+  {
+   "kw": "GTP",
+   "market": "AI·테크",
+   "vol": 20810,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 22.3,
+   "score": 4.32
+  },
+  {
+   "kw": "챗지피티",
+   "market": "광고·마케팅",
+   "vol": 14889500,
+   "comp": "중간",
+   "growth": null,
+   "clk": 2670.8,
+   "score": 4.3
+  },
+  {
+   "kw": "챗지피티",
+   "market": "AI·테크",
+   "vol": 14889500,
+   "comp": "중간",
+   "growth": null,
+   "clk": 2670.8,
+   "score": 4.3
+  },
+  {
+   "kw": "한글타자연습",
+   "market": "AI·테크",
+   "vol": 19610,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 780.2,
+   "score": 4.29
+  },
+  {
+   "kw": "한글타자연습",
+   "market": "교육",
+   "vol": 19610,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 780.2,
+   "score": 4.29
+  },
+  {
+   "kw": "CHATGPT무료",
+   "market": "AI·테크",
+   "vol": 16760,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 259.0,
+   "score": 4.22
+  },
+  {
+   "kw": "투닝",
+   "market": "AI·테크",
+   "vol": 14830,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 11.7,
+   "score": 4.17
+  },
+  {
+   "kw": "CHATGPT",
+   "market": "AI·테크",
+   "vol": 2048300,
+   "comp": "중간",
+   "growth": null,
+   "clk": 61.4,
+   "score": 3.79
+  },
+  {
+   "kw": "CHATGPT",
+   "market": "교육",
+   "vol": 2048300,
+   "comp": "중간",
+   "growth": null,
+   "clk": 61.4,
+   "score": 3.79
+  },
+  {
+   "kw": "쳇지티피",
+   "market": "AI·테크",
+   "vol": 1655300,
+   "comp": "중간",
+   "growth": null,
+   "clk": 533.1,
+   "score": 3.73
+  },
+  {
+   "kw": "대한항공",
+   "market": "여행",
+   "vol": 1473900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1256.1,
+   "score": 3.7
+  },
+  {
+   "kw": "SEARCH",
+   "market": "AI·테크",
+   "vol": 3650,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.56
+  },
+  {
+   "kw": "한국진흥교육원",
+   "market": "교육",
+   "vol": 3050,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.48
+  },
+  {
+   "kw": "경량패딩",
+   "market": "소비재 전반",
+   "vol": 564200,
+   "comp": "중간",
+   "growth": null,
+   "clk": 10087.6,
+   "score": 3.45
+  },
+  {
+   "kw": "한양사이버대학원",
+   "market": "교육",
+   "vol": 2620,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 79.8,
+   "score": 3.42
+  },
+  {
+   "kw": "LPGA",
+   "market": "골프·레저",
+   "vol": 430300,
+   "comp": "중간",
+   "growth": null,
+   "clk": 138.0,
+   "score": 3.38
+  },
+  {
+   "kw": "다했니",
+   "market": "AI·테크",
+   "vol": 2370,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 6.9,
+   "score": 3.37
+  },
+  {
+   "kw": "노스페이스패딩",
+   "market": "소비재 전반",
+   "vol": 331900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 4531.6,
+   "score": 3.31
+  },
+  {
+   "kw": "유니클로세일",
+   "market": "소비재 전반",
+   "vol": 289400,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1716.0,
+   "score": 3.28
+  },
+  {
+   "kw": "스카이프",
+   "market": "교육",
+   "vol": 1830,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 1.5,
+   "score": 3.26
+  },
+  {
+   "kw": "브랜드커넥트",
+   "market": "광고·마케팅",
+   "vol": 212900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 61.9,
+   "score": 3.2
+  },
+  {
+   "kw": "뉴트리몰",
+   "market": "건강식품",
+   "vol": 1550,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 39.0,
+   "score": 3.19
+  },
+  {
+   "kw": "후리스",
+   "market": "소비재 전반",
+   "vol": 160500,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1835.5,
+   "score": 3.12
+  },
+  {
+   "kw": "일본",
+   "market": "여행",
+   "vol": 160100,
+   "comp": "중간",
+   "growth": null,
+   "clk": 168.2,
+   "score": 3.12
+  },
+  {
+   "kw": "데이터분석",
+   "market": "교육",
+   "vol": 1290,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.11
+  },
+  {
+   "kw": "특수대학원",
+   "market": "교육",
+   "vol": 1280,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.11
+  },
+  {
+   "kw": "퍼블리셔",
+   "market": "교육",
+   "vol": 1250,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.1
+  },
+  {
+   "kw": "유튜버순위",
+   "market": "광고·마케팅",
+   "vol": 1190,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.08
+  },
+  {
+   "kw": "조코딩",
+   "market": "AI·테크",
+   "vol": 1160,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 0.0,
+   "score": 3.06
+  },
+  {
+   "kw": "크리플래닛",
+   "market": "광고·마케팅",
+   "vol": 1090,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 87.8,
+   "score": 3.04
+  },
+  {
+   "kw": "키워드챌린지",
+   "market": "광고·마케팅",
+   "vol": 1080,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 18.7,
+   "score": 3.03
+  },
+  {
+   "kw": "로봇청소기",
+   "market": "소비재 전반",
+   "vol": 108900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1503.4,
+   "score": 3.02
+  },
+  {
+   "kw": "유산균",
+   "market": "건강식품",
+   "vol": 106100,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1482.3,
+   "score": 3.02
+  },
+  {
+   "kw": "뉴트리코어유산균",
+   "market": "건강식품",
+   "vol": 1040,
+   "comp": "낮음",
+   "growth": null,
+   "clk": 12.4,
+   "score": 3.02
+  },
+  {
+   "kw": "갈비탕",
+   "market": "소비재 전반",
+   "vol": 86800,
+   "comp": "중간",
+   "growth": null,
+   "clk": 483.2,
+   "score": 2.96
+  },
+  {
+   "kw": "타자연습",
+   "market": "AI·테크",
+   "vol": 82730,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1407.6,
+   "score": 2.95
+  },
+  {
+   "kw": "타자연습",
+   "market": "교육",
+   "vol": 82730,
+   "comp": "중간",
+   "growth": null,
+   "clk": 1407.6,
+   "score": 2.95
+  },
+  {
+   "kw": "챗지피티무료",
+   "market": "AI·테크",
+   "vol": 68000,
+   "comp": "중간",
+   "growth": null,
+   "clk": 457.3,
+   "score": 2.9
+  },
+  {
+   "kw": "쳇",
+   "market": "AI·테크",
+   "vol": 65400,
+   "comp": "중간",
+   "growth": null,
+   "clk": 0.0,
+   "score": 2.89
+  },
+  {
+   "kw": "동태탕",
+   "market": "소비재 전반",
+   "vol": 63660,
+   "comp": "중간",
+   "growth": null,
+   "clk": 266.7,
+   "score": 2.88
+  },
+  {
+   "kw": "카드지갑",
+   "market": "소비재 전반",
+   "vol": 59800,
+   "comp": "중간",
+   "growth": null,
+   "clk": 617.8,
+   "score": 2.87
+  },
+  {
+   "kw": "바디워시",
+   "market": "골프·레저",
+   "vol": 57500,
+   "comp": "중간",
+   "growth": null,
+   "clk": 322.3,
+   "score": 2.86
+  },
+  {
+   "kw": "남자패딩",
+   "market": "소비재 전반",
+   "vol": 47800,
+   "comp": "중간",
+   "growth": null,
+   "clk": 678.1,
+   "score": 2.81
+  },
+  {
+   "kw": "챗GPT무료",
+   "market": "AI·테크",
+   "vol": 45100,
+   "comp": "중간",
+   "growth": null,
+   "clk": 297.9,
+   "score": 2.79
+  },
+  {
+   "kw": "챗GPT무료",
+   "market": "교육",
+   "vol": 45100,
+   "comp": "중간",
+   "growth": null,
+   "clk": 297.9,
+   "score": 2.79
+  },
+  {
+   "kw": "캠핑",
+   "market": "골프·레저",
+   "vol": 40700,
+   "comp": "중간",
+   "growth": null,
+   "clk": 187.1,
+   "score": 2.77
+  },
+  {
+   "kw": "캠핑테이블",
+   "market": "골프·레저",
+   "vol": 40200,
+   "comp": "중간",
+   "growth": null,
+   "clk": 553.6,
+   "score": 2.76
+  },
+  {
+   "kw": "비오틴",
+   "market": "건강식품",
+   "vol": 34840,
+   "comp": "중간",
+   "growth": null,
+   "clk": 370.6,
+   "score": 2.73
+  },
+  {
+   "kw": "밀키트",
+   "market": "소비재 전반",
+   "vol": 34700,
+   "comp": "중간",
+   "growth": null,
+   "clk": 591.4,
+   "score": 2.72
+  },
+  {
+   "kw": "밀키트",
+   "market": "골프·레저",
+   "vol": 34700,
+   "comp": "중간",
+   "growth": null,
+   "clk": 591.4,
+   "score": 2.72
+  },
+  {
+   "kw": "프로바이오틱스",
+   "market": "건강식품",
+   "vol": 33900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 53.0,
+   "score": 2.72
+  },
+  {
+   "kw": "프로틴",
+   "market": "건강식품",
+   "vol": 33480,
+   "comp": "중간",
+   "growth": null,
+   "clk": 390.2,
+   "score": 2.71
+  },
+  {
+   "kw": "캠핑음식",
+   "market": "소비재 전반",
+   "vol": 31370,
+   "comp": "중간",
+   "growth": null,
+   "clk": 470.5,
+   "score": 2.7
+  },
+  {
+   "kw": "캠핑음식",
+   "market": "골프·레저",
+   "vol": 31370,
+   "comp": "중간",
+   "growth": null,
+   "clk": 470.5,
+   "score": 2.7
+  },
+  {
+   "kw": "GITHUB",
+   "market": "AI·테크",
+   "vol": 29400,
+   "comp": "중간",
+   "growth": null,
+   "clk": 27.5,
+   "score": 2.68
+  },
+  {
+   "kw": "GITHUB",
+   "market": "교육",
+   "vol": 29400,
+   "comp": "중간",
+   "growth": null,
+   "clk": 27.5,
+   "score": 2.68
+  },
+  {
+   "kw": "단백질보충제",
+   "market": "건강식품",
+   "vol": 27790,
+   "comp": "중간",
+   "growth": null,
+   "clk": 586.6,
+   "score": 2.67
+  },
+  {
+   "kw": "헤드폰",
+   "market": "소비재 전반",
+   "vol": 26800,
+   "comp": "중간",
+   "growth": null,
+   "clk": 114.5,
+   "score": 2.66
+  },
+  {
+   "kw": "프로바이오틱스유산균",
+   "market": "건강식품",
+   "vol": 27280,
+   "comp": "중간",
+   "growth": null,
+   "clk": 544.5,
+   "score": 2.66
+  },
+  {
+   "kw": "모발콜라겐",
+   "market": "건강식품",
+   "vol": 24790,
+   "comp": "중간",
+   "growth": null,
+   "clk": 667.2,
+   "score": 2.64
+  },
+  {
+   "kw": "장어덮밥",
+   "market": "소비재 전반",
+   "vol": 23440,
+   "comp": "중간",
+   "growth": null,
+   "clk": 227.5,
+   "score": 2.62
+  },
+  {
+   "kw": "골프화",
+   "market": "소비재 전반",
+   "vol": 22590,
+   "comp": "중간",
+   "growth": null,
+   "clk": 489.6,
+   "score": 2.61
+  },
+  {
+   "kw": "골프화",
+   "market": "골프·레저",
+   "vol": 22590,
+   "comp": "중간",
+   "growth": null,
+   "clk": 489.6,
+   "score": 2.61
+  },
+  {
+   "kw": "구스다운패딩",
+   "market": "소비재 전반",
+   "vol": 21530,
+   "comp": "중간",
+   "growth": null,
+   "clk": 309.5,
+   "score": 2.6
+  },
+  {
+   "kw": "삼프로TV",
+   "market": "교육",
+   "vol": 20950,
+   "comp": "중간",
+   "growth": null,
+   "clk": 14.0,
+   "score": 2.59
+  },
+  {
+   "kw": "경량패딩추천",
+   "market": "소비재 전반",
+   "vol": 19430,
+   "comp": "중간",
+   "growth": null,
+   "clk": 416.7,
+   "score": 2.57
+  },
+  {
+   "kw": "R",
+   "market": "AI·테크",
+   "vol": 19500,
+   "comp": "중간",
+   "growth": null,
+   "clk": 52.5,
+   "score": 2.57
+  },
+  {
+   "kw": "홍삼스틱",
+   "market": "건강식품",
+   "vol": 18900,
+   "comp": "중간",
+   "growth": null,
+   "clk": 78.9,
+   "score": 2.57
+  },
+  {
+   "kw": "더비슈즈",
+   "market": "소비재 전반",
+   "vol": 18190,
+   "comp": "중간",
+   "growth": null,
+   "clk": 166.2,
+   "score": 2.56
+  },
+  {
+   "kw": "영양제",
+   "market": "건강식품",
+   "vol": 18610,
+   "comp": "중간",
+   "growth": null,
+   "clk": 214.3,
+   "score": 2.56
+  },
+  {
+   "kw": "유산균추천",
+   "market": "건강식품",
+   "vol": 18320,
+   "comp": "중간",
+   "growth": null,
+   "clk": 317.4,
+   "score": 2.56
+  },
+  {
+   "kw": "드라이버",
+   "market": "골프·레저",
+   "vol": 17200,
+   "comp": "중간",
+   "growth": null,
+   "clk": 56.8,
+   "score": 2.54
+  },
+  {
+   "kw": "단백질",
+   "market": "건강식품",
+   "vol": 17360,
+   "comp": "중간",
+   "growth": null,
+   "clk": 88.9,
+   "score": 2.54
+  },
+  {
+   "kw": "골프채",
+   "market": "골프·레저",
+   "vol": 16730,
+   "comp": "중간",
+   "growth": null,
+   "clk": 334.7,
+   "score": 2.53
+  },
+  {
+   "kw": "닭꼬치",
+   "market": "골프·레저",
+   "vol": 16520,
+   "comp": "중간",
+   "growth": null,
+   "clk": 366.1,
+   "score": 2.53
+  },
+  {
+   "kw": "저분자콜라겐",
+   "market": "건강식품",
+   "vol": 16240,
+   "comp": "중간",
+   "growth": null,
+   "clk": 197.0,
+   "score": 2.53
+  }
+ ]
 }
