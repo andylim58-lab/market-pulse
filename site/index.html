@@ -19,6 +19,7 @@
     </div>
     <nav class="tabs" id="tabs">
       <button data-tab="overview" class="on">개요</button>
+      <button data-tab="insight">오늘의 인사이트</button>
       <button data-tab="market">시장 상세</button>
       <button data-tab="shopping">쇼핑 분야</button>
       <button data-tab="now">지금 뜨는 것</button>
@@ -47,6 +48,19 @@
       <div class="toolbar"><div class="seg" id="ovScale"><button data-v="logarithmic" class="on">로그</button><button data-v="linear">일반</button></div></div>
       <div class="chart-box tall"><canvas id="ovChart"></canvas></div>
     </div>
+  </section>
+
+  <!-- 오늘의 인사이트 -->
+  <section class="panel" id="p-insight">
+    <div class="ins-top">
+      <div>
+        <h2 style="margin-top:22px">오늘의 인사이트</h2>
+        <p class="desc">구글 급상승·유튜브 인기 영상에서 사업과 연결되는 키워드 3개를 매일 골라 현상·원인·시사점을 정리합니다. 매일 오전 9시대 발행.</p>
+      </div>
+      <select id="insDate"></select>
+    </div>
+    <div class="ins-picks" id="insPicks"></div>
+    <article id="insArticle"></article>
   </section>
 
   <!-- 시장 상세 -->

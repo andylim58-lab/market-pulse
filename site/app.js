@@ -90,6 +90,8 @@ async function boot() {
   state.market = D.markets[0]?.id;
   renderAll();
   bindTabs();
+  const h = location.hash.match(/^#insight(?:\/(\d{4}-\d{2}-\d{2}))?(?:\/([\w-]+))?/);
+  if (h) { INS.date = h[1] || null; INS.slug = h[2] || null; showTab("insight"); }
 }
 
 function renderAll() {
@@ -120,6 +122,7 @@ function bindTabs() {
   document.querySelectorAll("#tabs button").forEach((b) => (b.onclick = () => showTab(b.dataset.tab)));
 }
 function showTab(t) {
+  if (t === "insight") renderInsights();
   document.querySelectorAll("#tabs button").forEach((x) => x.classList.toggle("on", x.dataset.tab === t));
   document.querySelectorAll("section.panel").forEach((p) => p.classList.toggle("on", p.id === "p-" + t));
   Object.values(charts).forEach((c) => c.resize());
@@ -344,6 +347,100 @@ function renderOpps() {
     <tbody>${rows.map((o, i) => `<tr><td class="flat">${i + 1}</td><td><b>${esc(o.kw)}</b></td><td>${esc(o.market)}</td><td class="num">${num(o.vol)}</td>
       <td class="num">${pctHtml(o.growth)}</td><td class="num">${num(o.clk)}</td><td>${esc(o.comp)}</td><td class="num"><b>${o.score.toFixed(2)}</b></td></tr>`).join("") ||
       '<tr><td colspan="8" class="empty">데이터가 없습니다.</td></tr>'}</tbody>`;
+}
+
+
+// ── 오늘의 인사이트 ────────────────────────────────────────
+const INS = { index: null, cache: {}, date: null, slug: null };
+const CAT_ICON = { "쇼핑·유통": "🛍", "디지털 자산": "🪙", "금융·투자": "📈", "마케팅·미디어": "📣", "테크·AI": "🤖" };
+
+async function loadInsightIndex() {
+  if (INS.index) return INS.index;
+  try { INS.index = await (await fetch("insights/index.json?" + Date.now())).json(); }
+  catch (e) { INS.index = { days: [] }; }
+  return INS.index;
+}
+async function loadInsightDay(date) {
+  if (!INS.cache[date]) INS.cache[date] = await (await fetch(`insights/${date}.json?` + Date.now())).json();
+  return INS.cache[date];
+}
+function fmtKDate(d) { const [y, m, dd] = d.split("-"); return `${y}년 ${+m}월 ${+dd}일`; }
+
+async function renderInsights() {
+  const idx = await loadInsightIndex();
+  if (!idx.days.length) {
+    $("#insPicks").innerHTML = "";
+    $("#insArticle").innerHTML = '<div class="empty">아직 발행된 인사이트가 없습니다. 매일 오전 9시대에 3개씩 올라옵니다.</div>';
+    return;
+  }
+  if (!INS.date) INS.date = idx.days[0].date;
+  $("#insDate").innerHTML = idx.days.map((d) => `<option value="${d.date}" ${d.date === INS.date ? "selected" : ""}>${fmtKDate(d.date)}</option>`).join("");
+  $("#insDate").onchange = (e) => { INS.date = e.target.value; INS.slug = null; renderInsights(); };
+  const day = await loadInsightDay(INS.date);
+  if (!INS.slug || !day.items.some((i) => i.slug === INS.slug)) INS.slug = day.items[0].slug;
+  $("#insPicks").innerHTML = day.items.map((it) => `<button class="ins-pick ${it.slug === INS.slug ? "on" : ""}" data-s="${esc(it.slug)}">
+      <div class="cat">${CAT_ICON[it.category] || "•"} ${esc(it.category)}</div><div class="kw">${esc(it.keyword)}</div><div class="t">${esc(it.title)}</div></button>`).join("");
+  document.querySelectorAll(".ins-pick").forEach((b) => (b.onclick = () => { INS.slug = b.dataset.s; renderInsights(); setHash(); $("#insArticle").scrollIntoView({ behavior: "smooth" }); }));
+  renderInsightArticle(day, day.items.find((i) => i.slug === INS.slug));
+}
+
+function setHash() { history.replaceState(null, "", `#insight/${INS.date}/${INS.slug}`); }
+
+function heroTitle(t) {
+  // 첫 쉼표 앞부분을 강조색으로 (참고 페이지의 2색 헤드라인)
+  const i = t.indexOf(",");
+  return i > 0 ? `<span class="a1">${esc(t.slice(0, i))}</span>,<br>${esc(t.slice(i + 1).trim())}` : esc(t);
+}
+
+function renderInsightArticle(day, it) {
+  const points = (arr, cls = "") => `<ol class="ins-points ${cls}">${arr.map((p) => `<li>${esc(p)}</li>`).join("")}</ol>`;
+  const others = day.items.filter((x) => x.slug !== it.slug);
+  $("#insArticle").innerHTML = `
+  <div class="ins-article">
+    <div class="ins-tags">${it.tags.map((t) => `<span>${esc(t.startsWith("#") ? t : "#" + t)}</span>`).join("")}</div>
+    <h1 class="ins-h1">${esc(it.title)}</h1>
+    <div class="ins-date">${fmtKDate(day.date)} · ${esc(it.category)}</div>
+    <div class="ins-key"><h3>핵심 인사이트</h3>${it.summary.map((p) => `<p>${esc(p)}</p>`).join("")}</div>
+
+    <div class="ins-report">
+      <div class="ins-eyebrow">Market Pulse · ${day.date.replaceAll("-", ".")} Daily Insight</div>
+      <h2 class="ins-hero">${heroTitle(it.title)}</h2>
+      <p class="ins-lead">${esc(it.lead)}</p>
+      <div class="ins-meta">
+        ${(it.signals.from || []).map((f) => `<span>포착 · ${esc(f)}</span>`).join("")}
+        <span>${esc(it.category)}</span><span>키워드 · ${esc(it.keyword)}</span>
+      </div>
+
+      <div class="ins-sec">
+        <span class="ins-pill">한눈에 보기</span>
+        <h4>숫자로 보는 ${esc(it.keyword)}</h4>
+        ${it.signals.note ? `<p class="sub">${esc(it.signals.note)}</p>` : ""}
+        <div class="ins-kpis">${it.kpis.map((k) => `<div class="ins-kpi ${esc(k.tone || "teal")}">
+          <div class="l">${esc(k.label)}</div><div class="v">${esc(k.value)}<small>${esc(k.unit || "")}</small></div><div class="n">${esc(k.note || "")}</div></div>`).join("")}</div>
+      </div>
+
+      <div class="ins-sec"><span class="ins-pill blue">현상 · 무슨 일이 있나</span><h4>${esc(it.phenomenon.title)}</h4>${points(it.phenomenon.points)}</div>
+      <div class="ins-sec"><span class="ins-pill violet">원인 · 왜 지금인가</span><h4>${esc(it.cause.title)}</h4>${points(it.cause.points)}</div>
+      <div class="ins-sec"><span class="ins-pill teal">시사점 · 사업 관점</span><h4>${esc(it.implication.title)}</h4>${points(it.implication.points, "ins-impl")}</div>
+
+      <div class="ins-sec"><span class="ins-pill">앞으로 볼 지표</span><div class="ins-watch">${it.watch.map((w) => `<span>👀 ${esc(w)}</span>`).join("")}</div></div>
+
+      <div class="ins-sec"><span class="ins-pill">출처</span>
+        <ul class="ins-src">${it.sources.map((s) => `<li>${esc(s.publisher || "")} · <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join("")}</ul>
+      </div>
+      <p class="ins-foot">이 브리핑은 공개 보도와 마켓 펄스 수집 데이터를 바탕으로 AI(Claude)가 작성했습니다. 수치는 출처 기준이며, 투자·법률 판단의 근거로 쓰기 전 원문을 확인하세요.</p>
+    </div>
+
+    <div class="ins-share"><button class="pill" id="insCopy">🔗 이 인사이트 링크 복사</button></div>
+
+    ${others.length ? `<div class="ins-more"><h3>같은 날 다른 인사이트</h3><div class="ins-picks">${others.map((o) => `<button class="ins-pick" data-s="${esc(o.slug)}">
+      <div class="cat">${CAT_ICON[o.category] || "•"} ${esc(o.category)}</div><div class="kw">${esc(o.keyword)}</div><div class="t">${esc(o.title)}</div></button>`).join("")}</div></div>` : ""}
+  </div>`;
+  document.querySelectorAll(".ins-more .ins-pick").forEach((b) => (b.onclick = () => { INS.slug = b.dataset.s; renderInsights(); setHash(); $("#insPicks").scrollIntoView({ behavior: "smooth" }); }));
+  $("#insCopy").onclick = async () => {
+    setHash();
+    try { await navigator.clipboard.writeText(location.href); $("#insCopy").textContent = "✓ 복사됨"; } catch (e) { $("#insCopy").textContent = location.href; }
+  };
 }
 
 boot();
