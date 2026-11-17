@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-18",
+ "generated": "2026-11-18 06:30",
+ "items": [
+  {
+   "keyword": "엔비디아 CEO 공백",
+   "slug": "nvidia-ceo-vacuum-earnings",
+   "category": "테크·AI",
+   "title": "CEO 없이 맞는 첫 실적 발표, 엔비디아 리더십 공백이 AI 투자 사이클에 던진 질문",
+   "lead": "구글 급상승에 엔비디아의 젠슨 황 복귀 논의와 우회 수출 의혹이 올라왔어요. 미국 시간 17일 장 마감 뒤 열리는 3분기 실적 발표가 창업자 없이 치르는 첫 시험대라 관심이 커졌습니다.",
+   "tags": ["#엔비디아", "#AI반도체", "#CEO공백", "#수출통제", "#AI투자", "#광고테크"],
+   "summary": [
+    "엔비디아는 12일 젠슨 황의 사임을 발표했고, 그날 주가가 장 초반 13% 안팎 급락했어요. 코인 전문 매체 보도에 따르면 주가는 10월 고점보다 약 40% 낮은 수준까지 내려왔습니다.",
+    "이사회는 정식 후임을 내외부에서 찾는 중이고 황 전 CEO의 복귀는 검토하지 않는다는 보도가 나왔어요. 여기에 미 당국의 서버 우회 반출 수사가 겹쳐, AI 인프라에 기대 온 광고·커머스 업계도 비용과 일정 변수를 점검할 때입니다."
+   ],
+   "signals": {"from": ["구글 급상승 (11/17, 200+)"], "period": "2026-11-17", "note": "복귀 논의와 우회 수출 의혹을 묻는 검색이 함께 올라왔고, 같은 날 코인·테크 매체도 실적 발표를 집중 보도"},
+   "kpis": [
+    {"label": "사임 발표일 주가 낙폭", "value": "13", "unit": "%", "note": "12일 뉴욕 장 초반 기준", "tone": "orange"},
+    {"label": "10월 고점 대비 주가", "value": "-40", "unit": "% 안팎", "note": "코인데스크 보도 기준", "tone": "violet"},
+    {"label": "17일 주가 하락", "value": "4", "unit": "%", "note": "복귀 불가 보도 직후", "tone": "blue"},
+    {"label": "복귀 청원 서명", "value": "18.7", "unit": "만 명 이상", "note": "코인텔레그래프 보도", "tone": "teal"}
+   ],
+   "phenomenon": {
+    "title": "창업자가 떠난 뒤 처음 맞는 실적 발표예요",
+    "points": [
+     "이사회는 12일 젠슨 황이 사장·CEO와 이사직에서 즉시 물러난다고 밝혔고, 33년 만의 퇴진이에요. 임시 CEO는 콜레트 크레스 CFO가 맡고 있어요.",
+     "발표 당일 주가는 장 초반 13% 하락했고, 증권사 번스타인은 목표주가를 400달러에서 200달러로 낮췄다고 전해졌어요.",
+     "17일에는 이사회가 황 전 CEO의 복귀를 고려하지 않는다는 보도가 나오며 주가가 약 4% 더 내렸고, 복귀를 요구하는 온라인 청원은 18만 7천 명을 넘었어요.",
+     "미 법무부 등은 황 전 CEO와 연관된 단체가 슈퍼마이크로 AI 서버를 중국으로 우회 반출하려 했다는 의혹을 조사 중이에요. 다만 황 전 CEO의 기술 유출 가담은 확인되지 않았다고 보도됐어요."
+    ]
+   },
+   "cause": {
+    "title": "리더십 불확실성에 AI 거품 논란과 규제 변수가 겹쳤어요",
+    "points": [
+     "약 60명의 임원이 CEO에게 직접 보고하던 구조라 창업자 공백의 충격이 크다는 분석이 나와요.",
+     "후임 후보로 내부는 크레스 CFO와 이언 벅 부사장, 외부는 애플·Arm·AMD 인사가 거론되지만 확정된 인물은 없어요.",
+     "중국 수출을 둘러싼 조사와 의회의 증인 출석 요구로 수출통제 리스크가 커졌고, 미 재무장관이 이사회에 답변을 요구했다는 보도도 있었어요.",
+     "말레이시아 매체는 주가수익비율이 14년 만에 최저로 내려왔다고 전해, 싸졌다는 시각과 AI 수요 지속성에 대한 의심이 맞서고 있어요."
+    ]
+   },
+   "implication": {
+    "title": "광고·커머스 업계는 'AI 비용과 일정'을 다시 계산해야 해요",
+    "points": [
+     "생성형 AI 소재 제작·추천 엔진·고객 응대 자동화를 도입하는 광고·커머스 업체는 GPU 공급 가격과 납기 변동에 대비해, 특정 클라우드·모델 한 곳에 묶이지 않는 이중화 계획을 제안 자료에 넣을 만해요.",
+     "AI 인프라 관련 종목과 코인 채굴사 등 자금 조달이 필요한 업체는 투자 심리가 흔들릴 때 마케팅 예산을 줄이는 경향이 있어, 이 업종 대상 영업은 시기를 나누어 접근하는 편이 안전해요.",
+     "실적 발표에서 AI 수요 전망이 확인되면 반도체·서버·데이터센터 관련 B2B 광고와 콘텐츠 수요가 되살아날 수 있어요. 반대로 실적 가이던스가 약하면 AI 관련 캠페인 메시지를 '성과 입증' 중심으로 바꾸는 편이 낫습니다.",
+     "수출통제 이슈는 국내 메모리·장비 업체의 중국 공장 운영에도 영향을 줄 수 있다는 분석이 있어, 이 업종과 거래하는 기업은 공급망 리스크 문의가 늘 가능성을 염두에 두면 좋아요."
+    ]
+   },
+   "watch": ["엔비디아 3분기 실적과 다음 분기 가이던스, 회견에서의 후임 CEO 언급", "정식 CEO 선임 일정과 이사회의 수출통제 조사 결과·의회 대응", "AI 인프라 투자 관련 기업의 설비투자 계획과 마케팅 예산 변화"],
+   "sources": [
+    {"title": "젠슨 황 사임 관련 엔비디아 주가 급락 보도", "publisher": "비즈워치", "url": "https://news.bizwatch.co.kr/article/industry/2026/11/13/0001"},
+    {"title": "젠슨 황, 33년 만에 엔비디아 경영서 퇴장…정식 후임자 물색", "publisher": "MTN", "url": "https://news.mtn.co.kr/article/2026111223133656550"},
+    {"title": "Nvidia shares fall 4% as board reportedly rules out Huang return", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return"},
+    {"title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide", "publisher": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide"},
+    {"title": "Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain", "publisher": "The Star (NST)", "url": "https://www.nst.com.my/amp/business/corporate/2026/11/1576575/nvidia-pe-falls-14-year-low-ceo-exit-and-ai-worries-cloud"}
+   ]
+  }
+ ]
+}

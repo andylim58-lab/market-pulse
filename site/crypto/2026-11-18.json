@@ -1,0 +1,87 @@
+{
+ "date": "2026-11-18",
+ "generated": "2026-11-18 06:40",
+ "market_note": "17일(미국 시간) 비트코인은 6.4만 달러 안팎에서 정체했고, 코인마켓캡 공포·탐욕 지수는 13(극도의 공포)이에요. 엔비디아 실적 발표를 앞두고 기술주와 코인이 함께 눈치를 보는 하루였습니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "주말 20억 달러 청산 뒤 비트코인, 6만 달러선을 주시한다",
+   "title_en": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+   "summary": [
+    "지난 주말 강제 청산이 시장을 휩쓸며 약 20억 달러 규모가 정리됐고, 비트코인은 한때 6만 2,100달러 부근까지 밀렸어요.",
+    "ETF 자금 유출과 한쪽으로 쏠린 옵션 포지션이 상처를 키웠고, 트레이더들은 6만 달러 지지 여부에 시선을 두고 있습니다."
+   ],
+   "why": "시장 전체의 위험 선호가 위축된 국면이라, 거래소·코인 업계의 마케팅 예산과 신규 가입 캠페인 효율이 당분간 낮아질 수 있어요.",
+   "coins": ["BTC"],
+   "source": "Decrypt",
+   "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+   "published": "2026-11-17T06:46:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "블랙록 비트코인 ETF, 11거래일 연속 유출 끝냈지만 '회복 신호는 이르다'",
+   "title_en": "BlackRock's Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+   "summary": [
+    "블랙록 비트코인 ETF가 11거래일 동안 이어진 자금 유출을 멈췄고, 그 기간 빠져나간 돈은 모두 23억 5천만 달러였어요.",
+    "온체인 분석 업체 크립토퀀트는 하루 순유입만으로 반등을 말하기엔 이르다고 선을 그었어요."
+   ],
+   "why": "기관 자금의 방향이 가격을 좌우하는 시기라, 금융사 대상 영업이나 제휴 제안은 ETF 자금 흐름의 추세 전환을 확인한 뒤 타이밍을 잡는 편이 안전해요.",
+   "coins": ["BTC"],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
+   "published": "2026-11-17T20:18:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "독일 연방의회, 형사 사건 없이도 10만 유로 넘는 코인 동결 허용",
+   "title_en": "German Bundestag Lets Customs Freeze Crypto Over €100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
+   "summary": [
+    "독일 연방의회가 출처가 의심스러운 10만 유로 초과 암호자산을 세관이 형사 절차 없이 묶어둘 수 있는 법안을 통과시켰고, 법안은 연방상원으로 넘어갔어요.",
+    "보도에 따르면 동결은 30일 단위이고, 연장과 몰수 분쟁에는 법원의 감독이 따르도록 되어 있어요."
+   ],
+   "why": "유럽에서 자금 출처 증빙 요구가 강해지는 흐름이라, 코인 결제·거래 서비스를 운영하는 기업은 고객 확인과 자금 출처 안내 문구를 미리 정비해 둘 필요가 있어요.",
+   "coins": ["BTC"],
+   "source": "Bitcoin Magazine",
+   "url": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000",
+   "published": "2026-11-17T03:15:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "바이낸스, 코인 담보로 쓰는 '페이 레이터' 신용 서비스 선보여",
+   "title_en": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+   "summary": [
+    "바이낸스가 비트코인·이더리움·BNB를 맡기면 바이낸스 카드나 QR 결제로 쓸 수 있는 신용을 제공하는 페이 레이터를 내놨어요.",
+    "자격이 되는 이용자는 최대 1,000 USDC까지 한도를 받을 수 있어요."
+   ],
+   "why": "코인을 팔지 않고 결제에 쓰는 구조가 퍼지면 커머스 가맹점과 결제 파트너가 코인 보유자를 겨냥한 결제 혜택 마케팅을 시도할 여지가 생겨요.",
+   "coins": ["BNB", "BTC", "ETH", "USDC"],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit",
+   "published": "2026-11-16T22:00:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bnb/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "트레자, 올해만 세 번째 배송 파트너 정보 유출… 2만 7천 건 주문 노출",
+   "title_en": "Trezor customer data exposed in 3rd partner breach this year",
+   "summary": [
+    "하드웨어 지갑 업체 트레자가 배송 파트너 한 곳에서 고객 이름·전화번호·배송 주소 등이 새어 나갔다고 알렸고, 영향받은 주문은 약 2만 7천 건이에요.",
+    "해당 배송사는 미국으로는 배송하지 않아 미국 고객은 영향이 없고, 트레자는 사기 전화와 물리적 보안 위험에 주의하라고 안내했어요."
+   ],
+   "why": "외주 파트너가 뚫리면 고객 정보가 함께 노출되는 만큼, 코인·커머스 사업자는 배송·마케팅 협력사의 개인정보 관리 수준을 계약 단계에서 점검해야 해요.",
+   "coins": ["BTC"],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year",
+   "published": "2026-11-17T12:46:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  }
+ ]
+}
