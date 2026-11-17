@@ -2,14 +2,14 @@
  "items": {
   "최저임금": {
    "q": "최저임금",
-   "traffic": 100,
-   "traffic_label": "100+",
+   "traffic": 200,
+   "traffic_label": "200+",
    "pub": "Tue, 17 Nov 2026 04:20:00 -0800",
    "news": [
     {
-     "title": "간호조무사 처우개선, 건강보험 수가체계 개선 뒷받침 돼야",
-     "url": "https://www.khanews.com/news/articleView.html?idxno=252912",
-     "source": "병원신문"
+     "title": "간호조무사 4명 중 1명 최저임금도 못 받아…의료계 \"수가 연동해야\"",
+     "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200078&sc_word=&sc_word2=",
+     "source": "의협신문"
     },
     {
      "title": "간무협, 국회 입법박람회서 정책 부스 운영",
@@ -162,9 +162,9 @@
      "source": "조선일보"
     },
     {
-     "title": "최희, 사후 장기기증 신청 \"아이들 두고 떠날 생각하면 무섭지만\"",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-17/202611170100110680010198",
-     "source": "스포츠조선"
+     "title": "\"10년 동안 고민한 일, 벌써 슬프고 무섭지만 용기 냈다\" 최희, 사후 장기기증 희망자 등록 신청했",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020406",
+     "source": "SPOTV NEWS"
     }
    ]
   },
@@ -238,5 +238,5 @@
    ]
   }
  },
- "updated": "2026-11-17 22:31"
+ "updated": "2026-11-17 22:41"
 }
