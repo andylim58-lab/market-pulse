@@ -11,7 +11,7 @@ from __future__ import annotations
 
 from datetime import timedelta
 
-from common import DATA, env, http, load_config, now_kst_str, save_json, today_kst
+from common import DATA, env, http, load_config, load_json, now_kst_str, save_json, today_kst
 
 HUB = "https://naverapihub.apigw.ntruss.com"
 LEGACY = "https://openapi.naver.com"
@@ -111,6 +111,11 @@ def collect_shopping(cfg, urls, headers):
 def main():
     if not env("NAVER_HUB_ID"):
         print("NAVER_HUB_ID 없음 → 데이터랩 건너뜀")
+        return
+    # 데이터랩은 하루 단위로 갱신되므로 하루 1회(그날 첫 실행 = 아침)만 호출. 강제 실행은 DATALAB_FORCE=1
+    prev = load_json(DATA / "naver" / "search_trend.json", {})
+    if not env("DATALAB_FORCE") and str(prev.get("updated", "")).startswith(today_kst().isoformat()):
+        print("  데이터랩은 오늘 이미 수집함 → 건너뜀 (하루 1회)")
         return
     cfg = load_config()
     urls, headers = _endpoints()

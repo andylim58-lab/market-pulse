@@ -21,8 +21,8 @@ def check(doc: dict) -> list[str]:
     if not isinstance(doc.get("date"), str) or len(doc["date"]) != 10:
         err.append("date 는 YYYY-MM-DD")
     items = doc.get("items") or []
-    if len(items) != 3:
-        err.append(f"items 는 정확히 3개여야 함 (현재 {len(items)})")
+    if not 1 <= len(items) <= 3:
+        err.append(f"items 는 1~3개 (기본 1개, 현재 {len(items)})")
     for i, it in enumerate(items, 1):
         p = f"items[{i}]"
         for k in ("keyword", "slug", "category", "title", "lead"):

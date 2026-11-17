@@ -372,7 +372,7 @@ async function renderInsights() {
   const idx = await loadInsightIndex();
   if (!idx.days.length) {
     $("#insPicks").innerHTML = "";
-    $("#insArticle").innerHTML = '<div class="empty">아직 발행된 인사이트가 없습니다. 매일 오전 9시대에 3개씩 올라옵니다.</div>';
+    $("#insArticle").innerHTML = '<div class="empty">아직 발행된 인사이트가 없습니다. 평일 오전 6시대에 올라옵니다.</div>';
     return;
   }
   if (!INS.date) INS.date = idx.days[0].date;
@@ -488,7 +488,7 @@ async function renderCrypto() {
 
   // Top 5
   const days = CX.index.days;
-  if (!days.length) { $("#cxTop").innerHTML = '<div class="card empty">아직 발행된 Top 5가 없습니다. 매일 오전 9시대에 발행됩니다.</div>'; return; }
+  if (!days.length) { $("#cxTop").innerHTML = '<div class="card empty">아직 발행된 Top 5가 없습니다. 평일 오전 6시대에 발행됩니다.</div>'; return; }
   if (!CX.date) CX.date = days[0].date;
   $("#cxDate").innerHTML = days.map((d) => `<option value="${d.date}" ${d.date === CX.date ? "selected" : ""}>${fmtKDate(d.date)}</option>`).join("");
   $("#cxDate").onchange = (e) => { CX.date = e.target.value; renderCrypto(); };
