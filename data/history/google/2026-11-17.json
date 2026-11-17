@@ -7,26 +7,26 @@
    "pub": "Tue, 17 Nov 2026 04:20:00 -0800",
    "news": [
     {
-     "title": "간호조무사 임금 \"수가 체계와 연동해야\"",
-     "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200078",
-     "source": "의협신문"
+     "title": "고령화에 일손 부족한 일본…아르바이트 평균시급 역대최고 경신",
+     "url": "https://www.yna.co.kr/view/AKR20261117103200009",
+     "source": "연합뉴스"
     },
     {
-     "title": "간무협, 국회 입법박람회서 정책 부스 운영",
-     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044369",
-     "source": "청년의사"
+     "title": "[특파원 칼럼/황인찬]‘인구 절반 50세 이상’ 日이 먼저 맞은 위기",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261115/135028839/2",
+     "source": "동아일보"
     },
     {
-     "title": "대한간호조무사협회, “벼랑 끝 간호조무사 처우, 이대로 괜찮은가”… 11월17일 국회 토론회",
-     "url": "https://www.kmpnews.co.kr/news/articleView.html?idxno=74237",
-     "source": "한국의약통신"
+     "title": "\"시급 1만2000원 줘도 사람 없다\"…日 알바 시급 '역대 최고'",
+     "url": "https://view.asiae.co.kr/article/2026111715160340910",
+     "source": "아시아경제"
     }
    ]
   },
   "디지털 자산": {
    "q": "디지털 자산",
-   "traffic": 200,
-   "traffic_label": "200+",
+   "traffic": 500,
+   "traffic_label": "500+",
    "pub": "Tue, 17 Nov 2026 04:10:00 -0800",
    "news": [
     {
@@ -254,9 +254,9 @@
      "source": "국제신문"
     },
     {
-     "title": "“공사비 증액 없인 적기개항 위태”… 국민의힘 부산시당, 정부에 ‘확약’ 압박",
-     "url": "https://sports.donga.com/region/article/all/20261116/135032409/1",
-     "source": "스포츠동아"
+     "title": "특별법에 가덕 공사비 증액 강제 규정 담은 국토부…여야 공동발의 ‘급물살’",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026111715295309559",
+     "source": "부산일보"
     }
    ]
   },
@@ -282,7 +282,145 @@
      "source": "연합뉴스"
     }
    ]
+  },
+  "권고": {
+   "q": "권고",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 17 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "국힘, 대구 남구의회 의장·부의장 ‘탈당 권고’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713243",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "김재겸·함광식 대구 남구의원 \"이번 주 탈당계 제출\"",
+     "url": "https://www.newsis.com/view/NISX20261117_0003871400",
+     "source": "뉴시스"
+    },
+    {
+     "title": "민주당 대구시당, 국민의힘 대구시당에 ‘야합’ 주장 철회 촉구",
+     "url": "https://www.pressian.com/pages/articles/2026111618485737969",
+     "source": "프레시안"
+    }
+   ]
+  },
+  "lg그룹": {
+   "q": "lg그룹",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Tue, 17 Nov 2026 05:10:00 -0800",
+   "news": [
+    {
+     "title": "[단독] 이상엽 LGU+ CTO 물러난다…LG그룹 임원인사 통보 시작",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006517",
+     "source": "아시아투데이"
+    },
+    {
+     "title": "[단독] LGU+, 기술 조직 ‘고강도 쇄신’…AI·데이터 임원 교체",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006562",
+     "source": "아시아투데이"
+    },
+    {
+     "title": "보조금·보상금 뺀 본업은 ‘글쎄’…김동명 LG엔솔 사장, 연임 문턱 넘을까",
+     "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513649",
+     "source": "일요신문"
+    }
+   ]
+  },
+  "npl": {
+   "q": "npl",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 17 Nov 2026 05:10:00 -0800",
+   "news": [
+    {
+     "title": "Sudurpashchim sets 106-run target for Lumbini in NPL qualifier",
+     "url": "https://english.nepalnews.com/s/sports/sudurpashchim-sets-106-run-target-for-lumbini-in-npl-qualifier/",
+     "source": "Nepalnews.com"
+    },
+    {
+     "title": "Sudurpaschim, Lumbini face off for first final spot in NPL 3",
+     "url": "https://theannapurnaexpress.com/story/68808/",
+     "source": "The Annapurna Express"
+    },
+    {
+     "title": "NPL Playoff equation: Lumbini to face Sudurpaschim in qualifier 1, Chitwan to take on Kathmandu in eliminator",
+     "url": "https://myrepublica.nagariknetwork.com/news/npl-playoff-equation-lumbini-to-face-sudurpaschim-in-qualifier-1-chitwan-to-61-57.html",
+     "source": "myRepublica"
+    }
+   ]
+  },
+  "zimbabwe vs afghanistan": {
+   "q": "zimbabwe vs afghanistan",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Tue, 17 Nov 2026 05:10:00 -0800",
+   "news": [
+    {
+     "title": "Bowlers eye more assistance from Sharjah pitch after runathon in first Test",
+     "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-preview",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Chevrons on the cusp of victory",
+     "url": "https://www.heraldonline.co.zw/chevrons-on-the-cusp-of-victory/",
+     "source": "Herald.co.zw"
+    },
+    {
+     "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
+     "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm",
+     "source": "Cricket World"
+    }
+   ]
+  },
+  "t1": {
+   "q": "t1",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Tue, 17 Nov 2026 05:00:00 -0800",
+   "news": [
+    {
+     "title": "TenZ returns: T1 bring the VALORANT legend back for 2027",
+     "url": "https://www.redbull.com/bg-bg/tenz-joins-t1-valorant-2027",
+     "source": "Red Bull"
+    },
+    {
+     "title": "Sacy on joining T1: “I’m basically here because of my dad”",
+     "url": "https://pley.gg/valorant/sacy-on-joining-t1-im-basically-here-because-of-my-dad/",
+     "source": "Pley.gg"
+    },
+    {
+     "title": "T1 Signs TenZ Out of Retirement for VCT Pacific 2027",
+     "url": "https://rg.org/news/esports/t1-brings-tenz-out-of-retirement-vct-pacific-2027",
+     "source": "RG.org"
+    }
+   ]
+  },
+  "미사일": {
+   "q": "미사일",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Tue, 17 Nov 2026 05:00:00 -0800",
+   "news": [
+    {
+     "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
+     "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
+     "source": "서울Pn"
+    },
+    {
+     "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+     "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+     "source": "조선일보"
+    }
+   ]
   }
  },
- "updated": "2026-11-17 22:58"
+ "updated": "2026-11-17 23:36"
 }

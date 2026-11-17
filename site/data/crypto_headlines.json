@@ -1,0 +1,394 @@
+{
+ "updated": "2026-11-17 23:36",
+ "feeds": [
+  "Cointelegraph",
+  "CoinDesk",
+  "Decrypt",
+  "The Block",
+  "CryptoPotato",
+  "Bitcoin Magazine",
+  "블록미디어"
+ ],
+ "items": [
+  {
+   "source": "The Block",
+   "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+   "published": "2026-11-17T14:27:35+00:00",
+   "coins": [
+    "SOL"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players",
+   "url": "https://cryptopotato.com/xsolla-zk-introduces-a-gas-token-designed-to-let-digital-items-move-between-games-and-players/",
+   "published": "2026-11-17T14:10:23+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "ETH Risks Another Drop to $1.71K as This Pattern Signals Trouble (Ethereum Price Analysis)",
+   "url": "https://cryptopotato.com/ethereum-price-prediction-eth-risks-another-drop-to-1-71k-as-this-pattern-signals-trouble/",
+   "published": "2026-11-17T14:03:54+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "The Block",
+   "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+   "url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+   "published": "2026-11-17T14:00:00+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+   "url": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
+   "published": "2026-11-17T13:56:18+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Ripple Price Prediction: XRP Struggles Below $1 as Bears Eye Another Drop to $0.89",
+   "url": "https://cryptopotato.com/ripple-price-prediction-xrp-struggles-below-1-as-bears-eye-another-drop-to-0-89/",
+   "published": "2026-11-17T13:46:08+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "캐시 우드의 ‘역발상’…아크, 엔비디아 8500만달러 팔아 디지털자산주 줍줍",
+   "url": "https://www.blockmedia.co.kr/archives/1167053?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T13:45:44+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Fed Rate Hike Odds Hit 90%: What Could Happen to Bitcoin and Crypto in December?",
+   "url": "https://cryptopotato.com/fed-rate-hike-odds-hit-90-what-could-happen-to-bitcoin-and-crypto-in-december/",
+   "published": "2026-11-17T13:35:59+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "러시아, 비트코인 거래 문 열었다… 연간 300만원대 제한",
+   "url": "https://www.blockmedia.co.kr/archives/1167051?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T13:31:27+00:00",
+   "coins": [
+    "BTC",
+    "ETH",
+    "USDT"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+   "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T13:30:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "애셴브레너 펀드, 비트코인 채굴주 90% 이상 처분…AI 전력·컴퓨팅 올인",
+   "url": "https://www.blockmedia.co.kr/archives/1167039?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T13:14:27+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+   "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T13:12:10+00:00",
+   "coins": [
+    "ETH",
+    "SOL"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "The Block",
+   "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+   "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
+   "published": "2026-11-17T13:08:34+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+   "published": "2026-11-17T13:02:56+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+   "published": "2026-11-17T13:00:00+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "The Block",
+   "title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+   "published": "2026-11-17T13:00:00+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+   "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+   "published": "2026-11-17T12:56:24+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+   "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+   "published": "2026-11-17T12:50:55+00:00",
+   "coins": [
+    "SOL"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "‘1달러 붕괴’ XRP, 0.79달러까지 추락하나… 과거 급락장 때와 비교해보니",
+   "url": "https://www.blockmedia.co.kr/archives/1166885?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T12:30:24+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+   "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T12:24:20+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Evernorth Writes Down Ripple Holdings: What Does This Mean for XRP’s Price?",
+   "url": "https://cryptopotato.com/evernorth-writes-down-ripple-holdings-what-does-this-mean-for-xrps-price/",
+   "published": "2026-11-17T12:20:43+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+   "published": "2026-11-17T12:16:53+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+   "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+   "published": "2026-11-17T12:00:55+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "The Block",
+   "title": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
+   "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+   "published": "2026-11-17T12:00:41+00:00",
+   "coins": [
+    "USDC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+   "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T11:36:26+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+   "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+   "published": "2026-11-17T11:36:07+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 4
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin (BTC) Rejected at $65K, Internet Computer (ICP) Soars 11%: Market Watch",
+   "url": "https://cryptopotato.com/bitcoin-btc-rejected-at-65k-internet-computer-icp-soars-11-market-watch/",
+   "published": "2026-11-17T11:30:58+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "NFT는 받았는데 결제는 ‘실패’…이더리움 차기 업그레이드서 결함 발견",
+   "url": "https://www.blockmedia.co.kr/archives/1166851?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T11:30:43+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+   "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+   "published": "2026-11-17T11:29:51+00:00",
+   "coins": [
+    "SOL"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "CoinDesk",
+   "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+   "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+   "published": "2026-11-17T11:25:58+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+   "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T11:18:18+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "The Bitcoin Bull Run That Never Was: Wintermute Issues Stark Warning",
+   "url": "https://cryptopotato.com/the-bitcoin-bull-run-that-never-was-wintermute-issues-stark-warning/",
+   "published": "2026-11-17T11:15:21+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+   "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T11:14:05+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+   "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+   "published": "2026-11-17T11:05:25+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+   "url": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+   "published": "2026-11-17T10:49:40+00:00",
+   "coins": [
+    "HYPE"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+   "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+   "published": "2026-11-17T10:48:12+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Live updates: Bitcoin holds near $65,000 as tech bounces ahead of Nvidia earnings",
+   "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+   "published": "2026-11-17T10:33:26+00:00",
+   "coins": [
+    "BTC",
+    "HYPE",
+    "ZEC"
+   ],
+   "coverage": 5
+  },
+  {
+   "source": "블록미디어",
+   "title": "JP모건 등 7개 글로벌 은행, XRP ETF 2940만달러 보유… 93%가 한 곳에",
+   "url": "https://www.blockmedia.co.kr/archives/1166796?utm_source=general&utm_medium=rss",
+   "published": "2026-11-17T10:30:17+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+   "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+   "published": "2026-11-17T10:22:18+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "The Block",
+   "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+   "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+   "published": "2026-11-17T10:20:37+00:00",
+   "coins": [
+    "ETH",
+    "USDT"
+   ],
+   "coverage": 0
+  }
+ ]
+}
