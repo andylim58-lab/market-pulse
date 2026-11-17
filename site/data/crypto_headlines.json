@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17 23:36",
+ "updated": "2026-11-17 23:47",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -10,6 +10,16 @@
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+   "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-17T14:45:49+00:00",
+   "coins": [
+    "SOL"
+   ],
+   "coverage": 2
+  },
   {
    "source": "The Block",
    "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
@@ -283,7 +293,7 @@
    "coins": [
     "SOL"
    ],
-   "coverage": 1
+   "coverage": 2
   },
   {
    "source": "CoinDesk",
@@ -378,17 +388,6 @@
    "published": "2026-11-17T10:22:18+00:00",
    "coins": [],
    "coverage": 1
-  },
-  {
-   "source": "The Block",
-   "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
-   "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-   "published": "2026-11-17T10:20:37+00:00",
-   "coins": [
-    "ETH",
-    "USDT"
-   ],
-   "coverage": 0
   }
  ]
 }

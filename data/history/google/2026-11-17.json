@@ -267,14 +267,14 @@
    "pub": "Tue, 17 Nov 2026 04:50:00 -0800",
    "news": [
     {
-     "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
-     "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1",
-     "source": "동아일보"
-    },
-    {
      "title": "“나는 지금도 무대 막이 열릴 때 죽을 것처럼 떨려요” ‘한국 창작춤의 선구자’ 배정혜 무용가 별세",
      "url": "https://www.segye.com/newsView/20261117509155",
      "source": "세계일보"
+    },
+    {
+     "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
+     "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1",
+     "source": "동아일보"
     },
     {
      "title": "'한국 창작춤 선구자' 원로 안무가 배정혜, 향년 82세로 별세(종합)",
@@ -285,8 +285,8 @@
   },
   "권고": {
    "q": "권고",
-   "traffic": 200,
-   "traffic_label": "200+",
+   "traffic": 500,
+   "traffic_label": "500+",
    "pub": "Tue, 17 Nov 2026 05:30:00 -0800",
    "news": [
     {
@@ -336,19 +336,19 @@
    "pub": "Tue, 17 Nov 2026 05:10:00 -0800",
    "news": [
     {
-     "title": "Sudurpashchim sets 106-run target for Lumbini in NPL qualifier",
-     "url": "https://english.nepalnews.com/s/sports/sudurpashchim-sets-106-run-target-for-lumbini-in-npl-qualifier/",
-     "source": "Nepalnews.com"
-    },
-    {
-     "title": "Sudurpaschim, Lumbini face off for first final spot in NPL 3",
-     "url": "https://theannapurnaexpress.com/story/68808/",
-     "source": "The Annapurna Express"
+     "title": "Lumbini Lions vs Sudurpaschim Royals, NPL 2026 Qualifier 1 – Match prediction, playing XI and form guide",
+     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-29th-match-qualifier-1-lumbini-lions-vs-sudurpaschim-royals-17th-november/114379.htm",
+     "source": "Cricket World"
     },
     {
      "title": "NPL Playoff equation: Lumbini to face Sudurpaschim in qualifier 1, Chitwan to take on Kathmandu in eliminator",
      "url": "https://myrepublica.nagariknetwork.com/news/npl-playoff-equation-lumbini-to-face-sudurpaschim-in-qualifier-1-chitwan-to-61-57.html",
      "source": "myRepublica"
+    },
+    {
+     "title": "Qualifier 1 (D/N), Nepal Premier League at Kirtipur, Nov 17 2026",
+     "url": "https://www.espn.com/cricket/series/23081/scorecard/1558610/lumbini-lions-npl-vs-sudur-paschim-royals-npl-qualifier-1-nepal-premier-league-2026-27",
+     "source": "ESPN"
     }
    ]
   },
@@ -369,9 +369,9 @@
      "source": "Herald.co.zw"
     },
     {
-     "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
-     "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm",
-     "source": "Cricket World"
+     "title": "2nd Test: Graeme Cremer, Blessing Muzarabani slam half-centuries against Afghanistan",
+     "url": "https://www.newsbytesapp.com/news/sports/2nd-test-cremer-muzarabani-bolster-zimbabwe-against-afghanistan/story",
+     "source": "NewsBytes"
     }
    ]
   },
@@ -420,7 +420,30 @@
      "source": "조선일보"
     }
    ]
+  },
+  "일본 파라과이": {
+   "q": "일본 파라과이",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 17 Nov 2026 05:40:00 -0800",
+   "news": [
+    {
+     "title": "Japan vs Paraguay: Friendlies stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cjr4gxnz0rr3t",
+     "source": "BBC"
+    },
+    {
+     "title": "Licensable picture: Mizuho Blue Challenge - Japan v Paraguay",
+     "url": "https://www.reutersconnect.com/item/mizuho-blue-challenge-japan-v-paraguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxMDhWSUI",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Japan Paraguay Soccer",
+     "url": "https://www.corsicanadailysun.com/sports/national_sports/japan-paraguay-soccer/image_3066b288-6495-512b-b7a3-e84ad4f78444.html",
+     "source": "Corsicana Daily Sun"
+    }
+   ]
   }
  },
- "updated": "2026-11-17 23:36"
+ "updated": "2026-11-17 23:47"
 }
