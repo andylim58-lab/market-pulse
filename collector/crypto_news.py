@@ -22,7 +22,6 @@ FEEDS = [
     ("The Block", "https://www.theblock.co/rss.xml"),
     ("CryptoPotato", "https://cryptopotato.com/feed/"),
     ("Bitcoin Magazine", "https://bitcoinmagazine.com/.rss/full/"),
-    ("CoinMarketCap Academy", "https://coinmarketcap.com/academy/rss"),
     ("블록미디어", "https://www.blockmedia.co.kr/feed"),
 ]
 UA = {"User-Agent": "Mozilla/5.0 (market-pulse personal dashboard; RSS reader)"}

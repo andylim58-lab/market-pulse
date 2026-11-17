@@ -60,7 +60,7 @@ push하면 "인사이트 게시" 워크플로우가 2분 안에 사이트에 반
 ```bash
 python collector/crypto_news.py candidates
 ```
-- 코인마켓캡 뉴스 페이지에 모이는 주요 매체(Cointelegraph·CoinDesk·Decrypt·The Block·CryptoPotato·Bitcoin Magazine·코인마켓캡 Academy·블록미디어)의 최근 36시간 기사가 출력됩니다.
+- 코인마켓캡 뉴스 페이지에 모이는 주요 매체(Cointelegraph·CoinDesk·Decrypt·The Block·CryptoPotato·Bitcoin Magazine·블록미디어)의 최근 36시간 기사가 출력됩니다.
 - 앞의 [숫자]는 **보도 강도**입니다. 다른 매체가 비슷한 제목으로 함께 다룬 수라서, 높을수록 시장 전체가 주목한 뉴스입니다.
 - 시세(시가총액·BTC 점유율·공포탐욕 지수)도 함께 출력됩니다. 시세가 없으면 `site/data/crypto_market.json`이 없는 것이니 그대로 진행합니다.
 - 필요하면 WebFetch/WebSearch로 원문과 코인마켓캡 뉴스(https://coinmarketcap.com/headlines/news/)를 확인해 보강합니다.
