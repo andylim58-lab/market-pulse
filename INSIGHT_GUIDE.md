@@ -50,3 +50,49 @@ python collector/insight_publish.py site/insights/YYYY-MM-DD.json   # 실패하�
 git add site/insights && git commit -m "insight: YYYY-MM-DD" && git push origin main
 ```
 push하면 "인사이트 게시" 워크플로우가 2분 안에 사이트에 반영합니다.
+
+
+---
+
+# 코인 뉴스 Top 5 작성 가이드 (같은 예약 작업에서 이어서 진행)
+
+## 1. 후보 보기
+```bash
+python collector/crypto_news.py candidates
+```
+- 코인마켓캡 뉴스 페이지에 모이는 주요 매체(Cointelegraph·CoinDesk·Decrypt·The Block·CryptoPotato·Bitcoin Magazine·코인마켓캡 Academy·블록미디어)의 최근 36시간 기사가 출력됩니다.
+- 앞의 [숫자]는 **보도 강도**입니다. 다른 매체가 비슷한 제목으로 함께 다룬 수라서, 높을수록 시장 전체가 주목한 뉴스입니다.
+- 시세(시가총액·BTC 점유율·공포탐욕 지수)도 함께 출력됩니다. 시세가 없으면 `site/data/crypto_market.json`이 없는 것이니 그대로 진행합니다.
+- 필요하면 WebFetch/WebSearch로 원문과 코인마켓캡 뉴스(https://coinmarketcap.com/headlines/news/)를 확인해 보강합니다.
+
+## 2. 5건 고르기
+- **우선순위:**
+  1. 시장 전체를 움직인 뉴스(가격 급변, 거시경제, ETF·기관 자금)
+  2. 규제·정책
+  3. 대형 기업·금융사의 사업 발표
+  4. 보안 사고
+  5. 국내 거래소·제도 이슈
+- **빼는 것:** 단순 가격 예측 글, 인플루언서 발언, 보도자료성 소규모 프로젝트 기사
+- 같은 사건은 하나로 묶고, 보도 강도가 높은 기사를 우선합니다.
+
+## 3. 작성 (`site/crypto/YYYY-MM-DD.json`)
+형식은 `site/crypto/2026-11-17.json`을 그대로 따릅니다.
+
+| 항목 | 내용 |
+|---|---|
+| market_note | 오늘 시장 한 줄. 가격·공포탐욕 지수 등 확인한 수치만 씀 |
+| rank | 1~5 |
+| title_ko | 한국어 제목 (새로 씀) |
+| title_en | 원문 제목 |
+| summary | 2문장 한국어 요약. 원문 문장을 옮기지 말고 새로 씀 |
+| why | 왜 중요한가 1문장. 사업·마케팅·투자 관점 |
+| coins | 관련 코인 티커 |
+| source / url / published | 원문 출처, 링크, 발행 시각 |
+| coverage | 후보 출력의 보도 강도 숫자 |
+| cmc_url | 관련 코인의 코인마켓캡 페이지 (예: https://coinmarketcap.com/currencies/bitcoin/), 없으면 "" |
+
+## 4. 검증·게시
+```bash
+python collector/crypto_publish.py site/crypto/YYYY-MM-DD.json
+git add site/crypto && git commit -m "crypto top5: YYYY-MM-DD" && git push origin main
+```

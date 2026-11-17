@@ -197,3 +197,22 @@ footer { color: var(--text-muted); font-size: 12px; margin-top: 40px; border-top
   .ins-report { padding: 28px 20px; border-radius: 16px; }
   .ins-hero { font-size: 26px; } .ins-h1 { font-size: 23px; } .ins-kpi .v { font-size: 30px; }
 }
+
+/* ── 코인 Top 5 ───────────────────────────────── */
+.cx-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; }
+.cx-tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.cx-tile .l { font-size: 12px; color: var(--text-muted); }
+.cx-tile .v { font-size: 22px; font-weight: 700; letter-spacing: -0.02em; margin-top: 4px; font-variant-numeric: tabular-nums; }
+.cx-tile .s { font-size: 12px; margin-top: 2px; }
+.cx-gauge { height: 6px; border-radius: 3px; margin-top: 8px; background: linear-gradient(90deg, var(--critical), var(--serious), var(--neutral), #7fb36a, var(--good)); position: relative; }
+.cx-gauge i { position: absolute; top: -4px; width: 4px; height: 14px; border-radius: 2px; background: var(--text-primary); border: 1px solid var(--surface-1); transform: translateX(-2px); }
+.cx-card { display: grid; grid-template-columns: 56px 1fr; gap: 14px; background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px; padding: 18px 20px; margin-bottom: 10px; }
+.cx-rank { font-size: 34px; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.04em; font-variant-numeric: tabular-nums; }
+.cx-card h3 { margin: 0 0 4px; font-size: 17px; line-height: 1.4; letter-spacing: -0.01em; }
+.cx-card .en { font-size: 12.5px; color: var(--text-muted); margin-bottom: 10px; }
+.cx-card .sum p { margin: 0 0 4px; font-size: 14px; color: var(--text-secondary); line-height: 1.65; }
+.cx-why { margin-top: 10px; background: var(--surface-2); border-radius: 10px; padding: 9px 12px; font-size: 13.5px; }
+.cx-why b { color: var(--text-primary); margin-right: 6px; }
+.cx-meta { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; margin-top: 10px; font-size: 12.5px; color: var(--text-muted); }
+.cx-coin { font-size: 11.5px; font-weight: 700; padding: 2px 8px; border-radius: 6px; background: color-mix(in srgb, var(--accent) 12%, var(--surface-1)); color: var(--text-primary); border: 1px solid var(--border); }
+@media (max-width: 640px) { .cx-card { grid-template-columns: 1fr; } .cx-rank { font-size: 26px; } }

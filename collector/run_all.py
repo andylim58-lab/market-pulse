@@ -3,13 +3,15 @@ import sys
 import traceback
 
 import analyze
+import crypto_news
 import google_trends_rss
 import naver_datalab
 import naver_searchad
 import youtube_trending
 
 STEPS = [("네이버 데이터랩", naver_datalab.main), ("네이버 검색광고", naver_searchad.main),
-         ("유튜브", youtube_trending.main), ("구글 급상승", google_trends_rss.main)]
+         ("유튜브", youtube_trending.main), ("구글 급상승", google_trends_rss.main),
+         ("코인 뉴스·시세", crypto_news.main)]
 
 
 def prune(days=90):
@@ -17,7 +19,7 @@ def prune(days=90):
     from datetime import timedelta
     from common import DATA, today_kst
     cutoff = (today_kst() - timedelta(days=days)).isoformat()
-    for kind in ("youtube", "google"):
+    for kind in ("youtube", "google", "crypto"):
         d = DATA / "history" / kind
         for f in d.glob("*.json") if d.exists() else []:
             if f.stem < cutoff:

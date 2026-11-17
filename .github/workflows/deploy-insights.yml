@@ -4,7 +4,7 @@ name: 인사이트 게시
 on:
   push:
     branches: [main]
-    paths: ["site/insights/**"]
+    paths: ["site/insights/**", "site/crypto/**"]
   workflow_dispatch: {}
 
 permissions:

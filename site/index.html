@@ -20,6 +20,7 @@
     <nav class="tabs" id="tabs">
       <button data-tab="overview" class="on">개요</button>
       <button data-tab="insight">오늘의 인사이트</button>
+      <button data-tab="crypto">코인 Top 5</button>
       <button data-tab="market">시장 상세</button>
       <button data-tab="shopping">쇼핑 분야</button>
       <button data-tab="now">지금 뜨는 것</button>
@@ -61,6 +62,24 @@
     </div>
     <div class="ins-picks" id="insPicks"></div>
     <article id="insArticle"></article>
+  </section>
+
+  <!-- 코인 Top 5 -->
+  <section class="panel" id="p-crypto">
+    <div class="ins-top">
+      <div>
+        <h2 style="margin-top:22px">코인 뉴스 Top 5</h2>
+        <p class="desc">코인마켓캡 뉴스에 모이는 주요 매체(Cointelegraph·CoinDesk·Decrypt·The Block 등) 기사 중, 지난 24시간 가장 중요한 5건을 골라 한국어로 요약합니다. 매일 오전 9시대 발행. 코인별 가격 변동 해설은 <a href="https://coinmarketcap.com/top-stories/" target="_blank" rel="noopener">코인마켓캡 Top Stories</a>에서 볼 수 있어요.</p>
+      </div>
+      <select id="cxDate"></select>
+    </div>
+    <div id="cxMarket"></div>
+    <p class="desc" id="cxNote" style="margin-top:14px"></p>
+    <div id="cxTop"></div>
+    <div class="grid g2" style="margin-top:12px">
+      <div><h2>시가총액 Top 10</h2><p class="desc" id="cxMktTime"></p><div class="card table-scroll"><table id="cxTable"></table></div></div>
+      <div><h2>최신 헤드라인</h2><p class="desc" id="cxHlTime"></p><div class="card"><ul class="list" id="cxHl"></ul></div></div>
+    </div>
   </section>
 
   <!-- 시장 상세 -->

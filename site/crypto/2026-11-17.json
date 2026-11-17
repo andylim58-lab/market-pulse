@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-17",
+ "generated": "2026-11-17 23:50",
+ "market_note": "비트코인은 6.4만 달러대에서 버티고 있지만, 코인마켓캡 공포·탐욕 지수는 13(극도의 공포)입니다. 시장의 관심은 12월 미국 금리 인상과 기관 자금 흐름에 쏠려 있어요.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "2,300억 달러 증발 뒤 6.4만 달러에서 버티는 비트코인",
+   "title_en": "Why Is Bitcoin Still Near $64K After a $230 Billion Rout?",
+   "summary": [
+    "비트코인은 17일(현지시간) 오전 6만 4,959달러 안팎에서 거래되며 전날과 거의 같은 수준을 유지했고, 24시간 변동폭은 6만 3,879~6만 5,502달러였어요.",
+    "11월 들어 2주 동안 약 17% 떨어진 뒤 매도세가 잦아든 모습이지만, 미국 10년물 국채금리가 5%를 웃돌면서 6만 달러 재시험 가능성도 거론됩니다."
+   ],
+   "why": "위험자산 심리가 '극도의 공포' 구간에 있어 거래소 거래량과 코인 업계의 마케팅·광고 지출이 함께 줄어들 수 있는 국면이에요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Altcoin Buzz (코인마켓캡 게재)",
+   "url": "https://coinmarketcap.com/community/articles/6afc5f0e7755f52db9199f53/",
+   "published": "2026-11-17T13:51:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "美 12월 금리 인상 확률 90%… 코인 시장의 다음 시험대",
+   "title_en": "Fed Rate Hike Odds Hit 90%: What Could Happen to Bitcoin and Crypto in December?",
+   "summary": [
+    "예측시장 칼시(Kalshi)에서는 연준이 12월에 기준금리를 0.25%p 올릴 확률이 90%로 반영되고 있어요. 현재 기준금리는 9월 인상 이후 3.75~4.00%입니다.",
+    "지난 9월 인상 때 비트코인은 오히려 7.6만 달러대에서 8.8만 달러 가까이 올랐던 만큼, 이번에는 인상 자체보다 워시 연준 의장이 내놓을 향후 신호가 더 중요하다는 분석이에요."
+   ],
+   "why": "금리 인상과 달러 강세는 원·달러 환율과 국내 투자 심리에도 직결돼, 연말 소비·광고 경기 판단에 참고할 지표입니다.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CryptoPotato",
+   "url": "https://cryptopotato.com/fed-rate-hike-odds-hit-90-what-could-happen-to-bitcoin-and-crypto-in-december/",
+   "published": "2026-11-17T13:35:00+00:00",
+   "coverage": 0,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "골드만삭스, 3분기 비트코인 ETF 보유액 2배 이상 늘려 12.8억 달러",
+   "title_en": "Goldman Sachs boosts Bitcoin ETF holdings to $1.28B as Ether exposure surges",
+   "summary": [
+    "골드만삭스가 미 증권거래위원회(SEC)에 낸 13F 공시를 보면, 3분기 현물 비트코인 ETF 보유액이 약 12.8억 달러로 두 배 넘게 늘었고 이더리움 ETF는 약 12.2억 달러로 6배 가까이 커졌어요.",
+    "웰스파고도 블랙록 비트코인 ETF 보유량을 103% 늘렸고, 17일 미국 현물 비트코인 ETF는 7거래일 연속 순유출을 끊고 소폭 순유입으로 돌아섰어요."
+   ],
+   "why": "가격이 흔들리는 중에도 대형 금융사들이 9월 말까지 비중을 늘렸다는 점은 기관 수요가 아직 살아 있다는 신호로 읽혀요. 다만 11월 급락 이전 시점의 공시라는 점은 감안해야 합니다.",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "source": "crypto.news (코인마켓캡 게재)",
+   "url": "https://coinmarketcap.com/community/articles/6afc5cb59605c90974cc34ad/",
+   "published": "2026-11-17T13:31:00+00:00",
+   "coverage": 1,
+   "cmc_url": "https://coinmarketcap.com/currencies/ethereum/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "레볼루트, 사모시장 '조각투자' 블록체인 펀드 4종 출시 계획",
+   "title_en": "Revolut Plans Four Blockchain Funds for Fractional Private Market Access",
+   "summary": [
+    "영국 핀테크 레볼루트의 마틴 길버트 의장은 17일 런던에서 열린 솔라나 브레이크포인트 행사에서, 사모시장 자산을 작은 단위로 나눠 투자할 수 있는 블록체인 기반 펀드 4종을 준비 중이라고 밝혔어요.",
+    "레볼루트는 이미 유럽 고객에게 아폴로·아레스 등이 운용하는 사모펀드를 제공하고 있지만, 새 펀드의 출시일·사용할 블록체인·최소 투자금은 아직 공개하지 않았어요."
+   ],
+   "why": "실물자산 토큰화(RWA)가 거래소 밖 핀테크 앱의 대중 상품으로 들어오는 사례예요. 국내 조각투자·토큰증권 제도화 논의와 함께 볼 만합니다.",
+   "coins": [
+    "SOL"
+   ],
+   "source": "Blockonomi (코인마켓캡 게재)",
+   "url": "https://coinmarketcap.com/community/articles/6afc5cb57755f52db9199f48/",
+   "published": "2026-11-17T13:47:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/solana/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "마케팅 A/B 테스트 툴 옵티마이즐리 뚫려… 178개 기업 사이트에서 코인 지갑 주소 바꿔치기",
+   "title_en": "Optimizely flaw let hackers swap crypto wallet addresses on 178 organisations' websites",
+   "summary": [
+    "옵티마이즐리의 웹 실험(A/B 테스트) 제품 취약점을 통해 공격자가 고객사 프로젝트에 악성 스크립트를 심었고, 이 코드가 각 사이트 방문자에게 그대로 전달됐어요. 줌·BBC·HSBC·레저·CNN·세일즈포스·이케아 등 178개 기관이 영향을 받은 것으로 알려졌어요.",
+    "악성 코드는 화면·클립보드·전송 요청 속 암호화폐 지갑 주소를 공격자 주소로 바꿨고, 보안업체 리포트 URI는 16일 기준 공격자가 약 7,040달러를 챙긴 것으로 추정했어요."
+   ],
+   "why": "블록체인이 아니라 웹사이트에 붙은 마케팅 스크립트가 뚫린 사건이에요. 광고 태그·A/B 테스트 도구를 쓰는 광고주와 대행사 모두 서드파티 스크립트 점검이 필요하다는 경고입니다.",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "source": "Technext (코인마켓캡 게재)",
+   "url": "https://coinmarketcap.com/community/articles/6afc5a5d76c2e402dfc5d2a9/",
+   "published": "2026-11-17T13:38:00+00:00",
+   "coverage": 0,
+   "cmc_url": ""
+  }
+ ]
+}

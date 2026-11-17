@@ -92,6 +92,7 @@ async function boot() {
   bindTabs();
   const h = location.hash.match(/^#insight(?:\/(\d{4}-\d{2}-\d{2}))?(?:\/([\w-]+))?/);
   if (h) { INS.date = h[1] || null; INS.slug = h[2] || null; showTab("insight"); }
+  if (location.hash.startsWith("#crypto")) showTab("crypto");
 }
 
 function renderAll() {
@@ -123,6 +124,7 @@ function bindTabs() {
 }
 function showTab(t) {
   if (t === "insight") renderInsights();
+  if (t === "crypto") renderCrypto();
   document.querySelectorAll("#tabs button").forEach((x) => x.classList.toggle("on", x.dataset.tab === t));
   document.querySelectorAll("section.panel").forEach((p) => p.classList.toggle("on", p.id === "p-" + t));
   Object.values(charts).forEach((c) => c.resize());
@@ -441,6 +443,67 @@ function renderInsightArticle(day, it) {
     setHash();
     try { await navigator.clipboard.writeText(location.href); $("#insCopy").textContent = "✓ 복사됨"; } catch (e) { $("#insCopy").textContent = location.href; }
   };
+}
+
+// ── 코인 Top 5 ─────────────────────────────────────────────
+const CX = { index: null, cache: {}, date: null, market: undefined, hl: undefined };
+const FG_KO = { "extreme fear": "극도의 공포", fear: "공포", neutral: "중립", greed: "탐욕", "extreme greed": "극도의 탐욕" };
+const usd = (n) => (n == null ? "–" : n >= 1e12 ? "$" + (n / 1e12).toFixed(2) + "T" : n >= 1e9 ? "$" + (n / 1e9).toFixed(1) + "B" : "$" + Number(n).toLocaleString("en-US", { maximumFractionDigits: n < 10 ? 4 : 2 }));
+const getJSON = async (u, d = null) => { try { const r = await fetch(u + "?" + Date.now()); return r.ok ? await r.json() : d; } catch (e) { return d; } };
+const kTime = (iso) => { if (!iso) return ""; const d = new Date(iso); return d.toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Seoul" }); };
+
+async function renderCrypto() {
+  if (CX.market === undefined) CX.market = await getJSON("data/crypto_market.json");
+  if (CX.hl === undefined) CX.hl = await getJSON("data/crypto_headlines.json");
+  if (!CX.index) CX.index = await getJSON("crypto/index.json", { days: [] });
+
+  // 시세 스트립
+  const M = CX.market;
+  if (M) {
+    const g = M.global, fg = M.fear_greed, btc = M.top.find((c) => c.symbol === "BTC"), eth = M.top.find((c) => c.symbol === "ETH");
+    const tile = (l, v, s = "") => `<div class="cx-tile"><div class="l">${l}</div><div class="v">${v}</div><div class="s">${s}</div></div>`;
+    $("#cxMarket").innerHTML = `<div class="cx-strip">
+      ${btc ? tile("비트코인 BTC", usd(btc.price), `24시간 ${pctHtml(btc.ch24)} · 7일 ${pctHtml(btc.ch7d)}`) : ""}
+      ${eth ? tile("이더리움 ETH", usd(eth.price), `24시간 ${pctHtml(eth.ch24)} · 7일 ${pctHtml(eth.ch7d)}`) : ""}
+      ${tile("전체 시가총액", usd(g.total_mcap), `24시간 ${pctHtml(g.mcap_change_24h)} · 거래대금 ${usd(g.volume_24h)}`)}
+      ${tile("BTC 점유율", g.btc_dominance.toFixed(1) + "%", `ETH ${g.eth_dominance.toFixed(1)}%`)}
+      ${fg ? `<div class="cx-tile"><div class="l">공포·탐욕 지수</div><div class="v">${fg.value} <span style="font-size:14px;font-weight:600">${esc(FG_KO[String(fg.label).toLowerCase()] || fg.label)}</span></div>
+        <div class="cx-gauge"><i style="left:${fg.value}%"></i></div></div>` : ""}
+    </div>`;
+    $("#cxMktTime").textContent = `코인마켓캡 API · ${M.updated} 기준`;
+    $("#cxTable").innerHTML = `<thead><tr><th>#</th><th>코인</th><th class="num">가격</th><th class="num">24시간</th><th class="num">7일</th><th class="num">시가총액</th></tr></thead>
+      <tbody>${M.top.map((c) => `<tr><td class="flat">${c.rank}</td><td><a href="https://coinmarketcap.com/currencies/${esc(c.slug)}/" target="_blank" rel="noopener"><b>${esc(c.name)}</b></a> <span class="flat">${esc(c.symbol)}</span></td>
+        <td class="num">${usd(c.price)}</td><td class="num">${pctHtml(c.ch24)}</td><td class="num">${pctHtml(c.ch7d)}</td><td class="num">${usd(c.mcap)}</td></tr>`).join("")}</tbody>`;
+  } else {
+    $("#cxMarket").innerHTML = '<div class="card empty">코인 시세는 코인마켓캡 API 키(CMC_API_KEY)를 등록하면 표시됩니다.</div>';
+    $("#cxTable").innerHTML = '<tr><td class="empty">API 키 등록 후 표시</td></tr>';
+  }
+
+  // 최신 헤드라인
+  const H = CX.hl;
+  $("#cxHlTime").textContent = H ? `${H.feeds.length}개 매체 RSS · ${H.updated} 수집 (원문 제목)` : "";
+  $("#cxHl").innerHTML = H && H.items.length ? H.items.slice(0, 15).map((h) => `<li><div class="main"><div class="clip"><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a></div>
+      <div class="meta">${esc(h.source)} · ${kTime(h.published)} ${h.coins.map((c) => `<span class="cx-coin">${esc(c)}</span>`).join(" ")}</div></div></li>`).join("")
+    : '<li class="empty">아직 수집된 헤드라인이 없습니다.</li>';
+
+  // Top 5
+  const days = CX.index.days;
+  if (!days.length) { $("#cxTop").innerHTML = '<div class="card empty">아직 발행된 Top 5가 없습니다. 매일 오전 9시대에 발행됩니다.</div>'; return; }
+  if (!CX.date) CX.date = days[0].date;
+  $("#cxDate").innerHTML = days.map((d) => `<option value="${d.date}" ${d.date === CX.date ? "selected" : ""}>${fmtKDate(d.date)}</option>`).join("");
+  $("#cxDate").onchange = (e) => { CX.date = e.target.value; renderCrypto(); };
+  if (!CX.cache[CX.date]) CX.cache[CX.date] = await getJSON(`crypto/${CX.date}.json`);
+  const day = CX.cache[CX.date];
+  $("#cxNote").innerHTML = `<b>${fmtKDate(day.date)} 시장 한 줄</b> · ${esc(day.market_note)}`;
+  $("#cxTop").innerHTML = day.items.map((it) => `<div class="cx-card"><div class="cx-rank">${String(it.rank).padStart(2, "0")}</div><div>
+      <h3>${esc(it.title_ko)}</h3><div class="en">${esc(it.title_en)}</div>
+      <div class="sum">${it.summary.map((p) => `<p>${esc(p)}</p>`).join("")}</div>
+      <div class="cx-why"><b>왜 중요한가</b>${esc(it.why)}</div>
+      <div class="cx-meta">${(it.coins || []).map((c) => `<span class="cx-coin">${esc(c)}</span>`).join("")}
+        <span>${esc(it.source)}${it.published ? " · " + kTime(it.published) : ""}${it.coverage ? ` · ${it.coverage + 1}개 매체 보도` : ""}</span>
+        <a href="${esc(it.url)}" target="_blank" rel="noopener">원문 보기 ↗</a>
+        ${it.cmc_url ? `<a href="${esc(it.cmc_url)}" target="_blank" rel="noopener">코인마켓캡에서 보기 ↗</a>` : ""}</div>
+    </div></div>`).join("");
 }
 
 boot();

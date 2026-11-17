@@ -4,3 +4,4 @@ __pycache__/
 .env
 .DS_Store
 data/insight_candidates.json
+data/crypto_candidates.json
