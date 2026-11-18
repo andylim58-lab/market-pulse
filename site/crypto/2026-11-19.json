@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-19",
+ "generated": "2026-11-19 06:40",
+ "market_note": "비트코인은 6.3만 달러 안팎(24시간 -1.4%)이고 전체 시총은 약 2조 1,560억 달러, 공포·탐욕 지수는 12(극도의 공포)예요. 연준의 금리 인상 경계가 시장을 누르고 있습니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "연준 월러 이사, 12월 '50bp 인상' 가능성 언급… 비트코인 6.3만 달러 아래로",
+   "title_en": "Bitcoin, stocks wobble as Fed's Waller talks of 'shock' 50-point rate hike",
+   "summary": [
+    "연준 월러 이사가 끈질긴 물가를 이유로 12월에 0.5%포인트 인상이 필요할 수도 있다고 말하자 비트코인이 6만 3천 달러 아래로 밀렸어요.",
+    "엔비디아 실적 기대감이 사그라든 점도 위험자산 심리를 누른 요인으로 전해졌습니다."
+   ],
+   "why": "금리 인상 경로가 가팔라지면 코인 업계의 광고·가입 캠페인 효율이 낮아질 수 있어, 예산은 보수적으로 잡는 편이 좋아요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+   "published": "2026-11-19T01:34:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "비트코인, 200주 이동평균 아래로 12% 급락… '과거엔 3개월 뒤 반등' 분석",
+   "title_en": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+   "summary": [
+    "비트코인이 200주 이동평균선을 12% 하락하며 이탈했는데, 2013년 이후 비슷한 급락은 세 번뿐이었다고 해요.",
+    "코인데스크는 과거 사례에서 이후 흐름이 상승 쪽이었다고 짚었어요."
+   ],
+   "why": "표본이 세 번뿐이라 낙관의 근거로는 약해요. 투자·영업 판단은 장기 지표와 자금 흐름을 함께 확인하는 편이 안전합니다.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+   "published": "2026-11-18T13:34:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "골드만삭스·웰스파고, 3분기 비트코인 ETF 보유 두 배 이상 늘려",
+   "title_en": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
+   "summary": [
+    "13F 공시에서 골드만삭스의 현물 비트코인 ETF 보유액은 12억 8천만 달러, 웰스파고는 23억 5천만 달러로 각각 두 배 이상 늘었어요.",
+    "가격이 흔들리는 가운데서도 대형 금융사의 ETF 노출이 커졌다는 신호입니다."
+   ],
+   "why": "전통 금융사가 고객 상품으로 코인을 늘리는 흐름이라, 금융권 대상 제휴·영업 제안의 명분이 커져요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Bitcoin Magazine",
+   "url": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings",
+   "published": "2026-11-18T00:19:00+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "세계은행그룹, 서클·씨티와 스테이블코인 기반 자금 집행 시범",
+   "title_en": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+   "summary": [
+    "세계은행그룹이 서클, 씨티와 함께 스테이블코인 기반으로 개발 자금을 집행하는 결제 모델을 시험하기로 했어요.",
+    "서클의 USDC와 블록체인 결제망이 자금 전달을 더 빠르고 저렴하게 만들 수 있는지 살펴본다고 합니다."
+   ],
+   "why": "국제기구가 스테이블코인 결제를 실험하면서 결제·송금 사업자의 제휴 논의에 쓸 사례가 생겼어요.",
+   "coins": [
+    "USDC",
+    "ETH"
+   ],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+   "published": "2026-11-18T13:21:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/usd-coin/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "코인베이스, 챗GPT 플러그인 출시… 대화로 비트코인·주식 거래",
+   "title_en": "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives",
+   "summary": [
+    "코인베이스가 챗GPT 안에서 비트코인과 주식, 파생상품을 거래할 수 있는 공식 플러그인을 내놨어요.",
+    "거래소가 AI 대화창을 새 접점으로 삼기 시작한 사례입니다."
+   ],
+   "why": "AI 대화창이 거래 채널이 되면 검색·광고보다 AI 안의 추천 노출이 중요해질 수 있어요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Bitcoin Magazine",
+   "url": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
+   "published": "2026-11-18T01:45:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  }
+ ]
+}
