@@ -1,0 +1,235 @@
+{
+ "items": {
+  "웹툰": {
+   "q": "웹툰",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 09:30:00 -0800",
+   "news": [
+    {
+     "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
+     "url": "https://cine21.com/news/view/?mag_id=111294",
+     "source": "씨네21"
+    },
+    {
+     "title": "\"압도적\"…'재혼 황후' 신민아, 외신 찬사 쏟아진 '퀸민아' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111913307297613",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'재혼 황후' 인기에 웹툰 글로벌 조회수 35배 증가",
+     "url": "https://www.yna.co.kr/view/AKR20261119119100005",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  "amd": {
+   "q": "amd",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 07:50:00 -0800",
+   "news": [
+    {
+     "title": "Problems at AMD (AMD)",
+     "url": "https://hntrbrk.com/investigations/bank-of-amd",
+     "source": "Hunterbrook"
+    },
+    {
+     "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
+     "url": "https://www.tokenpost.com/news/investing/61491",
+     "source": "www.tokenpost.com"
+    },
+    {
+     "title": "Hunterbrook Takes Short Position in AMD, Alleges Blacklisted Chinese Server Maker Kept Receiving New Firmware",
+     "url": "https://finance.biggo.com/news/88c1bf42-fd44-48ff-89f1-58f7f20bffb1",
+     "source": "BigGo Finance"
+    }
+   ]
+  },
+  "플라비오 코볼리": {
+   "q": "플라비오 코볼리",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 07:40:00 -0800",
+   "news": [
+    {
+     "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
+     "source": "테니스코리아"
+    },
+    {
+     "title": "[ATP 파이널스] 리턴하는 코볼리",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757438",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  "엔화": {
+   "q": "엔화",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 07:00:00 -0800",
+   "news": [
+    {
+     "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
+     "source": "글로벌이코노믹"
+    },
+    {
+     "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
+     "url": "https://www.newsis.com/view/NISX20261117_0003871124",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "kt wiz": {
+   "q": "kt wiz",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 06:50:00 -0800",
+   "news": [
+    {
+     "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/",
+     "source": "조선일보"
+    },
+    {
+     "title": "KT's \"Hold King\" Sugimoto Moves to Japan's SoftBank",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854181",
+     "source": "news.sbs.co.kr"
+    }
+   ]
+  },
+  "습관": {
+   "q": "습관",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 19 Nov 2026 06:40:00 -0800",
+   "news": [
+    {
+     "title": "연천군, 스마트경로당 112개소서 어르신 건강 강좌…수분 섭취 강조",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757520",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "연천군, 스마트경로당 112곳 대상 어르신 건강강좌 운영",
+     "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071565",
+     "source": "내외뉴스통신"
+    },
+    {
+     "title": "연천군, 스마트경로당 112곳 연결해 어르신 건강관리 교육",
+     "url": "https://www.pressian.com/pages/articles/2026111914370018698",
+     "source": "프레시안"
+    }
+   ]
+  },
+  "회계사": {
+   "q": "회계사",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 06:40:00 -0800",
+   "news": [
+    {
+     "title": "한국만의 독특한 감사인 지정제…감사품질 높였나",
+     "url": "https://core.asiae.co.kr/article/2026111915554393113",
+     "source": "아시아경제"
+    },
+    {
+     "title": "최운열 한공회장 “지정감사 끝나자 가격경쟁 재점화…품질로 경쟁해야” [시그널]",
+     "url": "https://www.sedaily.com/article/20116635",
+     "source": "서울경제"
+    },
+    {
+     "title": "최운열 한공회장, 세계에 신외감법 성과 알려…\"韓 회계투명성 껑충\"",
+     "url": "https://www.news1.kr/finance/general-stock/6360144",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "프로게이머": {
+   "q": "프로게이머",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 06:30:00 -0800",
+   "news": [
+    {
+     "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
+     "source": "중도일보"
+    },
+    {
+     "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
+     "url": "http://newstoktok.com/article.php?aid=27315247155",
+     "source": "톡톡뉴스"
+    },
+    {
+     "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
+     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
+     "source": "웹이코노미"
+    }
+   ]
+  },
+  "박하나": {
+   "q": "박하나",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 06:30:00 -0800",
+   "news": [
+    {
+     "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119154100005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
+     "url": "https://www.mk.co.kr/news/culture/12213951",
+     "source": "매일경제"
+    }
+   ]
+  },
+  "앤트로픽 주가": {
+   "q": "앤트로픽 주가",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Thu, 19 Nov 2026 06:20:00 -0800",
+   "news": [
+    {
+     "title": "\"앤트로픽 기관투자자 절반이상 물량 못받아…美위주 배정\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120001400072",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장",
+     "url": "https://www.khan.co.kr/article/202611192045005",
+     "source": "경향신문"
+    }
+   ]
+  }
+ },
+ "updated": "2026-11-20 03:44"
+}
