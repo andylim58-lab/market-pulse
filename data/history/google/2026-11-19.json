@@ -427,7 +427,237 @@
    "traffic_label": "100+",
    "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
    "news": []
+  },
+  "야구 경기장": {
+   "q": "야구 경기장",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 03:10:00 -0800",
+   "news": [
+    {
+     "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
+     "url": "https://www.yna.co.kr/view/AKR20261119068900055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "누구를 위한 야구장인가…진예찬 전주시의원, 전주 야구장 활용계획 질타",
+     "url": "https://www.ajunews.com/view/20261119111717653",
+     "source": "아주경제"
+    },
+    {
+     "title": "진예찬 전주시의원 “프로야구 못 하는 야구장, 활용계획 재검토해야”",
+     "url": "https://www.jbjnews.com/news/articleView.html?idxno=331748",
+     "source": "전북제일신문"
+    }
+   ]
+  },
+  "이재시": {
+   "q": "이재시",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 03:00:00 -0800",
+   "news": [
+    {
+     "title": "이동국 딸 이재시 메기 효과 터졌다, “예뻐서 몸 반응” (내새끼의연애3)",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135051749/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874149",
+     "source": "뉴시스"
+    },
+    {
+     "title": "전지우, 메기남 이승훈에 호감…\"이준수보다 이상형에 가까워\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6358647",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "김지훈": {
+   "q": "김지훈",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 02:50:00 -0800",
+   "news": [
+    {
+     "title": "LG헬로비전 신임 CEO에 김지훈 사업총괄",
+     "url": "https://www.yna.co.kr/view/AKR20261119146700017?section=people/personnel",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "LG헬로비전, 7년 만에 수장 교체…김지훈의 과제는 ‘수익성 회복’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261119/135056326/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "LG헬로비전, 김지훈 신임 CEO 선임…7년 만에 수장 교체",
+     "url": "https://www.etnews.com/20261119000404",
+     "source": "전자신문"
+    }
+   ]
+  },
+  "한진칼": {
+   "q": "한진칼",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "호반의 한진칼 평가차익 1조5700억··· 현금화 전략 '고심'",
+     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720237",
+     "source": "뉴스프리존"
+    },
+    {
+     "title": "M&A로 리솜리조트·대한전선 등 인수… ‘자산 20조’ 몸집 키워 재계 33위[Who, What, Why]",
+     "url": "https://www.munhwa.com/article/11632128",
+     "source": "문화일보"
+    },
+    {
+     "title": "조원태 우호펀드, 만기 없앴다…한진칼 경영권 분쟁 장기전 대비",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/15/2026111580037.html",
+     "source": "인베스트조선"
+    }
+   ]
+  },
+  "이지영": {
+   "q": "이지영",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "이지혜, ‘AI 부정행위’ 논란 속 세무사 남편 언급…“더 대단하게 느껴져”",
+     "url": "https://www.mk.co.kr/news/hot-issues/12213453",
+     "source": "매일경제"
+    },
+    {
+     "title": "정승제 수능전날 올린 글 “단추 무조건 빼고, 안경 안 써도 되면 그냥 빼고”",
+     "url": "https://biz.heraldcorp.com/article/10941789",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "\"어른으로서 미안\"…일타 강사 이지영, 수능 앞둔 수험생에 위로 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/18/2026111817245134931",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  "강지환": {
+   "q": "강지환",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "'스태프 성폭행→34억 배상' 강지환, 틱톡커 된 근황…팬들은 후원 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111920065169466",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'스태프 성폭행' 강지환, 뜨개질 틱토커 됐다..7년 만의 근황 공개 [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/G42GIZTCGQZTEZBTGRSDQYLDGA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  "한국수력원자력": {
+   "q": "한국수력원자력",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "한수원, 동료가 동료 지키는 ‘마인드키퍼’ 출범",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375030",
+     "source": "전기신문"
+    },
+    {
+     "title": "한수원, 발전소 동료가 지키는 마음건강 안전망…'마인드키퍼' 출범",
+     "url": "https://www.etnews.com/20261119000455",
+     "source": "전자신문"
+    },
+    {
+     "title": "동료의 마음건강 내가 지킨다…한수원, 마음건강 안전망 ʻ마인드키퍼ʼ 출범",
+     "url": "https://zdnet.co.kr/view/?no=20261119192053",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  "김다현": {
+   "q": "김다현",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 02:10:00 -0800",
+   "news": [
+    {
+     "title": "김다현, 대한민국예술문화대상 ‘특별공로상’ 수상 “더 큰 문화예술인으로 성장할 것”",
+     "url": "https://www.mk.co.kr/news/musics/12212150",
+     "source": "매일경제"
+    },
+    {
+     "title": "심수봉 ‘저격’에 마음 다쳤지만…김다현, 대한민국예술문화대상 특별공로상 예술계 인정받았다",
+     "url": "https://sports.khan.co.kr/article/202611181537003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "‘국악 신동’에서 대한민국 대표 가수로…김다현, 예술문화대상 ‘특별공로상’ 영예",
+     "url": "https://www.sportsseoul.com/news/read/1650499",
+     "source": "스포츠서울"
+    }
+   ]
+  },
+  "수원 kt 대 서울 sk": {
+   "q": "수원 kt 대 서울 sk",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "◇오늘의 경기(19일)",
+     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[사진]김낙현, 침착하게 레이업슛",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[사진]역전골 넣은 안영준, 드디어 앞서간다",
+     "url": "http://www.osen.co.kr/article/G1112912289",
+     "source": "OSEN"
+    }
+   ]
+  },
+  "데프트": {
+   "q": "데프트",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "[오피셜] 전설의 귀환 '데프트' 김혁규, 농심 합류… '표식'-'안딜'과 동행",
+     "url": "https://www.osen.co.kr/article/G1112912352",
+     "source": "OSEN"
+    },
+    {
+     "title": "[단독] '데프트' 김혁규 \"농심의 진심에 합류 결심, 독기 품고 할 것\" (인터뷰)",
+     "url": "https://www.xportsnews.com/article/2221223",
+     "source": "www.xportsnews.com"
+    },
+    {
+     "title": "'중꺾마' 주인공 '데프트' 김혁규가 돌아왔다… 농심 입단",
+     "url": "https://www.dailyesports.com/view.php?ud=20261119191919733974bcc1e038_27",
+     "source": "데일리e스포츠"
+    }
+   ]
   }
  },
- "updated": "2026-11-19 11:03"
+ "updated": "2026-11-19 21:13"
 }
