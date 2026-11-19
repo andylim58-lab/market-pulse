@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-20",
+ "generated": "2026-11-20 06:50",
+ "market_note": "비트코인은 6.3만 달러 안팎(24시간 -0.3%, 7일 -12%)에서 움직였고, 공포·탐욕 지수는 11(극도의 공포)이에요. 앤트로픽 상장과 12월 금리 인상 우려가 시장의 최대 화제입니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "연준 월러 '12월 50bp 인상' 거론에 비트코인 6.3만 달러 아래로",
+   "title_en": "Bitcoin, stocks wobble as Fed's Waller talks of 'shock' 50-point rate hike",
+   "summary": [
+    "연준 월러 이사가 끈질긴 물가를 이유로 12월에 0.5%p 인상도 가능하다고 언급하자 비트코인이 6.3만 달러 아래로 밀렸어요.",
+    "엔비디아 실적 기대가 식은 점도 겹치면서 주식과 코인이 함께 흔들렸다고 전해졌습니다."
+   ],
+   "why": "금리 인상 폭에 대한 기대가 바뀌면 코인 거래량과 업계 광고·마케팅 예산이 함께 위축될 수 있어, 연말 캠페인 집행 시점을 가늠하는 핵심 변수예요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+   "published": "2026-11-19T01:34:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "앤트로픽 상장 첫날, 토큰화 주식·선물로 번지는 코인 업계",
+   "title_en": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "summary": [
+    "앤트로픽이 나스닥에 상장하는 날, 바이낸스 창업자 CZ는 앤트로픽 연계 토큰이 BNB 체인에 오른다고 밝혔고 Ondo도 토큰을 내놓을 계획이에요.",
+    "OKX는 상장 전 선물 가격이 공모가보다 약 24% 높게 거래되는 가운데 토큰화 주식 출시를 예고했습니다."
+   ],
+   "why": "전통 주식 이벤트를 코인 거래소의 신상품으로 연결하는 경쟁이 시작돼, 거래소 마케팅과 토큰화 자산 사업 기회를 가늠할 사례예요.",
+   "coins": [
+    "BNB",
+    "ONDO"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "published": "2026-11-19T12:40:00+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bnb/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "바이낸스, 해킹 자금 회수 위해 65억 달러 동결 명령 확보",
+   "title_en": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+   "summary": [
+    "바이낸스는 아부다비 글로벌마켓 법원에서 10월 해킹으로 탈취된 자금을 되찾기 위한 65억 달러 규모의 전 세계 동결 명령을 받았다고 밝혔어요.",
+    "명령에는 블록체인으로 법적 통지를 전달하는 방식과 약 2만 6천 개 지갑 주소 목록이 포함됩니다."
+   ],
+   "why": "해킹 피해 회수에 법원 명령과 온체인 추적을 결합한 선례여서, 거래소 보안·고객 보호 정책과 신뢰 마케팅에 영향을 줄 수 있어요.",
+   "coins": [
+    "BNB"
+   ],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+   "published": "2026-11-19T04:40:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bnb/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "비트코인 ETF에서 하루 3억 달러 넘게 유출, 식어가는 투자 수요",
+   "title_en": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+   "summary": [
+    "수요일 하루 동안 비트코인 ETF에서 3억 달러가 넘는 자금이 빠져나갔고, 비트코인은 6만 3,750달러 위를 지켰어요.",
+    "연준의 금리 인상 우려가 이어지는 가운데 시장의 시선은 앤트로픽 상장으로 옮겨가고 있습니다."
+   ],
+   "why": "기관 자금의 방향을 보여주는 ETF 흐름은 가격 반등 신호를 판단하는 기준이라, 투자 상품 영업과 콘텐츠 주제를 정할 때 참고할 만해요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+   "published": "2026-11-19T21:08:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "비트코인 채굴사 MARA, 10억 달러어치 매도 뒤 AI 인프라로 전환",
+   "title_en": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+   "summary": [
+    "채굴업체 MARA는 대출 상환을 위해 약 10억 달러 상당의 비트코인을 판 뒤, 오하이오 발전소를 담보로 1억 8,500만 달러의 부채를 조달했어요.",
+    "사업 비중을 AI 인프라 쪽으로 옮기는 흐름의 일부입니다."
+   ],
+   "why": "채굴사가 보유 코인을 팔아 AI 사업에 투자하는 흐름이 이어지면 매도 압력과 업계 영업 대상 변화를 함께 봐야 해요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+   "published": "2026-11-18T21:53:00+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  }
+ ]
+}
