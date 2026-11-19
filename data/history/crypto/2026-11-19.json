@@ -48,7 +48,7 @@
    "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.",
    "published": "2026-11-18T13:42:37+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "ETH",
     "SOL"
@@ -155,7 +155,7 @@
    "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
    "published": "2026-11-18T02:39:52+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -272,7 +272,7 @@
    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
    "published": "2026-11-17T11:36:26+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "ETH"
    ]
@@ -314,7 +314,7 @@
    "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
    "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
    "published": "2026-11-18T17:22:03+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "HYPE"
    ]
@@ -354,7 +354,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
    "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
    "published": "2026-11-18T12:53:34+00:00",
-   "coverage": 2,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -374,7 +374,7 @@
    "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
    "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
    "published": "2026-11-18T12:25:14+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "USDC"
    ]
@@ -469,7 +469,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
    "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next.",
    "published": "2026-11-18T04:34:21+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -636,7 +636,7 @@
    "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
    "summary": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.",
    "published": "2026-11-18T10:17:17+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt": {
@@ -733,7 +733,7 @@
    "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
    "summary": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
    "published": "2026-11-17T17:18:41+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC",
     "ETH"
@@ -787,7 +787,7 @@
    "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
    "summary": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards.",
    "published": "2026-11-17T11:05:25+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report": {
@@ -847,7 +847,7 @@
    "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
    "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
    "published": "2026-11-18T16:30:41+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445": {
@@ -856,7 +856,7 @@
    "url": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
    "summary": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.",
    "published": "2026-11-18T15:51:42+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440": {
@@ -905,7 +905,7 @@
    "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
    "summary": "DBS and Circle are expanding institutional access to USDC with direct minting, redemption and 24/7 dollar settlement.",
    "published": "2026-11-18T09:28:50+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "USDC"
    ]
@@ -1039,7 +1039,7 @@
    "url": "https://cryptopotato.com/bitcoin-dips-toward-63k-as-anhtropics-ipo-looms/",
    "summary": "Bitcoin's price took a sudden dip toward $63K, leaving about $500 million in liquidated positions.",
    "published": "2026-11-18T15:07:02+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -1129,7 +1129,7 @@
    "url": "https://cryptopotato.com/anthropics-ipo-pricing-is-today-heres-what-investors-should-expect/",
    "summary": "The AI giant is preparing for one of the largest stock market debuts in history, with its shares expected to begin trading on Nasdaq on Thursday.",
    "published": "2026-11-18T05:45:27+00:00",
-   "coverage": 1,
+   "coverage": 3,
    "coins": []
   },
   "https://cryptopotato.com/jensen-huang-breaks-silence-on-nvidia-scandal-says-he-is-ready-to-return-as-ceo/": {
@@ -1219,7 +1219,7 @@
    "url": "https://cryptopotato.com/primexbt-launches-anthropic-pre-ipo-crypto-futures-bringing-new-trading-opportunities-in-ai/",
    "summary": "Castries, Saint Lucia, 17th November 2026, Chainwire",
    "published": "2026-11-17T15:05:48+00:00",
-   "coverage": 1,
+   "coverage": 3,
    "coins": []
   },
   "https://cryptopotato.com/former-sec-chair-warns-when-the-ai-boom-will-cause-a-recession/": {
@@ -1301,7 +1301,7 @@
    "url": "https://cryptopotato.com/the-bitcoin-bull-run-that-never-was-wintermute-issues-stark-warning/",
    "summary": "Bitcoin's July rally appears to have been a false start, and Wintermute believes that we haven't cleared the bear market yet.",
    "published": "2026-11-17T11:15:21+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -1352,7 +1352,7 @@
    "url": "https://bitcoinmagazine.com/news/ionic-digital-sells-737-bitcoin",
    "summary": "Bitcoin Magazine Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout Ionic Digital sold about 737 bitcoin for roughly $61.6 million after Sept. 30 and plans to use the cash to develop its data center sites, its latest quarterly report shows. This post Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data ",
    "published": "2026-11-18T16:39:19+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -1549,9 +1549,399 @@
    "published": "2026-11-18T09:05:14+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Trump administration unveils new center to choke off scam payments",
+   "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Americans reported more than $17.7 billion in online fraud losses in 2025.",
+   "published": "2026-11-19T01:45:33+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+   "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.",
+   "published": "2026-11-19T00:35:49+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+   "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
+   "published": "2026-11-18T21:57:35+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH",
+    "USDT"
+   ]
+  },
+  "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+   "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
+   "published": "2026-11-18T21:13:58+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+   "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
+   "published": "2026-11-18T20:32:06+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+   "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.",
+   "published": "2026-11-18T20:20:37+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+   "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
+   "published": "2026-11-18T18:27:52+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds": {
+   "source": "CoinDesk",
+   "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+   "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+   "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.",
+   "published": "2026-11-19T00:33:46+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe": {
+   "source": "CoinDesk",
+   "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+   "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+   "summary": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+   "published": "2026-11-18T22:30:00+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia": {
+   "source": "Decrypt",
+   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+   "summary": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
+   "published": "2026-11-18T22:16:02+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests": {
+   "source": "Decrypt",
+   "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
+   "url": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
+   "summary": "Federal investigators bypassed safeguards on four popular chatbots, producing viable attack plans within hours.",
+   "published": "2026-11-18T21:46:03+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine": {
+   "source": "Decrypt",
+   "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
+   "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
+   "summary": "The Oculus founder says his decade-old SLAB project aims to escape state restrictions on manufacturing and medical treatment.",
+   "published": "2026-11-18T21:16:02+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time": {
+   "source": "Decrypt",
+   "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
+   "url": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
+   "summary": "Google's Genie 4 lets Ultra subscribers reshape interactive scenes while exploring them, complete with sound and dialogue, as Project Genie adds longer sessions and new community creation and sharing tools.",
+   "published": "2026-11-18T20:16:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana": {
+   "source": "Decrypt",
+   "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+   "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+   "summary": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
+   "published": "2026-11-18T19:46:02+00:00",
+   "coverage": 1,
+   "coins": [
+    "ETH",
+    "SOL"
+   ]
+  },
+  "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai": {
+   "source": "Decrypt",
+   "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+   "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+   "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
+   "published": "2026-11-18T19:16:02+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom": {
+   "source": "Decrypt",
+   "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+   "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+   "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
+   "published": "2026-11-18T18:46:03+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501": {
+   "source": "The Block",
+   "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+   "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+   "summary": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks.",
+   "published": "2026-11-18T22:09:17+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491": {
+   "source": "The Block",
+   "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+   "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+   "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+   "published": "2026-11-18T19:40:25+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482": {
+   "source": "The Block",
+   "title": "Ondo to launch tokenized Anthropic stock on IPO day",
+   "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+   "summary": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.",
+   "published": "2026-11-18T18:51:30+00:00",
+   "coverage": 4,
+   "coins": []
+  },
+  "https://cryptopotato.com/dbs-taps-circles-usdc-infrastructure-to-push-institutional-stablecoin-adoption-in-asia/": {
+   "source": "CryptoPotato",
+   "title": "DBS Taps Circle’s USDC Infrastructure to Push Institutional Stablecoin Adoption in Asia",
+   "url": "https://cryptopotato.com/dbs-taps-circles-usdc-infrastructure-to-push-institutional-stablecoin-adoption-in-asia/",
+   "summary": "The partnership gives eligible DBS clients a direct way to mint and redeem USDC, thereby reducing reliance on secondary market liquidity.",
+   "published": "2026-11-18T23:45:51+00:00",
+   "coverage": 3,
+   "coins": [
+    "USDC"
+   ]
+  },
+  "https://cryptopotato.com/3-million-in-crypto-gone-out-of-reach-all-because-of-one-mistake/": {
+   "source": "CryptoPotato",
+   "title": "$3 Million in Crypto, Gone Out of Reach, All Because of One Mistake",
+   "url": "https://cryptopotato.com/3-million-in-crypto-gone-out-of-reach-all-because-of-one-mistake/",
+   "summary": "Two addresses flagged as scam-linked reportedly belong to Merlin Chain's bridge, which remains unlabeled in many blockchain compliance tools.",
+   "published": "2026-11-18T21:37:48+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/losing-almost-3-million-in-less-than-2-years-the-sad-story-of-this-crypto-trader/": {
+   "source": "CryptoPotato",
+   "title": "Losing Almost $3 Million in Less Than 2 Years: The Sad Story of This Crypto Trader",
+   "url": "https://cryptopotato.com/losing-almost-3-million-in-less-than-2-years-the-sad-story-of-this-crypto-trader/",
+   "summary": "The trader stands to lose more if TRUMP extends its decline.",
+   "published": "2026-11-18T20:05:41+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/bitcoin-price-analysis-btc-at-a-breaking-point-as-63k-support-faces-critical-test/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Price Analysis: BTC at a Breaking Point as $63K Support Faces Critical Test",
+   "url": "https://cryptopotato.com/bitcoin-price-analysis-btc-at-a-breaking-point-as-63k-support-faces-critical-test/",
+   "summary": "Bitcoin’s November sell-off has extended, and it now trades around $64K, down roughly 14% over the past week. Rising expectations of a Fed rate hike, persistent spot ETF outflows, and a tech-stock slide ahead of Nvidia’s earnings have weighed on risk assets. BTC has also closed below its 200-week moving average near $6",
+   "published": "2026-11-18T19:09:43+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-november-18/": {
+   "source": "CryptoPotato",
+   "title": "Important Ripple News and XRP Price Update: November 18",
+   "url": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-november-18/",
+   "summary": "A breakdown of the latest Ripple ecosystem advancements and an update on XRP's recent price movements.",
+   "published": "2026-11-18T18:51:43+00:00",
+   "coverage": 0,
+   "coins": [
+    "XRP"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3": {
+   "source": "Bitcoin Magazine",
+   "title": "Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3",
+   "url": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
+   "summary": "▶ Bitcoin Magazine Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 Bloomberg Intelligence's James Seyffart breaks down the latest 13F filings for the spot Bitcoin ETFs. This post Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 first appeared on Bitcoin Magazine and is written",
+   "published": "2026-11-19T00:30:11+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/bitcoin-its-so-over": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin: It’s So Over",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-its-so-over",
+   "summary": "▶ Bitcoin Magazine Bitcoin: It’s So Over How does today's Bitcoin bear market compare with the ones before it? This post Bitcoin: It’s So Over first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "published": "2026-11-18T23:20:31+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/saifedean-ammous-ai-could-be-massively-overvalued-as-bitcoin-starts-its-own-run": {
+   "source": "Bitcoin Magazine",
+   "title": "Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run”",
+   "url": "https://bitcoinmagazine.com/videos/saifedean-ammous-ai-could-be-massively-overvalued-as-bitcoin-starts-its-own-run",
+   "summary": "▶ Bitcoin Magazine Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run” Saifedean Ammous, author of The Bitcoin Standard, joins BMTV to talk about the AI boom and where Bitcoin goes from here. This post Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run” ",
+   "published": "2026-11-18T20:42:15+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft": {
+   "source": "Bitcoin Magazine",
+   "title": "Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft",
+   "url": "https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft",
+   "summary": "Bitcoin Magazine Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft A Scottish hacker tied to Scattered Spider was sentenced to six years in U.S. prison for a SIM-swap and phishing scheme that stole at least $11.6 million in crypto. This post Scattered Spider Hacker Gets Six Years for $11.6 Million C",
+   "published": "2026-11-18T19:30:00+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen": {
+   "source": "Bitcoin Magazine",
+   "title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
+   "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+   "summary": "Bitcoin Magazine Binance Says It Won Court Order to Recover Frozen Hack Funds Binance says it has a court order from Abu Dhabi Global Market to recover crypto frozen after the $6.3 billion hack. This post Binance Says It Won Court Order to Recover Frozen Hack Funds first appeared on Bitcoin Magazine and is written by M",
+   "published": "2026-11-18T18:47:30+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1167886?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 상승 출발 무색…5000선 다시 내줘",
+   "url": "https://www.blockmedia.co.kr/archives/1167886?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 상승 출발했지만 외국인과 기관의 매도세에 밀려 5000선 아래로 내려갔다. 삼성전자와 SK하이닉스 등 시가총액 상위 종목이 약세를 보이는 가운데 코스닥도 1% 넘게 하락하고 있다. 19일 한국거래소에 따르면 오전 10시26분 기준 코스피는 전 거래일보다 74.60포인트(1.47%) 내린 4992.84를 기록했다. 지수는 전 거래일보다 22.60포인트(0.45%) 오른 5090.04에 출발했으나 이후 하락 전환했다. 이날은 대학수학능력시험으로 정규장이 오전 10시에 [...]",
+   "published": "2026-11-19T01:30:54+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167860?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "베리에이셔널, 기업가치 15억달러에 1억1000만달러 시리즈B 투자 유치",
+   "url": "https://www.blockmedia.co.kr/archives/1167860?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 황효준 에디터] 온체인 파생상품 거래 프로토콜 베리에이셔널(Variational)이 1억1000만달러(약 1469억원) 규모의 시리즈B 투자를 유치했다. 기업가치는 15억달러(약 2조원)로 평가받았다. 회사는 확보한 자금을 활용해 거래 가능 시장을 확대하고 전통 금융시장과 온체인 시장의 유동성 연결을 강화할 계획이다. 베리에이셔널은 18일(현지시각) 베인캐피탈 크립토가 주도한 시리즈B 투자 유치를 발표했다. 이번 투자에는 홍샨(HSG), 드래곤플라이, 피크XV, 50T 펀즈 등이 참여했다. 2025년 초 출시된 [...]",
+   "published": "2026-11-19T00:05:08+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167846?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 美 연준 ‘빅스텝’ 우려에 6만2000달러대로…매도 압력 심화",
+   "url": "https://www.blockmedia.co.kr/archives/1167846?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 미국 연방준비제도(Fed·연준)의 추가 금리 인상 우려에 6만2000달러대로 떨어졌다. 연준 고위 인사가 오는 12월 기준금리를 0.5%포인트 인상할 가능성을 언급하면서 위험자산에 대한 투자심리가 위축된 영향이다. 최근 한 달간 비트코인 시장에서 대규모 자금이 빠져나간 가운데 매도 압력이 여전히 강하다는 분석도 나온다. 19일 오전 8시3분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 [...]",
+   "published": "2026-11-18T23:14:47+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1167828?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "앤트로픽 IPO 공모가 83달러…역대 최대 940억달러 쾌거(상보)",
+   "url": "https://www.blockmedia.co.kr/archives/1167828?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 인공지능(AI) 기업 앤트로픽(앤스로픽)이 기업공개(IPO) 공모가를 당초 희망 범위보다 높은 주당 83달러로 책정한 것으로 알려졌다. 공모와 별도 사모투자를 합친 자금 조달 규모는 940억달러를 넘어 스페이스X의 IPO 기록을 웃돌 전망이다. 희망 공모가 70~78달러 넘어…IPO 규모도 확대 18일(현지시각) 블룸버그통신에 따르면 앤트로픽은 IPO 공모가를 주당 83달러로 결정했다. 블룸버그는 사안에 정통한 관계자들을 인용해 공모 규모도 확대됐다고 보도했다. 앤트로픽은 [...]",
+   "published": "2026-11-18T21:53:50+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167826?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[뉴욕 금·채권·달러] 연준 긴축 우려에 금값 14개월래 최저…달러 19개월래 최고",
+   "url": "https://www.blockmedia.co.kr/archives/1167826?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 금융시장이 18일(현지시각) 연방준비제도(Fed·연준)의 추가 금리 인상 우려에 흔들렸다. 달러화는 19개월 만에 최고 수준으로 상승한 반면 국제 금값은 3% 넘게 급락하며 14개월 만에 최저치를 기록했다. 미국 국채금리는 장중 하락했지만 연준의 긴축 기조가 장기화될 수 있다는 경계심은 이어졌다. 달러 강세에도 달러·원 환율은 소폭 하락하며 자산별 차별화가 나타났다. 달러 19개월 만에 최고…월러 연준 이사 ‘빅스텝’ [...]",
+   "published": "2026-11-18T21:53:16+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167821?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[뉴욕증시 마감] 엔비디아 호실적에도 주가 반락…다우 하락·나스닥 상승 혼조",
+   "url": "https://www.blockmedia.co.kr/archives/1167821?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 뉴욕증시가 18일(현지시각) 인공지능(AI) 대표주 엔비디아의 호실적에도 혼조세로 마감했다. 엔비디아가 시장 예상치를 웃도는 실적을 발표했지만 주가가 상승분을 반납하면서 AI 투자 수익성에 대한 우려가 다시 부각됐다. 다우존스30산업평균지수는 1% 넘게 하락한 반면 나스닥지수와 중소형주 중심의 러셀2000 상장지수펀드(ETF)는 상승하며 지수별 차별화가 뚜렷해졌다. 다우 561포인트 급락…나스닥·러셀2000은 상승 CNBC에 따르면, 이날 뉴욕증시에서 다우존스30산업평균지수는 전장 대비 561.25포인트(1.11%) 하락한 5만198.2",
+   "published": "2026-11-18T21:12:32+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167818?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[뉴욕 코인시황/마감] 비트코인 6.2만달러까지 하락…기관 자금 이탈·대규모 청산에 투심 급랭",
+   "url": "https://www.blockmedia.co.kr/archives/1167818?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 디지털자산(가상자산) 시장이 18일(현지시각) 비트코인의 6만2000달러선 위협과 기관투자자 자금 이탈 우려로 약세를 이어갔다. 미국 대형은행 시티그룹이 비트코인 목표가격을 하향 조정한 가운데 현물 상장지수펀드(ETF) 자금 유출과 레버리지 포지션 청산이 겹치면서 투자심리가 극도로 위축됐다. 코인마켓캡에 따르면 이날 전체 디지털자산 시가총액은 2조1500억달러로 전일 대비 0.68% 감소했다. 24시간 거래대금은 약 701억달러를 기록했으며 비트코인 시장 점유율은 58.9%로 집계됐다. [...]",
+   "published": "2026-11-18T21:04:06+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1167810?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "미 정부, 기업 대상 ‘중국산 AI 모델 사용 공개’ 의무화 추진-로이터",
+   "url": "https://www.blockmedia.co.kr/archives/1167810?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 트럼프 행정부가 미국 기업에 중국산 인공지능(AI) 모델 사용 사실을 공개하도록 의무화하는 방안을 검토하고 있다. 직접적인 사용 제한 대신 기업의 정보 공개를 통해 중국 AI 기술에 대한 의존도를 낮추려는 움직임이다. 백악관·재무부, 중국 AI 사용 현황 공개 방안 논의 18일(현지시각) 로이터통신에 따르면 미국 재무부와 백악관 과학기술정책실(OSTP)은 미국 기업이 중국산 AI 모델을 사용하면 이를 자사 [...]",
+   "published": "2026-11-18T20:22:31+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1167808?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "“미 반도체 규제 불확실성”… 비트디어, 목표가 15달러로 하향",
+   "url": "https://www.blockmedia.co.kr/archives/1167808?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국의 첨단 반도체 수출 규제 강화로 비트코인 채굴업체 비트디어의 인공지능(AI) 사업 확장에 차질이 생길 수 있다는 분석이 나왔다. 투자은행 스톤엑스는 비트디어의 목표주가와 실적 전망을 낮췄지만 매수 의견은 유지했다. 말레이시아 GPU 공급 불확실성…주가 29% 급락 18일(현지시각) 더블록에 따르면 마크 팔머 스톤엑스 애널리스트는 비트디어의 목표주가를 22달러에서 15달러로 하향 조정했다. 비트디어 주가는 17일 4달러에 마감해 지난 [...]",
+   "published": "2026-11-18T20:09:47+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1167800?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "독일 법원, 피고인에게 비트코인 4만개 조건 합의 제안",
+   "url": "https://www.blockmedia.co.kr/archives/1167800?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 독일 법원이 불법 영화 스트리밍 사이트 무비투케이(Movie2k) 운영 혐의를 받는 피고인에게 비트코인 4만개를 넘기는 조건으로 자금세탁 사건을 종결하는 방안을 제안했다. 반환 대상 비트코인의 가치는 약 25억달러에 달한다. 비트코인 4만개·3800만유로 지급 조건 18일(현지시각) 코인데스크에 따르면 독일 법원 판사는 무비투케이 운영자로 지목된 요제프 F.에게 비트코인 4만개를 넘기고 잠재적 피해자 보상을 위해 3800만유로(약 4160만달러)를 지급하면 자금세탁 [...]",
+   "published": "2026-11-18T19:53:52+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
   }
  },
- "updated": "2026-11-19 03:26",
+ "updated": "2026-11-19 11:03",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",

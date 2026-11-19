@@ -213,7 +213,221 @@
      "source": "머니투데이"
     }
    ]
+  },
+  "이혼": {
+   "q": "이혼",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Wed, 18 Nov 2026 16:40:00 -0800",
+   "news": [
+    {
+     "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
+     "url": "https://www.munhwa.com/article/11632371",
+     "source": "문화일보"
+    },
+    {
+     "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874235",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "네이버뉴스": {
+   "q": "네이버뉴스",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 18 Nov 2026 16:40:00 -0800",
+   "news": [
+    {
+     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+     "source": "한국기자협회"
+    },
+    {
+     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "url": "https://www.etnews.com/20261118000308",
+     "source": "전자신문"
+    },
+    {
+     "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+     "url": "https://zdnet.co.kr/view/?no=20261118201654",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  "시즌2": {
+   "q": "시즌2",
+   "traffic": 5000,
+   "traffic_label": "5000+",
+   "pub": "Wed, 18 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+     "url": "https://www.yna.co.kr/view/AKR20261119043100005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  "전도연": {
+   "q": "전도연",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 18 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+     "url": "https://www.koreadaily.com/article/20261118070139540",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873770",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "올랜도 대 필라데피아": {
+   "q": "올랜도 대 필라데피아",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 18 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+     "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+     "source": "NBA.com"
+    },
+    {
+     "title": "How Franz Wagner, Magic Can Make Biggest Statement Against LeBron James, 76ers",
+     "url": "https://sports.yahoo.com/articles/franz-wagner-magic-biggest-statement-185057625.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
+     "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
+     "source": "Liberty Ballers"
+    }
+   ]
+  },
+  "이적 시장": {
+   "q": "이적 시장",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  "nginx": {
+   "q": "nginx",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "source": "wiz.io"
+    },
+    {
+     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+     "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+     "source": "Forbes"
+    }
+   ]
+  },
+  "gemini neon": {
+   "q": "gemini neon",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "Introducing Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "source": "blog.google"
+    },
+    {
+     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+     "source": "Google for Developers Blog"
+    },
+    {
+     "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+     "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+     "source": "The Decoder"
+    }
+   ]
+  },
+  "수능날 주식": {
+   "q": "수능날 주식",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+     "url": "https://www.mk.co.kr/news/business/12213210",
+     "source": "매일경제"
+    },
+    {
+     "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+     "url": "https://www.hankyung.com/article/202611185520i",
+     "source": "한국경제"
+    },
+    {
+     "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "test alert": {
+   "q": "test alert",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Wed, 18 Nov 2026 16:00:00 -0800",
+   "news": []
   }
  },
- "updated": "2026-11-19 03:26"
+ "updated": "2026-11-19 11:03"
 }
