@@ -459,7 +459,221 @@
      "source": "KBS 뉴스"
     }
    ]
+  },
+  "신영수": {
+   "q": "신영수",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 02:50:00 -0800",
+   "news": [
+    {
+     "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
+     "url": "https://sports.khan.co.kr/article/202611201444003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "'파묘' 자문 고춘자, 한고은에게 \"연예인 안 했으면 무속인 됐을 것\"",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6360587",
+     "source": "뉴스1"
+    },
+    {
+     "title": "“자식 없는 팔자”…‘파묘’ 무속인, 한고은♥신영수 부부에 충격 신점",
+     "url": "https://www.mk.co.kr/news/hot-issues/12214276",
+     "source": "매일경제"
+    }
+   ]
+  },
+  "국민연금공단": {
+   "q": "국민연금공단",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Fri, 20 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "어르신~ '복지로' 간편해졌어요!",
+     "url": "https://news.mtn.co.kr/article/2026112010173722714",
+     "source": "MTN 머니투데이방송"
+    },
+    {
+     "title": "국민연금, 기초연금 온라인 신청 퀴즈 이벤트…400명에게 상품권",
+     "url": "https://www.news1.kr/bio/welfare-medical/6360637",
+     "source": "뉴스1"
+    },
+    {
+     "title": "기초연금 신청 더 간편하게…배우자 동의도 모바일로",
+     "url": "https://www.dailian.co.kr/news/view/1717759/%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B8%88-%EC%8B%A0%EC%B2%AD-%EB%8D%94-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C%EB%B0%B0%EC%9A%B0%EC%9E%90-%EB%8F%99%EC%9D%98-2026",
+     "source": "데일리안"
+    }
+   ]
+  },
+  "최미나수": {
+   "q": "최미나수",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 20 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "[사진]윤경호 '대세 배우'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GZQWENZTMFSGMZDEHFQWKOLCGQ/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "[사진]엔하이픈 제이크 '왕자님의 여유'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GIYGKMZYGQ2DSODDG5SDCZLDGI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "'2026 MAMA' 간 김혜수, 볼륨 강조한 드레스 자태…'시선 강탈' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112019044436645",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  "이진우 부검": {
+   "q": "이진우 부검",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Fri, 20 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329002",
+     "source": "JTBC"
+    },
+    {
+     "title": "리트 만점자 고발인 \"남은 흔적 어떻게든 찾아달라\" 거듭 촉구",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120203808bkQ",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717283",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "2027 수능 만점자": {
+   "q": "2027 수능 만점자",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Fri, 20 Nov 2026 02:10:00 -0800",
+   "news": []
+  },
+  "ind-a vs nep": {
+   "q": "ind-a vs nep",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Fri, 20 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "IND vs PAK in Asia Cup Rising Stars 2026: Start time, date, venue and how to watch India-Pakistan clash globally",
+     "url": "https://sports.yahoo.com/articles/ind-vs-pak-asia-cup-092428434.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "India A vs Nepal Asia Cup Rising Stars 2026: Vaibhav Sooryavanshi Included in Playing XI as Nepal Opts to Bowl",
+     "url": "https://www.jagranjosh.com/general-knowledge/india-a-vs-nepal-toss-result-playing-xi-asia-cup-rising-stars-2026-vaibhav-sooryavanshi-abhishek-sharma-1820013990-1",
+     "source": "Jagran Josh"
+    },
+    {
+     "title": "Excitel Broadband steps up as Global Sponsor of the DP World Asia Cup Rising Stars 2026",
+     "url": "https://www.medianews4u.com/excitel-broadband-steps-up-as-global-sponsor-of-the-dp-world-asia-cup-rising-stars-2026/",
+     "source": "MediaNews4U"
+    }
+   ]
+  },
+  "초과근무": {
+   "q": "초과근무",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "[단독] 82억 특활비 부활시킨 靑, 이번엔 \"초과근무수당 2배 올려달라\"",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html",
+     "source": "뉴데일리"
+    },
+    {
+     "title": "여야, 예결소위서 '국무총리 특활비·규제개혁추진단' 예산 공방(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261117043351001",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "여야, 예결위 예산소위서 총리 특활비 등 공방…野 \"절반 감액해야\" 與 \"식물 총리 하란 것\"",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872286",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "전북특별자치도지사": {
+   "q": "전북특별자치도지사",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 20 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "전북선관위, '현금 지급·미신고 계좌 지출' 도지사 후보 고발",
+     "url": "https://www.yna.co.kr/view/AKR20261120166300055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "신고않은 계좌서 선거비용 지출한 도지사 후보…경찰 고발돼",
+     "url": "https://www.nocutnews.co.kr/news/6610457",
+     "source": "노컷뉴스"
+    },
+    {
+     "title": "반인숙 시의회 의장, 선거법 위반 혐의로 송치돼",
+     "url": "http://www.sisaanseong.com/news/articleView.html?idxno=30497",
+     "source": "시사안성"
+    }
+   ]
+  },
+  "벼": {
+   "q": "벼",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Fri, 20 Nov 2026 01:50:00 -0800",
+   "news": [
+    {
+     "title": "벼 수매대금 미지급 논란…농가 피해액 20억원 넘어",
+     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208975",
+     "source": "농업인신문"
+    },
+    {
+     "title": "벼 수매대금 미지급 사태 대처할 보호대책 마련해야",
+     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208916",
+     "source": "농업인신문"
+    },
+    {
+     "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
+     "url": "https://www.yna.co.kr/view/AKR20261119055100030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  "토마스 뮐러": {
+   "q": "토마스 뮐러",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Fri, 20 Nov 2026 01:40:00 -0800",
+   "news": [
+    {
+     "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698852",
+     "source": "인터풋볼"
+    },
+    {
+     "title": "손흥민·메시 뛰는 MLS 수준 충격 평가...레전드 뮐러 작심 고백 \"강등 없고 압박도 없어! 수비는 안일해\"",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101056",
+     "source": "포포투"
+    },
+    {
+     "title": "손흥민과 생각 달랐다…뮐러 소신 발언 “강등 없는 MLS, 목숨 걸고 싸우는 유럽과 수준 달라”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101041",
+     "source": "포포투"
+    }
+   ]
   }
  },
- "updated": "2026-11-20 10:55"
+ "updated": "2026-11-20 21:15"
 }
