@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 03:44",
+ "updated": "2026-11-20 10:55",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -10,6 +10,321 @@
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Falls Below $62k Amid $528M in Liquidations",
+   "url": "https://cryptopotato.com/bitcoin-falls-below-62k-amid-528m-in-liquidations/",
+   "published": "2026-11-20T00:58:29+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 증시 급락에 4900선으로 하락 출발…반도체주 약세",
+   "url": "https://www.blockmedia.co.kr/archives/1168390?utm_source=general&utm_medium=rss",
+   "published": "2026-11-20T00:16:44+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Homeland Security Launches New Centre to Hit Crypto Scams, Cybercrime and Sextortion Networks",
+   "url": "https://cryptopotato.com/homeland-security-launches-new-centre-to-hit-crypto-scams-cybercrime-and-sextortion-networks/",
+   "published": "2026-11-19T23:46:18+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "3 Reasons Why This AI-Related Cryptocurrency is Up 20% in a Week",
+   "url": "https://cryptopotato.com/3-reasons-why-this-ai-related-cryptocurrency-is-up-20-in-a-week/",
+   "published": "2026-11-19T23:45:42+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+   "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T23:44:02+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 앤트로픽 역대 최대 IPO에도 약세…6만2000달러선 ‘위태’",
+   "url": "https://www.blockmedia.co.kr/archives/1168381?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T23:32:41+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 저평가 구간 진입…“역대급 바닥 신호는 아직” – 윌 클레멘테",
+   "url": "https://www.blockmedia.co.kr/archives/1168376?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T23:23:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "은 가격 45달러까지 추락…“30달러 추가 하락 vs 바닥 형성” 갈림길",
+   "url": "https://www.blockmedia.co.kr/archives/1168373?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T23:11:12+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인, 2022년 약세장과 또 다르다…지금 봐야 할 지표는?",
+   "url": "https://www.blockmedia.co.kr/archives/1168358?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T22:37:53+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+   "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+   "published": "2026-11-19T22:36:02+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T22:25:18+00:00",
+   "coins": [
+    "HYPE"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
+   "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
+   "published": "2026-11-19T22:20:01+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 6만1000달러까지 하락…다음 지지선은 5만9400달러 – 렉트캐피털",
+   "url": "https://www.blockmedia.co.kr/archives/1168355?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T22:15:31+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "앤트로픽 상장 전 코인 거래소서 95억달러 거래…스페이스X 기록 2.4배",
+   "url": "https://www.blockmedia.co.kr/archives/1168350?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T22:05:29+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[뉴욕 금·채권·달러] 달러 강세에 금값 3600달러대↓…미 국채금리도 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1168353?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T21:56:36+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
+   "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+   "published": "2026-11-19T21:53:36+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
+   "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+   "published": "2026-11-19T21:45:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "디지털자산 시총 2조달러 지지선 위태… “비트코인 6만달러가 분수령”",
+   "url": "https://www.blockmedia.co.kr/archives/1168330?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T21:40:10+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k",
+   "url": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
+   "published": "2026-11-19T21:30:13+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "[속보] 비트코인 6만1000달러대 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1168346?utm_source=general&utm_medium=rss",
+   "published": "2026-11-19T21:23:16+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+   "published": "2026-11-19T21:12:06+00:00",
+   "coins": [],
+   "coverage": 5
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
+   "published": "2026-11-19T21:02:20+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+   "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T21:01:42+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+   "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+   "published": "2026-11-19T20:46:02+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+   "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T20:33:24+00:00",
+   "coins": [
+    "HYPE"
+   ],
+   "coverage": 4
+  },
+  {
+   "source": "The Block",
+   "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+   "url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
+   "published": "2026-11-19T20:20:59+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+   "published": "2026-11-19T20:15:32+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come",
+   "url": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
+   "published": "2026-11-19T20:15:14+00:00",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "coverage": 4
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+   "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T20:06:34+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+   "published": "2026-11-19T19:53:42+00:00",
+   "coins": [
+    "USDC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
+   "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
+   "published": "2026-11-19T19:30:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin’s Last Line of Defense Is $58K",
+   "url": "https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k",
+   "published": "2026-11-19T19:12:55+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+   "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+   "published": "2026-11-19T19:08:24+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 5
+  },
+  {
+   "source": "The Block",
+   "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+   "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+   "published": "2026-11-19T18:47:30+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 0
+  },
   {
    "source": "Cointelegraph",
    "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
@@ -26,7 +341,7 @@
    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
    "published": "2026-11-19T18:15:56+00:00",
    "coins": [],
-   "coverage": 0
+   "coverage": 1
   },
   {
    "source": "CryptoPotato",
@@ -67,308 +382,6 @@
     "HYPE"
    ],
    "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽 상장 후 매도세…엔비디아·증시·BTC 동반 약세",
-   "url": "https://www.blockmedia.co.kr/archives/1168288?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T17:59:32+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-   "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-   "published": "2026-11-19T17:55:38+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000",
-   "url": "https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000",
-   "published": "2026-11-19T17:45:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "Decrypt",
-   "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-   "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-   "published": "2026-11-19T17:28:03+00:00",
-   "coins": [],
-   "coverage": 2
-  },
-  {
-   "source": "The Block",
-   "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
-   "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
-   "published": "2026-11-19T17:12:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽, 나스닥 첫 거래가 111.50달러…공모가 대비 34.3% 급등(상보)",
-   "url": "https://www.blockmedia.co.kr/archives/1168267?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T17:06:13+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-   "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-   "published": "2026-11-19T17:01:47+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "Decrypt",
-   "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-   "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-   "published": "2026-11-19T16:55:10+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "블록미디어",
-   "title": "[속보] 앤트로픽, 나스닥 첫 거래가 111.50달러",
-   "url": "https://www.blockmedia.co.kr/archives/1168254?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T16:50:59+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn",
-   "url": "https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before",
-   "published": "2026-11-19T16:45:18+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Solana Is Planning Its Next Major Upgrades: Here’s What Changes",
-   "url": "https://cryptopotato.com/solana-is-planning-its-next-major-upgrades-heres-what-changes/",
-   "published": "2026-11-19T16:24:54+00:00",
-   "coins": [
-    "SOL"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Global Securities Watchdog Warns of Quantum Computing Threat to Blockchains and Finance",
-   "url": "https://bitcoinmagazine.com/news/iosco-quantum-computing-warning-bitcoin",
-   "published": "2026-11-19T16:24:06+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Ethereum Price Analysis: Is ETH About to Explode or Crash Below $1.7K?",
-   "url": "https://cryptopotato.com/ethereum-price-analysis-is-eth-about-to-explode-or-crash-below-1-7k/",
-   "published": "2026-11-19T16:23:16+00:00",
-   "coins": [
-    "ETH"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽 상장 첫날 106달러 거래 예상…공모가 대비 26.5% 상승",
-   "url": "https://www.blockmedia.co.kr/archives/1168237?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T16:13:40+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-   "published": "2026-11-19T16:09:28+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-   "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-19T16:07:51+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽 첫 거래 전 뉴욕증시 급반전…상승분 뱉어내며 혼조세",
-   "url": "https://www.blockmedia.co.kr/archives/1168223?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T16:03:31+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
-   "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
-   "published": "2026-11-19T16:01:16+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "Decrypt",
-   "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
-   "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
-   "published": "2026-11-19T15:54:03+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽 CEO “9000억달러 AI 투자 약정, 감당 가능한 수준”(상보)",
-   "url": "https://www.blockmedia.co.kr/archives/1168221?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T15:42:04+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "[속보] 다니엘라 아모데이 사장 “회사가 모델의 안전성을 확인할 궁극적 책임있어”-CNBC 인터뷰",
-   "url": "https://www.blockmedia.co.kr/archives/1168210?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T15:29:09+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "[속보] 다니엘라 아모데이 사장 “데이터 센터 문제, 지역 사회 의견 경청하겠다”-CNBC 인터뷰",
-   "url": "https://www.blockmedia.co.kr/archives/1168196?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T15:20:40+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-   "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-   "published": "2026-11-19T15:20:38+00:00",
-   "coins": [],
-   "coverage": 3
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai",
-   "url": "https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai",
-   "published": "2026-11-19T15:20:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 4
-  },
-  {
-   "source": "블록미디어",
-   "title": "[속보] 아모데이 CEO “안전한 AI 개발이 투자자들에게 유리해”-CNBC 인터뷰",
-   "url": "https://www.blockmedia.co.kr/archives/1168194?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T15:14:20+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "아모데이 CEO “압력 굴하지 않고 AI 안전 우선”",
-   "url": "https://www.blockmedia.co.kr/archives/1168192?utm_source=general&utm_medium=rss",
-   "published": "2026-11-19T15:12:13+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
-   "url": "https://cryptopotato.com/hashi-mainnet-is-live-with-20-plus-partners-bringing-bitcoin-finance-to-sui-at-scale/",
-   "published": "2026-11-19T14:55:01+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Important Cardano News and ADA Price Update: November 19",
-   "url": "https://cryptopotato.com/important-cardano-news-and-ada-price-update-november-19/",
-   "published": "2026-11-19T14:47:47+00:00",
-   "coins": [
-    "ADA"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage",
-   "url": "https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x",
-   "published": "2026-11-19T14:45:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin",
-   "url": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-margin-trading",
-   "published": "2026-11-19T14:20:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-   "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
-   "published": "2026-11-19T14:01:02+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Bitcoin Price Rebounds Near $64,000 as Anthropic IPO Lifts Tech Stocks",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rebounds-64000-anthropic",
-   "published": "2026-11-19T14:00:49+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 5
-  },
-  {
-   "source": "The Block",
-   "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-   "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-   "published": "2026-11-19T14:00:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Bitcoin’s Next Major Move Tied to GTA VI? Traders Spot a Bizarre Pattern",
-   "url": "https://cryptopotato.com/bitcoins-next-major-move-tied-to-gta-vi-traders-spot-a-bizarre-pattern/",
-   "published": "2026-11-19T13:52:48+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 1
   }
  ]
 }

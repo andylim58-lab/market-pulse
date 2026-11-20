@@ -229,7 +229,237 @@
      "source": "경향신문"
     }
    ]
+  },
+  "물수리": {
+   "q": "물수리",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 16:40:00 -0800",
+   "news": [
+    {
+     "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
+     "url": "https://www.khan.co.kr/article/202611191400001",
+     "source": "경향신문"
+    },
+    {
+     "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
+     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
+     "source": "서울Pn"
+    }
+   ]
+  },
+  "경기도교육청": {
+   "q": "경기도교육청",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 19 Nov 2026 16:40:00 -0800",
+   "news": [
+    {
+     "title": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261119068751055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
+     "source": "경상일보"
+    }
+   ]
+  },
+  "논현동": {
+   "q": "논현동",
+   "traffic": 5000,
+   "traffic_label": "5000+",
+   "pub": "Thu, 19 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874712",
+     "source": "뉴시스"
+    },
+    {
+     "title": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
+     "url": "https://www.sportsseoul.com/news/read/1651112",
+     "source": "스포츠서울"
+    }
+   ]
+  },
+  "이의리": {
+   "q": "이의리",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 19 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'韓 팬들도 궁금' 대체 일본은 무엇이 다르길래, 이의리-김서현-김진욱이 효과를 봤나…한화 이 선수 솔직속내 \"日 투수 수준 더 높다\"",
+     "url": "https://mydaily.co.kr/page/view/2026111911120848723",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  "유니클로": {
+   "q": "유니클로",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 19 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
+     "url": "https://www.hankyung.com/article/2026111982391",
+     "source": "한국경제"
+    },
+    {
+     "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119033100009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
+     "url": "https://www.joongang.co.kr/article/25479855",
+     "source": "중앙일보"
+    }
+   ]
+  },
+  "h&m": {
+   "q": "h&m",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+     "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
+     "source": "Vogue"
+    },
+    {
+     "title": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
+     "url": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
+     "source": "H&M"
+    },
+    {
+     "title": "Macy Grimshaw Takes Home This Year’s H&M Design Award",
+     "url": "https://sg.news.yahoo.com/macy-grimshaw-takes-home-h-200532580.html",
+     "source": "Yahoo News Singapore"
+    }
+   ]
+  },
+  "php 취약점": {
+   "q": "php 취약점",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 15:50:00 -0800",
+   "news": [
+    {
+     "title": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
+     "url": "https://news.hada.io/topic?id=37452",
+     "source": "GeekNews"
+    },
+    {
+     "title": "PHP 치명적 결함 패치...특정 웹서버 설정 시 코드 실행 가능",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147402",
+     "source": "보안뉴스"
+    },
+    {
+     "title": "AI 해킹으로 불안한데…PHP서 또 치명적 취약점 발견",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20261120.99099006370",
+     "source": "국제신문"
+    }
+   ]
+  },
+  "전북특별자치도교육청": {
+   "q": "전북특별자치도교육청",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 19 Nov 2026 15:50:00 -0800",
+   "news": [
+    {
+     "title": "전주대·전북교육청 개인정보 대량 유출…“피해 우려”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717588",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "부산 대학가, 해킹으로 개인정보 유출 잇따라…긴급 보안 조치",
+     "url": "https://www.yna.co.kr/view/AKR20261119069700051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "성적·출결에 교직원 메일까지…대학 해킹 유출 파일서 'AI 흔적' 발견",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875508",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "lpga": {
+   "q": "lpga",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 19 Nov 2026 15:40:00 -0800",
+   "news": [
+    {
+     "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
+     "source": "아시아경제"
+    },
+    {
+     "title": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Finale",
+     "url": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
+     "source": "LPGA"
+    }
+   ]
+  },
+  "2호선": {
+   "q": "2호선",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 19 Nov 2026 15:20:00 -0800",
+   "news": [
+    {
+     "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "서울지하철 노조 오늘부터 준법투쟁 돌입···출근길 시민들 “차이 모르겠어”",
+     "url": "https://www.khan.co.kr/article/202611201025011",
+     "source": "경향신문"
+    },
+    {
+     "title": "국토부, 철도 파업 대비 비상수송 점검…“철저히 대비”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717528",
+     "source": "KBS 뉴스"
+    }
+   ]
   }
  },
- "updated": "2026-11-20 03:44"
+ "updated": "2026-11-20 10:55"
 }

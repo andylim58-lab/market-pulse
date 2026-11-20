@@ -122,7 +122,7 @@
    "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
    "published": "2026-11-19T08:26:19+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -191,7 +191,7 @@
    "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.",
    "published": "2026-11-19T00:35:49+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -313,7 +313,7 @@
    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
    "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
    "published": "2026-11-19T18:15:56+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price": {
@@ -380,7 +380,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
    "summary": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO.",
    "published": "2026-11-19T12:08:06+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -450,7 +450,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
    "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
    "published": "2026-11-19T06:23:19+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows": {
@@ -510,7 +510,7 @@
    "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
    "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
    "published": "2026-11-18T17:22:03+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "HYPE"
    ]
@@ -728,7 +728,7 @@
    "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
    "summary": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
    "published": "2026-11-18T18:16:02+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion": {
@@ -846,7 +846,7 @@
    "url": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
    "summary": "The Threat Disruption Center will help investigators trace victims’ funds and identify crypto wallets used by scammers.",
    "published": "2026-11-19T11:55:06+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574": {
@@ -855,7 +855,7 @@
    "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
    "summary": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid.",
    "published": "2026-11-19T11:00:00+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "HYPE",
     "USDC"
@@ -1065,7 +1065,7 @@
    "url": "https://cryptopotato.com/1inch-taps-hyperliquid-to-bring-perpetual-futures-trading-to-its-users/",
    "summary": "The integration gives 1inch users access to leveraged trading across cryptocurrencies and traditional assets as Hyperliquid continues expanding its footprint in decentralized finance.",
    "published": "2026-11-19T12:12:00+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "HYPE"
    ]
@@ -1099,7 +1099,7 @@
    "url": "https://cryptopotato.com/bitcoin-btc-drops-under-64k-pi-network-pi-falls-to-new-atl-market-watch/",
    "summary": "The total crypto market capitalization currently hovers slightly above $2.2 trillion.",
    "published": "2026-11-19T10:23:41+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -1306,7 +1306,7 @@
    "url": "https://cryptopotato.com/ripple-xrp-reclaims-1-as-bitcoin-btc-remains-under-65k-market-watch/",
    "summary": "RAIN is the worst-performing cryptocurrency among the top 100 for the second consecutive day.",
    "published": "2026-11-18T10:08:51+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC",
     "XRP"
@@ -1426,7 +1426,7 @@
    "url": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
    "summary": "▶ Bitcoin Magazine Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 Bloomberg Intelligence's James Seyffart breaks down the latest 13F filings for the spot Bitcoin ETFs. This post Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 first appeared on Bitcoin Magazine and is written",
    "published": "2026-11-19T00:30:11+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -1533,9 +1533,358 @@
    "published": "2026-11-19T15:12:13+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+   "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
+   "published": "2026-11-19T23:44:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+   "published": "2026-11-19T22:25:18+00:00",
+   "coverage": 3,
+   "coins": [
+    "HYPE"
+   ]
+  },
+  "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+   "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
+   "published": "2026-11-19T21:01:42+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+   "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.",
+   "published": "2026-11-19T20:33:24+00:00",
+   "coverage": 4,
+   "coins": [
+    "HYPE"
+   ]
+  },
+  "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+   "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
+   "published": "2026-11-19T20:06:34+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report": {
+   "source": "CoinDesk",
+   "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+   "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
+   "published": "2026-11-19T19:53:42+00:00",
+   "coverage": 0,
+   "coins": [
+    "USDC"
+   ]
+  },
+  "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack": {
+   "source": "Decrypt",
+   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+   "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+   "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
+   "published": "2026-11-19T22:36:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price": {
+   "source": "Decrypt",
+   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+   "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
+   "published": "2026-11-19T21:12:06+00:00",
+   "coverage": 5,
+   "coins": []
+  },
+  "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature": {
+   "source": "Decrypt",
+   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+   "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+   "summary": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
+   "published": "2026-11-19T20:46:02+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data": {
+   "source": "Decrypt",
+   "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+   "summary": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
+   "published": "2026-11-19T20:15:32+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo": {
+   "source": "Decrypt",
+   "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+   "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+   "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
+   "published": "2026-11-19T19:08:24+00:00",
+   "coverage": 5,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133": {
+   "source": "The Block",
+   "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+   "url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
+   "summary": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
+   "published": "2026-11-19T20:20:59+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105": {
+   "source": "The Block",
+   "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+   "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+   "summary": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
+   "published": "2026-11-19T18:47:30+00:00",
+   "coverage": 0,
+   "coins": [
+    "XRP"
+   ]
+  },
+  "https://cryptopotato.com/bitcoin-falls-below-62k-amid-528m-in-liquidations/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Falls Below $62k Amid $528M in Liquidations",
+   "url": "https://cryptopotato.com/bitcoin-falls-below-62k-amid-528m-in-liquidations/",
+   "summary": "Following the Anthropic IPO, BTC has logged another multi-month low.",
+   "published": "2026-11-20T00:58:29+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/homeland-security-launches-new-centre-to-hit-crypto-scams-cybercrime-and-sextortion-networks/": {
+   "source": "CryptoPotato",
+   "title": "Homeland Security Launches New Centre to Hit Crypto Scams, Cybercrime and Sextortion Networks",
+   "url": "https://cryptopotato.com/homeland-security-launches-new-centre-to-hit-crypto-scams-cybercrime-and-sextortion-networks/",
+   "summary": "TRM Labs has been selected to supply the investigative technology for the new US government initiative targeting online scams and cybercrime.",
+   "published": "2026-11-19T23:46:18+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/3-reasons-why-this-ai-related-cryptocurrency-is-up-20-in-a-week/": {
+   "source": "CryptoPotato",
+   "title": "3 Reasons Why This AI-Related Cryptocurrency is Up 20% in a Week",
+   "url": "https://cryptopotato.com/3-reasons-why-this-ai-related-cryptocurrency-is-up-20-in-a-week/",
+   "summary": "VVV has become the 65th-biggest cryptocurrency.",
+   "published": "2026-11-19T23:45:42+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future": {
+   "source": "Bitcoin Magazine",
+   "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
+   "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
+   "summary": "Bitcoin Magazine Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Histórico. Guests included Ricardo Salinas Pliego, Parker Lewis, Mike Peterson, and mi",
+   "published": "2026-11-19T22:20:01+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000": {
+   "source": "Bitcoin Magazine",
+   "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
+   "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+   "summary": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid. This post Strategy (MSTR) Shares Tum",
+   "published": "2026-11-19T21:53:36+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam": {
+   "source": "Bitcoin Magazine",
+   "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
+   "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+   "summary": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake SEC certificates. This post SEC Charges ",
+   "published": "2026-11-19T21:45:00+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k": {
+   "source": "Bitcoin Magazine",
+   "title": "David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k",
+   "url": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
+   "summary": "▶ Bitcoin Magazine David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k first appeared on B",
+   "published": "2026-11-19T21:30:13+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
+   "summary": "Bitcoin Magazine Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month The bitcoin price slumped under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut set off a tech selloff that hit crypto stocks. This post Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month first appear",
+   "published": "2026-11-19T21:02:20+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come": {
+   "source": "Bitcoin Magazine",
+   "title": "Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come",
+   "url": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
+   "summary": "▶ Bitcoin Magazine Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come Darius Dale, Founder & CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in. This post Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts C",
+   "published": "2026-11-19T20:15:14+00:00",
+   "coverage": 4,
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings": {
+   "source": "Bitcoin Magazine",
+   "title": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
+   "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
+   "summary": "Bitcoin Magazine Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record Galaxy Research says 13F filers added 49,229 BTC through U.S. spot bitcoin ETPs in Q3, lifting institutional holdings to a record 356,491 BTC as Wells Fargo became the largest holder. This post Institutions are Piling Into Bitcoin ",
+   "published": "2026-11-19T19:30:00+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin’s Last Line of Defense Is $58K",
+   "url": "https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k",
+   "summary": "▶ Bitcoin Magazine Bitcoin’s Last Line of Defense Is $58K Katie Stockton, Founder of Fairlead Strategies, joins BMTV as Bitcoin falls below its 200-week moving average, sitting at about $63,000 per the host. This post Bitcoin’s Last Line of Defense Is $58K first appeared on Bitcoin Magazine and is written by Patrick Gr",
+   "published": "2026-11-19T19:12:55+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168390?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 증시 급락에 4900선으로 하락 출발…반도체주 약세",
+   "url": "https://www.blockmedia.co.kr/archives/1168390?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 미국 증시 급락 여파로 4900선에서 거래를 시작했다. 앤트로픽의 기업공개(IPO) 흥행에도 다른 AI 관련주로 매도세가 확산하면서 삼성전자와 SK하이닉스 등 반도체 대형주가 하락하고 있다. 20일 한국거래소에 따르면 오전 9시13분 기준 코스피는 전 거래일보다 191.63포인트(3.73%) 내린 4946.26을 기록했다. 지수는 전 거래일보다 209.38포인트(4.08%) 하락한 4928.51에 출발했다. 투자자별로는 개인이 1236억원어치를 순매수했다. 반면 외국인과 기관은 각각 499억원, [...]",
+   "published": "2026-11-20T00:16:44+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168381?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 앤트로픽 역대 최대 IPO에도 약세…6만2000달러선 ‘위태’",
+   "url": "https://www.blockmedia.co.kr/archives/1168381?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 인공지능(AI) 기업 앤트로픽의 역대 최대 규모 기업공개(IPO)에도 한때 6만2000달러 선을 하회하며 약세를 이어갔다. 앤트로픽의 성공적인 증시 데뷔에 미국 기술주가 장 초반 상승했지만 비트코인은 반등하지 못했다. 이후 기술주마저 하락세로 돌아서면서 위험자산 전반의 투자심리가 위축됐다. 20일 오전 8시29분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 1.79% 하락한 8428만7000원에 거래됐다. 글로벌 [...]",
+   "published": "2026-11-19T23:32:41+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168376?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 저평가 구간 진입…“역대급 바닥 신호는 아직” – 윌 클레멘테",
+   "url": "https://www.blockmedia.co.kr/archives/1168376?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인이 6만달러 초반까지 하락하면서 온체인 지표상 저평가 구간에 진입했다는 분석이 나왔다. 다만 2018년과 2022년 약세장 저점에서 나타났던 극단적인 저평가 수준에는 아직 도달하지 않아 추가 하락 가능성도 배제할 수 없다는 평가다. 19일(현지시각) 디지털자산 분석가 윌 클레멘테(Will Clemente)는 글래스노드의 MVRV 편차 밴드(MVRV Deviation Bands) 차트를 공개하며 “비트코인이 다시 가치 매력이 있는 구간에 들어섰다”고 밝혔다. [...]",
+   "published": "2026-11-19T23:23:00+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168373?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "은 가격 45달러까지 추락…“30달러 추가 하락 vs 바닥 형성” 갈림길",
+   "url": "https://www.blockmedia.co.kr/archives/1168373?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 국제 은 가격이 온스당 45달러대로 떨어진 가운데 추가 급락과 바닥 형성이라는 상반된 전망이 나왔다. 기술적 분석가 피터 브랜트는 은 가격이 하락 추세에서 벗어나지 못할 경우 30달러 부근까지 밀릴 가능성이 있지만 현재 수준에서 저점을 형성한 뒤 반등할 가능성도 있다고 분석했다. 19일(현지시각) 유명 트레이더 피터 브랜트(Peter Brandt)는 엑스(X)를 통해 은 선물 가격의 향후 움직임에 [...]",
+   "published": "2026-11-19T23:11:12+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168358?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인, 2022년 약세장과 또 다르다…지금 봐야 할 지표는?",
+   "url": "https://www.blockmedia.co.kr/archives/1168358?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인이 6만달러 초반까지 하락하면서 2022년 약세장과 유사한 매도 압력 확대 신호가 나타나고 있다. 다만 과거 매도세가 강해진 이후에도 추가 급락과 바닥 형성이라는 서로 다른 흐름이 나타났던 만큼 현재 상황을 단순히 약세장 재현으로 판단하기는 어렵다는 분석이다. 시장에서는 매수·매도 압력의 변화가 비트코인의 다음 방향을 가늠할 핵심 지표로 떠오르고 있다. 19일(현지시각) 온체인 데이터 분석업체 알프랙탈(Alphractal)은 [...]",
+   "published": "2026-11-19T22:37:53+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168355?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 6만1000달러까지 하락…다음 지지선은 5만9400달러 – 렉트캐피털",
+   "url": "https://www.blockmedia.co.kr/archives/1168355?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인이 6만2000달러 아래로 떨어진 데 이어 6만1000달러대까지 밀리면서 추가 하락 우려가 커지고 있다. 최근 고점 대비 하락률이 30%에 육박한 가운데 다음 주요 지지선으로 5만9400달러가 지목됐다. 19일(현지시각) 디지털자산 기술적 분석가 렉트캐피털(Rekt Capital)은 엑스(X)를 통해 비트코인이 6만3300달러 회복에 실패하면서 5만9443~6만3300달러의 새로운 거래 범위에 진입하고 있다고 분석했다. 렉트캐피털이 공개한 코인베이스 주간 차트에 따르면 비트코인은 이날 [...]",
+   "published": "2026-11-19T22:15:31+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168350?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "앤트로픽 상장 전 코인 거래소서 95억달러 거래…스페이스X 기록 2.4배",
+   "url": "https://www.blockmedia.co.kr/archives/1168350?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 인공지능(AI) 기업 앤트로픽의 미국 나스닥 상장을 앞두고 디지털자산 거래소에서 관련 파생상품 거래대금이 95억달러에 달한 것으로 나타났다. 지난 6월 상장한 스페이스X의 사전 거래 규모를 두 배 이상 웃도는 수준이다. 기업공개(IPO) 이전부터 디지털자산 거래소에서 기업가치에 대한 투자자들의 기대가 가격에 반영되는 현상이 확산하고 있다. 19일(현지시각) 온체인 분석업체 글래스노드에 따르면 앤트로픽 상장 전 45일간 글로벌 디지털자산 [...]",
+   "published": "2026-11-19T22:05:29+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168353?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[뉴욕 금·채권·달러] 달러 강세에 금값 3600달러대↓…미 국채금리도 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1168353?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 달러화가 19일(현지시각) 연방준비제도(Fed·연준)의 추가 금리 인상 전망과 글로벌 위험자산 회피 심리에 힘입어 강세를 이어갔다. 반면 국제 금값은 14개월 만의 최저 수준으로 떨어졌고 미국 국채금리는 경기 둔화 우려 속에 하락했다. 뉴욕증시 기술주 매도세가 외환과 채권 및 귀금속 시장으로 확산되면서 자산별 흐름이 엇갈렸다. 달러인덱스 103.616 상승…환율 1334원대 트레이딩뷰에 따르면 미국 달러인덱스(DXY)는 전 거래일보다 0.180포인트(0.17%) [...]",
+   "published": "2026-11-19T21:56:36+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168330?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "디지털자산 시총 2조달러 지지선 위태… “비트코인 6만달러가 분수령”",
+   "url": "https://www.blockmedia.co.kr/archives/1168330?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 글로벌 디지털자산 시장의 시가총액이 2조달러 초반까지 떨어지면서 9개월간 유지해 온 박스권의 하단에 접근했다. 비트코인 가격으로는 약 6만달러에 해당하는 구간이다. 시장에서는 2조달러 지지선이 무너질 경우 추가 하락 압력이 커질 수 있다는 분석이 나온다. 19일(현지시각) 디지털자산 트레이더 단 크립토 트레이즈(Daan Crypto Trades)는 엑스(X)를 통해 전체 디지털자산 시가총액이 지난 9개월간 약 2조~2조7000억달러 범위에서 등락을 반복했다고 [...]",
+   "published": "2026-11-19T21:40:10+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168346?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[속보] 비트코인 6만1000달러대 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1168346?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 비트코인이 6만1600달러 아래로 내려섰다. 최근 일주일간 하락률도 13%를 넘어서면서 시장의 매도 압력이 지속되고 있다. 19일(현지시각) 코인마켓캡에 따르면 비트코인은 전일 대비 1.46% 하락한 6만1593.49달러에 거래되고 있다. 최근 1시간 동안에도 1.24% 떨어졌으며 7일간 누적 하락률은 13.86%를 기록했다. 비트코인 시가총액은 약 1조2300억달러로 집계됐으며 24시간 거래량은 328억9000만달러를 나타냈다.",
+   "published": "2026-11-19T21:23:16+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
   }
  },
- "updated": "2026-11-20 03:44",
+ "updated": "2026-11-20 10:55",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
