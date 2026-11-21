@@ -66,7 +66,7 @@
    "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.",
    "published": "2026-11-20T11:31:41+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "ETH"
    ]
@@ -177,7 +177,7 @@
    "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
    "published": "2026-11-19T20:06:34+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -197,7 +197,7 @@
    "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile.",
    "published": "2026-11-19T18:09:32+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -250,7 +250,7 @@
    "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
    "published": "2026-11-19T12:33:46+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -259,7 +259,7 @@
    "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
    "published": "2026-11-19T11:19:58+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC",
     "ETH"
@@ -420,7 +420,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
    "summary": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.",
    "published": "2026-11-20T08:04:40+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "HYPE"
    ]
@@ -442,7 +442,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
    "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
    "published": "2026-11-20T06:08:28+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "HYPE"
    ]
@@ -453,7 +453,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
    "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
    "published": "2026-11-20T05:32:25+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -510,7 +510,7 @@
    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
    "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
    "published": "2026-11-19T19:53:42+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "USDC"
    ]
@@ -566,7 +566,7 @@
    "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
    "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
    "published": "2026-11-20T17:41:45+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": []
   },
   "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest": {
@@ -756,7 +756,7 @@
    "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
    "summary": "An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a \"living list\" of 26,000 wallets holding stolen funds.",
    "published": "2026-11-19T12:59:14+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs": {
@@ -785,7 +785,7 @@
    "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
    "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
    "published": "2026-11-20T16:11:22+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720": {
@@ -823,7 +823,7 @@
    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
    "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
    "published": "2026-11-20T12:12:29+00:00",
-   "coverage": 2,
+   "coverage": 4,
    "coins": [
     "ETH",
     "SOL"
@@ -853,7 +853,7 @@
    "url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
    "summary": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
    "published": "2026-11-20T08:02:36+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143": {
@@ -1037,7 +1037,7 @@
    "url": "https://cryptopotato.com/bc-game-launches-100-million-bc-token-bonus-campaign-through-its-live-market-crashx-game/",
    "summary": "[PRESS RELEASE – Belize City, Belize, November 20th, 2026] New promotion bridges trading-inspired gaming mechanics with real-world token utility to drive long-term engagement across the $BC ecosystem BC Game, a leading global crypto casino and online gaming platform, is uniting trading-inspired gaming mechanics with to",
    "published": "2026-11-20T13:55:21+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://cryptopotato.com/pi-network-pi-price-collapse-ripple-xrp-predictions-and-more-bits-recap-nov-20/": {
@@ -1235,7 +1235,7 @@
    "url": "https://cryptopotato.com/ripple-ceo-sees-crypto-comeback-after-anthropic-ipo-is-history-about-to-repeat/",
    "summary": "Ripple's Brad Garlinghouse believes Anthropic's blockbuster stock market debut could mark a turning point for cryptocurrencies, drawing comparisons to Bitcoin's recovery following the SpaceX IPO.",
    "published": "2026-11-19T11:44:13+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC",
     "XRP"
@@ -1331,7 +1331,7 @@
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
    "summary": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record ETF outflows hit risk assets. This post Bitcoin Price Crashes to $59,000 as Market Selloff Deepens first appeared on Bitcoi",
    "published": "2026-11-20T15:59:50+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -1353,7 +1353,7 @@
    "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
    "summary": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, and a break below would put the average holder at a loss for the first time since early 2023. This post Bitcoin Hovers Just Above Average Hold",
    "published": "2026-11-20T14:25:00+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -1386,7 +1386,7 @@
    "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
    "summary": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid. This post Strategy (MSTR) Shares Tum",
    "published": "2026-11-19T21:53:36+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -1519,9 +1519,347 @@
    "published": "2026-11-20T10:30:56+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+   "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
+   "published": "2026-11-20T19:37:27+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+   "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
+   "published": "2026-11-20T18:37:10+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange": {
+   "source": "CoinDesk",
+   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+   "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+   "published": "2026-11-20T22:51:14+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment": {
+   "source": "CoinDesk",
+   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+   "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+   "published": "2026-11-20T22:05:31+00:00",
+   "coverage": 1,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play": {
+   "source": "CoinDesk",
+   "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+   "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
+   "published": "2026-11-20T18:13:52+00:00",
+   "coverage": 5,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo": {
+   "source": "Decrypt",
+   "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+   "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+   "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
+   "published": "2026-11-20T21:36:02+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting": {
+   "source": "Decrypt",
+   "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+   "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+   "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.",
+   "published": "2026-11-20T20:36:54+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion": {
+   "source": "Decrypt",
+   "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+   "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+   "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+   "published": "2026-11-20T19:36:03+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure": {
+   "source": "Decrypt",
+   "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+   "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+   "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+   "published": "2026-11-20T18:46:03+00:00",
+   "coverage": 3,
+   "coins": [
+    "ETH",
+    "SOL"
+   ]
+  },
+  "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent": {
+   "source": "Decrypt",
+   "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+   "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+   "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
+   "published": "2026-11-20T18:16:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784": {
+   "source": "The Block",
+   "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+   "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+   "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
+   "published": "2026-11-20T21:40:01+00:00",
+   "coverage": 0,
+   "coins": [
+    "ZEC"
+   ]
+  },
+  "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779": {
+   "source": "The Block",
+   "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+   "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+   "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
+   "published": "2026-11-20T19:41:52+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758": {
+   "source": "The Block",
+   "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+   "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+   "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
+   "published": "2026-11-20T18:22:39+00:00",
+   "coverage": 4,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763": {
+   "source": "The Block",
+   "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+   "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+   "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
+   "published": "2026-11-20T18:17:39+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/solana-beats-robinhood-with-10x-ant-trades-as-anthropic-stock-went-wild/": {
+   "source": "CryptoPotato",
+   "title": "Solana Beats Robinhood With 10x ANT Trades as Anthropic Stock Went Wild",
+   "url": "https://cryptopotato.com/solana-beats-robinhood-with-10x-ant-trades-as-anthropic-stock-went-wild/",
+   "summary": "Anthropic shares opened at $11.50, 34% above the $83 offering price, but closed at $97.17 after dipping as low as $92.27 during trading.",
+   "published": "2026-11-20T22:25:13+00:00",
+   "coverage": 3,
+   "coins": [
+    "SOL"
+   ]
+  },
+  "https://cryptopotato.com/wells-fargo-led-wall-streets-bitcoin-buying-spree-in-september-as-institutional-holdings-hit-a-record/": {
+   "source": "CryptoPotato",
+   "title": "Wells Fargo Led Wall Street’s Bitcoin Buying Spree in September as Institutional Holdings Hit a Record",
+   "url": "https://cryptopotato.com/wells-fargo-led-wall-streets-bitcoin-buying-spree-in-september-as-institutional-holdings-hit-a-record/",
+   "summary": "The figures reflected holdings until the end of September. The market structure has shifted significantly since then.",
+   "published": "2026-11-20T20:49:27+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/nvda-tanks-10-as-sec-reportedly-launches-nvidia-investigation/": {
+   "source": "CryptoPotato",
+   "title": "NVDA Tanks 10% as SEC Reportedly Launches Nvidia Investigation",
+   "url": "https://cryptopotato.com/nvda-tanks-10-as-sec-reportedly-launches-nvidia-investigation/",
+   "summary": "The stock price just dumped to $130.",
+   "published": "2026-11-20T19:43:42+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/wealth-platforms-set-record-for-bitcoin-etp-ownership-despite-market-weakness-report/": {
+   "source": "CryptoPotato",
+   "title": "Wealth Platforms Set Record for Bitcoin ETP Ownership Despite Market Weakness: Report",
+   "url": "https://cryptopotato.com/wealth-platforms-set-record-for-bitcoin-etp-ownership-despite-market-weakness-report/",
+   "summary": "Galaxy's Q3 figures show advisors added 24,838 BTC-equivalent, accounting for roughly half of institutional managers' net purchases.",
+   "published": "2026-11-20T19:14:05+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/can-bitcoin-btc-recover-historically-accurate-signal-flashes-buy/": {
+   "source": "CryptoPotato",
+   "title": "Can Bitcoin (BTC) Recover? Historically Accurate Signal Flashes Buy",
+   "url": "https://cryptopotato.com/can-bitcoin-btc-recover-historically-accurate-signal-flashes-buy/",
+   "summary": "\"We’re getting close to the bottom if people state that BTC can go to $10K and ETH to $100,\" one analyst stated.",
+   "published": "2026-11-20T18:15:15+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom": {
+   "source": "Bitcoin Magazine",
+   "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+   "url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+   "summary": "▶ Bitcoin Magazine Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today. This post Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as ",
+   "published": "2026-11-20T22:10:11+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+   "summary": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower. This post Bitcoin Price Slips t",
+   "published": "2026-11-20T21:08:02+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance": {
+   "source": "Bitcoin Magazine",
+   "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+   "url": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+   "summary": "▶ Bitcoin Magazine MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance Chaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost. This post MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performan",
+   "published": "2026-11-20T19:24:55+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi": {
+   "source": "Bitcoin Magazine",
+   "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+   "url": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
+   "summary": "Bitcoin Magazine SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme The SEC obtained an asset freeze against Backward Hat Capital and its founders, alleging a $560 million Ponzi scheme sold as AI-driven FX trading funded through crypto. Prosecutors and the CFTC filed parallel cases. This post SEC Freezes As",
+   "published": "2026-11-20T19:15:56+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168884?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "스트래티지, 비트코인 매입 전 ‘세 가지’ 본다",
+   "url": "https://www.blockmedia.co.kr/archives/1168884?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 세계 최대 비트코인 보유 상장사 스트래티지(Strategy)가 비트코인(BTC)을 사거나 재무구조를 조정할 때 세 가지 시장 신호를 먼저 따지는 것으로 나타났다. 신호에 따라 보통주, 우선주, 현금 가운데 어떤 수단을 쓸지가 달라진다. 마이클 세일러 스트래티지 이사회 의장은 이달 19일(현지시각) 열린 투자자 질의응답에서 회사의 자본 배분 결정이 결국 세 가지 요인에 달려 있다고 밝혔다. 스트래티지는 현재 [...]",
+   "published": "2026-11-21T01:32:05+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168875?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "‘예측시장’ 칼시, 뉴욕주 법원行…본사 영업 전면중단 위기",
+   "url": "https://www.blockmedia.co.kr/archives/1168875?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 예측시장 플랫폼 칼시(Kalshi)가 본사를 둔 뉴욕에서 영업이 전면 중단될 수 있는 법적 위기에 놓였다. 뉴욕주 정부가 칼시를 상대로 낸 소송을 미국 연방법원이 주 법원으로 돌려보내면서, 주 당국이 칼시의 이벤트 계약(event contracts) 거래를 멈추기 위한 기존 시도를 다시 이어갈 수 있는 길이 열렸기 때문이다. 뉴욕주는 스포츠 경기나 선거 결과 등에 돈을 거는 예측시장 [...]",
+   "published": "2026-11-21T00:54:11+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168869?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[AI 버블 공포] 비트코인 2년 최저…월가가 주목하는 3가지 변수",
+   "url": "https://www.blockmedia.co.kr/archives/1168869?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 인공지능(AI) 기술주 급락으로 뉴욕 증시가 조정장에 진입하면서 비트코인도 5만8000달러 아래로 떨어졌다. 2년여 만의 최저 수준이다. 지난해 고점 대비 가격이 반토막 난 가운데 투자자들의 고민도 깊어지고 있다. 월가 전문가들은 당분간 가격 반등을 예측하기보다 레버리지 축소와 자금 흐름을 점검하는 것이 중요하다고 진단한다. 블룸버그에 따르면 20일(현지시각) 뉴욕시장에서 비트코인은 장중 6.1% 급락한 5만7716달러까지 떨어졌다. 2024년 9월 [...]",
+   "published": "2026-11-21T00:38:16+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168865?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[AI 버블 공포] 소나기는 피하라 vs 딥 매수 나설 때",
+   "url": "https://www.blockmedia.co.kr/archives/1168865?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 인공지능(AI) 기술주 급락으로 미국 증시가 조정장에 진입하면서 월가의 투자 전략도 엇갈리고 있다. 추가 하락 가능성에 대비해 현금을 확보해야 한다는 신중론과 우량주를 저가에 매수할 기회라는 낙관론이 맞서고 있다. 다만 과거처럼 급락한 기술주를 무조건 사들이는 전략에는 경계의 목소리가 커지고 있다. 미국 증시는 20일(현지시각) 나스닥 종합지수가 5.3%, S&P500 지수가 3.7% 하락하는 등 급격한 조정을 겪었다. [...]",
+   "published": "2026-11-21T00:19:21+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168857?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[AI 버블 공포] 앤트로픽 상장이 막차였나?",
+   "url": "https://www.blockmedia.co.kr/archives/1168857?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 인공지능(AI) 기업 앤트로픽의 기업공개(IPO)가 월가의 투자 열기를 되살리는 대신 거품 논쟁에 불을 붙였다. 상장 첫날 급등했던 주가는 이튿날 장중 최대 14%가량 하락했다. 역대 최대 규모의 IPO마저 기술주 매도세를 막지 못하면서 AI 투자 열풍이 정점을 지난 것 아니냐는 의문이 제기되고 있다. 앤트로픽은 20일(현지시각) 뉴욕 증시에서 상장 이틀째 거래를 이어갔지만 주가가 급락했다. 월스트리트저널에 따르면 [...]",
+   "published": "2026-11-21T00:18:13+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168851?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[AI 버블 공포] 월가, 환희가 의심으로…나스닥 약세장 직전 단계",
+   "url": "https://www.blockmedia.co.kr/archives/1168851?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 인고지능(AI) 투자 열풍으로 사상 최고치를 경신하던 미국 증시가 급격히 흔들리고 있다. 기술주 중심의 나스닥 지수가 하루 만에 5% 넘게 폭락했다. 최근 고점 대비 낙폭은 18%에 달한다. AI 산업의 성장 가능성에 열광하던 월가에서 투자 거품을 우려하는 목소리가 커지고 있다. 뉴욕 증시는 20일(현지시각) AI 관련 기술주에 대한 대규모 매도세로 일제히 급락했다. 나스닥 종합지수는 5.3%, [...]",
+   "published": "2026-11-21T00:17:00+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168854?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 채굴 수익성 다시 악화…난이도 8.5% 상승 전망",
+   "url": "https://www.blockmedia.co.kr/archives/1168854?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 비트코인(BTC) 채굴 난이도 하향 조정으로 잠시 숨통이 트였던 채굴업체들의 수익성이 다시 압박받고 있다. 같은 연산력으로 벌어들일 수 있는 달러 기준 기대 수익이 최근 나흘 새 약 6% 줄어든 데다 다음 조정에서 난이도가 8%대 오를 것으로 예상되면서, 효율이 낮은 채굴기는 더 싼 전기를 확보해야 전기료를 감당할 수 있는 처지에 놓일 수 있다. 심플마이닝(Simple [...]",
+   "published": "2026-11-21T00:03:14+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168838?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "리플 CEO “앤트로픽 IPO 때문에 XRP·비트코인 판 것”",
+   "url": "https://www.blockmedia.co.kr/archives/1168838?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 브래드 갈링하우스 리플 최고경영자(CEO)가 최근 디지털자산(가상자산) 시장 하락의 원인으로 앤트로픽(Anthropic)의 기업공개(IPO)를 지목했다. 투자자들이 보유하던 엑스알피(XRP)와 비트코인(BTC)을 팔아 앤트로픽 공모주 매입 자금을 마련했다는 설명이다. 그는 지난 6월 스페이스X 상장 전에도 비슷한 흐름이 나타났다며 디지털자산 시장이 회복할 것이라는 기대를 내비쳤다. 갈링하우스는 앤트로픽 주식이 나스닥에서 거래를 시작한 지난 19일(현지시각) 미국 경제방송 CNBC와 인터뷰하며 이같이 밝혔다. [...]",
+   "published": "2026-11-20T23:29:27+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC",
+    "XRP"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168835?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "기요사키 “비트코인 폭락 기다렸다”…추가 매수 예고",
+   "url": "https://www.blockmedia.co.kr/archives/1168835?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 베스트셀러 『부자 아빠 가난한 아빠』의 저자 로버트 기요사키가 디지털자산(가상자산)과 귀금속 시장의 동반 급락을 또다시 반겼다. 기요사키는 이번 하락장에서 비트코인 급락이 가장 반갑다며 추가 매수를 기다리고 있다고 밝혔다. 다만 일부 분석가들은 더 깊은 조정이 남아 있을 수 있다고 경고했다. 비트코인 6만달러 붕괴…금·은도 동반 급락 이번 매도세는 디지털자산과 귀금속 시장을 가리지 않았다. 비트코인은 6만달러 [...]",
+   "published": "2026-11-20T22:49:23+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168831?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "앤트로픽 창업자, 머스크·델 이어 트럼프 아동 계좌에 기부",
+   "url": "https://www.blockmedia.co.kr/archives/1168831?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 앤트로픽(Anthropic) 공동창업자가 도널드 트럼프 미국 대통령의 아동 투자계좌 프로그램인 ‘트럼프 계좌(Trump Accounts)’에 대규모 기부를 약속했다. 일론 머스크와 마이클·수전 델 부부에 이어 앤트로픽 창업자까지 후원에 참여하면서 억만장자들의 기부가 확대되고 있다. 스콧 베선트 미국 재무장관은 지난 20일(현지시각) CNBC 인터뷰에서 “앤트로픽 창업자 중 한 명이 앞으로 몇 주 안에 트럼프 계좌에 상당한 금액을 기부할 예정”이라고 [...]",
+   "published": "2026-11-20T22:29:18+00:00",
+   "coverage": 0,
+   "coins": []
   }
  },
- "updated": "2026-11-21 03:03",
+ "updated": "2026-11-21 10:47",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",

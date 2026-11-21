@@ -229,7 +229,237 @@
      "source": "조선일보"
     }
    ]
+  },
+  "패딩": {
+   "q": "패딩",
+   "traffic": 10000,
+   "traffic_label": "10000+",
+   "pub": "Fri, 20 Nov 2026 16:10:00 -0800",
+   "news": [
+    {
+     "title": "이번 주부터 영하 시작! 한겨울을 위한 ‘헤비 다운 패딩’ 6",
+     "url": "https://www.esquirekorea.co.kr/article/1913425",
+     "source": "에스콰이어 코리아"
+    },
+    {
+     "title": "롱패딩 대신 이것 사라?…‘초강력 엘니뇨’가 만든 겨울 유행템",
+     "url": "https://www.koreadaily.com/article/20261120130043864",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "겉과 속 모두 잡은 겨울 아우터 뜬다…아웃도어업계, 프리미엄 소재 주목",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876379",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "lpga": {
+   "q": "lpga",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
+     "source": "아시아경제"
+    },
+    {
+     "title": "Thitikul talks spark on back nine during two rounds at CME",
+     "url": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
+     "source": "Golf Channel"
+    }
+   ]
+  },
+  "지스타": {
+   "q": "지스타",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
+     "url": "https://www.yna.co.kr/view/AKR20261120133000017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'지스타 2026'으로 보는 게임산업 변화는?",
+     "url": "https://stock.mk.co.kr/news/view/1203323",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "도쿄게임쇼는 북적이는데… 게임사 빠지고 썰렁한 지스타, 이대로 괜찮나",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/20/KNQMUH46XFC3BDZOJMXEPXISUE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  "공군사관학교": {
+   "q": "공군사관학교",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+     "url": "https://www.kyeonggi.com/article/20261120580310",
+     "source": "경기일보"
+    },
+    {
+     "title": "사관학교에서도 전자기기 부정행위…공사, 생도 1명 퇴교 처분",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718753",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "ราคาทองวันนี้": {
+   "q": "ราคาทองวันนี้",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "news": [
+    {
+     "title": "ราคาทองคำในตลาดโลกยังคงร่วงลงอย่างต่อเนื่อง โดยราคาทองคำแท่งของ SJC ลดลงมากถึง 4 ล้านเหรียญสหรัฐต่อออนซ์",
+     "url": "https://www.vietnam.vn/th/gia-vang-the-gioi-tiep-tuc-lao-doc-vang-mieng-sjc-giam-toi-4-trieu-dong-luong",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "XAU/USD: การวิเคราะห์ตามทฤษฎีคลื่นเอลเลียตและการคาดการณ์สำหรับวันที่ 20.11.2569 – 27.11.2569",
+     "url": "https://www.litefinance.org/th/blog/analysts-opinions/gold-price-prediction-forecast/xauusd-kar-wikheraah-tam-thvsdi-khlun-xel-leiy-t-laea-kar-khad-karn-sahrab-wan-thi-20112569-27112569/",
+     "source": "LiteFinance"
+    },
+    {
+     "title": "ทองดิ่งลงเหว แตะ $3,500 ลงต่อหรือกลับตัวขึ้นแรง?",
+     "url": "https://www.intergold.co.th/investor_core/gold-20-11-69/",
+     "source": "InterGold"
+    }
+   ]
+  },
+  "브루노 마스": {
+   "q": "브루노 마스",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 15:40:00 -0800",
+   "news": [
+    {
+     "title": "Bruno Mars remembers his late father and the musical lessons he passed down",
+     "url": "https://abcnews.com/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
+     "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
+     "source": "Los Angeles Times"
+    },
+    {
+     "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
+     "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
+     "source": "Billboard"
+    }
+   ]
+  },
+  "공인회계사": {
+   "q": "공인회계사",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 20 Nov 2026 15:40:00 -0800",
+   "news": [
+    {
+     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
+     "source": "마켓인"
+    },
+    {
+     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
+     "url": "https://www.news1.kr/world/northeast-asia/6361423",
+     "source": "뉴스1"
+    },
+    {
+     "title": "공인회계사 시험 합격한 14세…日 역대 최연소 기록 경신",
+     "url": "https://www.hankyung.com/article/2026112009647",
+     "source": "한국경제"
+    }
+   ]
+  },
+  "안양시": {
+   "q": "안양시",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 20 Nov 2026 15:40:00 -0800",
+   "news": [
+    {
+     "title": "남양주시, 내년도 예산안 2조5천868억 편성…10.3%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261120123600060",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "최대호 안양시장, 2027년 시정운영방향 발표…‘안양의 완성’ 향한 본격 도약",
+     "url": "https://www.kyeonggi.com/article/20261120580236",
+     "source": "경기일보"
+    },
+    {
+     "title": "안양시의회, 정례회 개회…예산안심사·행감 착수",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876940",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "반도체": {
+   "q": "반도체",
+   "traffic": 5000,
+   "traffic_label": "5000+",
+   "pub": "Fri, 20 Nov 2026 15:30:00 -0800",
+   "news": [
+    {
+     "title": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야”",
+     "url": "https://www.chosun.com/economy/weeklybiz/2026/11/21/E6ALXTVRWRGODKPHHSVIY4SVOI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"반도체 호황이지만 파급은 미미…10억원당 취업유발 2.4명\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121094731WfU",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "[한창헌의 단상] 호황의 역설",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445735",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  "문경시": {
+   "q": "문경시",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Fri, 20 Nov 2026 15:30:00 -0800",
+   "news": [
+    {
+     "title": "문경시, 공공열분해시설 설치사업 추진 방향 검토",
+     "url": "http://www.mgnews.kr/default/index_view_page.php?part_idx=197&idx=77238",
+     "source": "문경시민신문"
+    },
+    {
+     "title": "수백억 ‘플라스틱 열분해’…줄줄이 ‘포기’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715850",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "문경시, 공공열분해설비 제작 중지…사업 타당성 재검토",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758765",
+     "source": "국제뉴스"
+    }
+   ]
   }
  },
- "updated": "2026-11-21 03:03"
+ "updated": "2026-11-21 10:47"
 }
