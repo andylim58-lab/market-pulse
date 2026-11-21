@@ -680,7 +680,7 @@
    "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
    "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
    "published": "2026-11-19T19:08:24+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -966,7 +966,7 @@
    "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
    "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
    "published": "2026-11-19T10:39:29+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562": {
@@ -1026,7 +1026,7 @@
    "url": "https://cryptopotato.com/bitcoin-price-analysis-is-a-drop-below-60k-next-after-btcs-latest-rejection/",
    "summary": "Bitcoin remains under pressure near $61.8K after losing another daily support zone. Deeply oversold momentum leaves room for a relief rally, but buyers have yet to interrupt the bearish structure as price approaches major demand around $60K. Bitcoin Price Analysis: The Daily Chart The daily chart shows a sustained decl",
    "published": "2026-11-20T14:49:58+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -1730,7 +1730,7 @@
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
    "summary": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower. This post Bitcoin Price Slips t",
    "published": "2026-11-20T21:08:02+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -1857,13 +1857,259 @@
    "published": "2026-11-20T22:29:18+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+   "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+   "published": "2026-11-21T09:48:56+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+   "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+   "published": "2026-11-21T07:51:47+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+   "published": "2026-11-21T05:40:35+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug": {
+   "source": "CoinDesk",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+   "published": "2026-11-21T06:16:42+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion": {
+   "source": "CoinDesk",
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "published": "2026-11-21T05:59:19+00:00",
+   "coverage": 2,
+   "coins": [
+    "XRP"
+   ]
+  },
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone": {
+   "source": "CoinDesk",
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "published": "2026-11-21T04:10:07+00:00",
+   "coverage": 5,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786": {
+   "source": "The Block",
+   "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+   "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+   "published": "2026-11-21T04:30:00+00:00",
+   "coverage": 4,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/nvda-dives-23-in-a-week-as-nvidia-faces-8-legal-and-regulatory-threats/": {
+   "source": "CryptoPotato",
+   "title": "NVDA Dives 23% in a Week as Nvidia Faces 8 Legal and Regulatory Threats",
+   "url": "https://cryptopotato.com/nvda-dives-23-in-a-week-as-nvidia-faces-8-legal-and-regulatory-threats/",
+   "summary": "The latest blow came on Friday from the SEC.",
+   "published": "2026-11-21T10:34:13+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/": {
+   "source": "CryptoPotato",
+   "title": "Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
+   "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/",
+   "summary": "ZEC and HYPE are today's biggest losers among the larger-cap alts. Two out of the top four cryptocurrencies are now stablecoins.",
+   "published": "2026-11-21T08:30:43+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC",
+    "HYPE",
+    "ZEC"
+   ]
+  },
+  "https://cryptopotato.com/crypto-fear-reaches-extreme-levels-as-bitcoin-plummets-to-55k/": {
+   "source": "CryptoPotato",
+   "title": "Crypto Fear Reaches Extreme Levels as Bitcoin Plummets to $55K",
+   "url": "https://cryptopotato.com/crypto-fear-reaches-extreme-levels-as-bitcoin-plummets-to-55k/",
+   "summary": "The popular metric is deep in \"extreme fear\" territory.",
+   "published": "2026-11-21T07:41:59+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/": {
+   "source": "CryptoPotato",
+   "title": "Strategy Breaks Silence After BTC Crash as Bitcoin Position Dumps to $17B in Paper Losses",
+   "url": "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/",
+   "summary": "Bitcoin's latest capitulation has put unprecedented pressure on the largest corporate holder.",
+   "published": "2026-11-21T06:23:22+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Price Plunges to $55.5K for the First Time Since September 2024",
+   "url": "https://cryptopotato.com/bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024/",
+   "summary": "The liquidations on a daily scale reached $2.4 billion as the market continues to experience new lows.",
+   "published": "2026-11-21T05:26:32+00:00",
+   "coverage": 4,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly/": {
+   "source": "CryptoPotato",
+   "title": "XRP Bulls Lose $0.99: The Next Downside Targets Are Ugly",
+   "url": "https://cryptopotato.com/xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly/",
+   "summary": "XRP was rejected at $1.00 once again this week.",
+   "published": "2026-11-21T04:49:38+00:00",
+   "coverage": 0,
+   "coins": [
+    "XRP"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168976?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "크라켄에서 비트코인의 캐나다달러 가격 50% 이상 “할인” 이상거래 발생",
+   "url": "https://www.blockmedia.co.kr/archives/1168976?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 디지털자산 거래소 크라켄(Kraken)에서 비트코인(BTC)과 캐나다달러(CAD) 거래쌍이 한때 글로벌 시장 가격 대비 50% 이상 할인된 가격에 거래되는 이상 현상이 발생했다. 현지시각 21일 일부 사용자들은 비트코인을 2만7000달러, 심지어 1만6900달러 수준에 매수할 수 있었다. 이는 당시 비트코인의 글로벌 시장 가격이 5만7600달러 안팎이었던 점을 고려하면 매우 이례적인 가격이다. 이번 가격 괴리는 크라켄의 BTC/CAC 거래쌍에서 발생한 가격 [...]",
+   "published": "2026-11-21T11:23:18+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168408?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코생지] 앤트로픽 상장도 못 돌린 약세⋯비트코인 급락 속 주피터 약진",
+   "url": "https://www.blockmedia.co.kr/archives/1168408?utm_source=general&utm_medium=rss",
+   "summary": "코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin Liveness Metric·코생지)를 통해 하락과 반등 국면에서 자산의 ‘체력’을 점검합니다. <편집자주> [블록미디어 강나연 에디터] 인공지능(AI) 기업 앤트로픽(ANT)이 역대 최대 규모로 증시에 입성했지만 디지털자산(가상자산) 시장 분위기는 바뀌지 않았다. 비트코인(BTC)은 20일 오전 한때 6만2000달러 아래로 내려갔다. 기술주 매도세가 번졌고 연방준비제도(Fed·연준",
+   "published": "2026-11-21T09:00:05+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168933?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "앤트로픽 급락, 비트코인에 불똥…월가IB · 투자자 ‘네 탓’ 공방",
+   "url": "https://www.blockmedia.co.kr/archives/1168933?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 James Jung 기자] “내 그럴 줄 알았다. 상장하자마자 바로 팔자고 했지!” 역대 최대 규모의 기업공개(IPO)를 성사시킨 인공지능(AI) 기업 앤트로픽을 둘러싸고 월가에서 책임 공방이 벌어지고 있다. 회사와 주관사들은 대규모 자금 조달에 성공했다고 평가한다. 그러나 투자자들은 불공정한 공모주 배정과 잘못된 상장 전략이 주가 급락을 불러왔다고 주장한다. 앤트로픽 상장을 계기로 젠슨 황 스캔들을 덮고 “AI 랠리가 다시 [...]",
+   "published": "2026-11-21T05:36:09+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168930?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "엑스알피 0.90달러 이탈…추가 하락 경고속 다음 지지선은?",
+   "url": "https://www.blockmedia.co.kr/archives/1168930?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인 급락과 함께 엑스알피(XRP)도 주요 지지선을 잇달아 내주며 하락 압력이 커지고 있다. 심리적 저항선인 1달러 회복에 실패한 데 이어 0.90달러 지지선까지 무너졌다. 시장 분석가들은 다음 하락 목표로 0.80달러와 0.64달러를 제시했다. 다만 기술적 과매도 신호가 나타나면서 단기 반등 가능성도 제기된다. 21일 오후 2시 현재 XRP는 24시간 전보다 8.65% 떨어진 0.877달러에 거래되고 있다. 시장에서 [...]",
+   "published": "2026-11-21T05:05:20+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC",
+    "XRP"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168927?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 55K로 밀려, 공포감 확산 “5만달러까지 하락” 경고 나와(상보)",
+   "url": "https://www.blockmedia.co.kr/archives/1168927?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인이 5만5000달러대로 밀려나면서 디지털자산 시장에 공포감이 확산하고 있다. 한 달 만에 가격이 약 30% 급락한 가운데 전문가들은 추가 하락 가능성을 경고했다. 특히 5만4000달러 지지선이 무너지면 5만달러까지 하락할 수 있다는 전망이 나온다. 반면 일부 분석가들은 비트코인이 장기 하락 사이클의 바닥에 접근하고 있다고 진단했다. 21일 오후 1시45분 현재 비트코인은 24시간 전보다 8.68% 떨어진 5만6083달러에 [...]",
+   "published": "2026-11-21T04:54:57+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168925?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[속보] 비트코인 5만5000달러대로 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1168925?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인 가격이 2년래 최저 수준으로 급락 중. 앤트로픽 상장 이후 AI 관련주들이 기대와 달리 하락세에서 벗어나지 못하자 위험자산 투자에 대한 회피심리가 오히려 강화되는 상황.",
+   "published": "2026-11-21T04:45:10+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168913?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 5만7000달러선 붕괴…15.3억달러 강제 청산",
+   "url": "https://www.blockmedia.co.kr/archives/1168913?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 비트코인이 21일 5만7000달러 지지선 밑으로 떨어졌다. 한때 5만6000달러대까지 밀려나며 일중 4% 넘게 하락했다. 미국 증시의 인공지능(AI) 관련주 매도세와 연방준비제도(Fed)의 금리 인상 우려 등 거시경제적 불확실성이 복합적으로 작용한 결과로 풀이된다. 글로벌 디지털자산 시가총액은 전날 대비 4.9% 감소한 2조1100억달러를 기록했다. 비트코인은 이날 바이낸스(Binance)에서 5만6958달러까지 하락했으며, 코인베이스(Coinbase)에서는 5만6747달러를 기록하며 2024년 9월 이후 최저치를 경신했다. 미결제약정 [.",
+   "published": "2026-11-21T04:05:41+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168900?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "HYPE 최대 롱 고래, 청산 피하려 500만달러 추가 투입",
+   "url": "https://www.blockmedia.co.kr/archives/1168900?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 하이퍼리퀴드(Hyperliquid)에서 한 고래 투자자가 HYPE 롱(가격 상승에 베팅) 포지션 가운데 가장 큰 규모를 보유한 고래 투자자가 강제 청산 위기에 몰리자 500만 유에스디코인(USDC)을 추가로 입금했다. 온체인 분석업체 룩온체인(Lookonchain)에 따르면 이 고래는 138만 HYPE, 8123만달러(약 1100억원) 규모의 롱 포지션을 보유하고 있으며, 이번 추가 입금으로 청산 가격을 54.55달러로 낮췄다. 이 고래는 한때 6800만달러가 넘는 미실현 [...]",
+   "published": "2026-11-21T03:59:44+00:00",
+   "coverage": 0,
+   "coins": [
+    "HYPE",
+    "USDC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168893?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "트럼프 “中엔 구형 칩만”…반도체주·비트코인 동반 급락",
+   "url": "https://www.blockmedia.co.kr/archives/1168893?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 도널드 트럼프 미국 대통령이 지난 20일(현지시각) 중국에는 구형 미국산 반도체만 판매를 허용하겠다는 입장을 밝힌 가운데, 위험자산 전반이 흔들리면서 비트코인(BTC)도 6% 떨어졌다. 트럼프 대통령은 아시아에서 시진핑 중국 국가주석과 회담하고 돌아온 뒤 백악관에서 대중 반도체 수출 규제를 완화할 계획이 있느냐는 질문을 받고 “우리는 구형 칩만 원한다. 하나도 안 나가도 상관없지만, 구형만이다”라고 답했다. 그는 중국과 [...]",
+   "published": "2026-11-21T03:31:59+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1168886?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "데리비트 19분 거래 중단…파생상품 거래소 안정성 ‘도마 위’",
+   "url": "https://www.blockmedia.co.kr/archives/1168886?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 디지털자산(가상자산) 파생상품 거래소 데리비트(Deribit)에서 지난 20일(현지시각) 거래가 19분간 중단되면서 디지털자산 파생상품 거래소의 안정성을 둘러싼 의문이 다시 제기됐다. 데리비트가 공개한 사고 보고서에 따르면 거래는 이날 오후 4시17분 멈췄다가 오후 4시36분 재개됐다. 데리비트에서 디지털자산뿐 아니라 주식과 원자재 파생상품까지 거래하는 트레이더가 늘고 있는 만큼, 짧은 중단만으로도 포지션이 위험에 노출될 수 있다는 지적이 나온다. 주식·금 연계 [...]",
+   "published": "2026-11-21T02:31:27+00:00",
+   "coverage": 0,
+   "coins": []
   }
  },
- "updated": "2026-11-21 10:47",
+ "updated": "2026-11-21 20:52",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
-  "Decrypt",
   "The Block",
   "CryptoPotato",
   "Bitcoin Magazine",
