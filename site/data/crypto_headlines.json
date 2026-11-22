@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 09:43",
+ "updated": "2026-11-22 21:01",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -10,6 +10,149 @@
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "블록미디어",
+   "title": "비트코인, 美 추수감사절 주간 3대 변수…물가·옵션 만기 주목",
+   "url": "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T11:28:40+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "정부, 블랙먼데이 대비 ‘증안펀드’ 동원 카드 꺼냈다",
+   "url": "https://www.blockmedia.co.kr/archives/1169116?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T10:56:41+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[코인 크라임] 명문대 졸업→골드만삭스 근무→회사 매각…’천재 CEO’의 충격적 정체",
+   "url": "https://www.blockmedia.co.kr/archives/1168548?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T10:00:31+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Robert Kiyosaki Wants More Bitcoin After the Price Collapse: Here’s Why",
+   "url": "https://cryptopotato.com/robert-kiyosaki-wants-more-bitcoin-after-the-price-collapse-heres-why/",
+   "published": "2026-11-22T09:50:24+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T09:33:06+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Pi Network’s PI Rebounds After New ATL, BTC Recovery Stopped at $60K: Weekend Watch",
+   "url": "https://cryptopotato.com/pi-networks-pi-rebounds-after-new-atl-btc-recovery-stopped-at-60k-weekend-watch/",
+   "published": "2026-11-22T07:40:53+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T07:24:05+00:00",
+   "coins": [
+    "ETH",
+    "SOL"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s Weirdest Crash Yet? BTC Briefly Dumped to $17K on Kraken",
+   "url": "https://cryptopotato.com/bitcoins-weirdest-crash-yet-btc-briefly-dumped-to-17k-on-kraken/",
+   "published": "2026-11-22T06:49:12+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s $55K Crash Was Historic – But Still Far From Crypto’s Worst",
+   "url": "https://cryptopotato.com/bitcoins-55k-crash-was-historic-but-still-far-from-cryptos-worst/",
+   "published": "2026-11-22T06:08:45+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T05:28:43+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 6만달러 붕괴…하루 11억달러 강제 청산",
+   "url": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T03:54:24+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "중앙은행들 “금고에 둬야 내 자산”…비트코인은 아직 ‘관망’",
+   "url": "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T03:11:57+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "월가 강세론자 야데니 “S&P500 약세장 아닌 조정”…변수는 연준",
+   "url": "https://www.blockmedia.co.kr/archives/1169091?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T02:20:11+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "크라켄, 캐나다달러 시장서 비트코인 ‘헐값’ 체결…”거래 유지”(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169088?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T01:35:50+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "아크 “디지털자산 ETF 2종 철회…SEC에 의사 전달”",
+   "url": "https://www.blockmedia.co.kr/archives/1169082?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T00:49:04+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
   {
    "source": "블록미디어",
    "title": "고점 대비 95% 빠진 아발란체…NYSE 호재에도 회복 ‘불투명’",
@@ -226,7 +369,7 @@
    "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
    "published": "2026-11-21T15:24:14+00:00",
    "coins": [],
-   "coverage": 1
+   "coverage": 2
   },
   {
    "source": "Decrypt",
@@ -236,150 +379,6 @@
    "coins": [
     "BTC",
     "ETH"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "블록미디어",
-   "title": "AI 버블도 앤트로픽 통해 확인 가능…’퍼펙트 스톰’ 오고 있나?",
-   "url": "https://www.blockmedia.co.kr/archives/1169021?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T13:52:09+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "비트코인 59K 회복, 글래스노드 “5만9000~6만2000달러 청산 군집 해소”",
-   "url": "https://www.blockmedia.co.kr/archives/1169008?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T13:29:08+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-   "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-   "published": "2026-11-21T12:30:00+00:00",
-   "coins": [
-    "ETH"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Not Just Bitcoin: Even Gold and Silver Can’t Escape the Market Rout",
-   "url": "https://cryptopotato.com/not-just-bitcoin-even-gold-and-silver-cant-escape-the-market-rout/",
-   "published": "2026-11-21T12:28:16+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "블록미디어",
-   "title": "크립토퀀트 애들러 “비트코인 핵심 지지선 5만3000달러로 하향”",
-   "url": "https://www.blockmedia.co.kr/archives/1168977?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T11:53:46+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "크라켄에서 비트코인의 캐나다달러 가격 50% 이상 “할인” 이상거래 발생",
-   "url": "https://www.blockmedia.co.kr/archives/1168976?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T11:23:18+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-21T11:18:52+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "NVDA Dives 23% in a Week as Nvidia Faces 8 Legal and Regulatory Threats",
-   "url": "https://cryptopotato.com/nvda-dives-23-in-a-week-as-nvidia-faces-8-legal-and-regulatory-threats/",
-   "published": "2026-11-21T10:34:13+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-   "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-21T09:48:56+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "[코생지] 앤트로픽 상장도 못 돌린 약세⋯비트코인 급락 속 주피터 약진",
-   "url": "https://www.blockmedia.co.kr/archives/1168408?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T09:00:05+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
-   "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/",
-   "published": "2026-11-21T08:30:43+00:00",
-   "coins": [
-    "BTC",
-    "HYPE",
-    "ZEC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-   "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-21T07:51:47+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Crypto Fear Reaches Extreme Levels as Bitcoin Plummets to $55K",
-   "url": "https://cryptopotato.com/crypto-fear-reaches-extreme-levels-as-bitcoin-plummets-to-55k/",
-   "published": "2026-11-21T07:41:59+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Strategy Breaks Silence After BTC Crash as Bitcoin Position Dumps to $17B in Paper Losses",
-   "url": "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/",
-   "published": "2026-11-21T06:23:22+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-   "published": "2026-11-21T06:16:42+00:00",
-   "coins": [
-    "BTC"
    ],
    "coverage": 2
   }

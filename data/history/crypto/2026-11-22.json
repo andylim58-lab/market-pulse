@@ -564,7 +564,7 @@
    "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
    "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data.",
    "published": "2026-11-21T15:24:14+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786": {
@@ -1406,9 +1406,167 @@
    "coins": [
     "XRP"
    ]
+  },
+  "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+   "published": "2026-11-22T09:33:06+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+   "published": "2026-11-22T07:24:05+00:00",
+   "coverage": 1,
+   "coins": [
+    "ETH",
+    "SOL"
+   ]
+  },
+  "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+   "published": "2026-11-22T05:28:43+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/robert-kiyosaki-wants-more-bitcoin-after-the-price-collapse-heres-why/": {
+   "source": "CryptoPotato",
+   "title": "Robert Kiyosaki Wants More Bitcoin After the Price Collapse: Here’s Why",
+   "url": "https://cryptopotato.com/robert-kiyosaki-wants-more-bitcoin-after-the-price-collapse-heres-why/",
+   "summary": "The popular investor talked about BTC, gold, and silver after the latest market moves.",
+   "published": "2026-11-22T09:50:24+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/pi-networks-pi-rebounds-after-new-atl-btc-recovery-stopped-at-60k-weekend-watch/": {
+   "source": "CryptoPotato",
+   "title": "Pi Network’s PI Rebounds After New ATL, BTC Recovery Stopped at $60K: Weekend Watch",
+   "url": "https://cryptopotato.com/pi-networks-pi-rebounds-after-new-atl-btc-recovery-stopped-at-60k-weekend-watch/",
+   "summary": "PIEVERSE, VVV, NIGHT, and XMR have rocketed the most after the Saturday collapse.",
+   "published": "2026-11-22T07:40:53+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/bitcoins-weirdest-crash-yet-btc-briefly-dumped-to-17k-on-kraken/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s Weirdest Crash Yet? BTC Briefly Dumped to $17K on Kraken",
+   "url": "https://cryptopotato.com/bitcoins-weirdest-crash-yet-btc-briefly-dumped-to-17k-on-kraken/",
+   "summary": "This wasn't another global flash crash, as the problem was concentrated in the exchange's CAD order books. And, BTC's case wasn't isolated.",
+   "published": "2026-11-22T06:49:12+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/bitcoins-55k-crash-was-historic-but-still-far-from-cryptos-worst/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s $55K Crash Was Historic – But Still Far From Crypto’s Worst",
+   "url": "https://cryptopotato.com/bitcoins-55k-crash-was-historic-but-still-far-from-cryptos-worst/",
+   "summary": "The Saturday massacre to a multi-year low didn't even make it in the top 10, according to the Kobeissi Letter.",
+   "published": "2026-11-22T06:08:45+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인, 美 추수감사절 주간 3대 변수…물가·옵션 만기 주목",
+   "url": "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인이 미국 추수감사절 연휴를 앞두고 가격 변동성이 커질 전망이다. 개인소비지출(PCE) 물가지수 발표와 현물 상장지수펀드(ETF) 거래 중단, 66억달러 규모의 옵션 만기가 한 주에 집중되면서 시장의 긴장감이 높아지고 있다. 미국 추수감사절은 오는 26일(현지시각) 목요일로 뉴욕증시는 휴장한다. 27일 주식시장은 조기에 마감한다. 증시 외에도 비트코인 가격에 영향을 줄 수 있는 일정은 25일 나오는 미국 물가 지표와 [...]",
+   "published": "2026-11-22T11:28:40+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169116?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "정부, 블랙먼데이 대비 ‘증안펀드’ 동원 카드 꺼냈다",
+   "url": "https://www.blockmedia.co.kr/archives/1169116?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 James Jung 기자] 정부가 국내 증시 급락에 대응하기 위해 증권시장안정펀드(증안펀드) 가동 준비에 착수했다. 글로벌 인공지능(AI) 산업을 둘러싼 불확실성으로 주식시장 변동성이 확대되자 시장 안정 조치를 본격화한 것이다. 자사주 매입 규제를 완화하고 불법 공매도 감시도 강화한다. 이형일 부총리 겸 재정경제부 장관은 22일 정부서울청사에서 관계기관 합동 긴급 시장상황점검회의를 열고 증안펀드 가동 준비에 즉시 착수하기로 했다. 회의에는 신현송 한국은행 [...]",
+   "published": "2026-11-22T10:56:41+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1168548?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인 크라임] 명문대 졸업→골드만삭스 근무→회사 매각…’천재 CEO’의 충격적 정체",
+   "url": "https://www.blockmedia.co.kr/archives/1168548?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 양원모 기자] “사람들이 살아가는 방식과 전 세계 사람들과 교류하는 방식은 물론, 기업이 사업하는 방식까지 바꿀 것입니다.” 2021년 12월5일. 하이퍼버스의 온라인 출범식에 정장 차림의 낯선 남성이 등장했다. 남성의 이름은 스티븐 리스 루이스(Steven Reece Lewis). 회사가 “새 최고경영자(CEO)”라며 소개한 이력은 빈틈없이 화려했다. 영국 리즈대 졸업, 케임브리지대 석사, 골드만삭스 근무, 자신이 세운 회사를 어도비에 매각… 그야말로 성공 [...]",
+   "published": "2026-11-22T10:00:31+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 6만달러 붕괴…하루 11억달러 강제 청산",
+   "url": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 디지털자산(가상자산) 대장주 비트코인(BTC)이 20일(현지시각) 6만달러 아래로 떨어지며 지난 7월 초 이후 처음으로 6만달러 선을 내줬다. 코인마켓캡에 따르면 비트코인은 이날 오후 6만달러를 밑돈 뒤 주말 사이 낙폭을 키워 5만5000달러대까지 밀렸다. 미국 현물 비트코인 상장지수펀드(ETF)의 기록적인 자금 유출과 연방준비제도(Fed·연준)의 금리 인상 우려, 기술주 약세가 한꺼번에 겹친 데다 대규모 강제 청산까지 맞물리면서 시장 변동성이 크게 [...]",
+   "published": "2026-11-22T03:54:24+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "중앙은행들 “금고에 둬야 내 자산”…비트코인은 아직 ‘관망’",
+   "url": "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 전 세계 중앙은행들이 금을 어디에 보관할지 다시 따져보고 있다. 해외에 맡긴 자산은 언제든 묶일 수 있다는 위기감 때문이다. 이 같은 ‘직접 보유’ 논리가 비트코인(BTC)으로도 이어질 수 있다는 분석이 나오지만, 아직은 초기 단계라는 평가다. 중앙은행 포럼인 공적통화금융기구포럼(OMFIF)은 올해 네 차례 비공개 회의를 거쳐 금에 관한 보고서를 최근 공개했다. 이번 논의에는 8개 중앙은행의 외환보유고 [...]",
+   "published": "2026-11-22T03:11:57+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169091?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "월가 강세론자 야데니 “S&P500 약세장 아닌 조정”…변수는 연준",
+   "url": "https://www.blockmedia.co.kr/archives/1169091?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 미국 증시 대표지수인 S&P500이 조정 국면에 들어섰다. 월가의 대표적인 강세론자인 에드 야데니(Ed Yardeni) 야데니리서치 대표는 투자자들이 지나치게 일찍 공포에 빠졌다고 진단했지만, 연방준비제도(Fed·연준)의 금리 인상이 그의 낙관론을 흔들 수 있다는 지적도 나온다. S&P500은 지난 20일(현지시각) 하루 동안 3.7% 급락하며 최근 고점보다 10% 넘게 낮은 수준으로 밀려났다. 지수가 200일 이동평균선을 하향 돌파한 뒤 매도세가 [...]",
+   "published": "2026-11-22T02:20:11+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169088?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "크라켄, 캐나다달러 시장서 비트코인 ‘헐값’ 체결…”거래 유지”(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169088?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 미국 디지털자산(가상자산) 거래소 크라켄(Kraken)에서 비트코인(BTC)이 다른 시장보다 훨씬 싼 가격에 팔리는 일이 벌어졌다. 비트코인을 캐나다달러로 사고파는 시장에서만 생긴 일이다. 크라켄은 이 가격에 이뤄진 거래를 취소하지 않고 그대로 인정하기로 했다. 크라켄의 비트코인·캐나다달러(BTC/CAD) 시장에서는 지난 21일(현지시각) 새벽 비트코인 가격이 한때 약 1만6928달러까지 떨어졌다. 캐나다달러 가격을 미국달러로 바꿔 계산한 값이다. 같은 시각 크라켄의 미국달러 시장에서는 [...]",
+   "published": "2026-11-22T01:35:50+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169082?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "아크 “디지털자산 ETF 2종 철회…SEC에 의사 전달”",
+   "url": "https://www.blockmedia.co.kr/archives/1169082?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 아크 인베스트먼트(ARK Investment Management)가 미국 증권거래위원회(SEC)에 두 종류의 디지털자산 상장지수펀드(ETF) 신청을 철회하겠다는 의사를 공식적으로 전달했다. 이들 상품은 코인데스크 20 지수를 추종하며 비트코인을 제외한 디지털자산에 투자하는 ETF도 포함됐다. 아크는 지난 20일 SEC에 제출한 서한을 통해 ‘아크 코인데스크 20 디지털자산 ETF’와 ‘아크 코인데스크 20 비트코인 제외 디지털자산 ETF’에 대한 등록 신청을 철회한다고 밝혔다. 이 [...]",
+   "published": "2026-11-22T00:49:04+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
   }
  },
- "updated": "2026-11-22 09:43",
+ "updated": "2026-11-22 21:01",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
