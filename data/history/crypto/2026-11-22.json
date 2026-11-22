@@ -153,7 +153,7 @@
    "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
    "published": "2026-11-20T08:03:34+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -180,7 +180,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
    "published": "2026-11-21T12:30:00+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "ETH"
    ]
@@ -224,7 +224,7 @@
    "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
    "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
    "published": "2026-11-20T22:51:14+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment": {
@@ -458,7 +458,7 @@
    "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
    "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
    "published": "2026-11-20T19:36:03+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure": {
@@ -1035,7 +1035,7 @@
    "url": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
    "summary": "Bitcoin Magazine SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme The SEC obtained an asset freeze against Backward Hat Capital and its founders, alleging a $560 million Ponzi scheme sold as AI-driven FX trading funded through crypto. Prosecutors and the CFTC filed parallel cases. This post SEC Freezes As",
    "published": "2026-11-20T19:15:56+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -1090,7 +1090,7 @@
    "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
    "summary": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, and a break below would put the average holder at a loss for the first time since early 2023. This post Bitcoin Hovers Just Above Average Hold",
    "published": "2026-11-20T14:25:00+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -1214,9 +1214,201 @@
    "coins": [
     "BTC"
    ]
+  },
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open": {
+   "source": "CoinDesk",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "published": "2026-11-21T17:50:00+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump": {
+   "source": "Decrypt",
+   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+   "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+   "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+   "published": "2026-11-21T18:01:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec": {
+   "source": "Decrypt",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+   "published": "2026-11-21T17:01:02+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813": {
+   "source": "The Block",
+   "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+   "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
+   "published": "2026-11-21T21:17:36+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810": {
+   "source": "The Block",
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+   "published": "2026-11-21T18:51:14+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/": {
+   "source": "CryptoPotato",
+   "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
+   "url": "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/",
+   "summary": "IOSCO revealed Solana's quantum-resistant testnet suffered a roughly 90% throughput decline.",
+   "published": "2026-11-21T22:57:55+00:00",
+   "coverage": 0,
+   "coins": [
+    "SOL"
+   ]
+  },
+  "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/": {
+   "source": "CryptoPotato",
+   "title": "Dogecoin (DOGE) Flashes a Major Bullish Signal: Big Rebound Ahead?",
+   "url": "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/",
+   "summary": "Is there any hope left for DOGE after falling 65% in the past year?",
+   "published": "2026-11-21T20:41:16+00:00",
+   "coverage": 0,
+   "coins": [
+    "DOGE"
+   ]
+  },
+  "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/": {
+   "source": "CryptoPotato",
+   "title": "Netflix’s FTX Drama ‘The Altruists’ Makes CZ the Villain, but Is That What Really Happened?",
+   "url": "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/",
+   "summary": "From missing billions to questionable scenes involving CZ, The Altruists takes creative liberties with a scandal that may not need embellishment.",
+   "published": "2026-11-21T18:26:21+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/bitcoin-capitulation-is-here-why-55k-could-become-a-historic-turning-point/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Capitulation Is Here: Why $55K Could Become a Historic Turning Point",
+   "url": "https://cryptopotato.com/bitcoin-capitulation-is-here-why-55k-could-become-a-historic-turning-point/",
+   "summary": "Is this the final push BTC needed before the actual bull market commences?",
+   "published": "2026-11-21T17:10:38+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169072?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "고점 대비 95% 빠진 아발란체…NYSE 호재에도 회복 ‘불투명’",
+   "url": "https://www.blockmedia.co.kr/archives/1169072?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 디지털자산(가상자산) 아발란체(Avalanche·AVAX)가 2021년 사상 최고가 대비 95% 넘게 떨어진 가운데, 2028년까지 얼마나 회복할 수 있을지에 시장의 관심이 모이고 있다. 아발란체의 사상 최고가는 2021년 11월 기록한 144.96달러인데, 뉴욕증권거래소(NYSE) 연계 플랫폼과의 협력이 반등의 계기가 될지 주목되지만, 토큰 가격에 직접적인 효과는 크지 않을 것이라는 분석이 나온다. NYSE와 손잡았지만…토큰 수요로 이어질진 ‘미지수’ NYSE와의 협력은 아발란체 기술력을 [...]",
+   "published": "2026-11-22T00:02:27+00:00",
+   "coverage": 0,
+   "coins": [
+    "AVAX"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169071?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "IOSCO “양자내성 전환, 블록체인 속도 최대 90% 저하”",
+   "url": "https://www.blockmedia.co.kr/archives/1169071?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 국제증권감독기구(IOSCO)가 미래의 양자컴퓨터가 현재 금융시장과 블록체인을 지키는 보안 체계를 무너뜨릴 수 있다며, 지금부터 대비를 시작해야 한다고 경고했다. 특히 이더리움·솔라나·트론 같은 블록체인은 보안을 강화하는 과정에서 거래 속도가 크게 느려지고 수수료가 오를 수 있다고 지적했다. IOSCO는 지난 19일(현지시각) 스페인 마드리드에서 양자컴퓨팅이 금융시장에 미치는 영향을 분석한 63쪽 분량의 최종 보고서를 공개했다. IOSCO는 130개 이상 국가·지역의 [...]",
+   "published": "2026-11-21T23:39:43+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH",
+    "SOL"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169069?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "싱가포르, AI 에이전트에 기업 자금관리 맡긴다(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169069?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 싱가포르통화청(MAS)이 인공지능(AI) 에이전트가 예금 토큰을 활용해 기업 자금관리 업무를 수행하는 샌드박스를 마련한다. 에이전트는 기업과 거래 은행이 정한 범위 안에서만 움직일 수 있다. 치아 더 쥔(Chia Der Jiun) MAS 청장은 지난 19일(현지시각) 싱가포르 핀테크 페스티벌(SFF) 기조연설에서 ‘에이전틱 머니 샌드박스(Agentic Money Sandbox)’ 구상을 공개했다. 이에 앞서 MAS와 미래금융연구소(FFI)는 18일 연구소가 샌드박스를 구축한다고 발표했다. 샌드박스는 [...]",
+   "published": "2026-11-21T23:15:11+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169067?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 2년 만에 최저인데…AI 알트코인 3종 올랐다",
+   "url": "https://www.blockmedia.co.kr/archives/1169067?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 비트코인이 이번 주 5만5000달러 근처까지 떨어지며 약 2년 만의 최저치를 기록했다. 24억달러 규모의 청산이 쏟아지고 시장 심리가 ‘극단적 공포’ 구간으로 내려앉으면서 대부분의 알트코인도 비트코인을 따라 빠르게 하락했다. 다만 인공지능(AI)과 관련된 디지털자산(가상자산) 3종은 뚜렷한 상승세를 보이며 시장 전반보다 훨씬 견조한 흐름을 나타냈다. 하락의 배경에는 기관 자금 이탈도 자리하고 있다. 미국 현물 비트코인 상장지수펀드(ETF)에서는 [...]",
+   "published": "2026-11-21T22:36:37+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169063?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "캘리포니아주, 엔비디아 중국 반도체 밀반출 조사 ‘형사처벌’로 확대-블룸버그",
+   "url": "https://www.blockmedia.co.kr/archives/1169063?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국 캘리포니아주가 엔비디아의 중국 첨단 반도체 불법 판매와 투자자 기만 의혹에 대한 조사를 형사법 위반 여부까지 확대했다. 위법행위가 확인되면 부당이득 환수와 민사제재뿐 아니라 형사처벌로 이어질 가능성도 제기됐다. 블룸버그가 21일(현지시각) 보도한 내용에 따르면 롭 본타 캘리포니아주 법무장관은 엔비디아와 젠슨 황 전 최고경영자(CEO)가 중국 반도체 판매와 관련해 허위 정보를 제공했는지 조사하고 있다고 밝혔다. 민사·형사법 위반 [...]",
+   "published": "2026-11-21T21:50:14+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169065?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "토큰화 예금·스테이블코인 활용…싱가포르, ‘에이전틱 금융’ 실험",
+   "url": "https://www.blockmedia.co.kr/archives/1169065?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 싱가포르가 인공지능(AI) 에이전트를 활용한 스테이블코인 결제와 기업 자금관리 실험을 추진한다. AI가 고객을 대신해 자금을 이동할 때 신원과 권한을 확인하는 공통 규약도 개발한다. 토큰화 예금과 스테이블코인이 주요 결제 수단으로 검토된다. 크립토슬레이트가 21일(현지시각) 보도한 내용에 따르면 치아 더 지운 싱가포르통화청(MAS)장은 지난 19일 싱가포르 핀테크 페스티벌에서 이 같은 계획을 공개했다. AI 신원·위임 권한 검증…금융기관별 통제 적용 [...]",
+   "published": "2026-11-21T21:45:00+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169061?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트와이즈 CIO “규제가 디지털자산 혁신 가로막아”",
+   "url": "https://www.blockmedia.co.kr/archives/1169061?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국의 금융 규제와 은행권의 반대가 디지털자산(가상자산) 산업의 혁신을 가로막고 있다는 비판이 나왔다. 스테이블코인 이자 지급과 주식 토큰화 등 기존 금융시스템을 개선할 기술이 규제에 묶이면서 디지털자산의 실질적인 활용 가능성을 입증하기 어려워졌다는 주장이다. 비트코인닷컴이 21일(현지시각) 보도한 내용에 따르면 맷 호건 비트와이즈 자산운용 최고투자책임자(CIO)는 소셜미디어를 통해 미국의 규제 환경이 디지털자산 산업의 발전을 제한하고 있다고 지적했다. 은행권 [...]",
+   "published": "2026-11-21T21:40:49+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169059?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "“SEC 인증서 위조” 3700만달러 가짜 거래소 적발",
+   "url": "https://www.blockmedia.co.kr/archives/1169059?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 가짜 디지털자산(가상자산) 거래소와 투자자문사를 운영하며 미국 투자자들로부터 3700만달러 이상을 가로챈 사기 조직이 미국 증권거래위원회(SEC)에 적발됐다. 이들은 SEC 인증서까지 위조하고 실제 금융당국에 서류를 제출하는 방식으로 투자자들의 신뢰를 얻었다. 디크립트가 21일(현지시각) 보도한 내용에 따르면 SEC는 콜로라도주에 등록된 법인 8곳을 연방 증권법 위반 혐의로 제소했다. SEC는 이들 법인이 해외 인물들에 의해 운영됐을 가능성이 크다고 밝혔다. 주식투자로 [...]",
+   "published": "2026-11-21T21:35:14+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169056?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[뉴욕 코인시황] 5.5만달러 저점 찍고 급반등…비트코인·알트코인 일제히 상승",
+   "url": "https://www.blockmedia.co.kr/archives/1169056?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장은 대규모 강제 청산을 동반한 폭락 이후 반등세를 나타냈다. 비트코인이 장중 5만5000달러선까지 밀렸다가 6만달러를 회복하면서 주요 알트코인도 일제히 상승했다. 다만 기관 자금 이탈과 미국 기술주 급락이 겹친 가운데 시장에서는 이번 반등이 추세 전환인지 일시적인 기술적 회복인지를 둘러싼 경계감이 이어지고 있다. 전체 디지털자산 시가총액은 약 2조600억달러로 전일 대비 2.88% 증가했다. 그러나 비트코인의 [...]",
+   "published": "2026-11-21T21:25:59+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169054?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "“5년 뒤 승자는?”…앤트로픽 vs XRP, 1000달러 투자 비교",
+   "url": "https://www.blockmedia.co.kr/archives/1169054?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 인공지능(AI) 기업 앤트로픽(앤스로픽)과 디지털자산(가상자산) 엑스알피(XRP)에 각각 1000달러를 투자하면 5년 뒤 어느 쪽의 가치가 더 커질까. 앤트로픽은 빠른 매출 성장에도 높은 기업가치와 대규모 적자가 부담으로 꼽힌다. 엑스알피는 상승 여력이 크다는 전망이 있지만, 목표가 달성에 필요한 시가총액과 기관 자금 유출이 변수다. 미국 투자정보 매체 24/7 월스트리트는 21일(현지시각) 앤트로픽 주식과 엑스알피에 각각 1000달러를 투자하는 시나리오를 비교했다. [...]",
+   "published": "2026-11-21T20:59:41+00:00",
+   "coverage": 0,
+   "coins": [
+    "XRP"
+   ]
   }
  },
- "updated": "2026-11-22 01:59",
+ "updated": "2026-11-22 09:43",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",

@@ -213,7 +213,237 @@
      "source": "The Telegraph"
     }
    ]
+  },
+  "수출규제": {
+   "q": "수출규제",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
+     "url": "https://www.segye.com/newsView/20261120506261",
+     "source": "세계일보"
+    },
+    {
+     "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "수험": {
+   "q": "수험",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
+     "url": "https://www.munhwa.com/article/11633008",
+     "source": "문화일보"
+    },
+    {
+     "title": "'피의자 사망' 살충제사건 풀었던 경찰 '리트만점 수사' 시험대",
+     "url": "https://www.yna.co.kr/view/AKR20261120178000004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
+     "url": "https://www.kyeonggi.com/article/20261121580007",
+     "source": "경기일보"
+    }
+   ]
+  },
+  "인공지능": {
+   "q": "인공지능",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
+     "url": "https://www.yna.co.kr/view/AKR20261120160100017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
+     "url": "https://zdnet.co.kr/view/?no=20261122085359",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
+     "url": "https://www.etnews.com/20261122000001",
+     "source": "전자신문"
+    }
+   ]
+  },
+  "털": {
+   "q": "털",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
+     "url": "https://www.khan.co.kr/article/202611202127001",
+     "source": "경향신문"
+    },
+    {
+     "title": "구경꾼 던진 ‘털모자’에…‘희망 아이콘’ 피오나 끝내 죽었다 [W 언박싱]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718950",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "국민 하마 '피오나' 추모하는 손 편지",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "군인": {
+   "q": "군인",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
+     "source": "YTN"
+    },
+    {
+     "title": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
+     "source": "OhmyNews"
+    }
+   ]
+  },
+  "알테오젠": {
+   "q": "알테오젠",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Sat, 21 Nov 2026 15:10:00 -0800",
+   "news": [
+    {
+     "title": "알테오젠, 美 특허심판 14건 전승 이어 獨 판매금지 해제",
+     "url": "https://pharm.edaily.co.kr/News/Read?newsId=02630566645647688",
+     "source": "팜이데일리"
+    },
+    {
+     "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
+     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876311",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "real madrid vs rc celta de vigo standings": {
+   "q": "real madrid vs rc celta de vigo standings",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Sat, 21 Nov 2026 15:00:00 -0800",
+   "news": [
+    {
+     "title": "Real Madrid 2-1 Celta Vigo (Nov 21, 2026) Game Analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401882798",
+     "source": "ESPN"
+    },
+    {
+     "title": "Comeback and ninth consecutive victory",
+     "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-celta-j13-liga-21-11-2026",
+     "source": "Real Madrid CF | Web Oficial"
+    },
+    {
+     "title": "Real Madrid 2-1 Celta Vigo: Carlos Espi scores late winner in La Liga",
+     "url": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
+     "source": "BBC"
+    }
+   ]
+  },
+  "삼전 닉스": {
+   "q": "삼전 닉스",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Sat, 21 Nov 2026 15:00:00 -0800",
+   "news": [
+    {
+     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+     "url": "https://busan.fnnews.com/news/202611220802359845",
+     "source": "부산파이낸셜뉴스"
+    },
+    {
+     "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120066600008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+     "url": "https://www.hankyung.com/article/2026112113727",
+     "source": "한국경제"
+    }
+   ]
+  },
+  "부동산": {
+   "q": "부동산",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Sat, 21 Nov 2026 14:40:00 -0800",
+   "news": [
+    {
+     "title": "경기도, ‘경기 안심 부동산’ 참여 중개사무소에 스티커 제공…온라인 표시도 추진",
+     "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=72031",
+     "source": "경기도뉴스포털"
+    },
+    {
+     "title": "'경기 안심 부동산' 참여 중개사무소에 스티커…온라인 표시도",
+     "url": "https://www.newsis.com/view/NISX20261122_0003877896",
+     "source": "뉴시스"
+    },
+    {
+     "title": "경기도, 전세사기 예방 '경기 안심 부동산' 참여 중개사 확대 추진",
+     "url": "https://www.news1.kr/local/gyeonggi/6361808",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "화석연료": {
+   "q": "화석연료",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 21 Nov 2026 14:40:00 -0800",
+   "news": [
+    {
+     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719299",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+     "url": "https://www.yna.co.kr/view/AKR20261122002700099",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374992",
+     "source": "전기신문"
+    }
+   ]
   }
  },
- "updated": "2026-11-22 01:59"
+ "updated": "2026-11-22 09:43"
 }

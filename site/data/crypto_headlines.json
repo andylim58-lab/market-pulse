@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 01:59",
+ "updated": "2026-11-22 09:43",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -10,6 +10,179 @@
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "블록미디어",
+   "title": "고점 대비 95% 빠진 아발란체…NYSE 호재에도 회복 ‘불투명’",
+   "url": "https://www.blockmedia.co.kr/archives/1169072?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T00:02:27+00:00",
+   "coins": [
+    "AVAX"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "IOSCO “양자내성 전환, 블록체인 속도 최대 90% 저하”",
+   "url": "https://www.blockmedia.co.kr/archives/1169071?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T23:39:43+00:00",
+   "coins": [
+    "ETH",
+    "SOL"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "싱가포르, AI 에이전트에 기업 자금관리 맡긴다(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169069?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T23:15:11+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
+   "url": "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/",
+   "published": "2026-11-21T22:57:55+00:00",
+   "coins": [
+    "SOL"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 2년 만에 최저인데…AI 알트코인 3종 올랐다",
+   "url": "https://www.blockmedia.co.kr/archives/1169067?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T22:36:37+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "캘리포니아주, 엔비디아 중국 반도체 밀반출 조사 ‘형사처벌’로 확대-블룸버그",
+   "url": "https://www.blockmedia.co.kr/archives/1169063?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T21:50:14+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "토큰화 예금·스테이블코인 활용…싱가포르, ‘에이전틱 금융’ 실험",
+   "url": "https://www.blockmedia.co.kr/archives/1169065?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T21:45:00+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트와이즈 CIO “규제가 디지털자산 혁신 가로막아”",
+   "url": "https://www.blockmedia.co.kr/archives/1169061?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T21:40:49+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "“SEC 인증서 위조” 3700만달러 가짜 거래소 적발",
+   "url": "https://www.blockmedia.co.kr/archives/1169059?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T21:35:14+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[뉴욕 코인시황] 5.5만달러 저점 찍고 급반등…비트코인·알트코인 일제히 상승",
+   "url": "https://www.blockmedia.co.kr/archives/1169056?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T21:25:59+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+   "published": "2026-11-21T21:17:36+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "“5년 뒤 승자는?”…앤트로픽 vs XRP, 1000달러 투자 비교",
+   "url": "https://www.blockmedia.co.kr/archives/1169054?utm_source=general&utm_medium=rss",
+   "published": "2026-11-21T20:59:41+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Dogecoin (DOGE) Flashes a Major Bullish Signal: Big Rebound Ahead?",
+   "url": "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/",
+   "published": "2026-11-21T20:41:16+00:00",
+   "coins": [
+    "DOGE"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "published": "2026-11-21T18:51:14+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Netflix’s FTX Drama ‘The Altruists’ Makes CZ the Villain, but Is That What Really Happened?",
+   "url": "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/",
+   "published": "2026-11-21T18:26:21+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+   "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+   "published": "2026-11-21T18:01:02+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "published": "2026-11-21T17:50:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Capitulation Is Here: Why $55K Could Become a Historic Turning Point",
+   "url": "https://cryptopotato.com/bitcoin-capitulation-is-here-why-55k-could-become-a-historic-turning-point/",
+   "published": "2026-11-21T17:10:38+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "Decrypt",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "published": "2026-11-21T17:01:02+00:00",
+   "coins": [],
+   "coverage": 3
+  },
   {
    "source": "CoinDesk",
    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
@@ -92,7 +265,7 @@
    "coins": [
     "ETH"
    ],
-   "coverage": 1
+   "coverage": 2
   },
   {
    "source": "CryptoPotato",
@@ -205,191 +378,6 @@
    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
    "published": "2026-11-21T06:16:42+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CoinDesk",
-   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-   "published": "2026-11-21T05:59:19+00:00",
-   "coins": [
-    "XRP"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-21T05:40:35+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "앤트로픽 급락, 비트코인에 불똥…월가IB · 투자자 ‘네 탓’ 공방",
-   "url": "https://www.blockmedia.co.kr/archives/1168933?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T05:36:09+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Bitcoin Price Plunges to $55.5K for the First Time Since September 2024",
-   "url": "https://cryptopotato.com/bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024/",
-   "published": "2026-11-21T05:26:32+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 4
-  },
-  {
-   "source": "블록미디어",
-   "title": "엑스알피 0.90달러 이탈…추가 하락 경고속 다음 지지선은?",
-   "url": "https://www.blockmedia.co.kr/archives/1168930?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T05:05:20+00:00",
-   "coins": [
-    "BTC",
-    "XRP"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "비트코인 55K로 밀려, 공포감 확산 “5만달러까지 하락” 경고 나와(상보)",
-   "url": "https://www.blockmedia.co.kr/archives/1168927?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T04:54:57+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "XRP Bulls Lose $0.99: The Next Downside Targets Are Ugly",
-   "url": "https://cryptopotato.com/xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly/",
-   "published": "2026-11-21T04:49:38+00:00",
-   "coins": [
-    "XRP"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "[속보] 비트코인 5만5000달러대로 하락",
-   "url": "https://www.blockmedia.co.kr/archives/1168925?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T04:45:10+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-   "published": "2026-11-21T04:30:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 4
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-   "published": "2026-11-21T04:10:07+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 5
-  },
-  {
-   "source": "블록미디어",
-   "title": "비트코인 5만7000달러선 붕괴…15.3억달러 강제 청산",
-   "url": "https://www.blockmedia.co.kr/archives/1168913?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T04:05:41+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-   "published": "2026-11-20T22:51:14+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Solana Beats Robinhood With 10x ANT Trades as Anthropic Stock Went Wild",
-   "url": "https://cryptopotato.com/solana-beats-robinhood-with-10x-ant-trades-as-anthropic-stock-went-wild/",
-   "published": "2026-11-20T22:25:13+00:00",
-   "coins": [
-    "SOL"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
-   "url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
-   "published": "2026-11-20T22:10:11+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-   "published": "2026-11-20T22:05:31+00:00",
-   "coins": [
-    "ETH"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-   "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
-   "published": "2026-11-20T21:40:01+00:00",
-   "coins": [
-    "ZEC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-   "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-   "published": "2026-11-20T21:36:02+00:00",
-   "coins": [],
-   "coverage": 3
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
-   "published": "2026-11-20T21:08:02+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 4
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Wells Fargo Led Wall Street’s Bitcoin Buying Spree in September as Institutional Holdings Hit a Record",
-   "url": "https://cryptopotato.com/wells-fargo-led-wall-streets-bitcoin-buying-spree-in-september-as-institutional-holdings-hit-a-record/",
-   "published": "2026-11-20T20:49:27+00:00",
    "coins": [
     "BTC"
    ],
