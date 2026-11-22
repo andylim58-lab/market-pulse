@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 21:01",
+ "updated": "2026-11-23 02:26",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -11,10 +11,108 @@
  ],
  "items": [
   {
+   "source": "CryptoPotato",
+   "title": "Trump’s Meme Coin Dinner Is Back Tonight: But This Time Almost Nobody Wants a Seat",
+   "url": "https://cryptopotato.com/trumps-meme-coin-dinner-is-back-tonight-but-this-time-almost-nobody-wants-a-seat/",
+   "published": "2026-11-22T17:21:27+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "XRP Dumps to Key Zone: Is This the ‘Painful Opportunity’ Bulls Were Waiting For?",
+   "url": "https://cryptopotato.com/xrp-dumps-to-key-zone-is-this-the-painful-opportunity-bulls-were-waiting-for/",
+   "published": "2026-11-22T16:40:20+00:00",
+   "coins": [
+    "XRP"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "The future of onchain FX could start with users, not institutional liquidity",
+   "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T14:30:00+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin Price Analysis: Is the Bottom In After BTC Reclaims $60K?",
+   "url": "https://cryptopotato.com/bitcoin-price-analysis-is-the-bottom-in-after-btc-reclaims-60k/",
+   "published": "2026-11-22T14:10:57+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+   "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+   "published": "2026-11-22T14:01:02+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+   "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+   "published": "2026-11-22T14:00:00+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인과 동기 ‘증안펀드’, 주식시장에 다시 투입 준비(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169131?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T13:27:32+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "머스크 “AI 산업, 내년 수천억달러 자금난 직면할 것”",
+   "url": "https://www.blockmedia.co.kr/archives/1169128?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T13:03:50+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "“AI 버블 터졌다” 닷컴 버블 ‘평행이론’ 경기침체 확산?",
+   "url": "https://www.blockmedia.co.kr/archives/1169124?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T12:29:46+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "The Sell-Off Goes Far Beyond Crypto as Financial Markets Come Under Pressure",
+   "url": "https://cryptopotato.com/the-sell-off-goes-far-beyond-crypto-as-financial-markets-come-under-pressure/",
+   "published": "2026-11-22T11:59:25+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
    "source": "블록미디어",
    "title": "비트코인, 美 추수감사절 주간 3대 변수…물가·옵션 만기 주목",
    "url": "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss",
    "published": "2026-11-22T11:28:40+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T11:25:27+00:00",
    "coins": [
     "BTC"
    ],
@@ -44,7 +142,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 2
+   "coverage": 0
   },
   {
    "source": "Cointelegraph",
@@ -54,7 +152,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 3
+   "coverage": 1
   },
   {
    "source": "CryptoPotato",
@@ -85,7 +183,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 3
+   "coverage": 1
   },
   {
    "source": "CryptoPotato",
@@ -95,7 +193,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 2
+   "coverage": 0
   },
   {
    "source": "Cointelegraph",
@@ -144,45 +242,6 @@
    "coverage": 0
   },
   {
-   "source": "블록미디어",
-   "title": "아크 “디지털자산 ETF 2종 철회…SEC에 의사 전달”",
-   "url": "https://www.blockmedia.co.kr/archives/1169082?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T00:49:04+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "고점 대비 95% 빠진 아발란체…NYSE 호재에도 회복 ‘불투명’",
-   "url": "https://www.blockmedia.co.kr/archives/1169072?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T00:02:27+00:00",
-   "coins": [
-    "AVAX"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "IOSCO “양자내성 전환, 블록체인 속도 최대 90% 저하”",
-   "url": "https://www.blockmedia.co.kr/archives/1169071?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T23:39:43+00:00",
-   "coins": [
-    "ETH",
-    "SOL"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "싱가포르, AI 에이전트에 기업 자금관리 맡긴다(종합)",
-   "url": "https://www.blockmedia.co.kr/archives/1169069?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T23:15:11+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
    "source": "CryptoPotato",
    "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
    "url": "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/",
@@ -193,75 +252,11 @@
    "coverage": 0
   },
   {
-   "source": "블록미디어",
-   "title": "비트코인 2년 만에 최저인데…AI 알트코인 3종 올랐다",
-   "url": "https://www.blockmedia.co.kr/archives/1169067?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T22:36:37+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "캘리포니아주, 엔비디아 중국 반도체 밀반출 조사 ‘형사처벌’로 확대-블룸버그",
-   "url": "https://www.blockmedia.co.kr/archives/1169063?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T21:50:14+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "토큰화 예금·스테이블코인 활용…싱가포르, ‘에이전틱 금융’ 실험",
-   "url": "https://www.blockmedia.co.kr/archives/1169065?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T21:45:00+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "비트와이즈 CIO “규제가 디지털자산 혁신 가로막아”",
-   "url": "https://www.blockmedia.co.kr/archives/1169061?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T21:40:49+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "“SEC 인증서 위조” 3700만달러 가짜 거래소 적발",
-   "url": "https://www.blockmedia.co.kr/archives/1169059?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T21:35:14+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "[뉴욕 코인시황] 5.5만달러 저점 찍고 급반등…비트코인·알트코인 일제히 상승",
-   "url": "https://www.blockmedia.co.kr/archives/1169056?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T21:25:59+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
    "source": "The Block",
    "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
    "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
    "published": "2026-11-21T21:17:36+00:00",
    "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "“5년 뒤 승자는?”…앤트로픽 vs XRP, 1000달러 투자 비교",
-   "url": "https://www.blockmedia.co.kr/archives/1169054?utm_source=general&utm_medium=rss",
-   "published": "2026-11-21T20:59:41+00:00",
-   "coins": [
-    "XRP"
-   ],
    "coverage": 0
   },
   {
@@ -288,7 +283,7 @@
    "url": "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/",
    "published": "2026-11-21T18:26:21+00:00",
    "coins": [],
-   "coverage": 1
+   "coverage": 0
   },
   {
    "source": "Decrypt",
@@ -306,7 +301,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 3
+   "coverage": 0
   },
   {
    "source": "CryptoPotato",
@@ -316,7 +311,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 1
+   "coverage": 0
   },
   {
    "source": "Decrypt",
@@ -324,7 +319,7 @@
    "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
    "published": "2026-11-21T17:01:02+00:00",
    "coins": [],
-   "coverage": 3
+   "coverage": 1
   },
   {
    "source": "CoinDesk",
@@ -361,7 +356,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 3
+   "coverage": 0
   },
   {
    "source": "The Block",
@@ -380,7 +375,7 @@
     "BTC",
     "ETH"
    ],
-   "coverage": 2
+   "coverage": 0
   }
  ]
 }
