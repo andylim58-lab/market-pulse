@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24 06:35",
+ "market_note": "비트코인은 주말에 5만 5,500달러 안팎까지 밀렸다가 6.1만 달러대로 반등했지만, 코인마켓캡 공포·탐욕 지수는 9(극도의 공포)입니다. 전체 시가총액은 약 2조 940억 달러예요.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "주말 2년 만의 최저가 찍은 비트코인, 나스닥 반등에 6.1만 달러 회복",
+   "title_en": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
+   "summary": [
+    "비트코인이 주말에 5만 5,500달러 부근까지 떨어져 2년여 만의 최저 수준을 보인 뒤, 23일 나스닥 선물이 3% 오르고 엔비디아가 반등하자 6.1만 달러 위로 올라왔어요.",
+    "시장에서는 이번 반등이 바닥 신호인지, 수요가 약한 일시적 되돌림인지를 두고 의견이 갈리고 있습니다."
+   ],
+   "why": "AI 관련 주식 급락이 코인 가격에 바로 번진 만큼, 투자·광고 심리를 읽을 때 코인을 따로 보기보다 나스닥과 함께 보는 편이 좋아요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
+   "published": "2026-11-23T20:29:00+09:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "비트코인 ETF 일주일 만에 18억 달러 순유출… 11월 누적 41억 달러",
+   "title_en": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become 'structural': analysts",
+   "summary": [
+    "현물 비트코인 ETF에서 지난주 약 18억 달러가 빠져나갔고, 11월 금요일까지의 누적 순유출은 41억 4천만 달러로 6월 한 달 규모(45억 1천만 달러)에 근접했어요.",
+    "분석가들은 12월 추가 금리 인상 전망 속에 위험을 피하려는 투자자가 코인 상품에서 멀어지는 흐름이 구조적으로 굳어지고 있다고 봤습니다."
+   ],
+   "why": "기관 자금 이탈이 길어지면 거래소·코인 서비스의 신규 유입과 마케팅 여력이 줄 수 있어, 업계 광고 집행 판단에 참고할 지표예요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+   "published": "2026-11-23T14:47:00+09:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "스트래티지, 비트코인 457개 추가 매수… 우선주 매입 한도는 40억 달러로",
+   "title_en": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+   "summary": [
+    "스트래티지가 지난주 비트코인 457개를 약 3,000만 달러에 사들였고, 우선주(STRC) 환매에 2억 1,200만 달러를 썼어요.",
+    "회사는 우선주 환매 한도를 40억 달러로 올리고 달러 준비금에서 최대 10억 달러를 옮기는 것도 승인했습니다."
+   ],
+   "why": "가격이 2년 최저권으로 내려온 시기에도 대표 비트코인 보유 기업이 매수를 이어가 심리를 받치지만, 우선주 환매에 쓰는 돈이 커졌다는 재무 부담도 함께 봐야 해요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
+   "published": "2026-11-23T22:31:00+09:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "크라켄 캐나다 달러 시장서 비트코인 1.7만 달러에 체결… 거래는 그대로 인정",
+   "title_en": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+   "summary": [
+    "크라켄의 캐나다 달러 호가창이 이상 작동하면서 해당 시장의 코인 가격이 하룻밤 사이 70% 넘게 떨어졌고, 비트코인이 1만 7천 달러에 팔린 거래가 나왔어요.",
+    "크라켄은 모든 주문이 올바르게 처리됐고 해킹이나 계정 침해 흔적은 없다며 체결을 그대로 유지했습니다."
+   ],
+   "why": "거래소의 장애·체결 정책은 이용자 신뢰와 직결돼, 거래소 제휴나 이벤트를 진행하는 쪽은 이런 운영 리스크 기준을 점검해 둘 만해요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+   "published": "2026-11-23T14:42:00+09:00",
+   "coverage": 2,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "한국, 이번 주 디지털자산 기본법 초안 공개… 사업자 인가제·은행 중심 스테이블코인 담을 듯",
+   "title_en": "South Korea to publish draft of comprehensive crypto legal framework this week",
+   "summary": [
+    "더블록은 한국이 이번 주 포괄적인 가상자산 법제 초안을 내놓을 예정이며, 코인 사업자 인가 체계와 은행 중심의 원화 스테이블코인 발행 구조가 담길 것으로 전했어요.",
+    "코인데스크는 별도로, 피싱 계좌 지급정지 제도(6월 도입, 1만 1,500여 개 계좌 동결)를 다른 중대 금융 범죄로 넓히고 불법 자금의 해외 이전을 막는 방안이 추진된다고 보도했습니다."
+   ],
+   "why": "국내 거래소·스테이블코인 사업자의 진입 조건과 광고·영업 방식이 새 법제에 따라 달라질 수 있어, 관련 사업을 하거나 제휴를 생각하는 곳은 초안 내용을 확인해야 해요.",
+   "coins": [
+    "KRW",
+    "USDT"
+   ],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
+   "published": "2026-11-23T19:11:00+09:00",
+   "coverage": 1,
+   "cmc_url": ""
+  }
+ ]
+}
