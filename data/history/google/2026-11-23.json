@@ -427,7 +427,237 @@
      "source": "조선일보"
     }
    ]
+  },
+  "혼다": {
+   "q": "혼다",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 03:50:00 -0800",
+   "news": [
+    {
+     "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+     "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+     "source": "NBC News"
+    },
+    {
+     "title": "Honda recalls over 810,000 vehicles. See the affected models",
+     "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
+     "source": "USA Today"
+    },
+    {
+     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+     "source": "Fox Business"
+    }
+   ]
+  },
+  "상장": {
+   "q": "상장",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Mon, 23 Nov 2026 03:00:00 -0800",
+   "news": [
+    {
+     "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+     "url": "https://www.yna.co.kr/view/AKR20261123100000017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
+     "url": "https://www.hankyung.com/article/2026112350741",
+     "source": "한국경제"
+    }
+   ]
+  },
+  "m": {
+   "q": "m",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Mon, 23 Nov 2026 03:00:00 -0800",
+   "news": [
+    {
+     "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+     "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+     "source": "ESPN"
+    },
+    {
+     "title": "Kansas City Royals news: Tarik Skubal gets paid",
+     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-tarik-130000884.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
+     "url": "https://www.nytimes.com/athletic/7804537/2026/11/22/tarik-skubal-mets-meeting-negotiation-record-contract/",
+     "source": "The New York Times"
+    }
+   ]
+  },
+  "공항": {
+   "q": "공항",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Mon, 23 Nov 2026 02:50:00 -0800",
+   "news": [
+    {
+     "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
+     "source": "전기신문"
+    },
+    {
+     "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "박남춘 인천공항 사장 “임기 내 취항도시 200개·여객 9000만 명 목표”",
+     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/X6ZGTC42HVGHBP2N6Q3BERNECE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  "반도체 메모리": {
+   "q": "반도체 메모리",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+     "url": "https://www.hankyung.com/article/2026112330656",
+     "source": "한국경제"
+    },
+    {
+     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
+     "url": "https://core.asiae.co.kr/article/2026112317430850505",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  "중위소득": {
+   "q": "중위소득",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Mon, 23 Nov 2026 02:10:00 -0800",
+   "news": [
+    {
+     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  "브레인악셀": {
+   "q": "브레인악셀",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Mon, 23 Nov 2026 02:10:00 -0800",
+   "news": [
+    {
+     "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611232201517707",
+     "source": "YTN"
+    },
+    {
+     "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
+     "url": "https://news.jtbc.co.kr/article/NB12329434",
+     "source": "JTBC"
+    }
+   ]
+  },
+  "일론 머스크": {
+   "q": "일론 머스크",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Mon, 23 Nov 2026 02:00:00 -0800",
+   "news": [
+    {
+     "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
+     "url": "https://www.hankyung.com/article/2026112340657",
+     "source": "한국경제"
+    },
+    {
+     "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/23/OLOIZESXRREYXGQHDWFYHG5UOE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  "이진관 판사": {
+   "q": "이진관 판사",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Mon, 23 Nov 2026 01:40:00 -0800",
+   "news": [
+    {
+     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329370",
+     "source": "JTBC"
+    },
+    {
+     "title": "홍준표 “국힘, 기괴한 법률로 이진관 판사 고발···계엄 대국민 사과부터 해라”",
+     "url": "https://weekly.khan.co.kr/article/202611232206001",
+     "source": "주간경향"
+    },
+    {
+     "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "가석방": {
+   "q": "가석방",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 01:40:00 -0800",
+   "news": [
+    {
+     "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
+     "source": "머니투데이"
+    },
+    {
+     "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
+     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
+     "source": "한겨레"
+    }
+   ]
   }
  },
- "updated": "2026-11-23 10:10"
+ "updated": "2026-11-23 22:43"
 }

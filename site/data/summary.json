@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-23 10:10",
+ "generated": "2026-11-23 22:43",
  "demo": false,
  "sources": {
   "naver_trend": "2026-11-23 02:24",
   "naver_shopping": "2026-11-23 02:24",
-  "naver_keywords": "2026-11-23 10:10",
+  "naver_keywords": "2026-11-23 22:43",
   "keywords_prev_month": false,
-  "youtube": "2026-11-23 10:10",
-  "google": "2026-11-23 10:10"
+  "youtube": "2026-11-23 22:43",
+  "google": "2026-11-23 22:43"
  },
  "anchor": "날씨",
  "markets": [
@@ -3843,11 +3843,11 @@
       "title": "마당에 몰래 들어온 개, cctv보고 오열한 주인 #강아지 #동물",
       "channel": "골댕로그",
       "cat": "22",
-      "views": 1461599,
-      "likes": 27061,
-      "comments": 1085,
+      "views": 1649350,
+      "likes": 30592,
+      "comments": 1207,
       "published": "2026-11-19T16:25:21Z",
-      "vph": 18101,
+      "vph": 17678,
       "rank": 10
      },
      {
@@ -3855,11 +3855,11 @@
       "title": "잠적한 '리트 만점자'…모텔서 나온 찢긴 수능수험표 [지금이뉴스] / YTN",
       "channel": " YTN",
       "cat": "25",
-      "views": 944253,
-      "likes": 1514,
-      "comments": 1029,
+      "views": 943678,
+      "likes": 1515,
+      "comments": 1028,
       "published": "2026-11-19T03:31:56Z",
-      "vph": 10084,
+      "vph": 8887,
       "rank": 12
      }
     ]
@@ -8136,7 +8136,7 @@
     }
    ],
    "youtube": {
-    "count": 8,
+    "count": 9,
     "daily": [
      [
       "2026-11-17",
@@ -8164,7 +8164,7 @@
      ],
      [
       "2026-11-23",
-      8
+      9
      ]
     ],
     "top": [
@@ -8173,72 +8173,72 @@
       "title": "4살한테 시험 패배? 무릎 꿇은 중3 학생들 #SBS #영재발굴단",
       "channel": "JAM뷰JAM",
       "cat": "24",
-      "views": 5472781,
-      "likes": 68145,
-      "comments": 1449,
+      "views": 5597734,
+      "likes": 70027,
+      "comments": 1478,
       "published": "2026-11-17T04:31:58Z",
-      "vph": 38915,
-      "rank": 24
-     },
-     {
-      "id": "S04iFUHXJS0",
-      "title": "너무 맛있어서 대사 중 욕심 낸 아역배우의 최후",
-      "channel": "무비펭",
-      "cat": "22",
-      "views": 3649312,
-      "likes": 37965,
-      "comments": 244,
-      "published": "2026-11-17T10:40:59Z",
-      "vph": 27135,
-      "rank": 23
+      "vph": 36542,
+      "rank": 30
      },
      {
       "id": "lPaaV3wFjGs",
       "title": "바이퍼가 유독 포를 아꼈던 진짜 이유",
       "channel": "윤토리",
       "cat": "1",
-      "views": 2650479,
-      "likes": 49459,
-      "comments": 465,
+      "views": 2777673,
+      "likes": 52424,
+      "comments": 487,
       "published": "2026-11-21T01:14:08Z",
-      "vph": 55296,
-      "rank": 9
-     },
-     {
-      "id": "SjLV8gn5F6Y",
-      "title": "돌케이크도 녹이는 스푼, 다이소 1,000원짜리도 될까?",
-      "channel": "띠미 ddimmi",
-      "cat": "24",
-      "views": 1316096,
-      "likes": 27784,
-      "comments": 79,
-      "published": "2026-11-17T10:11:41Z",
-      "vph": 9751,
-      "rank": 45
+      "vph": 45924,
+      "rank": 15
      },
      {
       "id": "Np7xa1DPh04",
       "title": "아ㅏㅏㅏ쫌ㅁㅁㅁ 진짜 그만 좀 사기쳐 제발ㄹㄹㄹ",
       "channel": "뭔몽",
       "cat": "24",
-      "views": 1247523,
-      "likes": 21283,
-      "comments": 405,
+      "views": 1345363,
+      "likes": 22872,
+      "comments": 451,
       "published": "2026-11-21T05:45:03Z",
-      "vph": 28733,
-      "rank": 6
+      "vph": 24038,
+      "rank": 7
      },
      {
       "id": "dPoB6yY9SXs",
       "title": "어른이 되어서야 창피함을 알게 된 일진",
       "channel": "폭스토리",
       "cat": "1",
-      "views": 1035675,
-      "likes": 14286,
-      "comments": 156,
+      "views": 1112796,
+      "likes": 15565,
+      "comments": 166,
       "published": "2026-11-20T11:02:34Z",
-      "vph": 16671,
-      "rank": 28
+      "vph": 14901,
+      "rank": 32
+     },
+     {
+      "id": "bP6lqREhLgc",
+      "title": "NG 그 자체가 귀엽다는 아역배우 김수정",
+      "channel": "무비펭",
+      "cat": "22",
+      "views": 1095047,
+      "likes": 7420,
+      "comments": 85,
+      "published": "2026-11-22T12:07:02Z",
+      "vph": 42771,
+      "rank": 25
+     },
+     {
+      "id": "irhATQ_Rhoo",
+      "title": "[지식뉴스] \"이미, 시작됐습니다\"...이제부턴 이 악물고 돈 모으세요, 닥터 둠이 본 '진짜 신호' / 교양이를 부탁해 / 김영익 교수",
+      "channel": "교양이를 부탁해",
+      "cat": "27",
+      "views": 1010303,
+      "likes": 6586,
+      "comments": 609,
+      "published": "2026-11-20T11:44:38Z",
+      "vph": 13657,
+      "rank": 15
      }
     ]
    },
@@ -12523,7 +12523,7 @@
     }
    ],
    "youtube": {
-    "count": 39,
+    "count": 38,
     "daily": [
      [
       "2026-11-17",
@@ -12551,7 +12551,7 @@
      ],
      [
       "2026-11-23",
-      39
+      38
      ]
     ],
     "top": [
@@ -12560,77 +12560,77 @@
       "title": "Amazing Motorcycle Side Mirror Repair Technique | Old Broken Mirror Restored Like New!",
       "channel": "Craft man babu",
       "cat": "22",
-      "views": 11758768,
-      "likes": 209633,
-      "comments": 764,
+      "views": 14410393,
+      "likes": 252804,
+      "comments": 946,
       "published": "2026-11-16T02:15:31Z",
-      "vph": 70450,
-      "rank": 44
+      "vph": 80298,
+      "rank": 37
      },
      {
       "id": "0JQ9k6kcKVs",
       "title": "NAYEON “BABY ANGEL” M/V",
       "channel": "JYP Entertainment",
       "cat": "10",
-      "views": 9804389,
-      "likes": 211939,
-      "comments": 17547,
+      "views": 10778698,
+      "likes": 216784,
+      "comments": 17942,
       "published": "2026-11-20T05:00:03Z",
-      "vph": 143828,
-      "rank": 30
+      "vph": 133534,
+      "rank": 50
      },
      {
       "id": "LvSwKMvK48U",
       "title": "존박 잡으러 온 롯데리아 AI 래퍼",
       "channel": "이페오카카",
       "cat": "24",
-      "views": 5239440,
-      "likes": 38279,
-      "comments": 1877,
+      "views": 5490459,
+      "likes": 40687,
+      "comments": 1968,
       "published": "2026-11-18T09:00:18Z",
-      "vph": 46713,
-      "rank": 7
+      "vph": 44024,
+      "rank": 8
      },
      {
       "id": "eqPbz5WKMK8",
       "title": "옛날 시험 커닝 vs 요즘 AI 커닝 #snl코리아",
       "channel": "야그쟁이",
       "cat": "22",
-      "views": 4763483,
-      "likes": 53188,
-      "comments": 762,
+      "views": 4980089,
+      "likes": 55872,
+      "comments": 793,
       "published": "2026-11-18T10:15:12Z",
-      "vph": 42947,
-      "rank": 8
+      "vph": 40336,
+      "rank": 9
      },
      {
       "id": "OuxKVC4qS1Q",
       "title": "100원으로 물물교환하면 어디까지 바꿀 수 있을까?",
       "channel": "우낌표",
       "cat": "23",
-      "views": 3920691,
-      "likes": 17058,
-      "comments": 1093,
+      "views": 3986093,
+      "likes": 17243,
+      "comments": 1114,
       "published": "2026-11-13T09:00:24Z",
-      "vph": 16888,
+      "vph": 16289,
       "rank": 24
      },
      {
-      "id": "S04iFUHXJS0",
-      "title": "너무 맛있어서 대사 중 욕심 낸 아역배우의 최후",
-      "channel": "무비펭",
-      "cat": "22",
-      "views": 3649312,
-      "likes": 37965,
-      "comments": 244,
-      "published": "2026-11-17T10:40:59Z",
-      "vph": 27135,
-      "rank": 23
+      "id": "RIbk3HIKD4Q",
+      "title": "AI 안경 케이크..?",
+      "channel": "아끼리",
+      "cat": "26",
+      "views": 2920917,
+      "likes": 58466,
+      "comments": 266,
+      "published": "2026-11-18T09:44:51Z",
+      "vph": 23561,
+      "rank": 10
      }
     ]
    },
    "google": {
-    "count": 28,
+    "count": 32,
     "items": [
      {
       "q": "수능 재난문자 시간",
@@ -17025,7 +17025,7 @@
     }
    ],
    "youtube": {
-    "count": 5,
+    "count": 6,
     "daily": [
      [
       "2026-11-17",
@@ -17053,7 +17053,7 @@
      ],
      [
       "2026-11-23",
-      5
+      6
      ]
     ],
     "top": [
@@ -17062,60 +17062,72 @@
       "title": "인도의 독특한 페트병 낚시",
       "channel": "하찮은 고식씨",
       "cat": "15",
-      "views": 4550740,
-      "likes": 32264,
-      "comments": 996,
+      "views": 4742961,
+      "likes": 33505,
+      "comments": 1029,
       "published": "2026-11-12T12:00:37Z",
-      "vph": 17976,
-      "rank": 20
+      "vph": 17850,
+      "rank": 19
      },
      {
       "id": "ElNIId6Nux0",
       "title": "서울 도심을 점령한 마라톤 대회...\"장사하러 가야 하는데\", 울분 / 연합뉴스 (Yonhapnews)",
       "channel": "연합뉴스 Yonhapnews",
       "cat": "25",
-      "views": 2905494,
-      "likes": 7890,
-      "comments": 7580,
+      "views": 3371408,
+      "likes": 8706,
+      "comments": 8254,
       "published": "2026-11-20T21:00:16Z",
-      "vph": 55700,
-      "rank": 42
+      "vph": 52096,
+      "rank": 45
      },
      {
       "id": "i81erogDYH8",
       "title": "살 잘 빠진다고 소문난 슬로우 러닝의 진실 #shorts #아는형님",
       "channel": "예능내컷",
       "cat": "22",
-      "views": 1722738,
-      "likes": 8094,
-      "comments": 793,
+      "views": 1903557,
+      "likes": 8931,
+      "comments": 868,
       "published": "2026-11-21T15:21:00Z",
-      "vph": 50941,
-      "rank": 19
+      "vph": 41052,
+      "rank": 20
      },
      {
       "id": "-alRwaq4vOk",
       "title": "낚시하다 순간 용을 잡은줄 알았네;",
       "channel": "숏생숏사",
       "cat": "17",
-      "views": 1716494,
-      "likes": 1648,
-      "comments": 142,
+      "views": 1870996,
+      "likes": 1835,
+      "comments": 158,
       "published": "2026-11-17T03:45:36Z",
-      "vph": 12139,
-      "rank": 30
+      "vph": 12153,
+      "rank": 32
      },
      {
       "id": "JKBCAT0tgP4",
       "title": "두 아들 구박에도 묵묵히 낚시한 아빠의 결말ㅋㅋ",
       "channel": "대환장",
       "cat": "22",
-      "views": 1186263,
-      "likes": 4723,
-      "comments": 64,
+      "views": 1320253,
+      "likes": 5071,
+      "comments": 69,
       "published": "2026-11-19T05:07:36Z",
-      "vph": 12888,
-      "rank": 18
+      "vph": 12623,
+      "rank": 16
+     },
+     {
+      "id": "segp9jdVeXk",
+      "title": "캐디님도 처음본 서경타니cc 9번홀 해저드 넘기는 골퍼... #골프 #golf #ゴルフ",
+      "channel": "밉지않은 골프만랩 고순이",
+      "cat": "22",
+      "views": 625351,
+      "likes": 693,
+      "comments": 74,
+      "published": "2026-11-22T12:08:12Z",
+      "vph": 24444,
+      "rank": 26
      }
     ]
    },
@@ -21333,7 +21345,7 @@
     }
    ],
    "youtube": {
-    "count": 18,
+    "count": 15,
     "daily": [
      [
       "2026-11-17",
@@ -21361,86 +21373,86 @@
      ],
      [
       "2026-11-23",
-      18
+      15
      ]
     ],
     "top": [
      {
       "id": "lTotfUohQnc",
-      "title": "“저희 아버지를 아세요..?” 보령의 아들(?)과 함께 헐렁~한 고향 투어｜깡촌캉스2 EP.1 #유재석 #이동욱 #남창희 #이상이",
+      "title": "[EN] “저희 아버지를 아세요..?” 보령의 아들(?)과 함께 헐렁~한 고향 투어｜깡촌캉스2 EP.1 #유재석 #이동욱 #남창희 #이상이",
       "channel": "뜬뜬 DdeunDdeun",
       "cat": "23",
-      "views": 5015938,
-      "likes": 42793,
-      "comments": 5395,
+      "views": 5694307,
+      "likes": 46612,
+      "comments": 5713,
       "published": "2026-11-21T00:00:08Z",
-      "vph": 102021,
-      "rank": 33
-     },
-     {
-      "id": "PIp9WEcUph0",
-      "title": "디테일이 남다른 일본의 맥주 따르는 법",
-      "channel": "쇼츠츄러스",
-      "cat": "22",
-      "views": 4599394,
-      "likes": 43306,
-      "comments": 833,
-      "published": "2026-11-15T01:00:36Z",
-      "vph": 23935,
-      "rank": 10
-     },
-     {
-      "id": "rtH8B8EdnPI",
-      "title": "리센느와 함께 떠나는 거제여행 그 자체 | 리센느 원이 미나미",
-      "channel": "예뿡거",
-      "cat": "22",
-      "views": 3078376,
-      "likes": 48502,
-      "comments": 1092,
-      "published": "2026-11-14T03:00:34Z",
-      "vph": 14374,
-      "rank": 26
+      "vph": 92264,
+      "rank": 29
      },
      {
       "id": "XN8ra8SPFhI",
       "title": "일본 투수의 뇌고장 캐치볼",
       "channel": "도파민충전소",
       "cat": "17",
-      "views": 2911284,
-      "likes": 10453,
-      "comments": 429,
+      "views": 3260662,
+      "likes": 11905,
+      "comments": 477,
       "published": "2026-11-20T11:26:57Z",
-      "vph": 47170,
+      "vph": 43903,
       "rank": 3
+     },
+     {
+      "id": "rtH8B8EdnPI",
+      "title": "리센느와 함께 떠나는 거제여행 그 자체 | 리센느 원이 미나미",
+      "channel": "예뿡거",
+      "cat": "22",
+      "views": 3257729,
+      "likes": 51324,
+      "comments": 1153,
+      "published": "2026-11-14T03:00:34Z",
+      "vph": 14370,
+      "rank": 24
      },
      {
       "id": "2HSZcOhB4tU",
       "title": "호텔 셰프가 브로콜리 반죽에 펄펄 끓는 물을 붓는 이유",
       "channel": "푸드픽 (Food Pick)",
       "cat": "26",
-      "views": 2014028,
-      "likes": 73714,
-      "comments": 569,
+      "views": 2050057,
+      "likes": 75024,
+      "comments": 581,
       "published": "2026-11-15T15:39:39Z",
-      "vph": 11346,
-      "rank": 43
+      "vph": 10786,
+      "rank": 47
      },
      {
       "id": "lYf4l9r9zHM",
       "title": "나고야에서 버터 스테이크를 주문하면 생기는 일",
       "channel": "공간 탐닉 Space Tamnik",
       "cat": "19",
-      "views": 1720575,
-      "likes": 12461,
-      "comments": 670,
+      "views": 1771889,
+      "likes": 13067,
+      "comments": 685,
       "published": "2026-11-21T12:00:15Z",
-      "vph": 46297,
-      "rank": 3
+      "vph": 35641,
+      "rank": 4
+     },
+     {
+      "id": "WnG_2jyxPwo",
+      "title": "이건 소금인가 연어인가 알 수 없는 엄청나게 짠 염장 연어 보다코를 이번에는 제대로 만들었습니다. 소금양 이상하게 재지 않고 일본에서 만드는 식으로 아주 제대로 짜게 만들어서 진짱",
+      "channel": "요리에 진심인 편",
+      "cat": "26",
+      "views": 1565832,
+      "likes": 17596,
+      "comments": 201,
+      "published": "2026-11-19T09:07:21Z",
+      "vph": 15565,
+      "rank": 36
      }
     ]
    },
    "google": {
-    "count": 8,
+    "count": 9,
     "items": [
      {
       "q": "미스터트롯",
@@ -25879,12 +25891,12 @@
       "title": "밥도 야무지게 먹는 월드스타 스카프 아저씨 #건강 #남대문시장 #스카프 #스카프아저씨 #먹방",
       "channel": "건강밥상TV",
       "cat": "27",
-      "views": 1775521,
-      "likes": 24205,
-      "comments": 1067,
+      "views": 1793429,
+      "likes": 24422,
+      "comments": 1068,
       "published": "2026-11-17T02:54:36Z",
-      "vph": 12481,
-      "rank": 34
+      "vph": 11585,
+      "rank": 44
      }
     ]
    },
@@ -30145,7 +30157,7 @@
     }
    ],
    "youtube": {
-    "count": 28,
+    "count": 25,
     "daily": [
      [
       "2026-11-17",
@@ -30173,7 +30185,7 @@
      ],
      [
       "2026-11-23",
-      28
+      25
      ]
     ],
     "top": [
@@ -30182,47 +30194,47 @@
       "title": "찐 수능 만점자의 생각(팩폭 주의) #shorts",
       "channel": "픽오빠",
       "cat": "24",
-      "views": 2913465,
-      "likes": 27904,
-      "comments": 1041,
+      "views": 3185081,
+      "likes": 30856,
+      "comments": 1117,
       "published": "2026-11-19T06:49:31Z",
-      "vph": 32249,
-      "rank": 42
+      "vph": 30955,
+      "rank": 46
      },
      {
       "id": "RIbk3HIKD4Q",
       "title": "AI 안경 케이크..?",
       "channel": "아끼리",
       "cat": "26",
-      "views": 2897674,
-      "likes": 58076,
-      "comments": 264,
+      "views": 2920917,
+      "likes": 58466,
+      "comments": 266,
       "published": "2026-11-18T09:44:51Z",
-      "vph": 26007,
-      "rank": 8
+      "vph": 23561,
+      "rank": 10
      },
      {
       "id": "bYt-xkXVGiI",
       "title": "양치기들 참교육 하는 한국 형사 손석구 #푸른길",
       "channel": "꿀맛드라마",
       "cat": "24",
-      "views": 2101320,
-      "likes": 15846,
-      "comments": 662,
+      "views": 2316260,
+      "likes": 17599,
+      "comments": 792,
       "published": "2026-11-20T10:20:13Z",
-      "vph": 33444,
-      "rank": 10
+      "vph": 30727,
+      "rank": 14
      },
      {
       "id": "5A4Bh5r3s6I",
       "title": "Ai안경으로 수능 문제 풀면 정답률은?!",
       "channel": "허팝Heopop",
       "cat": "24",
-      "views": 1987759,
-      "likes": 26289,
-      "comments": 362,
+      "views": 2013506,
+      "likes": 26581,
+      "comments": 367,
       "published": "2026-11-17T21:00:37Z",
-      "vph": 16010,
+      "vph": 14728,
       "rank": 6
      },
      {
@@ -30230,29 +30242,29 @@
       "title": "결혼식장에서 새하얀 하객룩에, 신랑 옆에 딱 붙어서 팔짱 낀 하객의 최후  #시니어드라마 #쇼츠드라마 #사이다사연 #참교육",
       "channel": "이웃집드라마",
       "cat": "24",
-      "views": 1826917,
-      "likes": 22094,
-      "comments": 158,
+      "views": 1925087,
+      "likes": 23162,
+      "comments": 167,
       "published": "2026-11-20T01:00:24Z",
-      "vph": 25317,
-      "rank": 16
+      "vph": 22725,
+      "rank": 22
      },
      {
       "id": "_paZV_yJg1o",
       "title": "\"수능 만점자도 부럽지 않다\"…시험장 앞에서 포착된 '부녀'｜ TJB 대전·세종·충남뉴스",
       "channel": "TJB NEWS",
       "cat": "25",
-      "views": 1789873,
-      "likes": 42132,
-      "comments": 2135,
+      "views": 1794152,
+      "likes": 42201,
+      "comments": 2134,
       "published": "2026-11-20T02:16:05Z",
-      "vph": 25245,
+      "vph": 21499,
       "rank": 4
      }
     ]
    },
    "google": {
-    "count": 13,
+    "count": 14,
     "items": [
      {
       "q": "수능 재난문자 시간",
@@ -30400,27 +30412,27 @@
       "last": "2026-11-20"
      },
      {
-      "q": "이지영",
-      "traffic": 200,
+      "q": "브레인악셀",
+      "traffic": 1000,
       "news": [
        {
-        "title": "이지혜, ‘AI 부정행위’ 논란 속 세무사 남편 언급…“더 대단하게 느껴져”",
-        "url": "https://www.mk.co.kr/news/hot-issues/12213453",
-        "source": "매일경제"
+        "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+        "source": "MBC 뉴스"
        },
        {
-        "title": "정승제 수능전날 올린 글 “단추 무조건 빼고, 안경 안 써도 되면 그냥 빼고”",
-        "url": "https://biz.heraldcorp.com/article/10941789",
-        "source": "헤럴드경제"
+        "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+        "url": "https://www.ytn.co.kr/_ln/0106_202611232201517707",
+        "source": "YTN"
        },
        {
-        "title": "\"어른으로서 미안\"…일타 강사 이지영, 수능 앞둔 수험생에 위로 - 머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/11/18/2026111817245134931",
-        "source": "머니투데이"
+        "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
+        "url": "https://news.jtbc.co.kr/article/NB12329434",
+        "source": "JTBC"
        }
       ],
       "n": 1,
-      "last": "2026-11-19"
+      "last": "2026-11-23"
      }
     ]
    }
@@ -32469,30 +32481,30 @@
  },
  "youtube": {
   "date": "2026-11-23",
-  "updated": "2026-11-23 10:10",
+  "updated": "2026-11-23 22:43",
   "top": [
    {
     "id": "IQI2qaqHFlg",
     "title": "GiiiRIP",
     "channel": "BIGBANG - Topic",
     "cat": "10",
-    "views": 3119702,
-    "likes": 116546,
-    "comments": 8795,
+    "views": 3734463,
+    "likes": 122615,
+    "comments": 8992,
     "published": "2026-11-20T05:02:15Z",
-    "vph": 45790,
+    "vph": 46286,
     "rank": 1
    },
    {
-    "id": "pVFdva-Ifns",
-    "title": "추성훈 vs 크리스 리벤 [Official Trailer]",
-    "channel": "블랙컴뱃",
-    "cat": "1",
-    "views": 1092627,
-    "likes": 4030,
-    "comments": 611,
-    "published": "2026-11-19T08:40:26Z",
-    "vph": 12347,
+    "id": "NKJyM8z8qFo",
+    "title": "[단독] 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개 / YTN star",
+    "channel": "YTN star",
+    "cat": "24",
+    "views": 13692,
+    "likes": 113,
+    "comments": 200,
+    "published": "2026-11-23T02:30:01Z",
+    "vph": 1220,
     "rank": 2
    },
    {
@@ -32500,11 +32512,11 @@
     "title": "멸망전 팀 결정 마지막날 클리드에게 선수들 다 뺏긴 맵교ㅋㅋㅋ",
     "channel": "튜브김민교",
     "cat": "20",
-    "views": 338468,
-    "likes": 893,
-    "comments": 87,
+    "views": 422249,
+    "likes": 1093,
+    "comments": 101,
     "published": "2026-11-22T09:58:49Z",
-    "vph": 22285,
+    "vph": 15222,
     "rank": 3
    },
    {
@@ -32512,395 +32524,395 @@
     "title": "Please Be Happy",
     "channel": "Roy Kim - Topic",
     "cat": "10",
-    "views": 47418,
-    "likes": 750,
-    "comments": 23,
+    "views": 151039,
+    "likes": 1166,
+    "comments": 31,
     "published": "2026-11-22T09:00:29Z",
-    "vph": 2934,
+    "vph": 5261,
     "rank": 4
    },
    {
-    "id": "izlRpHOlgFE",
-    "title": "≪무기 강화하는 게임≫ 드디어...전설의 검 강화성공!!!!!!!",
-    "channel": "혜안",
-    "cat": "20",
-    "views": 1374416,
-    "likes": 21142,
-    "comments": 740,
-    "published": "2026-11-21T10:10:45Z",
-    "vph": 35251,
+    "id": "pVFdva-Ifns",
+    "title": "추성훈 vs 크리스 리벤 [Official Trailer]",
+    "channel": "블랙컴뱃",
+    "cat": "1",
+    "views": 1129740,
+    "likes": 4073,
+    "comments": 613,
+    "published": "2026-11-19T08:40:26Z",
+    "vph": 11180,
     "rank": 5
+   },
+   {
+    "id": "tbWDrwQOq60",
+    "title": "비비는 맛",
+    "channel": "괴물쥐 유튜브",
+    "cat": "20",
+    "views": 584348,
+    "likes": 1706,
+    "comments": 409,
+    "published": "2026-11-22T14:00:21Z",
+    "vph": 24642,
+    "rank": 6
    },
    {
     "id": "XKYp0bYquv4",
     "title": "난 못해 (Feat. 이병철)",
     "channel": "Private Story - Topic",
     "cat": "10",
-    "views": 601144,
-    "likes": 7370,
+    "views": 651485,
+    "likes": 7411,
     "comments": 0,
     "published": "2026-11-18T03:01:56Z",
-    "vph": 5089,
-    "rank": 6
-   },
-   {
-    "id": "mCd3lzBY5Uw",
-    "title": "금단의 기술",
-    "channel": "PAKA",
-    "cat": "20",
-    "views": 380951,
-    "likes": 1362,
-    "comments": 189,
-    "published": "2026-11-22T08:30:11Z",
-    "vph": 22859,
+    "vph": 4985,
     "rank": 7
    },
    {
-    "id": "FVNI7zBuk-4",
-    "title": "베스티(BESTie) - 연애의 조건(Love Options) | Suit Dance | 수트댄스 | Performance | 4K",
-    "channel": "1theK Originals - 원더케이 오리지널",
-    "cat": "24",
-    "views": 1844215,
-    "likes": 54285,
-    "comments": 2249,
-    "published": "2026-11-20T09:00:15Z",
-    "vph": 28742,
+    "id": "V0qbfbg8EdE",
+    "title": "역주행 '디워' 다시 태어난다…'심형래 야심작' 예고편 최초 공개 [이 장면]",
+    "channel": " YTN",
+    "cat": "25",
+    "views": 40712,
+    "likes": 134,
+    "comments": 309,
+    "published": "2026-11-23T00:44:29Z",
+    "vph": 3137,
     "rank": 8
    },
    {
-    "id": "utP5cFNvBs4",
-    "title": "감스트 GTA6 오픈런!! 웃긴 장면 모음 ㅋㅋㅋ",
-    "channel": "감스트GAMST",
+    "id": "-RKmRsz6Jys",
+    "title": "*23,426*개의 벽돌을 직접 만들고 설치해 피라미드를 만드는 게임",
+    "channel": "YouTube지누",
     "cat": "20",
-    "views": 1760865,
-    "likes": 6934,
-    "comments": 440,
-    "published": "2026-11-21T11:50:27Z",
-    "vph": 47174,
+    "views": 219092,
+    "likes": 2438,
+    "comments": 161,
+    "published": "2026-11-23T04:42:16Z",
+    "vph": 24302,
     "rank": 9
    },
    {
-    "id": "LOLXD85SThc",
-    "title": "Do you know (2026 Version)",
-    "channel": "SOMEDAY - Topic",
+    "id": "bXGa92yC3t4",
+    "title": "I Wish I’d Never Been Happy",
+    "channel": "Cha ga eul - Topic",
     "cat": "10",
-    "views": 963590,
-    "likes": 20135,
-    "comments": 23,
-    "published": "2026-11-17T09:04:44Z",
-    "vph": 7081,
+    "views": 27749,
+    "likes": 185,
+    "comments": 2,
+    "published": "2026-11-21T09:02:13Z",
+    "vph": 527,
     "rank": 10
-   },
-   {
-    "id": "ks4cTu5dNgM",
-    "title": "입단했습니다",
-    "channel": "괴물쥐 유튜브",
-    "cat": "20",
-    "views": 821683,
-    "likes": 2521,
-    "comments": 694,
-    "published": "2026-11-21T13:00:10Z",
-    "vph": 22720,
-    "rank": 11
-   },
-   {
-    "id": "nnffnIqaTrk",
-    "title": "ICONIC",
-    "channel": "CL (from 2NE1) - Topic",
-    "cat": "10",
-    "views": 90635,
-    "likes": 1254,
-    "comments": 35,
-    "published": "2026-11-20T09:03:05Z",
-    "vph": 1414,
-    "rank": 12
-   },
-   {
-    "id": "hwD4dOfPobI",
-    "title": "특급 용병 불렀습니다.. \"돌아왔구나 존 스미스!!\"｜멸망전 EP.03",
-    "channel": "저라뎃 JUSTLIKETHAT",
-    "cat": "20",
-    "views": 236845,
-    "likes": 748,
-    "comments": 109,
-    "published": "2026-11-22T08:23:38Z",
-    "vph": 14120,
-    "rank": 13
-   },
-   {
-    "id": "Z8ehh3ANZak",
-    "title": "BABY ANGEL",
-    "channel": "NAYEON - Topic",
-    "cat": "10",
-    "views": 358624,
-    "likes": 14740,
-    "comments": 625,
-    "published": "2026-11-20T05:02:23Z",
-    "vph": 5264,
-    "rank": 14
    },
    {
     "id": "M8YQQk19YJQ",
     "title": "역대급 하마냥이 등장 | 멸망전 EP.1",
     "channel": "클리드",
     "cat": "20",
-    "views": 318585,
-    "likes": 1196,
-    "comments": 181,
+    "views": 403941,
+    "likes": 1487,
+    "comments": 201,
     "published": "2026-11-22T09:53:46Z",
-    "vph": 20861,
-    "rank": 15
-   },
-   {
-    "id": "G-YQHFOU9_g",
-    "title": "WhOLLiN (홀린) '딱 1분만' Official MV",
-    "channel": "WhOLLiN 홀린",
-    "cat": "24",
-    "views": 218508,
-    "likes": 1247,
-    "comments": 171,
-    "published": "2026-11-18T09:00:03Z",
-    "vph": 1948,
-    "rank": 16
-   },
-   {
-    "id": "boEyYn8RjDk",
-    "title": "팀나빠 멤버들 모두..병원에 입원 해 버렸습니다.",
-    "channel": "멜로우TV",
-    "cat": "20",
-    "views": 288482,
-    "likes": 5682,
-    "comments": 1295,
-    "published": "2026-11-22T02:30:07Z",
-    "vph": 12727,
-    "rank": 17
-   },
-   {
-    "id": "hwtAaj4Ly3k",
-    "title": "Just say it",
-    "channel": "Makewin - Topic",
-    "cat": "10",
-    "views": 209079,
-    "likes": 7749,
-    "comments": 1,
-    "published": "2026-11-19T03:02:11Z",
-    "vph": 2221,
-    "rank": 18
-   },
-   {
-    "id": "NVfyi_UkO2o",
-    "title": "개발자 정신 상태가 궁금한 백룸 게임",
-    "channel": "김재원의 즐거운 세상",
-    "cat": "20",
-    "views": 568198,
-    "likes": 7660,
-    "comments": 575,
-    "published": "2026-11-21T07:00:23Z",
-    "vph": 13477,
-    "rank": 19
+    "vph": 14518,
+    "rank": 11
    },
    {
     "id": "i3xU56BTjhs",
     "title": "KISS N TELL",
     "channel": "aespa - Topic",
     "cat": "10",
-    "views": 19123,
-    "likes": 108,
+    "views": 37912,
+    "likes": 161,
     "comments": 4,
     "published": "2026-11-19T15:00:24Z",
-    "vph": 233,
-    "rank": 20
+    "vph": 400,
+    "rank": 12
    },
    {
-    "id": "ifPyksClZG0",
-    "title": "시험을 잘봐야 마피아 시켜준다고? *수능 마피아*",
-    "channel": "잠뜰 TV",
+    "id": "izlRpHOlgFE",
+    "title": "≪무기 강화하는 게임≫ 드디어...전설의 검 강화성공!!!!!!!",
+    "channel": "혜안",
     "cat": "20",
-    "views": 164901,
-    "likes": 5783,
-    "comments": 337,
-    "published": "2026-11-22T07:30:11Z",
-    "vph": 9335,
-    "rank": 21
-   },
-   {
-    "id": "RAhu-3UfMyo",
-    "title": "FROM ZERO (demo)",
-    "channel": "KIMMUSEUM - Topic",
-    "cat": "10",
-    "views": 201708,
-    "likes": 9212,
-    "comments": 11,
-    "published": "2026-11-19T03:02:32Z",
-    "vph": 2143,
-    "rank": 22
-   },
-   {
-    "id": "bwxcHkqYbfA",
-    "title": "버림받은 맵추교의 저라뎃 팀원 강탈하기ㅋㅋㅋㅋ | 2026 시즌3 멸망전 EP.03",
-    "channel": "스맵",
-    "cat": "20",
-    "views": 154101,
-    "likes": 545,
-    "comments": 95,
-    "published": "2026-11-22T08:23:14Z",
-    "vph": 9183,
-    "rank": 23
-   },
-   {
-    "id": "A_H1EH6p4A0",
-    "title": "CL - ‘ICONIC’ M/V",
-    "channel": "THEBLACKLABEL",
-    "cat": "10",
-    "views": 8226483,
-    "likes": 0,
-    "comments": 5681,
-    "published": "2026-11-20T08:59:07Z",
-    "vph": 128173,
-    "rank": 24
-   },
-   {
-    "id": "nLXxKPXsMFc",
-    "title": "앵무조개 레이스가 열린 서버 야생 생존기",
-    "channel": "파이브",
-    "cat": "20",
-    "views": 231201,
-    "likes": 4088,
-    "comments": 294,
-    "published": "2026-11-22T06:08:15Z",
-    "vph": 12149,
-    "rank": 25
-   },
-   {
-    "id": "6POlUfjBIB4",
-    "title": "Sakuranbo",
-    "channel": "YENA - Topic",
-    "cat": "10",
-    "views": 1052168,
-    "likes": 11811,
-    "comments": 245,
-    "published": "2026-11-17T09:01:35Z",
-    "vph": 7728,
-    "rank": 26
-   },
-   {
-    "id": "oahkxVYdxbg",
-    "title": "2026 브롤스타즈 월드 파이널 - 3일차 (그랜드 파이널)",
-    "channel": "브롤스타즈",
-    "cat": "20",
-    "views": 199105,
-    "likes": 608,
-    "comments": 41,
-    "published": "2026-11-22T09:50:46Z",
-    "vph": 12995,
-    "rank": 27
-   },
-   {
-    "id": "9OE7nhqfo70",
-    "title": "That′s Not It",
-    "channel": "Kim Siwon - Topic",
-    "cat": "10",
-    "views": 103096,
-    "likes": 3347,
-    "comments": 5,
-    "published": "2026-11-19T03:01:57Z",
-    "vph": 1095,
-    "rank": 28
-   },
-   {
-    "id": "JYzW98zARfs",
-    "title": "쇼츠의 왕 미남재형 등장 본캐 폭풍현질 갑니다 미친텐션ㅋㅋㅋ",
-    "channel": "두치와뿌꾸",
-    "cat": "20",
-    "views": 227616,
-    "likes": 935,
-    "comments": 135,
-    "published": "2026-11-22T03:00:15Z",
-    "vph": 10270,
-    "rank": 29
-   },
-   {
-    "id": "0JQ9k6kcKVs",
-    "title": "NAYEON “BABY ANGEL” M/V",
-    "channel": "JYP Entertainment",
-    "cat": "10",
-    "views": 9804389,
-    "likes": 211939,
-    "comments": 17547,
-    "published": "2026-11-20T05:00:03Z",
-    "vph": 143828,
-    "rank": 30
-   },
-   {
-    "id": "AdBgUm18rNs",
-    "title": "아레나에 T1 3인방 등장",
-    "channel": "T1 Faker",
-    "cat": "20",
-    "views": 980215,
-    "likes": 6846,
-    "comments": 326,
-    "published": "2026-11-22T05:00:18Z",
-    "vph": 48614,
-    "rank": 31
-   },
-   {
-    "id": "sSZsC-fEmYE",
-    "title": "Goodbye to Us",
-    "channel": "Huh Gak - Topic",
-    "cat": "10",
-    "views": 148084,
-    "likes": 1102,
-    "comments": 0,
-    "published": "2026-11-18T09:01:10Z",
-    "vph": 1320,
-    "rank": 32
-   },
-   {
-    "id": "bPsaMZsCCi4",
-    "title": "블루 아카이브 콜라보 하루 만에 전부 즐겨봅니다! [팡이요,  메이플스토리]",
-    "channel": "팡이요",
-    "cat": "20",
-    "views": 229486,
-    "likes": 418,
-    "comments": 79,
-    "published": "2026-11-22T09:50:40Z",
-    "vph": 14976,
-    "rank": 33
+    "views": 1487525,
+    "likes": 22343,
+    "comments": 759,
+    "published": "2026-11-21T10:10:45Z",
+    "vph": 28861,
+    "rank": 13
    },
    {
     "id": "sOXceXmqsn4",
     "title": "Destiny",
     "channel": "DOKO - Topic",
     "cat": "10",
-    "views": 159098,
-    "likes": 14920,
+    "views": 171491,
+    "likes": 14948,
     "comments": 0,
     "published": "2026-10-27T03:03:01Z",
-    "vph": 246,
-    "rank": 34
+    "vph": 260,
+    "rank": 14
    },
    {
-    "id": "kbabgRrRp5M",
-    "title": "3억썼는데 계정이 정지됐습니다",
-    "channel": "보겸s",
+    "id": "-DSyDk8r478",
+    "title": "혼자서 5:1로 넥서스를 지킨 미친 명장면..! \"디임이 사수하기\"｜멸망전 EP.04",
+    "channel": "저라뎃 JUSTLIKETHAT",
+    "cat": "20",
+    "views": 245408,
+    "likes": 835,
+    "comments": 231,
+    "published": "2026-11-22T14:10:06Z",
+    "vph": 10420,
+    "rank": 15
+   },
+   {
+    "id": "FVNI7zBuk-4",
+    "title": "베스티(BESTie) - 연애의 조건(Love Options) | Suit Dance | 수트댄스 | Performance | 4K",
+    "channel": "1theK Originals - 원더케이 오리지널",
     "cat": "24",
-    "views": 1180978,
-    "likes": 12022,
-    "comments": 3867,
-    "published": "2026-11-21T10:18:16Z",
-    "vph": 30388,
-    "rank": 35
+    "views": 2047538,
+    "likes": 57530,
+    "comments": 2335,
+    "published": "2026-11-20T09:00:15Z",
+    "vph": 26690,
+    "rank": 16
+   },
+   {
+    "id": "mCd3lzBY5Uw",
+    "title": "금단의 기술",
+    "channel": "PAKA",
+    "cat": "20",
+    "views": 467680,
+    "likes": 1569,
+    "comments": 207,
+    "published": "2026-11-22T08:30:11Z",
+    "vph": 16007,
+    "rank": 17
+   },
+   {
+    "id": "LOLXD85SThc",
+    "title": "Do you know (2026 Version)",
+    "channel": "SOMEDAY - Topic",
+    "cat": "10",
+    "views": 1097060,
+    "likes": 24541,
+    "comments": 28,
+    "published": "2026-11-17T09:04:44Z",
+    "vph": 7381,
+    "rank": 18
+   },
+   {
+    "id": "boEyYn8RjDk",
+    "title": "팀나빠 멤버들 모두..병원에 입원 해 버렸습니다.",
+    "channel": "멜로우TV",
+    "cat": "20",
+    "views": 371759,
+    "likes": 6625,
+    "comments": 1475,
+    "published": "2026-11-22T02:30:07Z",
+    "vph": 10556,
+    "rank": 19
+   },
+   {
+    "id": "nnffnIqaTrk",
+    "title": "ICONIC",
+    "channel": "CL (from 2NE1) - Topic",
+    "cat": "10",
+    "views": 126875,
+    "likes": 1581,
+    "comments": 41,
+    "published": "2026-11-20T09:03:05Z",
+    "vph": 1655,
+    "rank": 20
+   },
+   {
+    "id": "utP5cFNvBs4",
+    "title": "감스트 GTA6 오픈런!! 웃긴 장면 모음 ㅋㅋㅋ",
+    "channel": "감스트GAMST",
+    "cat": "20",
+    "views": 1939549,
+    "likes": 7362,
+    "comments": 470,
+    "published": "2026-11-21T11:50:27Z",
+    "vph": 38885,
+    "rank": 21
+   },
+   {
+    "id": "hwtAaj4Ly3k",
+    "title": "Just say it",
+    "channel": "Makewin - Topic",
+    "cat": "10",
+    "views": 252981,
+    "likes": 8819,
+    "comments": 3,
+    "published": "2026-11-19T03:02:11Z",
+    "vph": 2371,
+    "rank": 22
+   },
+   {
+    "id": "ifPyksClZG0",
+    "title": "시험을 잘봐야 마피아 시켜준다고? *수능 마피아*",
+    "channel": "잠뜰 TV",
+    "cat": "20",
+    "views": 207090,
+    "likes": 6835,
+    "comments": 360,
+    "published": "2026-11-22T07:30:11Z",
+    "vph": 6854,
+    "rank": 23
+   },
+   {
+    "id": "67-rsmD5uAI",
+    "title": "When the First Snow Falls (Acoustic Ver.)",
+    "channel": "Huh Gak - Topic",
+    "cat": "10",
+    "views": 18719,
+    "likes": 108,
+    "comments": 0,
+    "published": "2026-11-18T09:04:35Z",
+    "vph": 150,
+    "rank": 24
+   },
+   {
+    "id": "n0VlXlmubw8",
+    "title": "케케니언도 당황해버린 역대급 교카ㄷㄷ | 2026 시즌3 멸망전 EP.05",
+    "channel": "스맵",
+    "cat": "20",
+    "views": 118315,
+    "likes": 395,
+    "comments": 76,
+    "published": "2026-11-23T08:13:22Z",
+    "vph": 21524,
+    "rank": 25
+   },
+   {
+    "id": "Z8ehh3ANZak",
+    "title": "BABY ANGEL",
+    "channel": "NAYEON - Topic",
+    "cat": "10",
+    "views": 441033,
+    "likes": 16124,
+    "comments": 641,
+    "published": "2026-11-20T05:02:23Z",
+    "vph": 5466,
+    "rank": 26
+   },
+   {
+    "id": "NVfyi_UkO2o",
+    "title": "개발자 정신 상태가 궁금한 백룸 게임",
+    "channel": "김재원의 즐거운 세상",
+    "cat": "20",
+    "views": 605472,
+    "likes": 8068,
+    "comments": 582,
+    "published": "2026-11-21T07:00:23Z",
+    "vph": 11066,
+    "rank": 27
+   },
+   {
+    "id": "eqQRPRcoIYo",
+    "title": "Go Easy (from GTAVI: The Album)",
+    "channel": "Dua Lipa - Topic",
+    "cat": "10",
+    "views": 1161092,
+    "likes": 29804,
+    "comments": 634,
+    "published": "2026-11-19T10:05:08Z",
+    "vph": 11654,
+    "rank": 28
+   },
+   {
+    "id": "6rpviS50IYU",
+    "title": "멸망전 시작! 진화된 팀게임 노령진 보여드리겠습니다 [멸망전 1화]",
+    "channel": "샤코타임 Shacotime",
+    "cat": "20",
+    "views": 212032,
+    "likes": 946,
+    "comments": 304,
+    "published": "2026-11-22T15:39:38Z",
+    "vph": 9612,
+    "rank": 29
    },
    {
     "id": "D63-T5f2e4k",
     "title": "[100일의 거짓말 (100 Days of Deception) OST Part 6] 로이킴 (Roy Kim) - 그대 꼭 행복해요 (Please Be Happy) MV",
     "channel": "STONE MUSIC",
     "cat": "10",
-    "views": 61222,
-    "likes": 1324,
-    "comments": 114,
+    "views": 103534,
+    "likes": 1655,
+    "comments": 134,
     "published": "2026-11-22T09:00:28Z",
-    "vph": 3788,
+    "vph": 3606,
+    "rank": 30
+   },
+   {
+    "id": "XtSWzxtePQQ",
+    "title": "미남재형 본캐 토트넘 스쿼드 짭니다 손흥민 올인해버림ㅋㅋㅋ",
+    "channel": "두치와뿌꾸",
+    "cat": "20",
+    "views": 169440,
+    "likes": 696,
+    "comments": 81,
+    "published": "2026-11-23T03:00:01Z",
+    "vph": 15807,
+    "rank": 31
+   },
+   {
+    "id": "rx_s2PmpcM0",
+    "title": "Played Me",
+    "channel": "onekey - Topic",
+    "cat": "10",
+    "views": 40233,
+    "likes": 2461,
+    "comments": 0,
+    "published": "2026-11-19T09:02:41Z",
+    "vph": 400,
+    "rank": 32
+   },
+   {
+    "id": "nLXxKPXsMFc",
+    "title": "앵무조개 레이스가 열린 서버 야생 생존기",
+    "channel": "파이브",
+    "cat": "20",
+    "views": 298525,
+    "likes": 4785,
+    "comments": 317,
+    "published": "2026-11-22T06:08:15Z",
+    "vph": 9452,
+    "rank": 33
+   },
+   {
+    "id": "G-YQHFOU9_g",
+    "title": "WhOLLiN (홀린) '딱 1분만' Official MV",
+    "channel": "WhOLLiN 홀린",
+    "cat": "24",
+    "views": 262063,
+    "likes": 1384,
+    "comments": 192,
+    "published": "2026-11-18T09:00:03Z",
+    "vph": 2101,
+    "rank": 34
+   },
+   {
+    "id": "GyUR8sXOat8",
+    "title": "\"13년 만에 돌아온 전설적인 범죄 게임\"  |  GTA6 스토리 한눈에 보기",
+    "channel": "GCL 지씨엘",
+    "cat": "20",
+    "views": 512832,
+    "likes": 4143,
+    "comments": 573,
+    "published": "2026-11-22T05:15:33Z",
+    "vph": 15799,
+    "rank": 35
+   },
+   {
+    "id": "RAhu-3UfMyo",
+    "title": "FROM ZERO (demo)",
+    "channel": "KIMMUSEUM - Topic",
+    "cat": "10",
+    "views": 232433,
+    "likes": 9351,
+    "comments": 11,
+    "published": "2026-11-19T03:02:32Z",
+    "vph": 2179,
     "rank": 36
    },
    {
@@ -32908,35 +32920,35 @@
     "title": "GTA6에서 NPC를 하루종일 미행해보았습니다..",
     "channel": "김복밥",
     "cat": "20",
-    "views": 208752,
-    "likes": 797,
-    "comments": 116,
+    "views": 288261,
+    "likes": 1080,
+    "comments": 154,
     "published": "2026-11-22T10:30:01Z",
-    "vph": 14232,
+    "vph": 10590,
     "rank": 37
    },
    {
-    "id": "tB4PXVGF0G4",
-    "title": "It Hurts",
-    "channel": "So Yeon Kim - Topic",
+    "id": "UKuRGUsQwLk",
+    "title": "Angel Bite (BEOMGYU Ver.)",
+    "channel": "TOMORROW BY TOGETHER - Topic",
     "cat": "10",
-    "views": 81743,
-    "likes": 255,
-    "comments": 3,
-    "published": "2026-11-19T09:00:02Z",
-    "vph": 927,
+    "views": 58988,
+    "likes": 8617,
+    "comments": 432,
+    "published": "2026-11-23T05:00:05Z",
+    "vph": 6766,
     "rank": 38
    },
    {
-    "id": "Mk6TDWrsc2c",
-    "title": "여우신의 사쵸 집 기습 방문!",
-    "channel": "강 지",
+    "id": "bPsaMZsCCi4",
+    "title": "블루 아카이브 콜라보 하루 만에 전부 즐겨봅니다! [팡이요,  메이플스토리]",
+    "channel": "팡이요",
     "cat": "20",
-    "views": 260350,
-    "likes": 3970,
-    "comments": 195,
-    "published": "2026-11-22T05:00:25Z",
-    "vph": 12913,
+    "views": 280444,
+    "likes": 466,
+    "comments": 98,
+    "published": "2026-11-22T09:50:40Z",
+    "vph": 10061,
     "rank": 39
    },
    {
@@ -32944,142 +32956,142 @@
     "title": "SNAPSHOT",
     "channel": "XODIAC - Topic",
     "cat": "10",
-    "views": 171558,
-    "likes": 4101,
-    "comments": 490,
+    "views": 202613,
+    "likes": 4203,
+    "comments": 501,
     "published": "2026-11-16T11:02:35Z",
-    "vph": 1085,
+    "vph": 1187,
     "rank": 40
-   },
-   {
-    "id": "6rpviS50IYU",
-    "title": "멸망전 시작! 진화된 팀게임 노령진 보여드리겠습니다 [멸망전 1화]",
-    "channel": "샤코타임 Shacotime",
-    "cat": "20",
-    "views": 118519,
-    "likes": 629,
-    "comments": 204,
-    "published": "2026-11-22T15:39:38Z",
-    "vph": 12466,
-    "rank": 41
-   },
-   {
-    "id": "74yGd5Q4Ks4",
-    "title": "[Lyric Video] 김희진 - 불씨",
-    "channel": "희진진자라",
-    "cat": "10",
-    "views": 24375,
-    "likes": 90,
-    "comments": 21,
-    "published": "2026-10-30T03:00:05Z",
-    "vph": 42,
-    "rank": 42
-   },
-   {
-    "id": "5r_YIMVM4MU",
-    "title": "11/22녹) 리니지클래식 사또 안타라스 3성 찾으로 왔습니다",
-    "channel": "스트리머 사또 live-streamer satto",
-    "cat": "20",
-    "views": 128336,
-    "likes": 765,
-    "comments": 24,
-    "published": "2026-11-22T12:48:50Z",
-    "vph": 10388,
-    "rank": 43
-   },
-   {
-    "id": "eqQRPRcoIYo",
-    "title": "Go Easy (from GTAVI: The Album)",
-    "channel": "Dua Lipa - Topic",
-    "cat": "10",
-    "views": 968671,
-    "likes": 26284,
-    "comments": 610,
-    "published": "2026-11-19T10:05:08Z",
-    "vph": 11124,
-    "rank": 44
-   },
-   {
-    "id": "AeXICD73EWQ",
-    "title": "Thank You, kkOma & Tom & Mata",
-    "channel": "T1",
-    "cat": "20",
-    "views": 1376634,
-    "likes": 21611,
-    "comments": 2743,
-    "published": "2026-11-21T09:00:06Z",
-    "vph": 34273,
-    "rank": 45
-   },
-   {
-    "id": "peGBibgqNvc",
-    "title": "It's You",
-    "channel": "JI JIN SEOK - Topic",
-    "cat": "10",
-    "views": 215308,
-    "likes": 7411,
-    "comments": 1,
-    "published": "2026-11-17T03:01:50Z",
-    "vph": 1515,
-    "rank": 46
-   },
-   {
-    "id": "74dolXbroCI",
-    "title": "시청자분께서 만들어주신 *버튼이 투명한* 버튼 찾기",
-    "channel": "YouTube지누",
-    "cat": "20",
-    "views": 260034,
-    "likes": 2101,
-    "comments": 102,
-    "published": "2026-11-22T02:02:33Z",
-    "vph": 11244,
-    "rank": 47
-   },
-   {
-    "id": "eTOnRAaWIIw",
-    "title": "Us",
-    "channel": "Isaac Hong - Topic",
-    "cat": "10",
-    "views": 72112,
-    "likes": 519,
-    "comments": 14,
-    "published": "2026-11-19T09:03:55Z",
-    "vph": 818,
-    "rank": 48
    },
    {
     "id": "qmJm0bogkLM",
     "title": "주도권의 악마들 ｜EP．3화",
     "channel": "피닉스박",
     "cat": "20",
-    "views": 163057,
-    "likes": 617,
-    "comments": 211,
+    "views": 228476,
+    "likes": 778,
+    "comments": 251,
     "published": "2026-11-22T12:48:38Z",
-    "vph": 13195,
+    "vph": 9172,
+    "rank": 41
+   },
+   {
+    "id": "A_H1EH6p4A0",
+    "title": "CL - ‘ICONIC’ M/V",
+    "channel": "THEBLACKLABEL",
+    "cat": "10",
+    "views": 9048837,
+    "likes": 0,
+    "comments": 5829,
+    "published": "2026-11-20T08:59:07Z",
+    "vph": 117924,
+    "rank": 42
+   },
+   {
+    "id": "AdBgUm18rNs",
+    "title": "아레나에 T1 3인방 등장",
+    "channel": "T1 Faker",
+    "cat": "20",
+    "views": 1161799,
+    "likes": 7842,
+    "comments": 344,
+    "published": "2026-11-22T05:00:18Z",
+    "vph": 35513,
+    "rank": 43
+   },
+   {
+    "id": "6POlUfjBIB4",
+    "title": "Sakuranbo",
+    "channel": "YENA - Topic",
+    "cat": "10",
+    "views": 1237763,
+    "likes": 12789,
+    "comments": 254,
+    "published": "2026-11-17T09:01:35Z",
+    "vph": 8324,
+    "rank": 44
+   },
+   {
+    "id": "vpZ0x5GtPd0",
+    "title": "멸망전 최강의 소통 불능과 교전 불가의 만남..",
+    "channel": "게임대장봉준",
+    "cat": "20",
+    "views": 296285,
+    "likes": 606,
+    "comments": 58,
+    "published": "2026-11-22T09:07:53Z",
+    "vph": 10364,
+    "rank": 45
+   },
+   {
+    "id": "9OE7nhqfo70",
+    "title": "That′s Not It",
+    "channel": "Kim Siwon - Topic",
+    "cat": "10",
+    "views": 113829,
+    "likes": 3369,
+    "comments": 5,
+    "published": "2026-11-19T03:01:57Z",
+    "vph": 1067,
+    "rank": 46
+   },
+   {
+    "id": "s1lGUzX-wXI",
+    "title": "맞아도 죽지 않는 의문의 배그 유저",
+    "channel": "주키니TV",
+    "cat": "20",
+    "views": 222600,
+    "likes": 1241,
+    "comments": 84,
+    "published": "2026-11-22T10:30:10Z",
+    "vph": 8179,
+    "rank": 47
+   },
+   {
+    "id": "tB4PXVGF0G4",
+    "title": "It Hurts",
+    "channel": "So Yeon Kim - Topic",
+    "cat": "10",
+    "views": 92976,
+    "likes": 267,
+    "comments": 3,
+    "published": "2026-11-19T09:00:02Z",
+    "vph": 923,
+    "rank": 48
+   },
+   {
+    "id": "9gcITYkQy3g",
+    "title": "GTA6 지리는 공항 탐방 ㄷㄷ",
+    "channel": "슬라이",
+    "cat": "20",
+    "views": 172710,
+    "likes": 657,
+    "comments": 85,
+    "published": "2026-11-22T07:19:10Z",
+    "vph": 5681,
     "rank": 49
    },
    {
-    "id": "dUThbdoat00",
-    "title": "Mili - City Blue [Project Moon 10th Anniversary]",
-    "channel": "Mili",
+    "id": "0JQ9k6kcKVs",
+    "title": "NAYEON “BABY ANGEL” M/V",
+    "channel": "JYP Entertainment",
     "cat": "10",
-    "views": 1615446,
-    "likes": 58207,
-    "comments": 1729,
-    "published": "2026-11-19T11:00:11Z",
-    "vph": 18748,
+    "views": 10778698,
+    "likes": 216784,
+    "comments": 17942,
+    "published": "2026-11-20T05:00:03Z",
+    "vph": 133534,
     "rank": 50
    }
   ],
   "cat_share": [
    [
-    "음악",
+    "게임",
     23
    ],
    [
-    "게임",
-    23
+    "음악",
+    22
    ],
    [
     "엔터테인먼트",
@@ -33087,6 +33099,10 @@
    ],
    [
     "영화/애니",
+    1
+   ],
+   [
+    "뉴스/정치",
     1
    ]
   ],
@@ -33096,83 +33112,83 @@
     "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 5",
     "channel": "MR Latte Green",
     "cat": "22",
-    "views": 22722318,
-    "likes": 59850,
-    "comments": 67,
+    "views": 24674526,
+    "likes": 63752,
+    "comments": 72,
     "published": "2026-11-21T22:00:01Z",
-    "vph": 836368,
-    "rank": 40
+    "vph": 621221,
+    "rank": 45
    },
    {
     "id": "1LQNV9zZ5VA",
     "title": "పాండాల ఎన్‌క్లోజర్‌లో పడిపోయిన చిన్నారి.. రక్షించిన రెండు పాండాలు! | Heartwarming Viral Video",
     "channel": "Tv79 News",
     "cat": "25",
-    "views": 86890802,
+    "views": 89306731,
     "likes": 0,
-    "comments": 26037,
+    "comments": 26849,
     "published": "2026-11-13T12:18:52Z",
-    "vph": 379678,
-    "rank": 27
+    "vph": 369945,
+    "rank": 32
    },
    {
     "id": "0JQ9k6kcKVs",
     "title": "NAYEON “BABY ANGEL” M/V",
     "channel": "JYP Entertainment",
     "cat": "10",
-    "views": 9804389,
-    "likes": 211939,
-    "comments": 17547,
+    "views": 10778698,
+    "likes": 216784,
+    "comments": 17942,
     "published": "2026-11-20T05:00:03Z",
-    "vph": 143828,
-    "rank": 30
+    "vph": 133534,
+    "rank": 50
    },
    {
     "id": "A_H1EH6p4A0",
     "title": "CL - ‘ICONIC’ M/V",
     "channel": "THEBLACKLABEL",
     "cat": "10",
-    "views": 8226483,
+    "views": 9048837,
     "likes": 0,
-    "comments": 5681,
+    "comments": 5829,
     "published": "2026-11-20T08:59:07Z",
-    "vph": 128173,
-    "rank": 24
+    "vph": 117924,
+    "rank": 42
    },
    {
     "id": "S_dbIBGNo6s",
     "title": "어떤 약속은 끝내 기적이 된다 #리센느 #RESCENE",
     "channel": "K덕톡",
     "cat": "24",
-    "views": 6225982,
-    "likes": 85118,
-    "comments": 714,
+    "views": 6919672,
+    "likes": 92770,
+    "comments": 806,
     "published": "2026-11-20T12:45:04Z",
-    "vph": 103050,
-    "rank": 2
+    "vph": 94831,
+    "rank": 3
    },
    {
     "id": "lTotfUohQnc",
-    "title": "“저희 아버지를 아세요..?” 보령의 아들(?)과 함께 헐렁~한 고향 투어｜깡촌캉스2 EP.1 #유재석 #이동욱 #남창희 #이상이",
+    "title": "[EN] “저희 아버지를 아세요..?” 보령의 아들(?)과 함께 헐렁~한 고향 투어｜깡촌캉스2 EP.1 #유재석 #이동욱 #남창희 #이상이",
     "channel": "뜬뜬 DdeunDdeun",
     "cat": "23",
-    "views": 5015938,
-    "likes": 42793,
-    "comments": 5395,
+    "views": 5694307,
+    "likes": 46612,
+    "comments": 5713,
     "published": "2026-11-21T00:00:08Z",
-    "vph": 102021,
-    "rank": 33
+    "vph": 92264,
+    "rank": 29
    },
    {
     "id": "Uz6Ix7I_pIQ",
     "title": "아들의 정학사유",
     "channel": "케슛슛",
     "cat": "22",
-    "views": 3774490,
-    "likes": 40781,
-    "comments": 324,
+    "views": 4356393,
+    "likes": 48672,
+    "comments": 386,
     "published": "2026-11-21T11:00:30Z",
-    "vph": 98913,
+    "vph": 85906,
     "rank": 1
    },
    {
@@ -33180,35 +33196,47 @@
     "title": "의상 찢기 퍼포먼스 ‘절망편vs희망편’",
     "channel": "패션탐정냥",
     "cat": "24",
-    "views": 1858708,
-    "likes": 18189,
-    "comments": 73,
+    "views": 2715277,
+    "likes": 28285,
+    "comments": 123,
     "published": "2026-11-22T05:00:03Z",
-    "vph": 92165,
-    "rank": 15
+    "vph": 82988,
+    "rank": 9
+   },
+   {
+    "id": "wuVbOd_jt4s",
+    "title": "분유 훔치다 잡혀온 아빠가 판사의 동창일 때 생기는 일",
+    "channel": "땅땅땅",
+    "cat": "22",
+    "views": 2853677,
+    "likes": 74802,
+    "comments": 1809,
+    "published": "2026-11-22T02:12:18Z",
+    "vph": 80352,
+    "rank": 4
+   },
+   {
+    "id": "BoeVQFg83m4",
+    "title": "Amazing Motorcycle Side Mirror Repair Technique | Old Broken Mirror Restored Like New!",
+    "channel": "Craft man babu",
+    "cat": "22",
+    "views": 14410393,
+    "likes": 252804,
+    "comments": 946,
+    "published": "2026-11-16T02:15:31Z",
+    "vph": 80298,
+    "rank": 37
    },
    {
     "id": "Ih3Zhc8M-N4",
     "title": "엄마가 두 눈이 보이지 않게 되자 두 딸이 보인 반응ㄷㄷ #동물 #사자",
     "channel": "펫파라치",
     "cat": "15",
-    "views": 5462885,
-    "likes": 63699,
-    "comments": 2110,
+    "views": 5716312,
+    "likes": 66765,
+    "comments": 2193,
     "published": "2026-11-20T07:18:08Z",
-    "vph": 82940,
-    "rank": 1
-   },
-   {
-    "id": "MLhVvn5Cfq8",
-    "title": "야간 스키장에서 한 눈 팔면 안되는 이유",
-    "channel": "편집하는 돼족발",
-    "cat": "23",
-    "views": 3975872,
-    "likes": 35408,
-    "comments": 864,
-    "published": "2026-11-21T01:00:07Z",
-    "vph": 82545,
+    "vph": 72896,
     "rank": 1
    },
    {
@@ -33216,85 +33244,79 @@
     "title": "금수저 봄날의 햇살에게 드래곤이 흰 튤립을 준 이유 #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #정경호 #안은진 #전미도",
     "channel": "아워무비",
     "cat": "22",
-    "views": 2876385,
-    "likes": 27974,
-    "comments": 150,
+    "views": 3470969,
+    "likes": 33646,
+    "comments": 201,
     "published": "2026-11-21T13:09:33Z",
-    "vph": 79880,
+    "vph": 71477,
     "rank": 2
    },
    {
-    "id": "QN2cZUtwhhI",
-    "title": "맥도날드 초코콘 재출시…?! 다시 먹어봤습니다🍦🍫",
-    "channel": "강달달",
-    "cat": "22",
-    "views": 1631301,
-    "likes": 20637,
-    "comments": 286,
-    "published": "2026-11-22T04:05:56Z",
-    "vph": 77426,
-    "rank": 11
+    "id": "Ci9PTlE-UyM",
+    "title": "돈없던 아이는, 캔디에 10만원 태우는 어른이 되었다.",
+    "channel": "이상한 과자가게  weird sweets shop",
+    "cat": "24",
+    "views": 368430,
+    "likes": 8975,
+    "comments": 92,
+    "published": "2026-11-23T08:30:33Z",
+    "vph": 70709,
+    "rank": 34
+   },
+   {
+    "id": "MLhVvn5Cfq8",
+    "title": "야간 스키장에서 한 눈 팔면 안되는 이유",
+    "channel": "편집하는 돼족발",
+    "cat": "23",
+    "views": 4169317,
+    "likes": 37484,
+    "comments": 910,
+    "published": "2026-11-21T01:00:07Z",
+    "vph": 68667,
+    "rank": 1
    },
    {
     "id": "x1TexIFPrZU",
     "title": "대만 야시장에서 군필 티 내버린 BTSㅋㅋ #방탄소년단",
     "channel": "팝픽",
     "cat": "22",
-    "views": 2837798,
-    "likes": 34946,
-    "comments": 476,
+    "views": 3393941,
+    "likes": 42882,
+    "comments": 616,
     "published": "2026-11-21T12:06:46Z",
-    "vph": 76583,
-    "rank": 9
-   },
-   {
-    "id": "nbVtHqZQ2Wg",
-    "title": "라면",
-    "channel": "숏박스",
-    "cat": "23",
-    "views": 4895014,
-    "likes": 25809,
-    "comments": 2621,
-    "published": "2026-11-20T09:00:14Z",
-    "vph": 76289,
-    "rank": 16
-   },
-   {
-    "id": "BoeVQFg83m4",
-    "title": "Amazing Motorcycle Side Mirror Repair Technique | Old Broken Mirror Restored Like New!",
-    "channel": "Craft man babu",
-    "cat": "22",
-    "views": 11758768,
-    "likes": 209633,
-    "comments": 764,
-    "published": "2026-11-16T02:15:31Z",
-    "vph": 70450,
-    "rank": 44
+    "vph": 68417,
+    "rank": 7
    }
   ],
   "rising": [
    {
-    "term": "수능",
-    "today": 18,
-    "base": 11.0,
+    "term": "멸망전",
+    "today": 8,
+    "base": 2.3,
     "new": false
    },
    {
     "term": "웃긴",
-    "today": 11,
+    "today": 9,
     "base": 4.0,
     "new": false
    },
    {
-    "term": "가지",
-    "today": 9,
-    "base": 3.8,
+    "term": "코미디",
+    "today": 7,
+    "base": 3.5,
     "new": false
    },
    {
-    "term": "멸망전",
-    "today": 6,
-    "base": 2.3,
+    "term": "조희대",
+    "today": 7,
+    "base": 3.5,
+    "new": false
+   },
+   {
+    "term": "스토리",
+    "today": 4,
+    "base": 0.5,
     "new": false
    },
    {
@@ -33304,28 +33326,34 @@
     "new": false
    },
    {
+    "term": "유재석",
+    "today": 5,
+    "base": 1.7,
+    "new": false
+   },
+   {
     "term": "방송",
     "today": 9,
     "base": 5.8,
     "new": false
    },
    {
-    "term": "반전드라마",
-    "today": 9,
-    "base": 5.8,
-    "new": false
-   },
-   {
-    "term": "등장",
-    "today": 5,
-    "base": 1.8,
-    "new": false
-   },
-   {
-    "term": "어떻게",
+    "term": "가지",
     "today": 7,
-    "base": 4.0,
+    "base": 3.8,
     "new": false
+   },
+   {
+    "term": "몰래",
+    "today": 5,
+    "base": 2.0,
+    "new": false
+   },
+   {
+    "term": "코스피",
+    "today": 3,
+    "base": 0.0,
+    "new": true
    },
    {
     "term": "kpop",
@@ -33334,15 +33362,39 @@
     "new": false
    },
    {
-    "term": "apec",
+    "term": "다시",
     "today": 5,
     "base": 2.2,
     "new": false
    },
    {
-    "term": "공포게임",
+    "term": "랭킹",
     "today": 5,
-    "base": 2.3,
+    "base": 2.2,
+    "new": false
+   },
+   {
+    "term": "잘못",
+    "today": 4,
+    "base": 1.2,
+    "new": false
+   },
+   {
+    "term": "happy",
+    "today": 3,
+    "base": 0.2,
+    "new": false
+   },
+   {
+    "term": "album",
+    "today": 3,
+    "base": 0.2,
+    "new": false
+   },
+   {
+    "term": "주의",
+    "today": 3,
+    "base": 0.2,
     "new": false
    },
    {
@@ -33352,9 +33404,27 @@
     "new": false
    },
    {
-    "term": "오토바이",
+    "term": "아빠",
+    "today": 5,
+    "base": 2.3,
+    "new": false
+   },
+   {
+    "term": "이게",
+    "today": 5,
+    "base": 2.3,
+    "new": false
+   },
+   {
+    "term": "해외반응",
     "today": 4,
     "base": 1.3,
+    "new": false
+   },
+   {
+    "term": "입고",
+    "today": 3,
+    "base": 0.3,
     "new": false
    },
    {
@@ -33364,21 +33434,27 @@
     "new": false
    },
    {
-    "term": "부정행위",
-    "today": 8,
-    "base": 5.5,
-    "new": false
-   },
-   {
-    "term": "코미디",
-    "today": 6,
-    "base": 3.5,
-    "new": false
-   },
-   {
-    "term": "스토리",
+    "term": "신랑",
     "today": 3,
-    "base": 0.5,
+    "base": 0.3,
+    "new": false
+   },
+   {
+    "term": "ytn",
+    "today": 4,
+    "base": 1.5,
+    "new": false
+   },
+   {
+    "term": "역대급",
+    "today": 6,
+    "base": 3.7,
+    "new": false
+   },
+   {
+    "term": "gta6",
+    "today": 6,
+    "base": 3.7,
     "new": false
    },
    {
@@ -33388,77 +33464,17 @@
     "new": false
    },
    {
-    "term": "유재석",
-    "today": 4,
-    "base": 1.7,
-    "new": false
-   },
-   {
-    "term": "대통령",
-    "today": 4,
-    "base": 1.7,
-    "new": false
-   },
-   {
-    "term": "스텔라이브",
-    "today": 3,
-    "base": 0.7,
-    "new": false
-   },
-   {
-    "term": "감동실화",
-    "today": 3,
-    "base": 0.7,
-    "new": false
-   },
-   {
-    "term": "이유가",
-    "today": 3,
-    "base": 0.7,
-    "new": false
-   },
-   {
-    "term": "동물",
-    "today": 7,
-    "base": 4.8,
-    "new": false
-   },
-   {
-    "term": "리트",
-    "today": 7,
-    "base": 4.8,
-    "new": false
-   },
-   {
-    "term": "시사",
-    "today": 6,
-    "base": 4.0,
-    "new": false
-   },
-   {
-    "term": "여자",
-    "today": 4,
-    "base": 2.0,
-    "new": false
-   },
-   {
-    "term": "감동사연",
-    "today": 3,
-    "base": 1.0,
-    "new": false
-   },
-   {
-    "term": "개그",
-    "today": 3,
-    "base": 1.0,
+    "term": "이거",
+    "today": 5,
+    "base": 2.7,
     "new": false
    }
   ],
-  "total_unique": 487
+  "total_unique": 492
  },
  "google": {
   "date": "2026-11-23",
-  "updated": "2026-11-23 10:10",
+  "updated": "2026-11-23 22:43",
   "today": [
    {
     "q": "리버풀 대 맨유",
@@ -33553,6 +33569,29 @@
     ]
    },
    {
+    "q": "상장",
+    "traffic": 2000,
+    "traffic_label": "2000+",
+    "pub": "Mon, 23 Nov 2026 03:00:00 -0800",
+    "news": [
+     {
+      "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+      "url": "https://www.yna.co.kr/view/AKR20261123100000017",
+      "source": "연합뉴스"
+     },
+     {
+      "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+      "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+      "source": "동아일보"
+     },
+     {
+      "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
+      "url": "https://www.hankyung.com/article/2026112350741",
+      "source": "한국경제"
+     }
+    ]
+   },
+   {
     "q": "liverpool vs man utd",
     "traffic": 1000,
     "traffic_label": "1000+",
@@ -33572,6 +33611,75 @@
       "title": "Liverpool vs Man Utd: The rivalry, the season so far, route to victory and picking the line-up - The Athletic",
       "url": "https://www.nytimes.com/athletic/7798287/2026/11/22/liverpool-manchester-united-premier-league-predictions/",
       "source": "The New York Times"
+     }
+    ]
+   },
+   {
+    "q": "중위소득",
+    "traffic": 1000,
+    "traffic_label": "1000+",
+    "pub": "Mon, 23 Nov 2026 02:10:00 -0800",
+    "news": [
+     {
+      "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
+      "source": "대한민국 정책브리핑"
+     },
+     {
+      "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+      "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+      "source": "뉴시스"
+     },
+     {
+      "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
+      "source": "이데일리"
+     }
+    ]
+   },
+   {
+    "q": "브레인악셀",
+    "traffic": 1000,
+    "traffic_label": "1000+",
+    "pub": "Mon, 23 Nov 2026 02:10:00 -0800",
+    "news": [
+     {
+      "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+      "source": "MBC 뉴스"
+     },
+     {
+      "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+      "url": "https://www.ytn.co.kr/_ln/0106_202611232201517707",
+      "source": "YTN"
+     },
+     {
+      "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
+      "url": "https://news.jtbc.co.kr/article/NB12329434",
+      "source": "JTBC"
+     }
+    ]
+   },
+   {
+    "q": "이진관 판사",
+    "traffic": 1000,
+    "traffic_label": "1000+",
+    "pub": "Mon, 23 Nov 2026 01:40:00 -0800",
+    "news": [
+     {
+      "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+      "url": "https://news.jtbc.co.kr/article/NB12329370",
+      "source": "JTBC"
+     },
+     {
+      "title": "홍준표 “국힘, 기괴한 법률로 이진관 판사 고발···계엄 대국민 사과부터 해라”",
+      "url": "https://weekly.khan.co.kr/article/202611232206001",
+      "source": "주간경향"
+     },
+     {
+      "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
+      "source": "KBS 뉴스"
      }
     ]
    },
@@ -33790,6 +33898,75 @@
     ]
    },
    {
+    "q": "혼다",
+    "traffic": 200,
+    "traffic_label": "200+",
+    "pub": "Mon, 23 Nov 2026 03:50:00 -0800",
+    "news": [
+     {
+      "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+      "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+      "source": "NBC News"
+     },
+     {
+      "title": "Honda recalls over 810,000 vehicles. See the affected models",
+      "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
+      "source": "USA Today"
+     },
+     {
+      "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+      "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+      "source": "Fox Business"
+     }
+    ]
+   },
+   {
+    "q": "반도체 메모리",
+    "traffic": 200,
+    "traffic_label": "200+",
+    "pub": "Mon, 23 Nov 2026 02:40:00 -0800",
+    "news": [
+     {
+      "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+      "url": "https://www.hankyung.com/article/2026112330656",
+      "source": "한국경제"
+     },
+     {
+      "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123024200008",
+      "source": "연합뉴스"
+     },
+     {
+      "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
+      "url": "https://core.asiae.co.kr/article/2026112317430850505",
+      "source": "아시아경제"
+     }
+    ]
+   },
+   {
+    "q": "가석방",
+    "traffic": 200,
+    "traffic_label": "200+",
+    "pub": "Mon, 23 Nov 2026 01:40:00 -0800",
+    "news": [
+     {
+      "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
+      "source": "MBC 뉴스"
+     },
+     {
+      "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
+      "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
+      "source": "머니투데이"
+     },
+     {
+      "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
+      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
+      "source": "한겨레"
+     }
+    ]
+   },
+   {
     "q": "청년문화예술패스",
     "traffic": 100,
     "traffic_label": "100+",
@@ -33885,6 +34062,75 @@
       "title": "Chivu: ‘Inter failed the exam, too soft and shallow’ in wild 4-4 with Atalanta",
       "url": "https://football-italia.net/chivu-inter-failed-the-exam-too-soft-shallow/",
       "source": "Football Italia"
+     }
+    ]
+   },
+   {
+    "q": "m",
+    "traffic": 100,
+    "traffic_label": "100+",
+    "pub": "Mon, 23 Nov 2026 03:00:00 -0800",
+    "news": [
+     {
+      "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+      "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+      "source": "ESPN"
+     },
+     {
+      "title": "Kansas City Royals news: Tarik Skubal gets paid",
+      "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-tarik-130000884.html",
+      "source": "Yahoo Sports"
+     },
+     {
+      "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
+      "url": "https://www.nytimes.com/athletic/7804537/2026/11/22/tarik-skubal-mets-meeting-negotiation-record-contract/",
+      "source": "The New York Times"
+     }
+    ]
+   },
+   {
+    "q": "공항",
+    "traffic": 100,
+    "traffic_label": "100+",
+    "pub": "Mon, 23 Nov 2026 02:50:00 -0800",
+    "news": [
+     {
+      "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
+      "source": "전기신문"
+     },
+     {
+      "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
+      "source": "KBS 뉴스"
+     },
+     {
+      "title": "박남춘 인천공항 사장 “임기 내 취항도시 200개·여객 9000만 명 목표”",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/X6ZGTC42HVGHBP2N6Q3BERNECE/",
+      "source": "Chosunbiz"
+     }
+    ]
+   },
+   {
+    "q": "일론 머스크",
+    "traffic": 100,
+    "traffic_label": "100+",
+    "pub": "Mon, 23 Nov 2026 02:00:00 -0800",
+    "news": [
+     {
+      "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
+      "url": "https://www.hankyung.com/article/2026112340657",
+      "source": "한국경제"
+     },
+     {
+      "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
+      "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+      "source": "YTN 사이언스"
+     },
+     {
+      "title": "머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고",
+      "url": "https://www.chosun.com/economy/tech_it/2026/11/23/OLOIZESXRREYXGQHDWFYHG5UOE/",
+      "source": "조선일보"
      }
     ]
    }
@@ -34489,6 +34735,29 @@
     "last": "2026-11-23"
    },
    {
+    "q": "상장",
+    "traffic": 2000,
+    "news": [
+     {
+      "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+      "url": "https://www.yna.co.kr/view/AKR20261123100000017",
+      "source": "연합뉴스"
+     },
+     {
+      "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+      "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+      "source": "동아일보"
+     },
+     {
+      "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
+      "url": "https://www.hankyung.com/article/2026112350741",
+      "source": "한국경제"
+     }
+    ],
+    "n": 1,
+    "last": "2026-11-23"
+   },
+   {
     "q": "박정훈",
     "traffic": 1000,
     "news": [
@@ -34940,6 +35209,75 @@
     "last": "2026-11-23"
    },
    {
+    "q": "중위소득",
+    "traffic": 1000,
+    "news": [
+     {
+      "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
+      "source": "대한민국 정책브리핑"
+     },
+     {
+      "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+      "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+      "source": "뉴시스"
+     },
+     {
+      "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
+      "source": "이데일리"
+     }
+    ],
+    "n": 1,
+    "last": "2026-11-23"
+   },
+   {
+    "q": "브레인악셀",
+    "traffic": 1000,
+    "news": [
+     {
+      "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+      "source": "MBC 뉴스"
+     },
+     {
+      "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+      "url": "https://www.ytn.co.kr/_ln/0106_202611232201517707",
+      "source": "YTN"
+     },
+     {
+      "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
+      "url": "https://news.jtbc.co.kr/article/NB12329434",
+      "source": "JTBC"
+     }
+    ],
+    "n": 1,
+    "last": "2026-11-23"
+   },
+   {
+    "q": "이진관 판사",
+    "traffic": 1000,
+    "news": [
+     {
+      "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+      "url": "https://news.jtbc.co.kr/article/NB12329370",
+      "source": "JTBC"
+     },
+     {
+      "title": "홍준표 “국힘, 기괴한 법률로 이진관 판사 고발···계엄 대국민 사과부터 해라”",
+      "url": "https://weekly.khan.co.kr/article/202611232206001",
+      "source": "주간경향"
+     },
+     {
+      "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
+      "source": "KBS 뉴스"
+     }
+    ],
+    "n": 1,
+    "last": "2026-11-23"
+   },
+   {
     "q": "디지털 자산",
     "traffic": 500,
     "news": [
@@ -35141,98 +35479,6 @@
       "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
       "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149",
       "source": "머니투데이"
-     }
-    ],
-    "n": 1,
-    "last": "2026-11-19"
-   },
-   {
-    "q": "네이버뉴스",
-    "traffic": 500,
-    "news": [
-     {
-      "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-      "url": "https://www.journalist.or.kr/news/article.html?no=62103",
-      "source": "한국기자협회"
-     },
-     {
-      "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-      "url": "https://www.etnews.com/20261118000308",
-      "source": "전자신문"
-     },
-     {
-      "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
-      "url": "https://zdnet.co.kr/view/?no=20261118201654",
-      "source": "지디넷코리아"
-     }
-    ],
-    "n": 1,
-    "last": "2026-11-19"
-   },
-   {
-    "q": "전도연",
-    "traffic": 500,
-    "news": [
-     {
-      "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-      "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
-      "source": "조선일보"
-     },
-     {
-      "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
-      "url": "https://www.koreadaily.com/article/20261118070139540",
-      "source": "미주중앙일보"
-     },
-     {
-      "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
-      "url": "https://www.newsis.com/view/NISX20261118_0003873770",
-      "source": "뉴시스"
-     }
-    ],
-    "n": 1,
-    "last": "2026-11-19"
-   },
-   {
-    "q": "올랜도 대 필라데피아",
-    "traffic": 500,
-    "news": [
-     {
-      "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-      "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
-      "source": "NBA.com"
-     },
-     {
-      "title": "How Franz Wagner, Magic Can Make Biggest Statement Against LeBron James, 76ers",
-      "url": "https://sports.yahoo.com/articles/franz-wagner-magic-biggest-statement-185057625.html",
-      "source": "Yahoo Sports"
-     },
-     {
-      "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
-      "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
-      "source": "Liberty Ballers"
-     }
-    ],
-    "n": 1,
-    "last": "2026-11-19"
-   },
-   {
-    "q": "nginx",
-    "traffic": 500,
-    "news": [
-     {
-      "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "source": "wiz.io"
-     },
-     {
-      "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
-      "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
-      "source": "Chosunbiz"
-     },
-     {
-      "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
-      "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
-      "source": "Forbes"
      }
     ],
     "n": 1,
