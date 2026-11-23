@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 02:26",
+ "updated": "2026-11-23 10:10",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -11,12 +11,192 @@
  ],
  "items": [
   {
+   "source": "Cointelegraph",
+   "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+   "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-23T00:53:49+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "블록미디어",
+   "title": "오픈AI 수석 과학자 “AI 개발 속도 제한해야…통제 불능 위험 커져”",
+   "url": "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss",
+   "published": "2026-11-23T00:46:31+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 반도체주 급락에 4700선으로…삼전·하이닉스 동반 약세",
+   "url": "https://www.blockmedia.co.kr/archives/1169212?utm_source=general&utm_medium=rss",
+   "published": "2026-11-23T00:21:32+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "엔비디아 주가 반토막 났는데…구형 AI 반도체 임대료는 60% 급등, 의미는?",
+   "url": "https://www.blockmedia.co.kr/archives/1169170?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T23:49:46+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Hong Kong Explores Agentic AI to Catch Crypto Crime as Stablecoins Carry 84% of Illicit Volume",
+   "url": "https://cryptopotato.com/hong-kong-explores-agentic-ai-to-catch-crypto-crime-as-stablecoins-carry-84-of-illicit-volume/",
+   "published": "2026-11-22T23:36:17+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 주말 급락 딛고 6만달러선 회복…추가 반등은 ‘안갯속’",
+   "url": "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T23:17:33+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+   "published": "2026-11-22T23:17:08+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "트럼프 밈코인 99% 폭락…5만5000달러 필요했던 만찬, 이젠 518달러(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169156?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T23:08:10+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "금·은·비트코인 동반 급락…골드만삭스 “이번 주 美 증시 806억달러 매도 가능”",
+   "url": "https://www.blockmedia.co.kr/archives/1169154?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T22:53:19+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-22T22:47:09+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 5만5000달러 찍고 반등…4년 주기설에 바닥론 다시 부상",
+   "url": "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T22:31:23+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인 600만개 공개키 노출…양자컴퓨터 위협에 보안 강화 시급",
+   "url": "https://www.blockmedia.co.kr/archives/1169146?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T22:03:47+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "“비트코인 25만달러 가도 알트코인이 더 오른다”… 란 노이너, 최대 17배 성장 전망",
+   "url": "https://www.blockmedia.co.kr/archives/1169142?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T21:41:08+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s Big Holders Signal Strength, But One Red Flag Looms",
+   "url": "https://cryptopotato.com/bitcoins-big-holders-signal-strength-but-one-red-flag-looms/",
+   "published": "2026-11-22T21:25:35+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "블록미디어",
+   "title": "한전, 고객 개인정보 150만건 유출…주민번호·계좌정보 포함",
+   "url": "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss",
+   "published": "2026-11-22T21:21:00+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+   "published": "2026-11-22T20:58:33+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
+   "url": "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/",
+   "published": "2026-11-22T19:48:41+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "CoinDesk",
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "url": "https://www.coindesk.com/",
+   "published": "2026-11-22T19:30:00+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+   "published": "2026-11-22T18:58:57+00:00",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week",
+   "url": "https://cryptopotato.com/bitcoin-and-ethereum-etf-outflows-stay-in-the-billions-for-another-week/",
+   "published": "2026-11-22T18:15:03+00:00",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "coverage": 0
+  },
+  {
    "source": "CryptoPotato",
    "title": "Trump’s Meme Coin Dinner Is Back Tonight: But This Time Almost Nobody Wants a Seat",
    "url": "https://cryptopotato.com/trumps-meme-coin-dinner-is-back-tonight-but-this-time-almost-nobody-wants-a-seat/",
    "published": "2026-11-22T17:21:27+00:00",
    "coins": [],
-   "coverage": 0
+   "coverage": 2
   },
   {
    "source": "CryptoPotato",
@@ -142,7 +322,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 0
+   "coverage": 1
   },
   {
    "source": "Cointelegraph",
@@ -192,188 +372,6 @@
    "published": "2026-11-22T06:08:45+00:00",
    "coins": [
     "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-22T05:28:43+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "비트코인 6만달러 붕괴…하루 11억달러 강제 청산",
-   "url": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T03:54:24+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "중앙은행들 “금고에 둬야 내 자산”…비트코인은 아직 ‘관망’",
-   "url": "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T03:11:57+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "월가 강세론자 야데니 “S&P500 약세장 아닌 조정”…변수는 연준",
-   "url": "https://www.blockmedia.co.kr/archives/1169091?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T02:20:11+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "크라켄, 캐나다달러 시장서 비트코인 ‘헐값’ 체결…”거래 유지”(종합)",
-   "url": "https://www.blockmedia.co.kr/archives/1169088?utm_source=general&utm_medium=rss",
-   "published": "2026-11-22T01:35:50+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
-   "url": "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/",
-   "published": "2026-11-21T22:57:55+00:00",
-   "coins": [
-    "SOL"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
-   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
-   "published": "2026-11-21T21:17:36+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Dogecoin (DOGE) Flashes a Major Bullish Signal: Big Rebound Ahead?",
-   "url": "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/",
-   "published": "2026-11-21T20:41:16+00:00",
-   "coins": [
-    "DOGE"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-   "published": "2026-11-21T18:51:14+00:00",
-   "coins": [],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Netflix’s FTX Drama ‘The Altruists’ Makes CZ the Villain, but Is That What Really Happened?",
-   "url": "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/",
-   "published": "2026-11-21T18:26:21+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-   "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-   "published": "2026-11-21T18:01:02+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-   "published": "2026-11-21T17:50:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Bitcoin Capitulation Is Here: Why $55K Could Become a Historic Turning Point",
-   "url": "https://cryptopotato.com/bitcoin-capitulation-is-here-why-55k-could-become-a-historic-turning-point/",
-   "published": "2026-11-21T17:10:38+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-   "published": "2026-11-21T17:01:02+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-   "published": "2026-11-21T16:41:00+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Ethereum Price Analysis: Did ETH Hit Its Macro Bottom After a 30% Monthly Drop?",
-   "url": "https://cryptopotato.com/ethereum-price-analysis-did-eth-hit-its-macro-bottom-after-a-30-monthly-drop/",
-   "published": "2026-11-21T16:05:56+00:00",
-   "coins": [
-    "BTC",
-    "ETH"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-   "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-   "published": "2026-11-21T16:01:02+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Short Traders Get Wrecked Too as Bitcoin Climbs Past $60K in Whipsaw Move",
-   "url": "https://cryptopotato.com/short-traders-get-wrecked-too-as-bitcoin-climbs-past-60k-in-whipsaw-move/",
-   "published": "2026-11-21T15:31:35+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "The Block",
-   "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
-   "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
-   "published": "2026-11-21T15:24:14+00:00",
-   "coins": [],
-   "coverage": 2
-  },
-  {
-   "source": "Decrypt",
-   "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-   "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-   "published": "2026-11-21T14:01:06+00:00",
-   "coins": [
-    "BTC",
-    "ETH"
    ],
    "coverage": 0
   }

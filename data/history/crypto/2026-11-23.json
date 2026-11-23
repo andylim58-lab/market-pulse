@@ -76,7 +76,7 @@
    "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
    "published": "2026-11-21T05:40:35+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins": {
@@ -138,7 +138,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
    "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
    "published": "2026-11-21T06:16:42+00:00",
-   "coverage": 0,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -235,7 +235,7 @@
    "url": "https://cryptopotato.com/trumps-meme-coin-dinner-is-back-tonight-but-this-time-almost-nobody-wants-a-seat/",
    "summary": "The meme coin's price continues to hover at prices 99% below its peak.",
    "published": "2026-11-22T17:21:27+00:00",
-   "coverage": 0,
+   "coverage": 2,
    "coins": []
   },
   "https://cryptopotato.com/xrp-dumps-to-key-zone-is-this-the-painful-opportunity-bulls-were-waiting-for/": {
@@ -275,7 +275,7 @@
    "url": "https://cryptopotato.com/robert-kiyosaki-wants-more-bitcoin-after-the-price-collapse-heres-why/",
    "summary": "The popular investor talked about BTC, gold, and silver after the latest market moves.",
    "published": "2026-11-22T09:50:24+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -330,7 +330,7 @@
    "url": "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/",
    "summary": "Is there any hope left for DOGE after falling 65% in the past year?",
    "published": "2026-11-21T20:41:16+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "DOGE"
    ]
@@ -428,7 +428,7 @@
    "url": "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/",
    "summary": "Bitcoin's latest capitulation has put unprecedented pressure on the largest corporate holder.",
    "published": "2026-11-21T06:23:22+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -543,9 +543,209 @@
    "coins": [
     "BTC"
    ]
+  },
+  "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+   "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
+   "published": "2026-11-23T00:53:49+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+   "published": "2026-11-22T22:47:09+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.coindesk.com/": {
+   "source": "CoinDesk",
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "url": "https://www.coindesk.com/",
+   "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+   "published": "2026-11-22T19:30:00+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838": {
+   "source": "The Block",
+   "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+   "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+   "published": "2026-11-22T23:17:08+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828": {
+   "source": "The Block",
+   "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+   "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+   "published": "2026-11-22T20:58:33+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829": {
+   "source": "The Block",
+   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+   "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+   "published": "2026-11-22T18:58:57+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  "https://cryptopotato.com/hong-kong-explores-agentic-ai-to-catch-crypto-crime-as-stablecoins-carry-84-of-illicit-volume/": {
+   "source": "CryptoPotato",
+   "title": "Hong Kong Explores Agentic AI to Catch Crypto Crime as Stablecoins Carry 84% of Illicit Volume",
+   "url": "https://cryptopotato.com/hong-kong-explores-agentic-ai-to-catch-crypto-crime-as-stablecoins-carry-84-of-illicit-volume/",
+   "summary": "Hong Kong's stablecoin surveillance framework is only starting to run, months after the first issuer licenses.",
+   "published": "2026-11-22T23:36:17+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cryptopotato.com/bitcoins-big-holders-signal-strength-but-one-red-flag-looms/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin’s Big Holders Signal Strength, But One Red Flag Looms",
+   "url": "https://cryptopotato.com/bitcoins-big-holders-signal-strength-but-one-red-flag-looms/",
+   "summary": "More wallets are joining Bitcoin's 10 BTC club, yet declining whale holdings suggest accumulation is still missing from the picture.",
+   "published": "2026-11-22T21:25:35+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/": {
+   "source": "CryptoPotato",
+   "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
+   "url": "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/",
+   "summary": "Federal rules have banned war, terrorism, and assassination contracts outright since 2011. The CFTC proposed in June to swap that ban for case-by-case reviews, while judging war contracts highly likely to fail them.",
+   "published": "2026-11-22T19:48:41+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/bitcoin-and-ethereum-etf-outflows-stay-in-the-billions-for-another-week/": {
+   "source": "CryptoPotato",
+   "title": "Bitcoin and Ethereum ETF Outflows Stay in the Billions for Another Week",
+   "url": "https://cryptopotato.com/bitcoin-and-ethereum-etf-outflows-stay-in-the-billions-for-another-week/",
+   "summary": "The BTC ETFs have lost over $1 billion in all full weeks in November.",
+   "published": "2026-11-22T18:15:03+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "오픈AI 수석 과학자 “AI 개발 속도 제한해야…통제 불능 위험 커져”",
+   "url": "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 오픈AI의 수석 과학자가 인공지능(AI) 기술의 발전 속도를 제한하기 위한 업계 차원의 공동 기준이 필요하다고 주장했다. AI가 스스로 기술 개발에 참여하는 단계에 접어들면 성능 향상 속도가 안전성 연구를 앞지를 수 있다는 우려에서다. 22일(현지시각) 야쿠프 파초키 오픈AI 수석 과학자는 공개한 글에서 AI 기업들이 모델 성능을 측정할 수 있는 객관적인 지표를 바탕으로 개발 한계를 설정해야 [...]",
+   "published": "2026-11-23T00:46:31+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169212?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 반도체주 급락에 4700선으로…삼전·하이닉스 동반 약세",
+   "url": "https://www.blockmedia.co.kr/archives/1169212?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 미국 반도체주 급락 여파로 하락 출발했다. 다만 외국인과 기관이 순매수에 나서면서, 정부의 증권시장안정펀드(증안펀드) 가동 준비가 급락한 투자심리를 진정시킬 수 있을지 관심이 쏠린다. 23일 한국거래소에 따르면 오전 9시13분 기준 코스피는 전 거래일보다 113.09포인트(2.32%) 내린 4756.87을 기록했다. 투자자별로는 외국인이 1844억원, 기관이 345억원어치를 순매수한 반면 개인은 2238억원어치를 순매도했다. 시가총액 상위 종목은 대체로 약세다. 삼성전자는 [...]",
+   "published": "2026-11-23T00:21:32+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169170?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "엔비디아 주가 반토막 났는데…구형 AI 반도체 임대료는 60% 급등, 의미는?",
+   "url": "https://www.blockmedia.co.kr/archives/1169170?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 미국 인공지능(AI) 반도체 기업 엔비디아의 주가가 고점 대비 절반 가까이 하락했지만 구형 그래픽처리장치(GPU)의 임대료는 오히려 급등한 것으로 나타났다. AI 산업의 과잉 투자와 수익성에 대한 우려가 주식시장을 압박하는 가운데 실제 반도체 임대 시장에서는 여전히 높은 수요가 확인되고 있다. 22일(현지시각) 야후파이낸스에 따르면 엔비디아의 H100 GPU 시간당 임대료는 최근 1년간 약 60% 상승한 3.11달러를 기록했다. [...]",
+   "published": "2026-11-22T23:49:46+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 주말 급락 딛고 6만달러선 회복…추가 반등은 ‘안갯속’",
+   "url": "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 주말 한때 5만5000달러대까지 급락한 이후 6만달러선을 회복했다. 디지털자산(가상자산) 시장에서 대규모 강제청산이 발생하면서 매도 압력이 일부 해소된 영향이다. 다만 미국 기술주 급락과 기관투자자 자금 이탈이 이어지고 있어 반등세가 지속될지는 불확실하다는 분석이 나온다. 23일 오전 8시4분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 1.18% 상승한 8357만3000원에 거래됐다. 글로벌 거래소 바이낸스에서는 [...]",
+   "published": "2026-11-22T23:17:33+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169156?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "트럼프 밈코인 99% 폭락…5만5000달러 필요했던 만찬, 이젠 518달러(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1169156?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 도널드 트럼프 미국 대통령이 자신의 이름을 내건 밈코인 ‘오피셜 트럼프(TRUMP)’ 보유자를 대상으로 두 번째 만찬을 개최했지만 투자자들의 참여 열기는 크게 식은 것으로 나타났다. TRUMP 토큰 가격이 최고점 대비 약 99% 폭락한 가운데 행사 참가 기준도 지난해보다 대폭 낮아졌다. 22일(현지시각) 워싱턴포스트 등에 따르면 이날 미국 버지니아주 트럼프 내셔널 골프클럽에서 열린 만찬에는 TRUMP 토큰 [...]",
+   "published": "2026-11-22T23:08:10+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1169154?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "금·은·비트코인 동반 급락…골드만삭스 “이번 주 美 증시 806억달러 매도 가능”",
+   "url": "https://www.blockmedia.co.kr/archives/1169154?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 미국 증시와 금·은·비트코인 등 주요 자산이 동반 하락한 가운데 이번 주 금융시장의 변동성이 한층 확대될 수 있다는 전망이 나온다. 미국의 추가 금리 인상 우려와 기술주 약세가 이어지는 상황에서 대규모 주식 매도 물량까지 출회될 가능성이 제기됐다. 시장에서는 추수감사절 연휴를 앞두고 거래량이 감소하는 만큼 작은 매도 압력에도 자산 가격이 크게 움직일 수 있다는 우려가 [...]",
+   "published": "2026-11-22T22:53:19+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 5만5000달러 찍고 반등…4년 주기설에 바닥론 다시 부상",
+   "url": "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인이 5만5000달러까지 급락한 뒤 6만달러선을 회복하면서 시장의 바닥 형성 가능성에 관심이 쏠리고 있다. 과거 4년 주기로 반복된 비트코인 약세장 패턴을 근거로 이번 하락이 마지막 조정 국면일 수 있다는 분석이 나온다. 22일(현지시각) 디지털자산 전문매체 유투데이와 트레이딩뷰에 따르면 비트코인은 지난 21일 5만5081달러까지 하락했다. 2024년 9월 이후 최저 수준이다. 이후 반등에 성공하며 22일에는 6만583달러 부근에서 [...]",
+   "published": "2026-11-22T22:31:23+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169146?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 600만개 공개키 노출…양자컴퓨터 위협에 보안 강화 시급",
+   "url": "https://www.blockmedia.co.kr/archives/1169146?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인 유통량의 약 31%에 해당하는 600만개 이상의 비트코인 공개키가 블록체인상에 노출된 것으로 나타났다. 양자컴퓨터 기술 발전에 따른 보안 위협이 커지는 가운데 기존 암호화 기술을 개선하는 것만으로는 충분하지 않으며 이용자 자산을 새로운 보안 체계로 이전해야 한다는 지적이 나왔다. 22일(현지시각) 코인데스크 등을 인용한 체인캐처 보도에 따르면 레오 판 시식(Cysic) 최고경영자(CEO)는 비트코인의 양자컴퓨터 위협에 대응하기 [...]",
+   "published": "2026-11-22T22:03:47+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169142?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "“비트코인 25만달러 가도 알트코인이 더 오른다”… 란 노이너, 최대 17배 성장 전망",
+   "url": "https://www.blockmedia.co.kr/archives/1169142?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 다음 디지털자산 강세장에서는 비트코인보다 중소형 알트코인의 상승 잠재력이 더 클 수 있다는 전망이 나왔다. 특히 거래 수수료를 활용해 자체 토큰을 매입하는 플랫폼이 새로운 투자 기회로 부상할 수 있다는 분석이다. 22일(현지시각) 미국 경제매체 벤징가에 따르면 란 노이너 크립토 밴터 창업자는 최근 팟캐스트 ‘웬 시프트 해픈스(When Shift Happens)’에 출연해 비트코인이 25만달러까지 상승하더라도 일부 알트코인의 [...]",
+   "published": "2026-11-22T21:41:08+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "한전, 고객 개인정보 150만건 유출…주민번호·계좌정보 포함",
+   "url": "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 한국전력에서 고객과 기업 관계자 등 약 153만명의 개인정보가 유출되는 사고가 발생했다. 유출 정보에는 주민등록번호와 은행 계좌번호 등 민감한 정보도 포함됐다. 22일 한국전력에 따르면 고객 서비스 플랫폼 ‘한전ON’ 이용자 65만487명과 전자조달시스템(SRM) 이용자 약 87만명의 개인정보가 유출됐다. 한전ON에서는 고객 이름과 주민등록번호, 전화번호, 주소, 은행 계좌번호, 카드번호, 요금 및 청구정보 등 12개 항목이 유출됐다. 전자조달시스템에서는 [...]",
+   "published": "2026-11-22T21:21:00+00:00",
+   "coverage": 0,
+   "coins": []
   }
  },
- "updated": "2026-11-23 02:26",
+ "updated": "2026-11-23 10:10",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
