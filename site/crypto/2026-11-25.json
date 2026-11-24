@@ -1,0 +1,87 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25 06:40",
+ "market_note": "전체 코인 시가총액은 약 2.05조 달러로 24시간 새 약 2.4% 줄었고, 비트코인 점유율은 58.6%예요. 코인마켓캡 공포·탐욕 지수는 8(극도의 공포)입니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "비트코인 6만 달러 안팎으로 후퇴… 11월 ETF 순유출은 역대 최대",
+   "title_en": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+   "summary": [
+    "월요일 한때 6만 4,000달러를 넘었던 비트코인이 상승분을 반납하고 6만 달러 안팎으로 밀렸어요.",
+    "미국 현물 비트코인 ETF에서는 하루 5억 7,000만 달러가 빠지며 5일 연속 순유출이 이어졌고, 11월 누적 순유출은 47억 1,000만 달러로 6월의 기존 기록을 넘었어요."
+   ],
+   "why": "기관 자금 이탈과 12월 미국 금리 인상 전망이 겹쳐, 연말 투자 심리와 업계 마케팅 지출을 보수적으로 볼 필요가 있어요.",
+   "coins": ["BTC"],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+   "published": "2026-11-24T12:36:00+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "금융위 디지털자산법 초안 공개… 거래소 지분 20% 상한, 국내 ICO 허용",
+   "title_en": "South Korea Drafts Over 50% Bank-Ownership Rule for Stablecoin Issuers, Cap on Exchange Stakes",
+   "summary": [
+    "금융위원회 초안은 원화 스테이블코인 발행을 은행권 지분이 50%를 넘는 구조로 제한하고, 거래소 개별 주주 지분은 원칙적으로 20%(승인 시 최대 34%)까지만 허용해요.",
+    "2017년부터 막혔던 국내 ICO는 다시 허용하는 방향이며, 법안은 국회 논의를 거쳐야 확정돼요."
+   ],
+   "why": "거래소 지배구조, 스테이블코인 사업 주도권, 국내 토큰 발행 시장의 문이 한꺼번에 걸린 법안이에요.",
+   "coins": [],
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/cryptocurrency/south-korea-drafts-over-50-bank-ownership-rule-for-stablecoin-issuers-cap-on-exchange-stakes/",
+   "published": "2026-11-24T16:06:00+00:00",
+   "coverage": 5,
+   "cmc_url": ""
+  },
+  {
+   "rank": 3,
+   "title_ko": "美 법무부, 바이낸스 해킹 관련 11억 달러 USDC 몰수 절차 착수",
+   "title_en": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+   "summary": [
+    "미국 법무부가 북한 연계로 지목된 바이낸스 해킹과 관련해 11억 달러가 넘는 USDC를 몰수하기 위한 민사 소송을 냈어요.",
+    "10월 29일 발생한 64억 달러 규모 해킹의 자금 일부는 믹싱을 거쳤고, 약 23억 5,000만 달러는 여전히 탈취 연계 주소에 남아 있는 것으로 전해졌어요."
+   ],
+   "why": "대형 거래소의 보안 위험과 함께, 스테이블코인은 발행사 협조 아래 동결·회수 절차가 가능하다는 점을 보여줘요.",
+   "coins": ["USDC"],
+   "source": "Decrypt",
+   "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+   "published": "2026-11-24T14:13:03+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/usd-coin/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "스트래티지, 457 BTC 추가 매수… 우선주 매입엔 더 큰돈",
+   "title_en": "Strategy Buys 457 Bitcoin but Spends Seven Times More on $212 Million STRC Buybacks",
+   "summary": [
+    "스트래티지는 11월 22일까지 한 주 동안 평균 6만 4,898달러에 457 BTC(약 2,960만 달러)를 사들여 보유량이 85만 1,305 BTC가 됐어요.",
+    "같은 기간 우선주 STRC를 되사는 데에는 약 2억 1,180만 달러를 써, 비트코인 매수액의 약 7배에 달했어요."
+   ],
+   "why": "대표적인 기업 보유자가 매수를 이어가면서도 우선주 매입에 훨씬 큰돈을 쓰고 있어, 기업발 매수 여력을 가늠하는 신호예요.",
+   "coins": ["BTC"],
+   "source": "CoinReporter",
+   "url": "https://www.coinreporter.io/2026/11/strategy-buys-457-bitcoin-212-million-strc-buybacks/",
+   "published": "2026-11-24T17:45:22+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "금융위, 중대 민생범죄로 계좌 정지 확대 추진… 코인 트래블룰은 전면 적용",
+   "title_en": "이억원 \"중대민생범죄 계좌 정지 확대… 자금세탁 철저 대응\"",
+   "summary": [
+    "금융위원장은 특금법을 고쳐 불법사금융·사기·도박·마약 같은 중대 민생범죄에도 계좌 거래정지를 할 수 있게 하겠다고 밝혔어요.",
+    "100만 원 이상 이전에 적용하던 트래블룰(송·수신인 정보 제공)은 내년 2월부터 모든 가상자산 이전으로 넓어져요."
+   ],
+   "why": "국내 가상자산 사업자는 정보 확인·모니터링 부담이 늘고, 송금 과정의 고객 안내도 손봐야 해요.",
+   "coins": [],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611231815066357",
+   "published": "2026-11-23T09:15:00+00:00",
+   "coverage": 5,
+   "cmc_url": ""
+  }
+ ]
+}
