@@ -229,7 +229,221 @@
      "source": "서울경제"
     }
    ]
+  },
+  "대전 서남부 종합스포츠타운": {
+   "q": "대전 서남부 종합스포츠타운",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 19:40:00 -0800",
+   "news": [
+    {
+     "title": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
+     "url": "https://www.yna.co.kr/view/AKR20261124044400063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "대전 서남부종합스포츠타운 시공사에 계룡컨소 선정",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880757",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  "그랜드 테프트 오토 vi": {
+   "q": "그랜드 테프트 오토 vi",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Mon, 23 Nov 2026 19:30:00 -0800",
+   "news": [
+    {
+     "title": "GTA 6가 증명한 30프레임의 가치",
+     "url": "https://www.itworld.co.kr/article/4251830/gta-6%EA%B0%80-%EC%A6%9D%EB%AA%85%ED%95%9C-30%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B0%80%EC%B9%98.html",
+     "source": "www.itworld.co.kr"
+    },
+    {
+     "title": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
+     "url": "https://zdnet.co.kr/view/?no=20261124092222",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "'그랜드 테프트 오토 6', 출시 첫날 매출 38억 달러로 역대 최고 기록 달성",
+     "url": "https://hypebeast.kr/2026/11/grand-theft-auto-6-generates-record-breaking-3-8-billion-usd-first-day-sales",
+     "source": "Hypebeast.KR"
+    }
+   ]
+  },
+  "12월 3일": {
+   "q": "12월 3일",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 19:30:00 -0800",
+   "news": [
+    {
+     "title": "12월 3일 국가기념일 된다… 李 “계엄군 맞선 위대한 국민 승리 기려야”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868128_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  "중고": {
+   "q": "중고",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Mon, 23 Nov 2026 19:20:00 -0800",
+   "news": [
+    {
+     "title": "중고나라, '지도 기반 상품 탐색' 기능 도입",
+     "url": "https://zdnet.co.kr/view/?no=20261124132656",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "중고나라, 지도 기반 상품 탐색 기능 도입",
+     "url": "https://www.etnews.com/20261124000048",
+     "source": "전자신문"
+    },
+    {
+     "title": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
+     "url": "https://www.viva100.com/article/20261124500349",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  "삼성전자 임원 인사": {
+   "q": "삼성전자 임원 인사",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Mon, 23 Nov 2026 19:20:00 -0800",
+   "news": [
+    {
+     "title": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880254",
+     "source": "뉴시스"
+    },
+    {
+     "title": "삼성전자, 부사장 39명 등 131명 승진 인사(종합)",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446185",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  "장학금": {
+   "q": "장학금",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 19:20:00 -0800",
+   "news": [
+    {
+     "title": "계룡장학재단, 전국체전 대전 우수입상자 장학금 수여…“체육 인재 성장 응원\"",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/23/2026112350377.html",
+     "source": "뉴데일리 충청세종"
+    },
+    {
+     "title": "계룡장학재단, 전국체전 대전 우수선수에 2130만원 장학금",
+     "url": "https://www.newsis.com/view/NISX20261123_0003879900",
+     "source": "뉴시스"
+    },
+    {
+     "title": "대전시교육청, 체육 꿈나무 78명에 장학금 4680만 원 지원 - 보도자료 | 기사",
+     "url": "https://news.tf.co.kr/read/releasecopy/2392657.htm",
+     "source": "더팩트"
+    }
+   ]
+  },
+  "반포자이": {
+   "q": "반포자이",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Mon, 23 Nov 2026 19:20:00 -0800",
+   "news": [
+    {
+     "title": "반포자이 보유세, 올해 1809만원→내년 2641만원",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "이헌욱 부동산원장, 공시가 조사 현장 찾아…\"신뢰할 수 있는 업무 구현\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446056",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "2027년 보유세 계산서 — 공시가격 69% 유지와 종부세 개편 첫해, 서울 30단지 84㎡의 실거주·비거주 세금",
+     "url": "https://contents.premium.naver.com/plaform/bg/contents/261124001433004tm",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  "윤하정": {
+   "q": "윤하정",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Mon, 23 Nov 2026 19:20:00 -0800",
+   "news": []
+  },
+  "k9 자주포": {
+   "q": "k9 자주포",
+   "traffic": 5000,
+   "traffic_label": "5000+",
+   "pub": "Mon, 23 Nov 2026 19:10:00 -0800",
+   "news": [
+    {
+     "title": "[단독] K-9 자주포 베트남에 추가 수출",
+     "url": "https://view.asiae.co.kr/article/2026112408492883586",
+     "source": "아시아경제"
+    },
+    {
+     "title": "한화에어로, 베트남에 'K-9' 자주포 추가 수출 전망",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=556249",
+     "source": "뉴스저널리즘"
+    },
+    {
+     "title": "[단독] K-9 자주포 베트남에 추가 수출된다",
+     "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026112408492883586",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  "농업": {
+   "q": "농업",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Mon, 23 Nov 2026 19:10:00 -0800",
+   "news": [
+    {
+     "title": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
+     "url": "https://www.kyeonggi.com/article/20261124580108",
+     "source": "경기일보"
+    },
+    {
+     "title": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
+     "source": "중도일보"
+    },
+    {
+     "title": "파주시, 미래농업 혁신타운 조성 본격 추진",
+     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315245",
+     "source": "전국매일신문"
+    }
+   ]
   }
  },
- "updated": "2026-11-24 06:42"
+ "updated": "2026-11-24 14:01"
 }
