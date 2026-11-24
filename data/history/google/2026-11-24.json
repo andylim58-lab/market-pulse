@@ -443,7 +443,237 @@
      "source": "전국매일신문"
     }
    ]
+  },
+  "주우재": {
+   "q": "주우재",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 24 Nov 2026 05:00:00 -0800",
+   "news": [
+    {
+     "title": "허경환, 데뷔 20주년 맞이 키 크는 수술을 결심하다?! | KBS 261124 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC4&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880179",
+     "source": "뉴시스"
+    },
+    {
+     "title": "주우재 \"허경환에 2억까지 빌려줄 수 있다\" 특급 의리(옥문아)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GQ3DMOLGMU4DMNRSG4YDOYZTME/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  "꽁안 하노이 fc 대 비셀 고베": {
+   "q": "꽁안 하노이 fc 대 비셀 고베",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 24 Nov 2026 04:50:00 -0800",
+   "news": [
+    {
+     "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
+     "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "Coach Polking and Filip Nguyen share the same anxieties, while Vissel Kobe's coach says 'every CAHN player is dangerous'.",
+     "url": "https://www.vietnam.vn/en/hlv-polking-va-filip-nguyen-cung-chung-noi-bat-an-hlv-vissel-kobe-cau-thu-cahn-nao-cung-nguy-hiem",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
+     "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
+     "source": "Báo Nghệ An"
+    }
+   ]
+  },
+  "화재": {
+   "q": "화재",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Tue, 24 Nov 2026 04:50:00 -0800",
+   "news": [
+    {
+     "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721431",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "부산 일가족 3명 사망 화재 감식…기름통 발견돼 연관성 조사",
+     "url": "https://www.yna.co.kr/view/AKR20261124099800051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241423188797_005.html",
+     "source": "YTN"
+    }
+   ]
+  },
+  "united arab emirates national cricket team vs india a cricket team standings": {
+   "q": "united arab emirates national cricket team vs india a cricket team standings",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Tue, 24 Nov 2026 04:40:00 -0800",
+   "news": [
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177203/player/6322/batting?inningsId=1",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "'Had a feeling I would score a hundred': India-born Harpreet Bhatia's emotional ton on Guru Nanak Jayant",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/had-a-feeling-i-would-score-a-hundred-india-born-harpreet-bhatias-emotional-ton-on-guru-nanak-jayanti-against-india-a/articleshow/136126818.cms",
+     "source": "The Times of India"
+    },
+    {
+     "title": "Asia Cup Rising Stars: India 'A' vs United Arab Emirates in Doha on November 24, 2026",
+     "url": "https://www.thehindu.com/sport/cricket/asia-cup-rising-stars-india-a-vs-uae-in-doha/article71737454.ece",
+     "source": "The Hindu"
+    }
+   ]
+  },
+  "대전 하나 시티즌 대 베이징 궈안 순위": {
+   "q": "대전 하나 시티즌 대 베이징 궈안 순위",
+   "traffic": 20000,
+   "traffic_label": "20000+",
+   "pub": "Tue, 24 Nov 2026 04:10:00 -0800",
+   "news": [
+    {
+     "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출'... 포항은 日 교토에 패배(종합) - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112422205886486",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'전반에만 3골 폭발' 대전, 안방에서 中 베이징 3-2 격파! ACLE 연패 탈출...16강 진출 희망 살렸다",
+     "url": "https://www.chosun.com/sports/football/2026/11/24/GQYWCNBTGZSGCOBQGM2DOZJVMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'마사 결승골' 대전, ACLE서 베이징 3-2 제압…포항은 교토에 패배",
+     "url": "https://www.news1.kr/sports/soccer/6364852",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "치안감": {
+   "q": "치안감",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Tue, 24 Nov 2026 04:10:00 -0800",
+   "news": [
+    {
+     "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
+     "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
+     "url": "https://www.kyeongin.com/article/1775292",
+     "source": "경인일보"
+    },
+    {
+     "title": "부안 출신 김병기 경찰청 경비국장, 치안정감 승진 내정",
+     "url": "https://www.jjan.kr/article/20261124500092",
+     "source": "전북일보 인터넷신문"
+    }
+   ]
+  },
+  "비": {
+   "q": "비",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Tue, 24 Nov 2026 04:00:00 -0800",
+   "news": [
+    {
+     "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
+     "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "'틈만나면,' 비, 체지방률 0%의 반전 식성…\"죽기 전 치즈버거 먹고파\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112408057243137",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘틈만나면’ 비, “지방간 있다” 충격 고백…'LDL 고민' 유연석과 ‘40대 건강 수다’",
+     "url": "https://www.viva100.com/article/20261123501391",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  "최재훈": {
+   "q": "최재훈",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Tue, 24 Nov 2026 03:50:00 -0800",
+   "news": [
+    {
+     "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
+     "url": "https://www.viva100.com/article/20261124500737",
+     "source": "브릿지경제"
+    },
+    {
+     "title": "[동정] 최재훈 달성군수",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
+     "source": "아시아뉴스통신"
+    },
+    {
+     "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  "陈吉宁": {
+   "q": "陈吉宁",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Tue, 24 Nov 2026 03:50:00 -0800",
+   "news": [
+    {
+     "title": "被认为是中国国家主席习近平接班人候选人的上海市委书记陈吉宁因涉嫌\"严重违纪违法\"正在接受反腐败调查。",
+     "url": "https://www.mk.co.kr/cn/world/12217544",
+     "source": "매일경제"
+    },
+    {
+     "title": "快訊:上海市委書記陳吉寧被調查",
+     "url": "https://www.ntdtv.com/gb/2026/11/24/a104153275.html",
+     "source": "新唐人電視台"
+    },
+    {
+     "title": "上海书记陈吉宁被查：二十届政治局4名委员落马 反腐力度创纪录",
+     "url": "https://global.hk01.com/%E4%B8%AD%E5%9B%BD%E8%A7%82%E5%AF%9F/60414592/%E4%B8%8A%E6%B5%B7%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5-%E4%BA%8C%E5%8D%81%E5%B1%8A%E6%94%BF%E6%B2%BB%E5%B1%804%E5%90%8D%E5%A7%94%E5%91%98%E8%90%BD%E9%A9%AC-%E5%8F%8D%E8%85%90%E5%8A%9B%E5%BA%A6%E5%88%9B%E7%BA%AA%E5%BD%95",
+     "source": "香港01"
+    }
+   ]
+  },
+  "무궁화호": {
+   "q": "무궁화호",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Tue, 24 Nov 2026 03:40:00 -0800",
+   "news": [
+    {
+     "title": "코레일, 새 단장한 무궁화호 첫 운행…2028년까지 객차 280칸 개량",
+     "url": "https://www.donga.com/news/Economy/article/all/20261124/135084379/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "새로 리모델링한 무궁화호 운행 시작…주행장치 개량, 화장실도 정비",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026112420515281681",
+     "source": "부산일보"
+    },
+    {
+     "title": "\"퇴물에서 신차급으로\" 680억 들여 환골탈태한 무궁화호 [PHOTO]",
+     "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18289",
+     "source": "철도경제신문"
+    }
+   ]
   }
  },
- "updated": "2026-11-24 14:01"
+ "updated": "2026-11-24 23:19"
 }
