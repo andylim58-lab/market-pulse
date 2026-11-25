@@ -1,0 +1,94 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26 06:21",
+ "market_note": "11월 26일 오전 4시 38분(한국시간) 집계에서 전체 코인 시가총액은 약 2.06조 달러(24시간 +0.7%), 비트코인은 약 6만 50달러, 점유율은 58.6%예요. 장중 급락이 있었고, 코인마켓캡 공포·탐욕 지수는 9(극도의 공포)입니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "뜨거운 물가와 관세 우려에 비트코인 5만 7천 달러대까지",
+   "title_en": "Bitcoin Falls Toward $57,000 as US Inflation and Tariff Fears Hit Markets",
+   "summary": [
+    "비트코인은 25일(현지시간) 비트스탬프 거래소에서 장중 5만 7,209달러까지 밀려 하루 낙폭이 최대 4.2%였고, 24시간 동안 약 5억 1,200만 달러의 코인 파생 포지션이 강제 청산됐어요.",
+    "10월 미국 근원 PCE 물가가 전년 대비 3.3%로 예상(3.2%)을 웃돌고 관세 우려까지 겹치면서, 나스닥도 4.2% 떨어진 것으로 보도됐어요."
+   ],
+   "why": "물가발 금리 인상 걱정이 주식과 코인을 함께 누르고 있어, 투자 심리에 민감한 광고·마케팅 예산은 보수적으로 볼 국면이에요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "TechJuice",
+   "url": "https://www.techjuice.pk/bitcoin-falls-toward-57000-as-us-inflation-and-tariff-fears-hit-markets/",
+   "published": "2026-11-25T18:50:27+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "美 비트코인 ETF, 11월 순유출 49억 4천만 달러로 월간 최대",
+   "title_en": "Bitcoin ETF Outflows Near $5 Billion As Tariffs Hit, What To Do Now",
+   "summary": [
+    "미국 현물 비트코인 ETF의 11월 누적 순유출이 약 49억 4,000만 달러로, 6월의 기존 월간 기록(약 45억 달러)을 넘어섰어요.",
+    "23일에는 약 5억 6,970만 달러, 24일에는 약 2억 3,160만 달러가 빠졌고, 23일 유출의 대부분은 블랙록 IBIT(약 5억 930만 달러)에서 나왔어요."
+   ],
+   "why": "2024년 1월 출시 이후 가장 큰 월간 이탈이라, 기관 자금이 돌아오는지가 반등을 판단할 핵심 지표예요.",
+   "coins": [
+    "BTC"
+   ],
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/25/bitcoin-etf-outflows-near-5-billion-as-tariffs-hit-what-to-do-now/",
+   "published": "2026-11-25T19:45:00+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "美 CFTC 실무진, 비트코인·이더리움을 거래소·청산소 재무 요건에 인정",
+   "title_en": "CFTC Staff: Bitcoin, Ether, and Payment Stablecoins May Count Toward Exchange and Clearinghouse Financial Resources, but not Liquidity Requirements",
+   "summary": [
+    "미국 상품선물거래위원회(CFTC) 실무 부서는 23일 권고문에서 파생상품 거래 플랫폼과 청산기관이 1년치 운영비 재원에 비트코인·이더리움·결제용 스테이블코인을 포함할 수 있다고 안내했어요. 가치 차감률은 비트코인·이더리움 최소 20%, 스테이블코인 2%예요.",
+    "다만 유동성 요건은 코인으로 채울 수 없고, 이 권고는 실무진 의견이라 새 규칙이나 제재 면제 확약은 아니에요."
+   ],
+   "why": "코인이 제한적이나마 제도권 금융 인프라의 재무 자산으로 다뤄지기 시작했다는 신호예요.",
+   "coins": [
+    "BTC",
+    "ETH"
+   ],
+   "source": "Croke Fairchild Duarte & Beres",
+   "url": "https://crokefairchild.com/2026/11/cftc-staff-bitcoin-ether-and-payment-stablecoins-may-count-toward-exchange-and-clearinghouse-financial-resources-but-not-liquidity-requirements/",
+   "published": "2026-11-25T23:37:07+00:00",
+   "coverage": 5,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "거래소 지분 20% 상한, 네이버·두나무 '100% 자회사' 구조에 변수",
+   "title_en": "거래소 지분 20% 묶이면…네이버·두나무 '100% 자회사' 구조 변수",
+   "summary": [
+    "24일 공개된 디지털자산법 정부안은 거래 플랫폼 대주주 지분을 20%(금융위 승인 시 최대 34%)로 제한하고 초과분의 의결권을 막아, 네이버파이낸셜이 업비트 운영사 두나무를 완전 자회사로 편입하려는 계획과 부딪혀요.",
+    "유예기간은 기본 3년(중소 거래소는 최대 6년)이며, 네이버는 지분 조정을 내부에서 검토한 적이 없다고 밝혔어요."
+   ],
+   "why": "국내 1위 거래소와 대형 플랫폼의 결합 방식이 달라질 수 있어, 간편결제·커머스와 코인을 잇는 사업 일정도 지켜봐야 해요.",
+   "coins": [],
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/11/24/2026112414214739152",
+   "published": "2026-11-24T06:32:37+00:00",
+   "coverage": 4,
+   "cmc_url": ""
+  },
+  {
+   "rank": 5,
+   "title_ko": "우크라이나 의회, 가상자산 합법화·과세 법안 최종 통과",
+   "title_en": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+   "summary": [
+    "우크라이나 의회가 가상자산 규제·과세 법안을 찬성 271표로 최종 가결했으며, 대통령 서명을 거쳐 2027년 7월부터 적용될 예정이에요.",
+    "개인의 연간 이익에는 2028년 전까지 5%에 군사세 5%를, 이후에는 18%에 군사세 5%를 매기고, 거래소와 수탁업체는 인가를 받아야 해요."
+   ],
+   "why": "거래량이 큰 시장이 인가제와 과세 체계 안으로 들어오는 사례로, 각국의 제도화 흐름을 비교할 때 참고할 만해요.",
+   "coins": [],
+   "source": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+   "published": "2026-11-25T16:02:00+00:00",
+   "coverage": 5,
+   "cmc_url": ""
+  }
+ ]
+}
