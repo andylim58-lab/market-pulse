@@ -17,7 +17,7 @@
    "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
    "published": "2026-11-24T19:04:26+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -88,7 +88,7 @@
    "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
    "published": "2026-11-24T13:43:46+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -181,7 +181,7 @@
    "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
    "published": "2026-11-24T00:36:26+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "ETH"
    ]
@@ -216,7 +216,7 @@
    "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
    "published": "2026-11-23T20:38:43+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
@@ -276,7 +276,7 @@
    "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.",
    "published": "2026-11-23T15:57:55+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -316,7 +316,7 @@
    "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
    "summary": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.",
    "published": "2026-11-24T17:50:08+00:00",
-   "coverage": 1,
+   "coverage": 3,
    "coins": []
   },
   "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness": {
@@ -427,7 +427,7 @@
    "url": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
    "summary": "The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools after generating $3.5 million in Q3 revenue.",
    "published": "2026-11-24T10:55:30+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "ETH"
    ]
@@ -525,7 +525,7 @@
    "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
    "summary": "",
    "published": "2026-11-23T14:43:18+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -554,7 +554,7 @@
    "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
    "summary": "Nvidia is higher by 30% after the company board announced the reinstatement of Jensen Huang as president, CEO, and director.",
    "published": "2026-11-23T13:01:20+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -565,7 +565,7 @@
    "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
    "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
    "published": "2026-11-24T19:35:32+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -626,7 +626,7 @@
    "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
    "summary": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
    "published": "2026-11-24T16:00:44+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack": {
@@ -693,7 +693,7 @@
    "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
    "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
    "published": "2026-11-23T23:06:02+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses": {
@@ -778,7 +778,7 @@
    "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
    "summary": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
    "published": "2026-11-23T16:46:03+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "ADA",
     "BTC",
@@ -855,7 +855,7 @@
    "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
    "summary": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
    "published": "2026-11-23T11:14:22+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -916,7 +916,7 @@
    "url": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
    "summary": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services.",
    "published": "2026-11-24T16:45:33+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562": {
@@ -1040,7 +1040,7 @@
    "url": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
    "summary": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
    "published": "2026-11-24T04:28:02+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": []
   },
   "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448": {
@@ -1070,7 +1070,7 @@
    "url": "https://cryptopotato.com/ethereum-foundation-isnt-waiting-for-quantum-computers-to-become-a-threat/",
    "summary": "The Ethereum Foundation is stepping up quantum preparations, betting on hash-based cryptography to protect the network against future threats.",
    "published": "2026-11-24T19:24:19+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "ETH"
    ]
@@ -1132,7 +1132,7 @@
    "url": "https://cryptopotato.com/nvidias-latest-twist-leaves-one-crypto-trader-with-a-massive-loss-details-inside/",
    "summary": "Numerous cryptocurrencies experienced wild price swings following the news.",
    "published": "2026-11-24T13:03:44+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": []
   },
   "https://cryptopotato.com/michael-saylor-strategy-will-buy-all-bitcoin-and-drive-btc-to-10m/": {
@@ -1413,7 +1413,7 @@
    "url": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
    "summary": "Bitcoin Magazine Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts Coinkite published its full Coldcard postmortem, saying a five-year firmware flaw weakened wallet seeds and that about 242 customer accounts have reported losses. This post Coldcard Postmortem Says Weak Seeds, Not Hacked Devi",
    "published": "2026-11-24T16:20:00+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -1582,9 +1582,284 @@
    "published": "2026-11-24T19:10:57+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+   "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+   "published": "2026-11-25T01:40:59+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+   "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+   "published": "2026-11-24T23:48:16+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+   "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
+   "published": "2026-11-24T21:50:25+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+   "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
+   "published": "2026-11-24T20:48:27+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one": {
+   "source": "CoinDesk",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+   "published": "2026-11-25T03:35:20+00:00",
+   "coverage": 4,
+   "coins": []
+  },
+  "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous": {
+   "source": "Decrypt",
+   "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+   "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+   "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
+   "published": "2026-11-24T22:36:02+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code": {
+   "source": "Decrypt",
+   "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+   "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+   "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
+   "published": "2026-11-24T21:46:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits": {
+   "source": "Decrypt",
+   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+   "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+   "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+   "published": "2026-11-24T21:16:02+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing": {
+   "source": "Decrypt",
+   "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+   "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+   "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+   "published": "2026-11-24T20:36:02+00:00",
+   "coverage": 4,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082": {
+   "source": "The Block",
+   "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+   "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+   "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+   "published": "2026-11-25T02:46:14+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061": {
+   "source": "The Block",
+   "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+   "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+   "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+   "published": "2026-11-24T22:10:45+00:00",
+   "coverage": 5,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067": {
+   "source": "The Block",
+   "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+   "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+   "summary": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
+   "published": "2026-11-24T20:53:14+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/pump-and-uniswap-dominate-2026-token-listings-accounting-for-83-6-of-the-total/": {
+   "source": "CryptoPotato",
+   "title": "Pump and Uniswap Dominate 2026 Token Listings, Accounting for 83.6% of the Total",
+   "url": "https://cryptopotato.com/pump-and-uniswap-dominate-2026-token-listings-accounting-for-83-6-of-the-total/",
+   "summary": "DEX token listings have crossed 23.1 million in 2026, as Pump and Uniswap made up the bulk of new listings.",
+   "published": "2026-11-24T22:33:21+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/177000-users-hit-as-kalshi-suspends-utah-operations-over-gambling-dispute/": {
+   "source": "CryptoPotato",
+   "title": "177,000 Users Hit as Kalshi Suspends Utah Operations Over Gambling Dispute",
+   "url": "https://cryptopotato.com/177000-users-hit-as-kalshi-suspends-utah-operations-over-gambling-dispute/",
+   "summary": "More than 177,000 Utah users are affected as Kalshi suspends operations.",
+   "published": "2026-11-24T20:55:10+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
+   "summary": "▶ Bitcoin Magazine Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse Since 2016, the only time Bitcoin closed below its six-year moving average was the FTX crash. This post Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse first appeared on Bitcoin Magazine and is written by Pa",
+   "published": "2026-11-24T22:30:03+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe": {
+   "source": "Bitcoin Magazine",
+   "title": "“Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe",
+   "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+   "summary": "▶ Bitcoin Magazine “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe The Fear & Greed Index has sat in extreme fear, and Michaël van de Poppe says people are upset that Bitcoin has underperformed other assets. This post “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle |",
+   "published": "2026-11-24T21:15:30+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot": {
+   "source": "Bitcoin Magazine",
+   "title": "André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot",
+   "url": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
+   "summary": "▶ Bitcoin Magazine André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot André Dragosch says Fed language is already as hawkish as it was in 2022, and \"we are probably close to peak hawkishness. This post André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot first appeared on Bitco",
+   "published": "2026-11-24T20:20:57+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170309?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "MSCI 편출 닷새 앞두고 STRC 띄운 세일러…투자자 불안 달래기 나섰나",
+   "url": "https://www.blockmedia.co.kr/archives/1170309?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 함지현 기자] 스트래티지(Strategy)가 MSCI 지수 편출을 불과 며칠 앞두고 자사 우선주 STRC의 안정적인 투자 성과를 집중적으로 부각하고 있다. 마이클 세일러 스트래티지 이사회 의장은 24일(현지시각) STRC와 주요 자산의 최근 1년 샤프지수(Sharpe Ratio)를 비교한 자료를 공개했다. 스트래티지 자체 집계에 따르면 STRC의 샤프지수는 0.57로 S&P500 ETF인 SPY의 0.47, 부동산 ETF VNQ의 0.46, 나스닥100 ETF QQQ의 0.31을 웃돌았다. [...]",
+   "published": "2026-11-25T03:15:10+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "레이 달리오 “금, 디지털자산보다 매력적…중앙은행 비트코인 보유 의문”",
+   "url": "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 세계 최대 헤지펀드 브리지워터 어소시에이츠의 설립자 레이 달리오가 포트폴리오 다각화 측면에서 디지털자산(가상자산)보다 금이 더 매력적이라고 강조했다. 그는 금이 전체 포트폴리오의 10%에서 15%를 차지해야 한다고 조언했다. 달리오는 비트코인(BTC)을 일부 보유하고 있지만, 그 비중은 금보다 작다고 밝혔다. 그는 중앙은행들이 비트코인을 디지털 금으로 취급할지에 대해 회의적인 시각을 유지하고 있다. 중앙은행이 디지털자산 외면하는 이유 레이 달리오는 [...]",
+   "published": "2026-11-25T02:56:43+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "이더리움 개발 자금난 심화…개발자 지원 조직 “필요한자금 유치 어려움 겪어”",
+   "url": "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 함지현 기자] 이더리움 핵심 개발자들을 지원하는 독립 자금 조달 조직 ‘프로토콜 길드(Protocol Guild)’가 자금난을 겪고 있는 것으로 확인됐다. 운영진은 개발자 지원 자금이 최근 급감했다며 자금 부족이 장기화할 경우 이더리움 네트워크 업그레이드 지연과 일부 개발팀의 활동 중단으로 이어질 수 있다고 경고했다. 25일 디지털자산 업계에 따르면 프로토콜 길드는 지난 24일 공개한 2026년 4분기 회원 감사 결과에서 [...]",
+   "published": "2026-11-25T02:45:04+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "“비트코인 이렇게 싼 적 없었다”…그런데 기관은 사상 최대 매도",
+   "url": "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인(BTC)이 온체인 지표상 2022년 11월 이후 가장 저평가된 수준에 도달했지만 기관투자자의 매도세가 가격 회복을 가로막고 있다는 분석이 나왔다. 현물 상장지수펀드(ETF)에 이어 비트코인을 재무자산으로 보유한 기업들까지 매도에 나서면서 수급 여건이 악화하고 있다는 진단이다. 25일 찰스 에드워즈 카프리올 인베스트먼츠(Capriole Investments) 창립자는 엑스(X·옛 트위터)를 통해 “비트코인이 2022년 11월 이후 이처럼 저평가된 적은 없었다”며 “다수의 온체인 [...]",
+   "published": "2026-11-25T01:32:09+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170225?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "코스피 4.9% 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 7%대 폭락",
+   "url": "https://www.blockmedia.co.kr/archives/1170225?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 국내 증시가 미국 반도체주 급락 여파로 장 초반 5% 가까이 폭락했다. 삼성전자와 SK하이닉스가 나란히 7% 넘게 하락한 가운데 코스피 시장에서는 프로그램 매도호가의 효력을 일시 정지하는 매도 사이드카가 발동됐다. 25일 오전 9시30분 기준 코스피 지수는 전 거래일 대비 246.65포인트(4.91%) 하락한 4760.38에 거래되고 있다. 이날 코스피는 4809.00에 출발한 뒤 장중 한때 4750.14까지 밀렸다. 코스닥 [...]",
+   "published": "2026-11-25T00:35:52+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 AI주 약세에 4%대 하락…5000선 다시 이탈",
+   "url": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 미국 인공지능(AI) 관련주 약세 여파로 전날 급등분을 반납하고 있다. 외국인이 순매도에 나선 가운데 삼성전자와 SK하이닉스가 6% 안팎으로 하락하며 지수를 끌어내렸다. 25일 한국거래소에 따르면 오전 9시9분 기준 코스피는 전 거래일보다 217.31포인트(4.34%) 내린 4788.72를 기록했다. 지수는 전 거래일 대비 197.03포인트(3.94%) 하락한 4809.00에 출발했다. 투자자별로는 개인이 2360억원어치, 기관이 54억원어치를 순매수했다. 반면 외국인은 2528억원어치를 순매도했다. [...]",
+   "published": "2026-11-25T00:13:52+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170183?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "카르다노, 고점 대비 95% 폭락… “20센트 회복보다 10센트 추락 가능성 커”",
+   "url": "https://www.blockmedia.co.kr/archives/1170183?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 디지털자산 카르다노(ADA)가 최근 한 달간 30% 가까이 급락하면서 10센트선까지 밀릴 수 있다는 전망이 나왔다. 비트코인(BTC)이 6만달러선을 내주는 등 디지털자산 시장 전반의 투자심리가 악화한 가운데 카르다노 재단의 대규모 운영자금 요청을 둘러싼 커뮤니티 내부 갈등도 부담으로 작용하고 있다. 24일(현지시각) 트레이딩뷰에서 카르다노는 14.4센트에 거래됐다. 최근 한 달간 29.4% 하락했으며 2021년 9월 기록한 사상 최고가인 3.09달러와 [...]",
+   "published": "2026-11-24T23:45:28+00:00",
+   "coverage": 0,
+   "coins": [
+    "ADA",
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 美 관세·AI 불확실성에 6만달러선 위태…금리 인상 부담도",
+   "url": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 미국의 추가 관세 부과 우려와 인공지능(AI) 관련주 급락에 한때 6만달러선 아래로 떨어졌다. 젠슨 황 엔비디아 최고경영자(CEO)의 복귀로 반등했던 미국 기술주가 하루 만에 하락세로 돌아선 가운데 미국 연방준비제도(Fed·연준)의 추가 금리 인상 가능성도 투자심리를 압박하고 있다. 25일 오전 8시9분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 2.31% 하락한 8179만1000원에 거래됐다. [...]",
+   "published": "2026-11-24T23:19:50+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170184?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "칼시, 美 유타주서 영업 중단…검찰, 형사 기소 철회",
+   "url": "https://www.blockmedia.co.kr/archives/1170184?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 미국 예측시장 플랫폼 칼시(Kalshi)가 불법 온라인 도박 혐의로 기소된 유타주에서 서비스를 중단했다. 유타주 검찰은 칼시와 경영진에 대한 형사 기소를 철회하기로 했다. 연방 규제 당국의 허가를 받은 예측시장에 주 정부가 도박 관련 법률을 적용할 수 있는지를 둘러싼 법적 분쟁이 미국 전역으로 확산하는 모습이다. 데릭 브라운 유타주 검찰총장은 24일(현지시각) 칼시가 주내 서비스 접근을 차단함에 [...]",
+   "published": "2026-11-24T23:07:10+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "피델리티 “체인링크·에이브·유니스왑 지원 확대…소매 디지털자산 8종으로”",
+   "url": "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 글로벌 자산운용사 피델리티(Fidelity)가 소매 투자자를 대상으로 체인링크(LINK), 아베(AAVE), 유니스왑(UNI) 등 3종의 디지털자산 거래를 지원한다고 24일(현지시각) 밝혔다. 이번 추가로 피델리티 크립토(Fidelity Crypto) 플랫폼에서 거래 가능한 디지털자산은 총 8종으로 늘어났다. 피델리티는 비트코인(BTC), 이더리움(ETH), 솔라나(SOL), 라이트코인(LTC) 및 자체 스테이블코인인 피델리티 디지털 달러(FIDD)에 이어 주요 탈중앙화 금융(DeFi) 관련 토큰들을 편입하며 소매 투자자 대상 디지털자산 서",
+   "published": "2026-11-24T22:53:20+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC",
+    "ETH",
+    "LINK",
+    "SOL"
+   ]
   }
  },
- "updated": "2026-11-25 05:23",
+ "updated": "2026-11-25 12:47",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",

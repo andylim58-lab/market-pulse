@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 05:23",
+ "updated": "2026-11-25 12:47",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
@@ -10,6 +10,254 @@
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "published": "2026-11-25T03:35:20+00:00",
+   "coins": [],
+   "coverage": 4
+  },
+  {
+   "source": "블록미디어",
+   "title": "MSCI 편출 닷새 앞두고 STRC 띄운 세일러…투자자 불안 달래기 나섰나",
+   "url": "https://www.blockmedia.co.kr/archives/1170309?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T03:15:10+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "레이 달리오 “금, 디지털자산보다 매력적…중앙은행 비트코인 보유 의문”",
+   "url": "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T02:56:43+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "The Block",
+   "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+   "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+   "published": "2026-11-25T02:46:14+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "이더리움 개발 자금난 심화…개발자 지원 조직 “필요한자금 유치 어려움 겪어”",
+   "url": "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T02:45:04+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+   "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-25T01:40:59+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "블록미디어",
+   "title": "“비트코인 이렇게 싼 적 없었다”…그런데 기관은 사상 최대 매도",
+   "url": "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T01:32:09+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "코스피 4.9% 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 7%대 폭락",
+   "url": "https://www.blockmedia.co.kr/archives/1170225?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T00:35:52+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 美 AI주 약세에 4%대 하락…5000선 다시 이탈",
+   "url": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
+   "published": "2026-11-25T00:13:52+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+   "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-24T23:48:16+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "카르다노, 고점 대비 95% 폭락… “20센트 회복보다 10센트 추락 가능성 커”",
+   "url": "https://www.blockmedia.co.kr/archives/1170183?utm_source=general&utm_medium=rss",
+   "published": "2026-11-24T23:45:28+00:00",
+   "coins": [
+    "ADA",
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 美 관세·AI 불확실성에 6만달러선 위태…금리 인상 부담도",
+   "url": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
+   "published": "2026-11-24T23:19:50+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "칼시, 美 유타주서 영업 중단…검찰, 형사 기소 철회",
+   "url": "https://www.blockmedia.co.kr/archives/1170184?utm_source=general&utm_medium=rss",
+   "published": "2026-11-24T23:07:10+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "피델리티 “체인링크·에이브·유니스왑 지원 확대…소매 디지털자산 8종으로”",
+   "url": "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss",
+   "published": "2026-11-24T22:53:20+00:00",
+   "coins": [
+    "BTC",
+    "ETH",
+    "LINK",
+    "SOL"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+   "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+   "published": "2026-11-24T22:36:02+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "Pump and Uniswap Dominate 2026 Token Listings, Accounting for 83.6% of the Total",
+   "url": "https://cryptopotato.com/pump-and-uniswap-dominate-2026-token-listings-accounting-for-83-6-of-the-total/",
+   "published": "2026-11-24T22:33:21+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
+   "published": "2026-11-24T22:30:03+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "The Block",
+   "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+   "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+   "published": "2026-11-24T22:10:45+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 5
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+   "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-24T21:50:25+00:00",
+   "coins": [],
+   "coverage": 2
+  },
+  {
+   "source": "Decrypt",
+   "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+   "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+   "published": "2026-11-24T21:46:02+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Decrypt",
+   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+   "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+   "published": "2026-11-24T21:16:02+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "“Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe",
+   "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+   "published": "2026-11-24T21:15:30+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "CryptoPotato",
+   "title": "177,000 Users Hit as Kalshi Suspends Utah Operations Over Gambling Dispute",
+   "url": "https://cryptopotato.com/177000-users-hit-as-kalshi-suspends-utah-operations-over-gambling-dispute/",
+   "published": "2026-11-24T20:55:10+00:00",
+   "coins": [],
+   "coverage": 3
+  },
+  {
+   "source": "The Block",
+   "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+   "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+   "published": "2026-11-24T20:53:14+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+   "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-24T20:48:27+00:00",
+   "coins": [],
+   "coverage": 3
+  },
+  {
+   "source": "Decrypt",
+   "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+   "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+   "published": "2026-11-24T20:36:02+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 4
+  },
+  {
+   "source": "Bitcoin Magazine",
+   "title": "André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot",
+   "url": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
+   "published": "2026-11-24T20:20:57+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 2
+  },
   {
    "source": "Bitcoin Magazine",
    "title": "Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts",
@@ -64,7 +312,7 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 2
+   "coverage": 3
   },
   {
    "source": "블록미디어",
@@ -92,7 +340,7 @@
    "coins": [
     "ETH"
    ],
-   "coverage": 2
+   "coverage": 3
   },
   {
    "source": "블록미디어",
@@ -128,250 +376,6 @@
    "coins": [
     "BTC"
    ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "미 법무부, 북한 해킹 바이낸스 탈취 11억달러 USDC 몰수 착수",
-   "url": "https://www.blockmedia.co.kr/archives/1170076?utm_source=general&utm_medium=rss",
-   "published": "2026-11-24T19:12:42+00:00",
-   "coins": [
-    "USDC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "블록미디어",
-   "title": "JP모건·HSBC, 런던서 디지털 금 첫 거래⋯실물 금 담보 활용 확대-블룸버그",
-   "url": "https://www.blockmedia.co.kr/archives/1170088?utm_source=general&utm_medium=rss",
-   "published": "2026-11-24T19:10:57+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-   "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-24T19:04:26+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "Decrypt",
-   "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-   "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-   "published": "2026-11-24T18:55:27+00:00",
-   "coins": [
-    "BTC",
-    "ETH"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients",
-   "url": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager",
-   "published": "2026-11-24T18:38:01+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "Decrypt",
-   "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-   "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-   "published": "2026-11-24T18:36:03+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "The Block",
-   "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-   "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
-   "published": "2026-11-24T18:35:02+00:00",
-   "coins": [
-    "BTC",
-    "USDC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "CFTC sets new prediction market rules as more firms seek US entry",
-   "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-24T18:31:42+00:00",
-   "coins": [],
-   "coverage": 2
-  },
-  {
-   "source": "Decrypt",
-   "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-   "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-   "published": "2026-11-24T18:16:02+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-   "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-24T18:07:22+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "The Block",
-   "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
-   "url": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
-   "published": "2026-11-24T18:05:03+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "These 5 Tokens Beat Bitcoin Amid AI-Driven Market Rout",
-   "url": "https://cryptopotato.com/these-5-tokens-beat-bitcoin-amid-ai-driven-market-rout/",
-   "published": "2026-11-24T18:03:19+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-   "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
-   "published": "2026-11-24T17:50:08+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "Decrypt",
-   "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-   "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-   "published": "2026-11-24T17:45:22+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "Decrypt",
-   "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-   "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-   "published": "2026-11-24T17:43:03+00:00",
-   "coins": [],
-   "coverage": 3
-  },
-  {
-   "source": "The Block",
-   "title": "We’ve Entered Peak FEAR; SKY Falls",
-   "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
-   "published": "2026-11-24T17:42:29+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-   "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-24T17:09:11+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 4
-  },
-  {
-   "source": "The Block",
-   "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
-   "url": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
-   "published": "2026-11-24T17:00:02+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "UniCredit Opens Bitcoin Certificate to Italian Retail Clients With 65% Return Cap",
-   "url": "https://cryptopotato.com/unicredit-opens-bitcoin-certificate-to-italian-retail-clients-with-65-return-cap/",
-   "published": "2026-11-24T16:58:58+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 5
-  },
-  {
-   "source": "The Block",
-   "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
-   "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
-   "published": "2026-11-24T16:51:21+00:00",
-   "coins": [],
-   "coverage": 3
-  },
-  {
-   "source": "The Block",
-   "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
-   "url": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
-   "published": "2026-11-24T16:45:33+00:00",
-   "coins": [],
-   "coverage": 2
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-   "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-24T16:33:26+00:00",
-   "coins": [],
-   "coverage": 5
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
-   "url": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
-   "published": "2026-11-24T16:20:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 1
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity",
-   "url": "https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity",
-   "published": "2026-11-24T16:03:03+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "Decrypt",
-   "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-   "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-   "published": "2026-11-24T16:00:44+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "CoinDesk",
-   "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-   "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-   "published": "2026-11-24T16:00:25+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Attention Binance Users: Key Functions Will Be Temporarily Suspended This Week",
-   "url": "https://cryptopotato.com/attention-binance-users-key-functions-will-be-temporarily-suspended-this-week/",
-   "published": "2026-11-24T15:57:28+00:00",
-   "coins": [],
    "coverage": 0
   }
  ]
