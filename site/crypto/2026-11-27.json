@@ -1,0 +1,87 @@
+{
+ "date": "2026-11-27",
+ "generated": "2026-11-27 06:21",
+ "market_note": "11월 27일 오전 4시 19분(한국시간) 집계에서 전체 코인 시가총액은 약 2.07조 달러(24시간 +0.5%), 비트코인은 약 6만 500달러(7일 -3.4%), 점유율은 58.7%예요. 코인마켓캡 공포·탐욕 지수는 10(극도의 공포)입니다.",
+ "items": [
+  {
+   "rank": 1,
+   "title_ko": "美 비트코인 ETF, 11월 순유출 53억 9천만 달러로 월간 최악 기록 눈앞",
+   "title_en": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+   "summary": [
+    "SoSoValue 집계 기준 미국 현물 비트코인 ETF의 11월 누적 순유출은 53억 9,000만 달러로, 거래일이 며칠 남았는데도 이전의 어느 달보다 많아요.",
+    "25일(현지시간) 하루에만 4억 5,310만 달러가 빠져 7일 연속 순유출이었고, 이 가운데 블랙록 IBIT가 3억 2,970만 달러를 차지했어요."
+   ],
+   "why": "기관 자금 이탈이 이어지는 동안에는 반등에 힘이 실리기 어려워, 투자 심리에 민감한 업종의 마케팅 계획은 보수적으로 볼 필요가 있어요.",
+   "coins": ["BTC"],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+   "published": "2026-11-26T08:49:44+00:00",
+   "coverage": 4,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 2,
+   "title_ko": "'20년 매각 금지' 전략 비트코인 비축 법안, 美 하원 본회의로",
+   "title_en": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+   "summary": [
+    "정부 비축분 비트코인을 최소 20년간 팔거나 처분하지 못하게 하는 법안(H.R. 8957)이 하원 금융서비스위원회를 거쳐 11월 24일 본회의 의사일정에 올랐어요.",
+    "다만 이번 의회 회기가 몇 주 안에 끝날 것으로 예상돼, 기한 안에 통과하지 못하면 다음 의회에서 다시 발의해야 해요."
+   ],
+   "why": "행정명령으로 만든 비축 제도를 법으로 굳히려는 시도지만, 예측시장 폴리마켓의 연내 비축 확률은 4%에 그쳐 단기 호재로 보기는 어려워요.",
+   "coins": ["BTC"],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+   "published": "2026-11-26T03:01:59+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 3,
+   "title_ko": "피델리티, 체인링크 현물 ETF 신청… 나스닥 상장 추진",
+   "title_en": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+   "summary": [
+    "피델리티가 25일(현지시간) 체인링크(LINK)를 직접 보유하는 현물 ETF의 등록신청서를 SEC에 냈고, 티커 FLNK로 나스닥 상장을 계획하고 있어요.",
+    "거래 시작 시점은 밝히지 않았으며, 보유한 LINK를 스테이킹하지 않아 투자자에게 스테이킹 보상은 돌아가지 않아요."
+   ],
+   "why": "시장이 약세인 가운데서도 대형 운용사가 알트코인 상품군을 넓히고 있어, 제도권 투자 상품 경쟁이 이어지고 있다는 신호예요.",
+   "coins": ["LINK"],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+   "published": "2026-11-25T19:31:40+00:00",
+   "coverage": 2,
+   "cmc_url": "https://coinmarketcap.com/currencies/chainlink/"
+  },
+  {
+   "rank": 4,
+   "title_ko": "채굴장 1,000곳 넘게 노린 해시레이트 탈취 공격 경고",
+   "title_en": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+   "summary": [
+    "채굴 풀 업체 브레인스(Braiins)는 공격자가 통신 경로를 바꿔 채굴 풀을 사칭하고, 암호화되지 않은 연결(Stratum V1)을 쓰는 장비의 연산력과 보상을 가로채고 있다고 알렸어요.",
+    "11월 20일에는 채굴장 1,000곳 이상이 표적이 돼 최대 1.9 EH/s가 빼돌려졌으며, 공격은 계속되는 것으로 파악되고 탈취 금액은 추산되지 않았어요."
+   ],
+   "why": "겉으로는 정상 작동하는 것처럼 보여 알아채기 어렵기 때문에, 오래된 통신 방식을 쓰는 사업자는 암호화 연결로 바꾸는 점검이 필요해요.",
+   "coins": ["BTC"],
+   "source": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+   "published": "2026-11-25T19:36:08+00:00",
+   "coverage": 3,
+   "cmc_url": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+   "rank": 5,
+   "title_ko": "빗썸 유출 추가 확인, 59분이 아니라 보름 넘게 이어졌다",
+   "title_en": "빗썸, 해킹 피해 추가 확인… 보름 넘게 개인정보 샜다",
+   "summary": [
+    "빗썸이 사내 그룹웨어 해킹을 다시 조사한 결과, 무단 접속과 정보 유출이 처음 알린 10월 27일의 약 1시간이 아니라 10월 12일부터 27일까지 이어진 것으로 확인됐어요.",
+    "유출 항목은 16개에서 여권번호·계좌번호·거래내역·지갑 주소 등을 포함한 19개로 늘었으며, 빗썸은 거래 서비스 시스템과 고객 데이터베이스가 직접 뚫린 것은 아니라고 설명했어요."
+   ],
+   "why": "유출 정보를 악용한 사칭 연락이 생길 수 있어 이용자 주의가 필요하고, 사업자에게는 고객정보가 오가는 사내 시스템의 보안과 정확한 고지가 신뢰를 좌우해요.",
+   "coins": [],
+   "source": "블록미디어",
+   "url": "https://www.blockmedia.co.kr/archives/1170542",
+   "published": "2026-11-25T12:09:32+00:00",
+   "coverage": 3,
+   "cmc_url": ""
+  }
+ ]
+}
