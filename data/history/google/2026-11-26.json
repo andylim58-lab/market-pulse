@@ -427,7 +427,221 @@
    "traffic_label": "500+",
    "pub": "Wed, 25 Nov 2026 17:10:00 -0800",
    "news": []
+  },
+  "나인투식스": {
+   "q": "나인투식스",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 04:10:00 -0800",
+   "news": [
+    {
+     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
+     "url": "https://www.fnnews.com/news/202611252205108656",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
+     "url": "https://www.joongang.co.kr/article/25481953",
+     "source": "중앙일보"
+    },
+    {
+     "title": "고수 '고비드의 슈트핏'",
+     "url": "https://www.newspim.com/news/view/20261125000947",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  "설인아": {
+   "q": "설인아",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 04:00:00 -0800",
+   "news": [
+    {
+     "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
+     "source": "머니투데이"
+    },
+    {
+     "title": "설인아·금새록, 10kg 짊어지고 계단 3000개 뛴다 (무쇠소녀단3)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135093930/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "설인아·금새록·한지현·연우 쇼트트랙 도전...최민정·김길리 깜짝 출격",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764269",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  "weather tomorrow": {
+   "q": "weather tomorrow",
+   "traffic": 5000,
+   "traffic_label": "5000+",
+   "pub": "Thu, 26 Nov 2026 03:50:00 -0800",
+   "news": [
+    {
+     "title": "Weather Tomorrow November 27, 2026: Rain in Tamil Nadu, dry and sunny conditions in Delhi, Bihar, Odisha;",
+     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-27-2026-rain-in-tamil-nadu-dry-and-sunny-conditions-in-delhi-bihar-odisha-check-state-wise-forecast/articleshow/136190343.cms",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "Weather Tomorrow, November 22, 2026: Showers in Bihar and West Bengal, sunny skies in Delhi and Tamil Nadu",
+     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-22-2026-showers-in-bihar-and-west-bengal-sunny-skies-in-delhi-and-tamil-nadu-check-full-forecast/articleshow/136054580.cms",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "Hyderabad Weather Today, November 26: IMD Forecasts Isolated Rain in Telangana",
+     "url": "https://hyderabadmail.com/hyderabad-weather-today-november-26-imd-forecasts-isolated-rain-in-telangana-temperatures-to-fall/",
+     "source": "Hyderabad Mail"
+    }
+   ]
+  },
+  "погода завтра": {
+   "q": "погода завтра",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 26 Nov 2026 03:40:00 -0800",
+   "news": [
+    {
+     "title": "Сильный снег и порывистый ветер ожидаются в Иркутской области 25 ноября",
+     "url": "https://www.irk.ru/news/20261124/weather/",
+     "source": "Твой Иркутск"
+    },
+    {
+     "title": "Прогноз погоды в Ангарске на пятницу, 27 ноября",
+     "url": "https://angarsk-38.ru/news/prognoz-pogody-v-angarske-na-pyatnicu-27-noyabrya/",
+     "source": "angarsk-38.ru"
+    },
+    {
+     "title": "Рабочая неделя завершится метелями и морозами в районах Приангарья",
+     "url": "https://baikal24.ru/text/26-11-2026/029/",
+     "source": "Байкал24"
+    }
+   ]
+  },
+  "박장범": {
+   "q": "박장범",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 03:40:00 -0800",
+   "news": [
+    {
+     "title": "KBS ‘BBQ 정·관계 티켓 로비’ 보도 막혔다…“초청 명단에 박장범 사장도”",
+     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338727",
+     "source": "미디어오늘"
+    },
+    {
+     "title": "국힘 충북도당 \"축구경기 공짜 관람 이강일, 명확히 해명하라\"",
+     "url": "https://www.fnnews.com/news/202611191444474509",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "[사설] SNS로 해명했으니 취재 거부한다는 국회의원의 오만",
+     "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240738",
+     "source": "충청투데이"
+    }
+   ]
+  },
+  "계약금": {
+   "q": "계약금",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 03:20:00 -0800",
+   "news": []
+  },
+  "acl two": {
+   "q": "acl two",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 03:20:00 -0800",
+   "news": [
+    {
+     "title": "Group E: Persib Bandung (IDN) 3-1 FC Seoul (KOR)",
+     "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-persib-bandung-idn-3-1-fc-seoul-kor",
+     "source": "The AFC"
+    },
+    {
+     "title": "Licensable picture: Soccer 2026: AFC Champions League Two: Group E: Persib Bandung 3:1 FC Seoul",
+     "url": "https://www.reutersconnect.com/item/soccer-2026-afc-champions-league-two-group-e-persib-bandung-31-fc-seoul/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA1WkJCSzE",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Persib Beats FC Seoul 3-1 as Beckham Seals Asian Campaign Win",
+     "url": "https://jakartaglobe.id/news/persib-beats-fc-seoul-31-as-beckham-seals-asian-campaign-win",
+     "source": "Jakarta Globe"
+    }
+   ]
+  },
+  "두산타워": {
+   "q": "두산타워",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 26 Nov 2026 03:00:00 -0800",
+   "news": [
+    {
+     "title": "사옥 팔던 두산, 8400억 신사옥 마련…다시 부동산에 뭉칫돈",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/26/2026112680192.html",
+     "source": "인베스트조선"
+    },
+    {
+     "title": "두산, IMF 때 떠난 을지로로 32년만에 다시 돌아간다",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/26/TCQFAVSANZEHXF4BTHLTJ6IPQQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "동대문 두산타워, 현대면세점 나간 자리 현대백화점 인재개발원·SK실트론이 채운다",
+     "url": "https://seoulpi.io/article/00622149544747753472",
+     "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스"
+    }
+   ]
+  },
+  "근로장려금 신청": {
+   "q": "근로장려금 신청",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 02:50:00 -0800",
+   "news": [
+    {
+     "title": "5월에 놓친 근로·자녀장려금, 12월 1일까지 신청하세요!",
+     "url": "https://story.pay.naver.com/content/4040_24_C2",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195317",
+     "source": "금강일보"
+    },
+    {
+     "title": "2026 근로장려금 신청자격·지급액·지급일은? 기한후신청 12월 1일까지...자녀장려금까지 총정리",
+     "url": "https://www.christiantoday.co.kr/news/378877",
+     "source": "크리스천투데이"
+    }
+   ]
+  },
+  "슈퍼문": {
+   "q": "슈퍼문",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
+     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611251603008783&s_hcd=",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+     "source": "국제신문"
+    }
+   ]
   }
  },
- "updated": "2026-11-26 12:11"
+ "updated": "2026-11-26 22:13"
 }
