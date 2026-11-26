@@ -242,7 +242,7 @@
    "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
    "published": "2026-11-24T19:04:26+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -351,7 +351,7 @@
    "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
    "summary": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams.",
    "published": "2026-11-25T14:47:17+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in": {
@@ -403,7 +403,7 @@
    "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
    "summary": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found.",
    "published": "2026-11-25T11:00:27+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": []
   },
   "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower": {
@@ -483,7 +483,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
    "summary": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows.",
    "published": "2026-11-24T16:00:25+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -512,7 +512,7 @@
    "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
    "summary": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
    "published": "2026-11-24T12:47:49+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto": {
@@ -754,7 +754,7 @@
    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
    "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
    "published": "2026-11-24T17:43:03+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry": {
@@ -830,7 +830,7 @@
    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
    "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
    "published": "2026-11-25T19:37:10+00:00",
-   "coverage": 0,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -910,7 +910,7 @@
    "url": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
    "summary": "Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.",
    "published": "2026-11-25T14:35:20+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": []
   },
   "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164": {
@@ -1046,7 +1046,7 @@
    "url": "https://cryptopotato.com/ukraine-passes-bill-to-legalize-bitcoin-and-crypto-sets-18-tax-on-gains/",
    "summary": "Ukraine's 2022 crypto law was written to start only once the Tax Code changed, and it has never taken effect.",
    "published": "2026-11-25T17:22:04+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC"
    ]
@@ -1307,7 +1307,7 @@
    "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
    "summary": "Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This post Switzerland Picks 57 Countries for Crypto Tax Data Sharing St",
    "published": "2026-11-25T18:40:05+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "BTC"
    ]
@@ -1506,9 +1506,294 @@
    "published": "2026-11-25T19:07:26+00:00",
    "coverage": 0,
    "coins": []
+  },
+  "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+   "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+   "published": "2026-11-26T01:33:20+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+   "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.",
+   "published": "2026-11-25T21:53:38+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+   "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.",
+   "published": "2026-11-25T21:22:19+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+   "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
+   "published": "2026-11-25T21:11:39+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie": {
+   "source": "Decrypt",
+   "title": "China's Google Just Released Its Fast New AI Model for Free",
+   "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+   "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+   "published": "2026-11-25T22:38:09+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal": {
+   "source": "Decrypt",
+   "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+   "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+   "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+   "published": "2026-11-25T21:46:02+00:00",
+   "coverage": 3,
+   "coins": []
+  },
+  "https://decrypt.co/384002/1password-breach-vaults-phishing-emails": {
+   "source": "Decrypt",
+   "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+   "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+   "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+   "published": "2026-11-25T21:16:02+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks": {
+   "source": "Decrypt",
+   "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+   "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+   "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+   "published": "2026-11-25T20:36:03+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach": {
+   "source": "Decrypt",
+   "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+   "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+   "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+   "published": "2026-11-25T20:06:03+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778": {
+   "source": "The Block",
+   "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+   "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
+   "published": "2026-11-26T03:03:01+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770": {
+   "source": "The Block",
+   "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+   "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+   "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+   "published": "2026-11-26T02:22:43+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756": {
+   "source": "The Block",
+   "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+   "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+   "published": "2026-11-25T22:20:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/influencer-token-risks-return-to-focus-after-ansem-wallet-incident/": {
+   "source": "CryptoPotato",
+   "title": "Influencer Token Risks Return to Focus After ANSEM Wallet Incident",
+   "url": "https://cryptopotato.com/influencer-token-risks-return-to-focus-after-ansem-wallet-incident/",
+   "summary": "Santiment ranked Bullpen's wallet compromise as the second-most-discussed developing crypto story on its November 24 dashboard.",
+   "published": "2026-11-25T22:51:24+00:00",
+   "coverage": 2,
+   "coins": []
+  },
+  "https://cryptopotato.com/zcash-zec-plunges-25-in-a-week-2-factors-that-could-fuel-a-rebound/": {
+   "source": "CryptoPotato",
+   "title": "Zcash (ZEC) Plunges 25% in a Week: 2 Factors That Could Fuel a Rebound",
+   "url": "https://cryptopotato.com/zcash-zec-plunges-25-in-a-week-2-factors-that-could-fuel-a-rebound/",
+   "summary": "Can ZEC recover, or will it nosedive below $500?",
+   "published": "2026-11-25T21:09:22+00:00",
+   "coverage": 0,
+   "coins": [
+    "ZEC"
+   ]
+  },
+  "https://cryptopotato.com/ethereum-researchers-recommend-keccak-256-as-core-post-quantum-hash/": {
+   "source": "CryptoPotato",
+   "title": "Ethereum Researchers Recommend Keccak-256 as Core Post-Quantum Hash",
+   "url": "https://cryptopotato.com/ethereum-researchers-recommend-keccak-256-as-core-post-quantum-hash/",
+   "summary": "Poseidon was long seen as the likely pick until newer proving systems made older and better-studied hash functions fast enough to use.",
+   "published": "2026-11-25T19:45:14+00:00",
+   "coverage": 4,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it": {
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+   "summary": "▶ Bitcoin Magazine Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magaz",
+   "published": "2026-11-25T23:30:12+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough": {
+   "source": "Bitcoin Magazine",
+   "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+   "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+   "summary": "▶ Bitcoin Magazine Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazi",
+   "published": "2026-11-25T22:15:26+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative": {
+   "source": "Bitcoin Magazine",
+   "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
+   "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+   "summary": "▶ Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "published": "2026-11-25T21:22:24+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor": {
+   "source": "Bitcoin Magazine",
+   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+   "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+   "summary": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Flo",
+   "published": "2026-11-25T19:50:00+00:00",
+   "coverage": 2,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170902?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "주기영 “비트코인 160억달러 숏 청산 대기…반등 시 숏스퀴즈 가능성”",
+   "url": "https://www.blockmedia.co.kr/archives/1170902?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인(BTC) 파생상품 시장에서 하락에 베팅한 숏 포지션의 잠재적 청산 규모가 상승에 베팅한 롱 포지션을 크게 웃도는 것으로 나타났다. 비트코인 가격이 반등할 경우 대규모 숏 포지션 청산이 추가 상승을 촉발할 수 있다는 분석이 나온다. 26일 주기영 크립토퀀트 최고경영자(CEO)는 엑스(X·옛 트위터)를 통해 비트코인 가격 6만~10만달러 구간에 약 160억달러 규모의 잠재적 숏 청산 물량이 쌓여 [...]",
+   "published": "2026-11-26T02:57:45+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170894?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "스카이 프로토콜, stUSDS 출금 위기에 2500만USDS 긴급 이전 추진",
+   "url": "https://www.blockmedia.co.kr/archives/1170894?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 함지현 기자] 스카이 프로토콜(Sky Protocol·옛 메이커다오)이 고위험 예치상품 스테이킹 유에스디에스(stUSDS)의 유동성 위기를 완화하기 위해 2500만USDS(약 355억원)를 스카이 프런티어 재단(SFF)에 긴급 이전하는 방안을 추진한다. 재단에 이미 배정된 자금을 조기에 지급해 부채 상환에 활용하는 방식이다. 26일 스카이 프로토콜 거버넌스 포럼에 따르면 코어 퍼실리테이터(Core Facilitator)는 2500만USDS 규모의 제네시스 캐피털(Genesis Capital)을 재단으로 이전하는 비정기 집행투표(Executive Vote)",
+   "published": "2026-11-26T02:45:19+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170873?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "성장률 4% 시대에 소비는 뒷걸음…한은 기준금리 3.75%까지 올릴까(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1170873?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 한국은행이 증시 급락에도 기준금리를 연 3.25%로 인상하면서 시장의 관심은 내년 추가 인상 시점과 최종 금리 수준으로 옮겨가고 있다. 증권가에서는 한은이 내년 상반기까지 한두 차례 추가 인상을 단행해 기준금리가 연 3.50~3.75%에 도달할 것으로 전망하고 있다. 다만 반도체 중심의 경제 성장과 민간소비 위축이라는 상반된 경기 흐름이 향후 통화정책의 핵심 변수로 떠올랐다. 한국은행 금융통화위원회는 26일 [...]",
+   "published": "2026-11-26T01:45:46+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170841?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "한은, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 상향(상보)",
+   "url": "https://www.blockmedia.co.kr/archives/1170841?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 한국은행이 기준금리를 연 3.00%에서 3.25%로 0.25%포인트 인상했다. 반도체 호황에 따른 경기 확장세가 뚜렷한 가운데 소비자물가 상승률이 목표치인 2%를 웃돌면서 추가 긴축에 나선 것으로 풀이된다. 한은 금융통화위원회는 26일 올해 마지막 통화정책방향 회의를 열고 기준금리를 0.25%포인트 인상하기로 결정했다. 지난 7월과 8월에 이어 올해 하반기에만 세 번째 금리 인상이다. 이로써 기준금리는 2024년 11월 이후 2년 [...]",
+   "published": "2026-11-26T01:00:15+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170839?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[속보] 한은, 기준금리 연 3.25%로 0.25%p 인상",
+   "url": "https://www.blockmedia.co.kr/archives/1170839?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자]",
+   "published": "2026-11-26T00:51:32+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170818?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "디지털자산법안, 코인 ‘최적가 주문’ 의무 신설…정작 거래소는 빠져 ‘반쪽’ 우려",
+   "url": "https://www.blockmedia.co.kr/archives/1170818?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 정부가 마련한 디지털자산법안에 ‘최선집행의무’가 처음 도입됐지만 제도의 실효성에 대한 우려가 나온다. 중개업자에게 고객 주문을 가장 유리한 조건으로 체결하도록 의무를 부과하면서도, 실제 가격이 형성되는 거래소는 적용 대상에서 제외했기 때문이다. 중개업자의 거래소 접근권도 보장하지 않아 의무는 있지만 이를 이행할 수단은 부족한 ‘반쪽짜리 제도’에 그칠 수 있다는 지적이다. 26일 블록미디어가 입수한 ‘디지털자산업의 혁신과 이용자 보호에 [...]",
+   "published": "2026-11-26T00:40:57+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170813?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 저가 매수세에 반등…4700선 회복",
+   "url": "https://www.blockmedia.co.kr/archives/1170813?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 전날 6% 넘게 급락한 뒤 장 초반 반등하며 4700선을 회복했다. 미국 증시가 인공지능(AI) 관련주 약세에도 장중 낙폭을 대부분 만회한 가운데 국내 증시에도 저가 매수세가 유입되는 모습이다. 26일 한국거래소에 따르면 오전 9시8분 기준 코스피는 전 거래일보다 28.26포인트(0.60%) 오른 4725.77을 기록했다. 지수는 전 거래일 대비 47.59포인트(1.01%) 상승한 4745.10에 출발했다. 투자자별로는 개인이 774억원어치를 순매수했다. [...]",
+   "published": "2026-11-26T00:13:59+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170791?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "머스크·스페이스X, ‘트럼프 계좌’에 178억달러 기부…美 아동에 주식 2주씩",
+   "url": "https://www.blockmedia.co.kr/archives/1170791?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 일론 머스크와 그가 이끄는 우주항공 기업 스페이스X가 미국 아동의 자산 형성을 지원하는 ‘트럼프 계좌(Trump Accounts)’에 총 178억달러 규모의 주식을 기부하기로 했다. 머스크는 이번 기부로 트럼프 계좌에 가장 많은 자산을 기부하는 개인 후원자가 될 전망이다. 25일(현지시각) 미국 경제매체 마켓워치에 따르면 스페이스X는 현재 활성화된 모든 트럼프 계좌에 새로 발행하는 클래스A 보통주를 한 주씩 기부하겠다고 [...]",
+   "published": "2026-11-25T23:47:11+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1170803?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 美 관세·물가 압박 속 6만달러 사수…하락 우려는 여전",
+   "url": "https://www.blockmedia.co.kr/archives/1170803?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 미국의 추가 관세 부과 움직임과 시장 예상치를 웃돈 물가 지표에 한때 5만7000달러대까지 떨어졌으나 이후 낙폭을 줄이며 6만달러선을 회복했다. 미국 연방준비제도(Fed·연준)의 12월 금리 인상 가능성이 커진 가운데 비트코인 옵션 만기를 앞두고 시장 변동성이 확대될 수 있다는 분석도 나온다. 26일 오전 8시10분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 0.09% [...]",
+   "published": "2026-11-25T23:22:31+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1170789?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "美 연준 “물가 압력 여전”…12월 추가 금리 인상 가능성 커져",
+   "url": "https://www.blockmedia.co.kr/archives/1170789?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 미국 연방준비제도(Fed·연준)가 인공지능(AI) 투자 열풍에 힘입어 미국 경제가 견조한 성장세를 이어가고 있지만 인플레이션 압력은 여전히 해소되지 않고 있다고 진단했다. 기업들이 비용 상승에 따른 추가 가격 인상을 예고한 가운데 오는 12월 연방공개시장위원회(FOMC)에서 기준금리를 인상할 가능성에 무게가 실리고 있다. 25일(현지시각) 미국 경제매체 마켓워치에 따르면 연준은 이날 발표한 11월 경기동향 보고서인 베이지북에서 미국 경제가 AI [...]",
+   "published": "2026-11-25T23:08:51+00:00",
+   "coverage": 0,
+   "coins": []
   }
  },
- "updated": "2026-11-26 04:38",
+ "updated": "2026-11-26 12:11",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",

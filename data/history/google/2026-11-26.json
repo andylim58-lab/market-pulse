@@ -229,7 +229,205 @@
      "source": "이데일리"
     }
    ]
+  },
+  "안민석": {
+   "q": "안민석",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Wed, 25 Nov 2026 17:50:00 -0800",
+   "news": [
+    {
+     "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
+     "url": "https://www.yna.co.kr/view/AKR20261125141000061",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
+     "source": "인천일보"
+    },
+    {
+     "title": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
+     "url": "https://www.kyeonggi.com/article/20261125580166",
+     "source": "경기일보"
+    }
+   ]
+  },
+  "육아휴직": {
+   "q": "육아휴직",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 25 Nov 2026 17:50:00 -0800",
+   "news": [
+    {
+     "title": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
+     "url": "https://www.hankyung.com/article/202611261128g",
+     "source": "한국경제"
+    },
+    {
+     "title": "[게시판] NS홈쇼핑, '일·생활 균형 우수기업' 선정",
+     "url": "https://www.yna.co.kr/view/AKR20261126034100030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "쿠도커뮤니케이션, '2026년 대한민국 일·생활균형 우수기업' 선정",
+     "url": "https://www.etnews.com/20261126000136",
+     "source": "전자신문"
+    }
+   ]
+  },
+  "에어부산": {
+   "q": "에어부산",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Wed, 25 Nov 2026 17:50:00 -0800",
+   "news": [
+    {
+     "title": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "url": "https://www.yna.co.kr/view/AKR20261125113300051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.99099007927",
+     "source": "국제신문"
+    },
+    {
+     "title": "트리니티항공, 국제선 탑승률 90%… SNS 팔로워 확대에 최대 10만 원 할인",
+     "url": "https://www.hankookilbo.com/news/article/A2026112516420004191",
+     "source": "한국일보"
+    }
+   ]
+  },
+  "민원24": {
+   "q": "민원24",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Wed, 25 Nov 2026 17:50:00 -0800",
+   "news": []
+  },
+  "전기자동차 배터리": {
+   "q": "전기자동차 배터리",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Wed, 25 Nov 2026 17:40:00 -0800",
+   "news": [
+    {
+     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "url": "https://www.hankyung.com/article/2026112502651",
+     "source": "한국경제"
+    },
+    {
+     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
+     "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429",
+     "source": "나남뉴스"
+    }
+   ]
+  },
+  "삼성": {
+   "q": "삼성",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Wed, 25 Nov 2026 17:30:00 -0800",
+   "news": [
+    {
+     "title": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723040",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[특징주] 삼성전자, 장 초반 1.6% 상승…SK하이닉스는 3.9%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261126044200008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "코스피, 하룻 만에 반등...1%대 상승 출발",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611261124292109",
+     "source": "YTN"
+    }
+   ]
+  },
+  "호랑이": {
+   "q": "호랑이",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Wed, 25 Nov 2026 17:20:00 -0800",
+   "news": [
+    {
+     "title": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
+     "url": "https://www.hankookilbo.com/news/article/A2026112410080002933",
+     "source": "한국일보"
+    },
+    {
+     "title": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
+     "url": "https://sports.khan.co.kr/article/202611251814003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  "초전마을": {
+   "q": "초전마을",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Wed, 25 Nov 2026 17:20:00 -0800",
+   "news": [
+    {
+     "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
+     "url": "https://www.yna.co.kr/view/AKR20261126082700052",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
+     "url": "https://www.news1.kr/local/gyeonggi/6365890",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "수험": {
+   "q": "수험",
+   "traffic": 10000,
+   "traffic_label": "10000+",
+   "pub": "Wed, 25 Nov 2026 17:10:00 -0800",
+   "news": [
+    {
+     "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
+     "source": "주간한국"
+    },
+    {
+     "title": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
+     "url": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
+     "source": "한국시사경제"
+    },
+    {
+     "title": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
+     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
+     "source": "전국매일신문"
+    }
+   ]
+  },
+  "순댓국": {
+   "q": "순댓국",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Wed, 25 Nov 2026 17:10:00 -0800",
+   "news": []
   }
  },
- "updated": "2026-11-26 04:38"
+ "updated": "2026-11-26 12:11"
 }
