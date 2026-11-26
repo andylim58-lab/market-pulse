@@ -1,0 +1,235 @@
+{
+ "items": {
+  "주거": {
+   "q": "주거",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 09:40:00 -0800",
+   "news": [
+    {
+     "title": "\"대출규제, 저소득층 주택 구매 제한…포용적 제도개혁 필요\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261125127751003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "국토부, 가계부채 관리·AI 주거복지 해법 찾는다",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01282486645649656",
+     "source": "마켓인"
+    },
+    {
+     "title": "김영국 국토부 주택토지실장 “시중 자금, 신규 주택 건설로 유도해야”…PF·주택금융 혁신 강조",
+     "url": "https://www.ekn.kr/web/view.php?key=20261126028025127",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  "브라이턴 대 cs u 크라이오바": {
+   "q": "브라이턴 대 cs u 크라이오바",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 26 Nov 2026 09:30:00 -0800",
+   "news": [
+    {
+     "title": "Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6y80ej72k2gt",
+     "source": "BBC"
+    },
+    {
+     "title": "Hurzeler on team news, Hull defeat and facing Universitatea Craiova",
+     "url": "https://sports.yahoo.com/soccer/articles/hurzeler-team-news-hull-defeat-162717054.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Hinshelwood targets Brighton bounce-back in Conference League",
+     "url": "https://www.beinsports.com/en-asia/football/uefa-conference-league/articles/hinshelwood-targets-brighton-bounce-back-in-conference-league-2026-11-25",
+     "source": "beIN SPORTS"
+    }
+   ]
+  },
+  "우크라이나": {
+   "q": "우크라이나",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 09:20:00 -0800",
+   "news": [
+    {
+     "title": "우크라 전쟁 책임론에 독일 16년 이끈 ‘무티 리더십’ 신화도 흔들 [이 사람@World]",
+     "url": "https://www.segye.com/newsView/20261124511239",
+     "source": "세계일보"
+    },
+    {
+     "title": "\"美, 전후 우크라 내 미군 주둔 배제\"…'나토식 안전보장안' 난항",
+     "url": "https://www.news1.kr/world/asia-australia/6366256",
+     "source": "뉴스1"
+    },
+    {
+     "title": "美국방차관, 우크라 '러 본토 공격' 비판…나토 수장은 옹호",
+     "url": "https://www.fnnews.com/news/202611180217228579",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  "유로파리그": {
+   "q": "유로파리그",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 09:20:00 -0800",
+   "news": [
+    {
+     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "경기 프리뷰: 크리스탈 팰리스 vs 레알 소시에다드, 11월 27일 새벽 3시: 승리는 어디에서 나올까?",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-real-sociedad-3h00-ngay-27-11-chien-thang-noi-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  "베식타시 대 하포엘 베르셰바": {
+   "q": "베식타시 대 하포엘 베르셰바",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 26 Nov 2026 09:10:00 -0800",
+   "news": [
+    {
+     "title": "Beşiktaş vs Hapoel Be'er Sheva: UEFA Europa League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cm4gn89709n7t",
+     "source": "BBC"
+    },
+    {
+     "title": "Match between Turkey’s Besiktas and Hapoel Beersheba halted amid clash in stands",
+     "url": "https://www.timesofisrael.com/liveblog_entry/match-between-turkeys-besiktas-and-hapoel-beersheba-halted-amid-clash-in-stands/",
+     "source": "The Times of Israel"
+    },
+    {
+     "title": "Support from Trabzonspor to Beşiktaş! Reaction to UEFA's double standard",
+     "url": "https://en.haberler.com/support-from-trabzonspor-to-besiktas-reaction-to-2345699/",
+     "source": "Haberler.com"
+    }
+   ]
+  },
+  "아마존": {
+   "q": "아마존",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Thu, 26 Nov 2026 08:20:00 -0800",
+   "news": [
+    {
+     "title": "I found the 84 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
+     "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-26",
+     "source": "CNN"
+    },
+    {
+     "title": "Amazon’s 85 Best Black Friday Deals to Shop on Thanksgiving Start at 27 Cents Apiece — Up to 75% Off",
+     "url": "https://www.foodandwine.com/best-amazon-thanksgiving-black-friday-deals-2026-12217727",
+     "source": "Food & Wine"
+    },
+    {
+     "title": "Amazon Black Friday deals: Live updates on the biggest sales from Apple, Yeti, Ninja, Ring, KitchenAid and more during Cyber Week 2026",
+     "url": "https://shopping.yahoo.com/deals/breaking-news/live/amazon-black-friday-deals-live-updates-on-the-biggest-sales-from-apple-yeti-ninja-ring-kitchenaid-and-more-during-cyber-week-2026-153217857.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  "hj중공업": {
+   "q": "hj중공업",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 07:50:00 -0800",
+   "news": [
+    {
+     "title": "HJ중공업, 2499억원 규모 세종~청주 고속도로 4공구 수주",
+     "url": "https://www.viva100.com/article/20261126501496",
+     "source": "브릿지경제"
+    },
+    {
+     "title": "HJ중공업, 2499억원 규모 세종~청주 고속도로 공사 수주",
+     "url": "https://www.asiatime.co.kr/article/20261126500375",
+     "source": "아시아타임즈"
+    },
+    {
+     "title": "HJ중공업 '세종~청주 고속도로 4공구' 수주…2499억 규모",
+     "url": "https://www.news1.kr/realestate/general/6366626",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  "정연": {
+   "q": "정연",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Thu, 26 Nov 2026 07:40:00 -0800",
+   "news": [
+    {
+     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
+     "source": "머니투데이"
+    },
+    {
+     "title": "몬스타엑스 주헌 \"트와이스 정연과 데뷔 동기, 강단있게 하는 모습 멋있었다\"",
+     "url": "https://biz.chosun.com/entertainment/tv/2026/11/26/GY2TONDEMNTGMMLEGQZGEOLDME/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  "김민": {
+   "q": "김민",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Thu, 26 Nov 2026 06:30:00 -0800",
+   "news": [
+    {
+     "title": "[사진]김민, 야생마 같은 매력",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[ET포토] 김시아, '핑크빛 인형'",
+     "url": "https://www.etnews.com/20261126000004",
+     "source": "전자신문"
+    },
+    {
+     "title": "[포토] 배우 이우태, 청담동 나들이",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650229.html",
+     "source": "뉴데일리"
+    }
+   ]
+  },
+  "스파이": {
+   "q": "스파이",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Thu, 26 Nov 2026 06:10:00 -0800",
+   "news": [
+    {
+     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
+     "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
+     "source": "WSJ"
+    },
+    {
+     "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+     "url": "https://www.reuters.com/business/finance/alice-huang-linked-firms-listed-270-million-ai-servers-china-records-show-2026-11-25/",
+     "source": "Reuters"
+    }
+   ]
+  }
+ },
+ "updated": "2026-11-27 04:19"
+}
