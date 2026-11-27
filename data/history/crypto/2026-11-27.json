@@ -407,7 +407,7 @@
    "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
    "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
    "published": "2026-11-26T07:09:25+00:00",
-   "coverage": 0,
+   "coverage": 1,
    "coins": [
     "ZEC"
    ]
@@ -762,7 +762,7 @@
    "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
    "summary": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
    "published": "2026-11-25T13:15:24+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": []
   },
   "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam": {
@@ -821,7 +821,7 @@
    "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
    "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
    "published": "2026-11-26T13:22:47+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "ZEC"
    ]
@@ -1518,9 +1518,223 @@
     "LINK",
     "SOL"
    ]
+  },
+  "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+   "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
+   "published": "2026-11-27T01:47:38+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+   "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.",
+   "published": "2026-11-27T00:35:39+00:00",
+   "coverage": 0,
+   "coins": [
+    "ZEC"
+   ]
+  },
+  "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+   "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
+   "published": "2026-11-26T22:39:46+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+   "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
+   "published": "2026-11-26T21:42:43+00:00",
+   "coverage": 0,
+   "coins": [
+    "BNB"
+   ]
+  },
+  "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+   "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+   "published": "2026-11-26T21:33:47+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+   "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+   "published": "2026-11-26T21:13:53+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+   "published": "2026-11-26T20:05:18+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown": {
+   "source": "Decrypt",
+   "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+   "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+   "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+   "published": "2026-11-26T22:01:02+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys": {
+   "source": "Decrypt",
+   "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+   "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+   "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+   "published": "2026-11-26T21:01:03+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/pump-fun-wants-to-make-token-launches-fairer-its-new-fee-targets-block0-buyers/": {
+   "source": "CryptoPotato",
+   "title": "Pump.fun Wants to Make Token Launches Fairer: Its New Fee Targets Block0 Buyers",
+   "url": "https://cryptopotato.com/pump-fun-wants-to-make-token-launches-fairer-its-new-fee-targets-block0-buyers/",
+   "summary": "Pump.fun wants to tackle hidden developer holdings and unfair launch-day buying.",
+   "published": "2026-11-26T22:29:19+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://cryptopotato.com/zcash-developers-map-out-response-to-possible-cryptographic-breakthrough/": {
+   "source": "CryptoPotato",
+   "title": "Zcash Developers Map Out Response to Possible Cryptographic Breakthrough",
+   "url": "https://cryptopotato.com/zcash-developers-map-out-response-to-possible-cryptographic-breakthrough/",
+   "summary": "The team estimates that roughly 400,000 ZEC remains in Sapling, where a compromised proof system could put funds at risk.",
+   "published": "2026-11-26T20:50:31+00:00",
+   "coverage": 2,
+   "coins": [
+    "ZEC"
+   ]
+  },
+  "https://cryptopotato.com/3-altcoins-to-watch-while-the-crypto-market-bleeds-analyst/": {
+   "source": "CryptoPotato",
+   "title": "3 Altcoins to Watch While the Crypto Market Bleeds: Analyst",
+   "url": "https://cryptopotato.com/3-altcoins-to-watch-while-the-crypto-market-bleeds-analyst/",
+   "summary": "\"All three altcoins beat the market, but I wouldn’t treat them as the same trade,\" Martinez said.",
+   "published": "2026-11-26T19:22:19+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171321?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "아서 헤이즈 “연준 비둘기파 전환 없으면 주말 디지털자산 매도세 거세질 것”",
+   "url": "https://www.blockmedia.co.kr/archives/1171321?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 함지현 기자] 미국 연방준비제도(Fed·연준)가 12월 연방공개시장위원회(FOMC)를 앞두고 통화정책 관련 발언을 제한하는 블랙아웃 기간에 돌입하는 가운데 이번 주말 디지털자산 시장에서 매도세가 확대될 수 있다는 전망이 나왔다. 아서 헤이즈 비트멕스 공동창업자는 27일 자신의 엑스(X)를 통해 미국 현지시각으로 금요일이 끝나기 전까지 연준의 발언 기조가 비둘기파(통화완화 선호)적으로 전환되지 않을 경우 주말 디지털자산 시장의 변동성이 확대될 수 있다고 경고했다. [...]",
+   "published": "2026-11-27T03:15:31+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171319?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "英 헤지펀드 QRT, 20억달러 크립토 펀드 주력 펀드에 흡수 -블룸버그",
+   "url": "https://www.blockmedia.co.kr/archives/1171319?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 글로벌 헤지펀드 운용사 큐브리서치앤드테크놀로지스(QRT)가 20억달러 규모의 디지털자산 전문 펀드를 주력 헤지펀드에 통합한다. 올해 들어 디지털자산 시장의 침체가 이어지는 가운데 대형 헤지펀드 운용사의 투자 전략 재편에 시장의 관심이 쏠리고 있다. 26일(현지시각) 블룸버그통신은 복수의 관계자를 인용해 영국 런던에 본사를 둔 QRT가 내년 초 디지털자산 전문 펀드인 뫼비우스(Moebius)를 주력 투자 전략인 큐브(Qube)에 통합할 예정이라고 보도했다. [...]",
+   "published": "2026-11-27T03:01:58+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171339?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "히바치, 전통 외환시장과 디지털자산 거래 인프라 결합 나선다",
+   "url": "https://www.blockmedia.co.kr/archives/1171339?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 정윤재 에디터] 히바치(Hibachi)가 전통 외환(FX)시장의 신용 기반 거래 구조와 디지털자산 시장의 기술 인프라를 결합한다. 거래 체결과 결제를 분리하고 스테이블코인과 스마트컨트랙트를 활용해 기관투자자의 자본 효율성을 높이겠다는 구상이다. 히바치는 11월20일 공식 X(옛 트위터)를 통해 전통 외환시장과 디지털자산 시장의 구조적 차이를 분석했다. 신용과 담보, 자금 이동 방식에 주목하며 두 시장의 장점을 결합한 통합 거래소 구축 방향을 제시했다. [...]",
+   "published": "2026-11-27T02:55:36+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171313?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "스탠다드차타드 디지털자산 수탁 자회사 해킹…고객·직원 정보 유출",
+   "url": "https://www.blockmedia.co.kr/archives/1171313?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 글로벌 금융그룹 스탠다드차타드(Standard Chartered)의 디지털자산 수탁 자회사 조디아 커스터디(Zodia Custody)가 해킹 공격을 받아 일부 고객과 직원의 개인정보가 유출됐다. 회사 측은 현재까지 무단 자산 거래나 자산 이전은 확인되지 않았다고 밝혔다. 26일(현지시각) 블룸버그통신에 따르면 리처드 클라크 조디아 커스터디 최고경영자(CEO)는 성명을 통해 외부 공격자가 회사 플랫폼에 무단으로 접근해 일부 고객과 직원의 정보를 확보했다고 밝혔다. 유출된 [...]",
+   "published": "2026-11-27T02:23:43+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171303?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "일본 서비스 물가 36년 만에 최대 상승…12월 금리 인상 압력 커져",
+   "url": "https://www.blockmedia.co.kr/archives/1171303?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 일본의 기업 간 서비스 물가 상승률이 36년 만에 최고치를 기록한 데 이어 도쿄의 근원 소비자물가 상승률도 1년4개월 만에 가장 높은 수준으로 올라섰다. 에너지 가격 상승과 기업의 비용 부담 확대가 맞물리면서 일본은행(BOJ)의 12월 기준금리 인상 가능성에 힘이 실리고 있다. 다만 에너지를 제외한 소비자물가 상승세는 소폭 둔화했다. 27일 일본 총무성에 따르면 11월 도쿄도 23구의 [...]",
+   "published": "2026-11-27T01:51:54+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171296?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 5만달러까지 밀리나… “7만달러 회복 전까진 약세장”",
+   "url": "https://www.blockmedia.co.kr/archives/1171296?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인(BTC)이 주요 장기 이동평균선을 모두 밑돌면서 추가 하락 가능성이 제기됐다. 최근 저점 부근에서 지지력을 확보하지 못하면 지난 2024년 여름 저점인 5만달러 안팎까지 밀릴 수 있다는 분석이다. 상승 추세로 복귀하기 위해서는 7만달러 부근에 집중된 저항선을 돌파해야 한다는 진단이 나온다. 26일(현지시각) 디지털자산 시장 분석가 단 크립토 트레이즈(Daan Crypto Trades)는 엑스(X·옛 트위터)를 통해 비트코인의 주봉 [...]",
+   "published": "2026-11-27T01:28:48+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171261?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "500원도 안 되는 비용으로 비트코인 지갑 IP 추적…보안 취약점 발견",
+   "url": "https://www.blockmedia.co.kr/archives/1171261?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이정화 기자] 비트코인(BTC) 거래에 사용되는 지갑 소프트웨어에서 이용자의 인터넷 주소(IP 주소)가 노출될 수 있는 개인정보 보호 취약점이 발견됐다. 0.35달러 미만의 비용으로 비트코인 지갑과 인터넷 연결 정보를 연계할 수 있다는 연구 결과가 나오면서 이용자 추적과 금융정보 노출에 대한 우려가 제기됐다. 아부바카르 사디크 이스마일 비트코인 코어 개발자는 25일(현지시각) 비트코인 코어 소프트웨어의 거래 자동 재전송 기능이 이용자의 [...]",
+   "published": "2026-11-27T00:47:27+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171266?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[개장시황] 코스피, 증안펀드 기대 속 상승 출발…코스닥 2%대↑",
+   "url": "https://www.blockmedia.co.kr/archives/1171266?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 코스피가 증권시장안정펀드(증안펀드) 확대 기대와 저가 매수세에 힘입어 상승 출발했다. 미국 증시는 추수감사절로 휴장했지만 유럽 증시가 강세를 보인 가운데, 외국인이 장 초반 순매수에 나섰다. 27일 한국거래소에 따르면 오전 9시6분 기준 코스피는 전 거래일보다 41.06포인트(0.87%) 오른 4752.27을 기록했다. 지수는 전 거래일 대비 17.59포인트(0.37%) 상승한 4728.80에 출발했다. 투자자별로는 외국인과 기관이 각각 744억원, 61억원어치를 순매수했다. 개인은 [...]",
+   "published": "2026-11-27T00:15:41+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171256?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코인시황] 비트코인, 美 추수감사절 휴장 속 6만달러대 강보합…매수세 회복은 아직",
+   "url": "https://www.blockmedia.co.kr/archives/1171256?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 오수환 기자] 비트코인이 미국 주가지수 선물 상승과 함께 6만달러선을 회복했지만, 반등을 뒷받침할 만한 매수세는 부족하다는 분석이 나왔다. 미국 추수감사절 연휴로 시장 유동성이 줄어든 가운데 상승 때보다 하락 때 가격 변동성이 크게 나타나고 있어 추가 하락 우려도 여전하다. 27일 오전 8시24분 기준 국내 디지털자산 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 0.004% 상승한 8200만8000원에 거래됐다. [...]",
+   "published": "2026-11-26T23:32:19+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171254?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 캐도 손해…채굴원가 8만6000달러, 시장 가격은 6만달러",
+   "url": "https://www.blockmedia.co.kr/archives/1171254?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 명정선 기자] 비트코인(BTC) 가격이 평균 채굴원가를 크게 밑돌면서 채굴업체들의 경영 부담이 가중되고 있다. 채굴 수익성이 악화하자 보유 비트코인을 매각하거나 채굴에 투입하던 전력과 설비를 인공지능(AI) 데이터센터 사업으로 전환하는 움직임도 나타나고 있다. 비트코인 네트워크에 투입되는 전체 연산력도 2021년 이후 처음으로 전년 대비 감소했다. 27일 디지털자산 전문매체 코인피디아에 따르면 글로벌 투자은행 JP모건은 이달 말 기준 비트코인 한 [...]",
+   "published": "2026-11-26T22:56:36+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
   }
  },
- "updated": "2026-11-27 04:19",
+ "updated": "2026-11-27 12:18",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
