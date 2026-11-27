@@ -443,7 +443,237 @@
      "source": "BBS불교방송"
     }
    ]
+  },
+  "멸망전": {
+   "q": "멸망전",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 27 Nov 2026 04:00:00 -0800",
+   "news": [
+    {
+     "title": "SOOP, '2026 LoL 멸망전 시즌2' 27일 본선 개막",
+     "url": "https://www.yna.co.kr/view/AKR20261127131700017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "SOOP, 'LoL 멸망전' 자체 점수제 정식 도입",
+     "url": "https://zdnet.co.kr/view/?no=20261127162559",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "SOOP 롤 멸망전 시즌2 본선 돌입, 총상금 3,100만 원",
+     "url": "https://www.gamemeca.com/view.php?gid=1784358",
+     "source": "게임메카"
+    }
+   ]
+  },
+  "jyp엔터테인먼트": {
+   "q": "jyp엔터테인먼트",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Fri, 27 Nov 2026 03:40:00 -0800",
+   "news": [
+    {
+     "title": "'1월 11일 데뷔' 오브더블루, 멤버 4人 비주얼 공개…자유로운 청춘의 아우라",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/27/GI3TOYZYGQ3GCMRQMVRDIYJRMM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "JYP 보이그룹 오브더블루, 4인 멤버 비주얼 최초 공개…1월 11일 데뷔",
+     "url": "https://www.newspim.com/news/view/20261126000060",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "2027년 K팝 달굴 '신인 보이그룹 삼국지'",
+     "url": "https://www.mk.co.kr/news/culture/12220252",
+     "source": "매일경제"
+    }
+   ]
+  },
+  "농협은행": {
+   "q": "농협은행",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Fri, 27 Nov 2026 03:10:00 -0800",
+   "news": [
+    {
+     "title": "‘지역사회에 돈 얼마나 풀었는지’ 은행 평가에 더 반영한다",
+     "url": "https://www.khan.co.kr/article/202611271430011",
+     "source": "경향신문"
+    },
+    {
+     "title": "BNK경남은행, '금융사 지역 재투자' 7년 연속 최우수",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886758",
+     "source": "뉴시스"
+    },
+    {
+     "title": "금융위, 은행 지역재투자 상대평가로 전환…서민대출 배점 확대",
+     "url": "https://www.yna.co.kr/view/AKR20261127103500002",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  "박훈정": {
+   "q": "박훈정",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 27 Nov 2026 03:00:00 -0800",
+   "news": [
+    {
+     "title": "[컬처인사이드] 김명민, '슬픈 열대'로 7년 만의 스크린 복귀",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611271606442096",
+     "source": "YTN"
+    },
+    {
+     "title": "[개봉영화] 박훈정의 누아르 액션, ‘슬픈 열대’…현실 스릴러, ‘완벽한 집’-‘고인아파트’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724142",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "3년 만에 나온 '신작'…박훈정표 액션 느와르 '슬픈 열대'",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864715",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  "황교안": {
+   "q": "황교안",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 27 Nov 2026 02:50:00 -0800",
+   "news": [
+    {
+     "title": "특검, ‘SNS 내란선동 혐의’ 황교안 징역 10년 구형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724597",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
+     "url": "https://weekly.khan.co.kr/article/202611272052001",
+     "source": "주간경향"
+    }
+   ]
+  },
+  "블랙 프라이데이": {
+   "q": "블랙 프라이데이",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 27 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "블랙프라이데이, 역대급 ‘상술’이었나…200만원 준 TV 한 달뒤 가격 봤더니",
+     "url": "https://www.mk.co.kr/news/society/12220205",
+     "source": "매일경제"
+    },
+    {
+     "title": "블랙프라이데이 쇼핑하는 마드리드 사람들",
+     "url": "https://www.newsis.com/view/NISI20261127_0002304235",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“70% 할인 믿지 마세요”… 유통업체 ‘상술’ 극성",
+     "url": "https://www.koreatimes.com/article/11633057",
+     "source": "미주한국일보"
+    }
+   ]
+  },
+  "파라타항공": {
+   "q": "파라타항공",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Fri, 27 Nov 2026 02:40:00 -0800",
+   "news": [
+    {
+     "title": "[11월 27일 고용24 채용정보] 파라타항공·국제식물검역인증원·바이오노트·인천항만공사·한솔로지스틱스",
+     "url": "https://www.news2day.co.kr/article/20261127500024",
+     "source": "뉴스투데이"
+    },
+    {
+     "title": "파라타항공, FSC 도전…1000억 적자 딛고 반등할까",
+     "url": "https://www.economytalk.kr/news/articleView.html?idxno=425452",
+     "source": "이코노미톡뉴스"
+    },
+    {
+     "title": "파라타항공 윤철민, 미주 진출 앞두고 'FSC급 서비스' 승부수",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086353",
+     "source": "신아일보"
+    }
+   ]
+  },
+  "bangladesh a vs pakistan a": {
+   "q": "bangladesh a vs pakistan a",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Fri, 27 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "Bangladesh A Elect To Bat First Against Pakistan Shaheens In Rising Stars Semi-Final",
+     "url": "https://wenewsenglish.com/pakistan-bangladesh-rising-stars-semi-final/",
+     "source": "WE News English"
+    },
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177214/player/14211/batting",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "SHA vs BAN-A 2nd Semi-Final: Pitch Report, Player Stats & Form",
+     "url": "https://www.ai11.in/cricket/series/asia-cup-rising-stars-2026-27/match/bangladesh-a-vs-pakistan-shaheen-2nd-semi-final-2026",
+     "source": "AI11"
+    }
+   ]
+  },
+  "agf": {
+   "q": "agf",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Fri, 27 Nov 2026 02:20:00 -0800",
+   "news": [
+    {
+     "title": "Brann vs AGF: UEFA Conference League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cm0evldn2xvlt",
+     "source": "BBC"
+    },
+    {
+     "title": "Aarhus thrash Brann to secure first Conference League win of term",
+     "url": "https://www.tribalfootball.com/article/aarhus-thrash-brann-to-secure-first-conference-league-win-of-term-65915a83-00c0-41ed-b481-4c727db56277",
+     "source": "TribalFootball"
+    },
+    {
+     "title": "Brann vs AGF: Where to Watch, Live Stream, TV Channel and Kick-off Time",
+     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-brann-v-agf/blt634afba619910fdc",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  "김이현": {
+   "q": "김이현",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Fri, 27 Nov 2026 01:40:00 -0800",
+   "news": [
+    {
+     "title": "19세 복싱 유망주 김이현, 뺑소니 사고로 숨져",
+     "url": "https://www.donga.com/news/Society/article/all/20261127/135106004/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "스무살 생일 앞두고…복싱 유망주 김이현, 뺑소니 사고로 사망",
+     "url": "https://www.hankyung.com/article/2026112755817",
+     "source": "한국경제"
+    },
+    {
+     "title": "향년 19세…‘복싱 유망주’ 김이현, 생일 앞두고 뺑소니 사고로 사망",
+     "url": "https://www.wikitree.co.kr/articles/1178414",
+     "source": "위키트리"
+    }
+   ]
   }
  },
- "updated": "2026-11-27 12:18"
+ "updated": "2026-11-27 22:11"
 }
