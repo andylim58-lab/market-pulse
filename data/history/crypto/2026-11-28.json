@@ -174,7 +174,7 @@
    "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
    "published": "2026-11-26T21:33:47+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -591,7 +591,7 @@
    "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
    "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
    "published": "2026-11-27T13:24:17+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": []
   },
   "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite": {
@@ -714,7 +714,7 @@
    "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
    "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
    "published": "2026-11-26T11:50:23+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": []
   },
   "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us": {
@@ -756,7 +756,7 @@
    "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
    "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
    "published": "2026-11-27T14:24:21+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -869,7 +869,7 @@
    "url": "https://cryptopotato.com/btc-struggles-at-60k-ethereum-sets-glamsterdam-date-jensen-huang-reinstated-as-nvidia-ceo-weekly-recap/",
    "summary": "Most altcoins are actually well in the green on a weekly scale, but that's not the entire picture.",
    "published": "2026-11-27T16:54:53+00:00",
-   "coverage": 4,
+   "coverage": 5,
    "coins": [
     "BTC",
     "ETH"
@@ -992,7 +992,7 @@
    "url": "https://cryptopotato.com/bitcoin-faces-massive-6-8b-options-expiry-today-what-does-it-mean-for-btcs-price/",
    "summary": "40 of the last 56 BTC options expiries settled within 2% of max pain, but reaching $70K now needs a double-digit rally before settlement.",
    "published": "2026-11-27T06:57:50+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -1074,7 +1074,7 @@
    "url": "https://cryptopotato.com/bitcoin-price-analysis-can-btc-hold-60k-as-apparent-demand-plunges-to-record-lows/",
    "summary": "Bitcoin is trying to stabilize around $60K after a sharp November sell-off that briefly pushed the price toward $55K, its lowest level in years. The decline has come alongside record spot ETF outflows of nearly $5B this month, a broad AI-led tech sell-off, and growing expectations of further Fed rate hikes. BTC is now ",
    "published": "2026-11-26T16:28:53+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -1103,7 +1103,7 @@
    "url": "https://cryptopotato.com/best-time-to-buy-bitcoin-btc-could-arrive-in-just-2-days-heres-why/",
    "summary": "The model resolves around Bitcoin's halving cycle.",
    "published": "2026-11-26T13:45:28+00:00",
-   "coverage": 2,
+   "coverage": 3,
    "coins": [
     "BTC"
    ]
@@ -1134,7 +1134,7 @@
    "url": "https://cryptopotato.com/viral-altcoin-explodes-by-40-bitcoin-btc-reclaims-60k-market-watch/",
    "summary": "PUMP, SEI, and M have also charted double-digit gains, but one altcoin sits above them all today.",
    "published": "2026-11-26T11:05:32+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "coins": [
     "BTC"
    ]
@@ -1185,7 +1185,7 @@
    "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
    "summary": "Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds. This post Binance Fully Lifts Withdraw",
    "published": "2026-11-27T18:00:00+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -1378,9 +1378,194 @@
    "coins": [
     "TRX"
    ]
+  },
+  "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+   "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
+   "published": "2026-11-27T21:15:29+00:00",
+   "coverage": 0,
+   "coins": [
+    "HYPE"
+   ]
+  },
+  "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+   "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+   "published": "2026-11-27T19:23:00+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims": {
+   "source": "Decrypt",
+   "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+   "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+   "summary": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+   "published": "2026-11-27T21:46:03+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says": {
+   "source": "Decrypt",
+   "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+   "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+   "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
+   "published": "2026-11-27T20:46:02+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market": {
+   "source": "Decrypt",
+   "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+   "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+   "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
+   "published": "2026-11-27T19:46:02+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://cryptopotato.com/solana-sol-suffers-its-worst-year-so-far-is-more-pain-ahead/": {
+   "source": "CryptoPotato",
+   "title": "Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead?",
+   "url": "https://cryptopotato.com/solana-sol-suffers-its-worst-year-so-far-is-more-pain-ahead/",
+   "summary": "\"SOL at $70 could be the biggest trap of this cycle,\" one analyst claimed.",
+   "published": "2026-11-27T22:44:09+00:00",
+   "coverage": 0,
+   "coins": [
+    "SOL"
+   ]
+  },
+  "https://cryptopotato.com/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-3b-hack/": {
+   "source": "CryptoPotato",
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.3B Hack",
+   "url": "https://cryptopotato.com/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-3b-hack/",
+   "summary": "Binance reopened withdrawals in order of user demand, 15 networks first and 87 more in the week to November 14.",
+   "published": "2026-11-27T21:05:00+00:00",
+   "coverage": 4,
+   "coins": []
+  },
+  "https://cryptopotato.com/this-is-why-arthur-hayes-expects-a-volatile-weekend-for-crypto/": {
+   "source": "CryptoPotato",
+   "title": "This Is Why Arthur Hayes Expects a Volatile Weekend for Crypto",
+   "url": "https://cryptopotato.com/this-is-why-arthur-hayes-expects-a-volatile-weekend-for-crypto/",
+   "summary": "Bitcoin's reaction to the October 29 Fed meeting shows how quickly price moves can reverse within hours after a central bank policy decision.",
+   "published": "2026-11-27T19:36:49+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171710?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "S&P500, 추수감사절 주간 5.6% 급등…2008년 이후 최대",
+   "url": "https://www.blockmedia.co.kr/archives/1171710?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 미국 뉴욕증시가 추수감사절 연휴를 앞두고 강한 반등세를 보였다. S&P500 지수는 한 주 동안 5.6% 상승했다. 지난해 4월 이후 가장 큰 주간 상승폭이다. 나스닥 지수도 6.7% 올랐다. 지난주까지 이어졌던 인공지능(AI)·반도체주 매도세가 진정되면서 투자심리가 회복됐다. 다만 이번 반등이 본격적인 상승세로 이어질지는 불확실하다. 다음 주 발표될 미국 고용지표와 연방준비제도(Fed·연준)의 금리 정책이 향후 증시 흐름을 가를 [...]",
+   "published": "2026-11-28T02:19:08+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171703?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "러시아 2위 은행 VTB 비트코인 판매…미국 제재 속 거래 확대",
+   "url": "https://www.blockmedia.co.kr/archives/1171703?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 미국의 제재를 받는 러시아 2위 은행 VTB가 비트코인 거래 서비스를 시작했다. VTB는 지난 27일(현지시각)부터 자사 투자 앱에서 비트코인 매매를 지원한다고 밝혔다. 미국이 이란의 제재 회피를 지원했다는 이유로 VTB를 제재한 지 약 10주 만이다. 이번 서비스는 VTB의 투자 앱 ‘VTB 마이 인베스트먼트(My Investments)’를 통해 제공된다. 다만 현재는 일정한 자산이나 투자 경력을 갖춘 적격 [...]",
+   "published": "2026-11-28T01:28:11+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171697?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "바이낸스, 브라질서 외환 인가…현지 세 번째 라이선스",
+   "url": "https://www.blockmedia.co.kr/archives/1171697?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 브라질 중앙은행이 디지털자산(가상자산) 거래소 바이낸스의 현지 증권사에 외환시장 영업을 허가했다. 바이낸스가 브라질에서 받은 세 번째 인가다. 바이낸스는 지난 27일(현지시각) 공식 엑스(X) 계정을 통해 이 같은 사실을 알렸다. 브라질 중앙은행이 바이낸스 현지 증권사의 외환시장 진출을 승인한 지 나흘 만이다. 브라질 중앙은행은 이달 23일 인가 결정을 내렸고, 이 내용은 다음날 브라질 관보에 실렸다. 인가를 [...]",
+   "published": "2026-11-28T00:36:13+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171676?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "이더리움 적립식 투자도 손실…5년간 23.5% 마이너스",
+   "url": "https://www.blockmedia.co.kr/archives/1171676?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 5년 동안 매달 100달러씩 이더리움(Ethereum·ETH)을 사 모았다면 원금의 4분의 1가량을 잃은 것으로 나타났다. 총 6000달러를 투자했지만 평가금액은 약 4590달러로 23.5% 줄었다. 이는 디지털자산(가상자산) 시장의 높은 변동성을 보여주는 사례로, 향후 5년 이더리움 가격을 두고도 추가 하락부터 큰 폭의 상승까지 전망이 엇갈리고 있다. 현물 ETF서 기관 자금 이탈 지난 2021년 11월부터 60개월 동안 매달 [...]",
+   "published": "2026-11-27T23:42:59+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171675?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인 지갑 추적 취약점 발견…30회 실험서 모두 식별",
+   "url": "https://www.blockmedia.co.kr/archives/1171675?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 비트코인 네트워크에서 지갑 주소와 해당 주소를 추적하는 컴퓨터(노드)를 연결할 수 있는 프라이버시 취약점이 제기됐다. 연구자가 진행한 통제된 환경의 실험에서는 30차례 시도 모두 특정 주소와 이를 인식한 노드를 연결하는 데 성공했다. 이번 문제는 비트코인 코어(Bitcoin Core)의 거래 재전파 기능과 관련이 있다. 지갑이 아직 블록체인에 기록되지 않은 거래를 인식한 뒤 네트워크 참여자들에게 해당 거래를 [...]",
+   "published": "2026-11-27T23:07:43+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171673?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "블랙웰 중국 데이터센터서 확인…미국 규제 시험대(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1171673?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 미국의 수출통제 대상인 엔비디아 최신 인공지능(AI) 칩 ‘블랙웰’이 중국 상하이의 한 데이터센터에서 확인됐다. 도널드 트럼프 미국 대통령이 연방정부의 엔비디아 지분 인수 가능성을 언급한 가운데 나온 소식이다. 엔비디아로서는 악재가 겹친 셈이다. 수출통제가 한층 강화되면서 향후 칩 주문이 줄어들 수 있고, 수십억달러 규모의 아시아 데이터센터 자금 조달에도 차질이 빚어지고 있다. 중국이 자체 기술 도입에 [...]",
+   "published": "2026-11-27T22:38:15+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171667?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "일론 머스크 “그록 봇으로 회사 통째로 창업 가능”…기업용 AI 시장 격돌 예고",
+   "url": "https://www.blockmedia.co.kr/archives/1171667?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 일론 머스크 테슬라 최고경영자(CEO)가 인공지능(AI) 챗봇 그록(Grok) 봇을 활용해 사용자들이 하나의 회사를 통째로 설립할 수 있다고 선언하며 기업용 AI 시장에 대한 야심을 드러냈다. 이는 AI가 단순한 보조 도구를 넘어 기업 운영의 핵심 주체로 부상할 수 있음을 시사하는 발언으로, 관련 업계의 이목이 집중되고 있다. 머스크의 AI 기업 xAI(현 스페이스XAI)는 지난해 12월 30일(현지시각) 그록 비즈니스(Grok [...]",
+   "published": "2026-11-27T21:50:58+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171665?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "CZ “BTC 6만달러도 과거 기준 양호…바닥 근접 기대”",
+   "url": "https://www.blockmedia.co.kr/archives/1171665?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 창펑 자오(CZ) 바이낸스 공동창업자가 비트코인(BTC) 6만달러는 과거 시장 사이클을 고려하면 여전히 양호한 가격이라고 평가했다. 최근 디지털자산(가상자산) 시장의 하락 배경으로 인공지능(AI) 기업에 대한 자금 쏠림과 기술주 약세, 관세 불확실성 등을 지목하면서도 블록체인 산업의 장기 성장 가능성을 낙관했다. 27일(현지시각) 코인게이프에 따르면 자오는 태국 방콕에서 열린 BNB 데모 나이트(BNB Demo Night) 행사 인터뷰에서 비트코인이 12만달러로 회복하기를 [...]",
+   "published": "2026-11-27T21:35:40+00:00",
+   "coverage": 0,
+   "coins": [
+    "BNB",
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171663?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "미 수출통제 뚫린 엔비디아… ‘블랙웰’ 중국 상하이서 포착-블룸버그",
+   "url": "https://www.blockmedia.co.kr/archives/1171663?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 미국의 대중국 반도체 수출통제에도 엔비디아의 최첨단 인공지능(AI) 반도체인 블랙웰이 중국 상하이 데이터센터에 설치된 것으로 나타났다. 해당 시설은 엔비디아 반도체의 중국 밀반입 의혹으로 미국 당국의 조사를 받고 있는 싱가포르 기업 메가스피드와 창업자 앨리스 황이 연계된 곳이다. 27일(현지시각) 블룸버그는 중국 규제당국에 제출된 금융기관 서류를 분석한 결과 중국 기업 두 곳이 상하이 양쯔강 삼각주 데이터센터 프로젝트에 [...]",
+   "published": "2026-11-27T21:22:13+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171660?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "코인베이스 CEO “BTC 바닥 확인… 2030년 40만달러 전망”",
+   "url": "https://www.blockmedia.co.kr/archives/1171660?utm_source=general&utm_medium=rss",
+   "summary": "[멕시코=심영재 특파원] 브라이언 암스트롱 코인베이스 최고경영자(CEO)가 비트코인(BTC)이 이번 하락장의 바닥에 도달했을 가능성이 높다며 2030년까지 40만달러 이상 상승할 수 있다고 전망했다. 코인베이스는 인공지능(AI) 기반 자동화 거래와 토큰화 주식, 파생상품, 예측시장 등으로 사업 영역을 확대하고 있다. 27일(현지시각) 비트코인닷컴에 따르면 암스트롱 CEO는 투모로우X(Tomorrow X) 행사에서 진행된 울프파이낸셜(WOLF Financial)과의 인터뷰에서 최근 비트코인 가격 급락에도 장기 성장 가능성에 대한 자신감을 [...]",
+   "published": "2026-11-27T21:10:31+00:00",
+   "coverage": 1,
+   "coins": [
+    "BTC"
+   ]
   }
  },
- "updated": "2026-11-28 04:13",
+ "updated": "2026-11-28 11:58",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
