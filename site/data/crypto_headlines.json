@@ -1,15 +1,97 @@
 {
- "updated": "2026-11-28 11:58",
+ "updated": "2026-11-28 21:27",
  "feeds": [
   "Cointelegraph",
   "CoinDesk",
   "Decrypt",
   "The Block",
-  "CryptoPotato",
   "Bitcoin Magazine",
   "블록미디어"
  ],
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+   "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-28T10:31:00+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "published": "2026-11-28T09:32:51+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 1
+  },
+  {
+   "source": "블록미디어",
+   "title": "[코생지] 하락장세 속 낙폭 줄인 알트코인⋯매수세 회복 관건은 12월 FOMC",
+   "url": "https://www.blockmedia.co.kr/archives/1169790?utm_source=general&utm_medium=rss",
+   "published": "2026-11-28T09:32:18+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+   "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-28T07:43:00+00:00",
+   "coins": [],
+   "coverage": 1
+  },
+  {
+   "source": "The Block",
+   "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+   "published": "2026-11-28T04:11:00+00:00",
+   "coins": [
+    "BTC",
+    "USDT"
+   ],
+   "coverage": 3
+  },
+  {
+   "source": "블록미디어",
+   "title": "비트코인, 6만달러 재돌파…변동성 장세 지속",
+   "url": "https://www.blockmedia.co.kr/archives/1171730?utm_source=general&utm_medium=rss",
+   "published": "2026-11-28T04:09:41+00:00",
+   "coins": [
+    "BTC"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "한·중·일·아세안, 국경 간 디지털결제 실무그룹 꾸린다(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1171727?utm_source=general&utm_medium=rss",
+   "published": "2026-11-28T04:03:30+00:00",
+   "coins": [],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "비탈릭, “설계도 공개 가능한 반도체 칩 개발해야”…하드웨어 지갑 해킹에 ‘오픈소스 반도체’ 강조",
+   "url": "https://www.blockmedia.co.kr/archives/1171408?utm_source=general&utm_medium=rss",
+   "published": "2026-11-28T03:30:34+00:00",
+   "coins": [
+    "ETH"
+   ],
+   "coverage": 0
+  },
+  {
+   "source": "블록미디어",
+   "title": "바이낸스 출금 정상화…일부 네트워크는 ‘점검 중'(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1171720?utm_source=general&utm_medium=rss",
+   "published": "2026-11-28T03:25:36+00:00",
+   "coins": [],
+   "coverage": 0
+  },
   {
    "source": "블록미디어",
    "title": "S&P500, 추수감사절 주간 5.6% 급등…2008년 이후 최대",
@@ -293,90 +375,6 @@
    "title": "China sets March 2027 rollout for blockchain identity regulations",
    "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-27T17:37:23+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
-   "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
-   "published": "2026-11-27T17:09:30+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
-   "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
-   "published": "2026-11-27T17:06:12+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 2
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "BTC Struggles at $60K, Ethereum Sets Glamsterdam Date, Jensen Huang Reinstated as Nvidia CEO: Weekly Recap",
-   "url": "https://cryptopotato.com/btc-struggles-at-60k-ethereum-sets-glamsterdam-date-jensen-huang-reinstated-as-nvidia-ceo-weekly-recap/",
-   "published": "2026-11-27T16:54:53+00:00",
-   "coins": [
-    "BTC",
-    "ETH"
-   ],
-   "coverage": 5
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-27T16:48:51+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "블록미디어",
-   "title": "XRP 연내 2달러 회복 확률 5%…2027년 말도 23% 그쳐",
-   "url": "https://www.blockmedia.co.kr/archives/1171610?utm_source=general&utm_medium=rss",
-   "published": "2026-11-27T16:33:18+00:00",
-   "coins": [
-    "BTC",
-    "XRP"
-   ],
-   "coverage": 0
-  },
-  {
-   "source": "Decrypt",
-   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
-   "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
-   "published": "2026-11-27T16:21:40+00:00",
-   "coins": [],
-   "coverage": 0
-  },
-  {
-   "source": "Bitcoin Magazine",
-   "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
-   "url": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
-   "published": "2026-11-27T16:15:00+00:00",
-   "coins": [
-    "BTC"
-   ],
-   "coverage": 3
-  },
-  {
-   "source": "CryptoPotato",
-   "title": "Monero (XMR) Drops 15% Daily: Here’s the Reason",
-   "url": "https://cryptopotato.com/monero-xmr-drops-15-daily-heres-the-reason/",
-   "published": "2026-11-27T15:39:20+00:00",
-   "coins": [],
-   "coverage": 1
-  },
-  {
-   "source": "블록미디어",
-   "title": "골드만 “다음 주 증시 1000억달러 자동 매도 폭탄” 경고(종합)",
-   "url": "https://www.blockmedia.co.kr/archives/1171594?utm_source=general&utm_medium=rss",
-   "published": "2026-11-27T15:35:27+00:00",
    "coins": [],
    "coverage": 0
   }

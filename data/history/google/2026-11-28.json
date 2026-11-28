@@ -443,7 +443,200 @@
      "source": "BVM Sports"
     }
    ]
+  },
+  "근로장려금 신청": {
+   "q": "근로장려금 신청",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 28 Nov 2026 02:50:00 -0800",
+   "news": []
+  },
+  "브래디": {
+   "q": "브래디",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 28 Nov 2026 02:30:00 -0800",
+   "news": [
+    {
+     "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
+     "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
+     "source": "ESPN"
+    },
+    {
+     "title": "Tom Brady torches Aaron Rodgers for 'private things becoming public' after Steelers' release",
+     "url": "https://www.cbssports.com/nfl/news/tom-brady-torches-aaron-rodgers-after-steelers-release-mike-mccarthy/",
+     "source": "CBS Sports"
+    },
+    {
+     "title": "Terrell Owens brings race into Aaron Rodgers conversation after QB torched Steelers coach before release",
+     "url": "https://www.foxnews.com/outkick-sports/terrell-owens-brings-race-aaron-rodgers-conversation-after-qb-torched-steelers-coach-before-release",
+     "source": "Fox News"
+    }
+   ]
+  },
+  "주가": {
+   "q": "주가",
+   "traffic": 2000,
+   "traffic_label": "2000+",
+   "pub": "Sat, 28 Nov 2026 02:20:00 -0800",
+   "news": [
+    {
+     "title": "“현대차 70만원 때 더 팔걸” 김구라도 후회…주가 얼마나 빠졌길래",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01590806645650312&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "김구라, 현대차 투자 고백 \"70만원에 팔아\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886881",
+     "source": "뉴시스"
+    },
+    {
+     "title": "현대차 100만원 간다며 70만원에도 안 팔았는데…5억 '몰빵' 고민에 김구라도 한숨",
+     "url": "https://view.asiae.co.kr/article/2026112813364428663",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  "최가온": {
+   "q": "최가온",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 28 Nov 2026 02:20:00 -0800",
+   "news": [
+    {
+     "title": "135m 번지점프도 훌쩍, 스노보드 천재 최가온의 다음 도전은?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725037",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "최가온 \"올림픽 때보다 반 바퀴 더 돈다\"",
+     "url": "https://www.chosun.com/international/international_general/2026/11/28/EPZD66XHXVHRJKFVBNVZIS6NMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "스케이트보드 강준이 등 꿈나무들, 태인 체육장학금 받아",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723890",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  "베스킨라빈스": {
+   "q": "베스킨라빈스",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 28 Nov 2026 02:10:00 -0800",
+   "news": []
+  },
+  "울산광역시": {
+   "q": "울산광역시",
+   "traffic": 200,
+   "traffic_label": "200+",
+   "pub": "Sat, 28 Nov 2026 01:40:00 -0800",
+   "news": [
+    {
+     "title": "영광군노인복지관 어르신 동아리, \"방한용품 등 560여 점\" 기탁",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817658",
+     "source": "전라일보"
+    },
+    {
+     "title": "배움에서 나눔으로 이어진 손뜨개 사랑, 종합사회복지관에 따뜻한 온기 전해",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261120010007261",
+     "source": "중도일보"
+    }
+   ]
+  },
+  "욕망의 덫": {
+   "q": "욕망의 덫",
+   "traffic": 500,
+   "traffic_label": "500+",
+   "pub": "Sat, 28 Nov 2026 01:20:00 -0800",
+   "news": [
+    {
+     "title": "'욕망의 덫' 전혜원, 희귀 혈액형 Rh-A형으로 출생의 비밀 알았다",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764239",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "‘욕망의 덫’ 전혜원, 고은설 둘러싼 견제 속 관계 변화",
+     "url": "https://www.jejutwn.com/news/article.html?no=464939",
+     "source": "제주교통복지신문"
+    },
+    {
+     "title": "‘욕망의 덫’ 67회, 장서희 돈 봉투 내밀었다…윤해영 도청 장치에 대화 녹음됐다",
+     "url": "https://www.wikitree.co.kr/articles/1178578",
+     "source": "위키트리"
+    }
+   ]
+  },
+  "서울역": {
+   "q": "서울역",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Sat, 28 Nov 2026 01:10:00 -0800",
+   "news": [
+    {
+     "title": "한국 여행 첫발 떼자마자 패닉에 빠졌다… 서울역, 외국인에겐 '거대한 미로' [최주연의 스포 주의]",
+     "url": "https://www.hankookilbo.com/news/article/A2026112613420001746",
+     "source": "한국일보"
+    },
+    {
+     "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925",
+     "source": "인천일보"
+    },
+    {
+     "title": "서울역 뒤편 -낡은 동네-의 반전…아파트 1만7천가구에 철길도 지하로 [부동산 심머니]",
+     "url": "https://re.mk.co.kr/news/news_detail.php?no=12218619",
+     "source": "매일경제"
+    }
+   ]
+  },
+  "제주공항": {
+   "q": "제주공항",
+   "traffic": 100,
+   "traffic_label": "100+",
+   "pub": "Sat, 28 Nov 2026 01:10:00 -0800",
+   "news": [
+    {
+     "title": "제주 강풍에 피해 잇따라…하늘길·뱃길도 차질",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8725188",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "제주시북부에 강풍경보…제주도산지에 대설주의보 유지",
+     "url": "https://www.yna.co.kr/view/AKR20261128045400527",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"제주 하늘길 어쩌나\"…강풍에 항공기 104편 결항·지연 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/28/2026112819132732688",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  "김용건": {
+   "q": "김용건",
+   "traffic": 1000,
+   "traffic_label": "1000+",
+   "pub": "Sat, 28 Nov 2026 01:00:00 -0800",
+   "news": [
+    {
+     "title": "이서진·한지민 티격태격 케미…‘그냥사람친구’, 5% 시청률로 출발",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12220642",
+     "source": "매일경제"
+    },
+    {
+     "title": "농담이라지만…이서진 “한지민 갱년기 앓는 듯” 발언 시끌",
+     "url": "https://www.donga.com/news/Culture/article/all/20261127/135106157/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "몬엑 주헌, 내돈내산 ‘운동화 6켤레’ 플렉스..박정수 “너무 좋아” (‘그사친’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/MIZTQZRVG43GKNZTHBSTIZJUG4/",
+     "source": "조선일보"
+    }
+   ]
   }
  },
- "updated": "2026-11-28 11:58"
+ "updated": "2026-11-28 21:27"
 }

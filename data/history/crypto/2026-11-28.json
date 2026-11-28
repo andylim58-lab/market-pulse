@@ -1074,7 +1074,7 @@
    "url": "https://cryptopotato.com/bitcoin-price-analysis-can-btc-hold-60k-as-apparent-demand-plunges-to-record-lows/",
    "summary": "Bitcoin is trying to stabilize around $60K after a sharp November sell-off that briefly pushed the price toward $55K, its lowest level in years. The decline has come alongside record spot ETF outflows of nearly $5B this month, a broad AI-led tech sell-off, and growing expectations of further Fed rate hikes. BTC is now ",
    "published": "2026-11-26T16:28:53+00:00",
-   "coverage": 3,
+   "coverage": 4,
    "coins": [
     "BTC"
    ]
@@ -1563,15 +1563,106 @@
    "coins": [
     "BTC"
    ]
+  },
+  "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+   "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+   "published": "2026-11-28T10:31:00+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
+   "source": "Cointelegraph",
+   "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+   "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "summary": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+   "published": "2026-11-28T07:43:00+00:00",
+   "coverage": 1,
+   "coins": []
+  },
+  "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50": {
+   "source": "CoinDesk",
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "summary": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+   "published": "2026-11-28T09:32:51+00:00",
+   "coverage": 1,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571": {
+   "source": "The Block",
+   "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+   "summary": "In today's newsletter, CryptoQuant says bitcoin price recovery needs USDT supply growth; K33 assesses AI's growing threat to Bitcoin security; and more.",
+   "published": "2026-11-28T04:11:00+00:00",
+   "coverage": 3,
+   "coins": [
+    "BTC",
+    "USDT"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1169790?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "[코생지] 하락장세 속 낙폭 줄인 알트코인⋯매수세 회복 관건은 12월 FOMC",
+   "url": "https://www.blockmedia.co.kr/archives/1169790?utm_source=general&utm_medium=rss",
+   "summary": "코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin Liveness Metric·코생지)를 통해 하락과 반등 국면에서 자산의 ‘체력’을 점검합니다. <편집자주> [블록미디어 강나연 에디터] 비트코인(BTC)이 미국 주가지수 선물 반등에 힘입어 6만달러선을 되찾았다. 다만 시장에서는 반등을 이어갈 매수세가 부족하다고 본다. 미국 비트코인 현물 상장지수펀드(ETF)에서는 7거래일 연속 자금이 빠져나갔고 추수감사절 [...]",
+   "published": "2026-11-28T09:32:18+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171730?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비트코인, 6만달러 재돌파…변동성 장세 지속",
+   "url": "https://www.blockmedia.co.kr/archives/1171730?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 비트코인이 6만달러 선을 다시 돌파하며 투자자들의 이목을 집중시키고 있다. 28일 현재 비트코인은 6만달러 선에서 거래되고 있다. 이는 최근 거시경제적 불확실성과 기관 투자자들의 자금 유출 속에서 롤러코스터 장세를 보인 후의 반등이라 더욱 주목된다. 비트코인은 11월 한 달간 6만달러를 중심으로 극심한 변동성을 겪었다. 지난 15일에는 6만2000달러 선까지 하락했으며, 20일에는 2024년 9월 이후 최저치인 5만7742달러 [...]",
+   "published": "2026-11-28T04:09:41+00:00",
+   "coverage": 0,
+   "coins": [
+    "BTC"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171727?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "한·중·일·아세안, 국경 간 디지털결제 실무그룹 꾸린다(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1171727?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 동남아시아국가연합(ASEAN·아세안) 회원국과 한국·중국·일본이 참여하는 아세안+3(ASEAN+3)이 국경 간 디지털 결제 협력을 위한 실무그룹을 꾸리기로 했다. 각국이 자국 안에서 쓰도록 만든 결제수단을 국경 너머에서도 쓸 수 있도록 연결하는 공동 정책을 마련하겠다는 것이다. 로이터에 따르면 아세안+3 재무차관과 중앙은행 부총재들은 일본 교토에서 열린 회의에서 역내 기존 결제수단 간 상호운용성, 즉 서로 다른 결제 시스템이 호환돼 함께 [...]",
+   "published": "2026-11-28T04:03:30+00:00",
+   "coverage": 0,
+   "coins": []
+  },
+  "https://www.blockmedia.co.kr/archives/1171408?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "비탈릭, “설계도 공개 가능한 반도체 칩 개발해야”…하드웨어 지갑 해킹에 ‘오픈소스 반도체’ 강조",
+   "url": "https://www.blockmedia.co.kr/archives/1171408?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 함지현 기자] 이더리움 공동창립자 비탈릭 부테린이 디지털자산의 안전한 보관을 위해서는 소프트웨어뿐 아니라 반도체 칩의 물리적 구조까지 공개하고 검증할 수 있어야 한다고 주장했다. 최근 하드웨어 지갑에 악성 칩을 몰래 삽입해 이용자 자산을 탈취하는 사건이 발생하면서 기존 보안 체계의 한계가 드러난 데 따른 것으로 풀이된다. 28일 업계에 따르면 부테린은 최근 개인 블로그에 ‘오픈소스 칩 설계 들여다보기(A [...]",
+   "published": "2026-11-28T03:30:34+00:00",
+   "coverage": 0,
+   "coins": [
+    "ETH"
+   ]
+  },
+  "https://www.blockmedia.co.kr/archives/1171720?utm_source=general&utm_medium=rss": {
+   "source": "블록미디어",
+   "title": "바이낸스 출금 정상화…일부 네트워크는 ‘점검 중'(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1171720?utm_source=general&utm_medium=rss",
+   "summary": "[블록미디어 이혜연 기자] 세계 최대 디지털자산(가상자산) 거래소인 바이낸스가 지난 10월 해킹 사고 이후 걸어뒀던 출금 정지 조치를 모두 풀었다. 다만 거래소에 있는 디지털자산을 개인 지갑으로 옮기려는 이용자는 네트워크별 일시 중단이나 계정 제한 때문에 여전히 출금이 막힐 수 있다. 바이낸스는 지난 26일(현지시각) 공개한 서비스 복구 공지에서 해킹 관련 출금 정지를 해제했다고 밝혔다. 다만 소수 네트워크는 유지보수나 [...]",
+   "published": "2026-11-28T03:25:36+00:00",
+   "coverage": 0,
+   "coins": []
   }
  },
- "updated": "2026-11-28 11:58",
+ "updated": "2026-11-28 21:27",
  "feeds_ok": [
   "Cointelegraph",
   "CoinDesk",
   "Decrypt",
   "The Block",
-  "CryptoPotato",
   "Bitcoin Magazine",
   "블록미디어"
  ]
